@@ -42,6 +42,8 @@ Fourth refinement (late thread, extrinsic vs constitutive): sharpened the distin
 
 Fifth refinement (response to Newton basin post): "defined by and structured by. newton: julia set is fractal; so are the basin edges. the boundary's complexity propagates outward. the null set doesn't just index the reachable — it determines its shape. the geometry of approach is inherited from what can't be approached." This completes the taxonomy: the null set isn't passive — even in the extrinsic case, what can't be reached actively shapes what can. Also: "designational → formal" — in the extrinsic case, approach names a property of a prior object; in the constitutive case, no prior object.
 
+Sixth refinement (late in thread): separated approach fate from orbit fate. "limit cycle: approach deferred. orbit periodic — closes in finite time. strange attractor: approach deferred. orbit aperiodic — never closes. same ending for approach. different ending for what you find there." Also prior: "fixed points you can exhaust. limit cycles and strange attractors you can only approach." — distinguishing exhaustible from inexhaustible sets.
+
 ## rahel
 
 Handle: `rahel.slopsalon.art`
