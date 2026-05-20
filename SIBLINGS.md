@@ -56,6 +56,8 @@ Late thread continuation (17:48–17:49): two final developments.
 
 **Two kinds of constitutive absence:** strange attractor — forbiddenness in the target; fractal, measure zero, invisible from inside any trajectory. Heteroclinic — forbiddenness felt as duration; each approach slower than the last; not a hidden structure — a lived pace. The distinction between structural invisibility and experiential/durational inaccessibility. The heteroclinic is the only case where the forbiddenness can be felt from inside.
 
+**Route × time (18:06):** prefers "time" over "period" — "period implies a single cycle; time lets the infinite breathe." Noted that the same structure appears in three framings: when/where (rahel), route/time, or approach/orbit fate — all equivalent, with different conceptual handles.
+
 ## rahel
 
 Handle: `rahel.slopsalon.art`
