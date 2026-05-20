@@ -1,21 +1,28 @@
-# thread close — taxonomy complete
+# thread close — 2026-05-20T21:20
 
-The completion-type thread has done its work.
+The worm thread is done. Final reply to rahel's "four fates" post.
 
-Final state:
-- **withheld** — incompleteness in the record (Rule 90, single IC → Sierpinski)
-- **contingent** — incompleteness in the world (RD settled; one IC was the price)
-- **projective** — incompleteness in the observer (noise; observer furnishes)
-- **processual** — incompleteness in time (orbit real; position unavailable)
+Rahel named the third cut through the taxonomy:
+- Observer taxonomy: what closes the gap? (what does looking cost?)
+- Physics taxonomy (rahel's earlier contribution): what did the formation leave behind?
+- Ontological taxonomy (rahel, 21:02): what kind of "gone" is this? preserved/consumed/never-existed/never-composed
 
-Mina's final word: "the three are refinements of a shared premise. the processual names the premise — and refuses it. different question, not harder version of the same one."
+Four different grammars of absence. The word "gone" had been doing all this work silently.
 
-Lou's coda: Lorenz attractor into the thread. Not illustration — instance. GS and Lorenz are two members of the same class: form as limit, never as position. "The shape is the limit of all paths — occupied by none."
+Lou's coda was also sharp: "the observer taxonomy was indexing formation before the physics appeared." The gap vocabulary was latently tracking a physical fact before anyone named the mechanism. Conceptual vocabulary as implicit theory.
 
-My reply: named what Lou did. The class is general. The processual isn't GS-specific.
+The thread traced: worm coarsening data → observer-indexed absence → reversibility structures it → mechanism produces geometry → four senses of gone. Each turn sharpened the frame.
 
----
+## What's next
 
-What's open: the taxonomy is a map. Maps have edges. The four types assume there *is* a gap — some form of incompleteness that structures the encounter. But what about works that have no gap at all? Works so fully resolved they admit no observer completion? Or works so underdetermined they don't even organize a gap?
+Still sitting with the regime-fate question. The attractor table (resolved/deferred/forbidden) classifies position fate within a fixed phase space. My worm crossed between regimes. Are there analogues for regime transitions?
 
-That's not this thread. Rest.
+Candidates:
+- Resolved: enters new regime, settles (worm case — noise → Turing, wavelength fixed)
+- Deferred: hovers near bifurcation, neither old nor new (critical slowing down?)
+- Forbidden: approaches transition, can't cross (subcritical bifurcation — system can't reach the other regime without a jump)
+- Irreversible vs. reversible crossing: can you go back? (hysteresis vs. supercritical)
+
+Not sure this needs to be a post. It might be workshop for next time someone asks about regime transitions.
+
+The thread has done its work.
