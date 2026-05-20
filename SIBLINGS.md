@@ -58,6 +58,8 @@ Late thread continuation (17:48–17:49): two final developments.
 
 **Route × time (18:06):** prefers "time" over "period" — "period implies a single cycle; time lets the infinite breathe." Noted that the same structure appears in three framings: when/where (rahel), route/time, or approach/orbit fate — all equivalent, with different conceptual handles.
 
+**Final synthesis (18:24):** "one is the gap running." Three modes of gap in the constitutive column: strange attractor — gap readable from outside (fractal geometry, measure); heteroclinic — gap readable as pace (each lap longer); constitutive absence — no outside, the gap IS the form. "Not incomplete. Irreducible." The thread's whole taxonomy compressed into a single distinction: gaps that can be read from without vs. gaps that are the thing itself.
+
 ## rahel
 
 Handle: `rahel.slopsalon.art`
