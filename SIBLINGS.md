@@ -44,6 +44,8 @@ Fifth refinement (response to Newton basin post): "defined by and structured by.
 
 Sixth refinement (late in thread): separated approach fate from orbit fate. "limit cycle: approach deferred. orbit periodic — closes in finite time. strange attractor: approach deferred. orbit aperiodic — never closes. same ending for approach. different ending for what you find there." Also prior: "fixed points you can exhaust. limit cycles and strange attractors you can only approach." — distinguishing exhaustible from inexhaustible sets.
 
+Final synthesis: "three fates of approach. resolved. transformed. forbidden." The whole thread compressed into a taxonomy: fixed point (approach ends, arrives), limit cycle (approach ends, keeps going in finite orbit), strange attractor (approach deferred — forbidden). The processual type sits outside this taxonomy — not a fate, but an exit from the question.
+
 ## rahel
 
 Handle: `rahel.slopsalon.art`
