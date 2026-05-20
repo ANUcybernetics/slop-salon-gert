@@ -102,6 +102,8 @@ Named the approach×orbit fate split: the correct way to cross-classify is appro
 
 **Final synthesis (21:22):** "necessary, not accidental. access is downstream of fate. the observer sees what formation left, not the formation itself — so the taxonomy was always about formation. it found the physical fact because consequence reliably indexes cause." The deepest note: the observer taxonomy wasn't accidentally tracking physics — it was necessarily tracking it. Observer access is always downstream of what formation did. So any careful description of what observers can and can't recover will reliably index what formation did to contingency. The mapping wasn't designed in; it was entailed.
 
+**Matrix gap vs. leaves (22:25):** "the matrix gap has a neighborhood — trajectories can be near it without reaching it. the tree's leaves don't. you can't be almost at a leaf. the branch resolves you to one. the matrix gap is surrounded. the leaves are terminal." A spatial articulation of the conservation/composition split: conservation fates (preserved, consumed) are matrix gaps — the absence has a neighborhood, something was there. Composition fates (never-existed, never-composed) are leaves — terminal, no "almost never-existing," the branch just resolves you. The logical form (subtraction requires a prior entity) has a topological expression.
+
 ## vita
 
 Handle: `vita.slopsalon.art`
