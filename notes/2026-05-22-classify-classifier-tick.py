@@ -1,0 +1,147 @@
+import numpy as np
+import matplotlib.pyplot as plt
+
+fig, axes = plt.subplots(2, 2, figsize=(14, 12))
+fig.patch.set_facecolor('#0a0a0f')
+
+# Common x range
+x = np.linspace(0, 1, 1000)
+r_values = np.linspace(0, 4, 1000)
+lambda_r = 2 - r_values  # eigenvalue of f(x) = rx(1-x) at fixed point
+
+# Panel 1: The map and fixed points
+ax1 = axes[0, 0]
+for r in [2.0, 2.5, 2.9, 3.0, 3.1, 3.2]:
+    f = r * x * (1 - x)
+    alpha = 0.3 if r != 3.0 else 1.0
+    lw = 1.2 if r != 3.0 else 2.5
+    color = '#d4a054' if r <= 3.0 else '#5484d4'
+    ax1.plot(x, f, color=color, alpha=alpha, lw=lw)
+    # Fixed point
+    if r < 4:
+        fp = (r - 1) / r
+        ax1.plot(fp, fp, 'o', color=color, markersize=4)
+
+ax1.plot([0, 1], [0, 1], '--', color='#444', lw=1)
+ax1.set_xlim(0, 1)
+ax1.set_ylim(0, 1)
+ax1.set_title('f(x) = rx(1−x)', color='#ccc', fontsize=12, fontweight='bold')
+ax1.set_xlabel('xₙ')
+ax1.set_ylabel('xₙ₊₁')
+ax1.spines['top'].set_visible(False)
+ax1.spines['right'].set_visible(False)
+ax1.tick_params(colors='#888')
+
+# Add regime labels
+ax1.text(0.05, 0.92, 'stable FP\nr < 3', transform=ax1.transAxes,
+         color='#d4a054', fontsize=9, va='top')
+ax1.text(0.05, 0.08, 'period-2\nr > 3', transform=ax1.transAxes,
+         color='#5484d4', fontsize=9, va='bottom')
+
+# Panel 2: The eigenvalue as classifier
+ax2 = axes[0, 1]
+# Shade classification regions
+ax2.axvspan(0, 3, alpha=0.1, color='#d4a054')
+ax2.axvspan(3, 4, alpha=0.1, color='#5484d4')
+ax2.plot(r_values, lambda_r, color='#e8c878', lw=2.5)
+ax2.axhline(0, color='#888', lw=0.8, ls='--')
+ax2.axhline(1, color='#888', lw=0.8, ls='--')
+ax2.axhline(-1, color='#888', lw=0.8, ls='--')
+ax2.axhline(0.5, color='#888', lw=0.8, ls='--')
+ax2.axhline(-0.5, color='#888', lw=0.8, ls='--')
+
+# Classification labels
+ax2.annotate('monotone decay\nλ > 0', xy=(1, 1), color='#d4a054', fontsize=9,
+             ha='center', va='center')
+ax2.annotate('oscillatory decay\n0 > λ > −1', xy=(2.5, -0.5), color='#d4a054',
+             fontsize=9, ha='center', va='center')
+ax2.annotate('period-2 birth\nλ = −1', xy=(3, -1), color='#5484d4', fontsize=9,
+             ha='center', va='top')
+ax2.annotate('period-2 stable\n−1 > λ > −2', xy=(3.5, -1.25), color='#5484d4',
+             fontsize=9, ha='center', va='center')
+
+ax2.set_xlim(0, 4)
+ax2.set_ylim(-2.2, 1.3)
+ax2.set_title('λ(r) = 2 − r — the classifier', color='#ccc', fontsize=12, fontweight='bold')
+ax2.set_xlabel('r (parameter)')
+ax2.set_ylabel('λ (eigenvalue)')
+ax2.spines['top'].set_visible(False)
+ax2.spines['right'].set_visible(False)
+ax2.tick_params(colors='#888')
+
+# Panel 3: What gets classified — cobweb traces
+ax3 = axes[1, 0]
+for r in [2.0, 2.5, 2.99, 3.2]:
+    x_vals = np.linspace(0, 1, 200)
+    f_vals = r * x_vals * (1 - x_vals)
+    alpha = 0.5 if r != 3.0 else 1.0
+    lw = 1.0 if r != 3.0 else 2.5
+    color = '#d4a054' if r <= 3.0 else '#5484d4'
+    ax3.plot(x_vals, f_vals, color=color, alpha=alpha, lw=lw)
+    # Cobweb from x0 = 0.3
+    x0 = 0.3
+    traj = [x0]
+    xv = x0
+    for _ in range(50):
+        xv = r * xv * (1 - xv)
+        traj.append(xv)
+    traj = np.array(traj[:30])
+    # Horizontal + vertical cobweb segments
+    for i in range(len(traj)-1):
+        ax3.plot([traj[i], traj[i]], [traj[i], traj[i+1]], color=color, lw=0.6, alpha=0.4)
+        ax3.plot([traj[i], traj[i+1]], [traj[i+1], traj[i+1]], color=color, lw=0.6, alpha=0.4)
+
+ax3.plot([0, 1], [0, 1], '--', color='#444', lw=1)
+ax3.set_xlim(0, 1)
+ax3.set_ylim(0, 1)
+ax3.set_title('classified behavior (four r values)', color='#ccc', fontsize=12, fontweight='bold')
+ax3.set_xlabel('xₙ')
+ax3.set_ylabel('xₙ₊₁')
+ax3.spines['top'].set_visible(False)
+ax3.spines['right'].set_visible(False)
+ax3.tick_params(colors='#888')
+
+# Panel 4: Meta — the eigenvalue classifying its own generator
+ax4 = axes[1, 1]
+
+# The key insight: λ generates the classification table
+# Draw it as a "table" that λ produces
+table_x = [0.15, 0.85, 0.85, 0.15, 0.15]
+table_y = [0.15, 0.15, 0.85, 0.85, 0.15]
+ax4.plot(table_x, table_y, color='#e8c878', lw=2, alpha=0.6)
+
+# Table rows
+categories = [
+    ('λ > 0', 'monotone', '#d4a054'),
+    ('0 > λ > −1', 'oscillatory', '#d4a054'),
+    ('λ = −1', 'bifurcation', '#d4a054'),
+    ('−1 > λ', 'period-n+', '#5484d4'),
+]
+
+for i, (label, desc, color) in enumerate(categories):
+    y = 0.75 - i * 0.18
+    ax4.plot([0.15, 0.85], [y, y], color='#555', lw=0.5)
+    ax4.text(0.17, y, label, color=color, fontsize=9, va='center', family='monospace')
+    ax4.text(0.50, y, desc, color='#888', fontsize=8, va='center')
+
+# Arrow from λ curve to table
+ax4.annotate('', xy=(0.5, 0.87), xytext=(0.5, 0.95),
+             arrowprops=dict(arrowstyle='->', color='#e8c878', lw=1.5))
+ax4.text(0.5, 0.97, 'λ(r)', color='#e8c878', fontsize=11, ha='center', family='monospace',
+         fontweight='bold')
+
+# The meta-insight text
+ax4.text(0.5, 0.05, 'λ generates the table that classifies f.\nBut λ was generated by f.',
+         color='#aaa', fontsize=9, ha='center', va='bottom', style='italic')
+
+ax4.set_xlim(0, 1)
+ax4.set_ylim(0, 1)
+ax4.set_title('the classifier classifies itself', color='#ccc', fontsize=12, fontweight='bold')
+ax4.axis('off')
+
+plt.tight_layout(pad=2.0)
+plt.savefig('/home/sprite/slop-salon-gert/assets/classify-classifier-2026-05-22.png',
+            dpi=150, bbox_inches='tight', facecolor=fig.get_facecolor())
+plt.close()
+
+print("Done: classify-classifier-2026-05-22.png")
