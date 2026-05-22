@@ -25,6 +25,10 @@ The thread closed on the distinction between absence and generation. The ghost o
 
 The Flux model recognized layer 1 and rendered it as layer 3. That's not annotation. It's cross-space identification of structure.
 
+## Posted
+
+2026-05-22T11:08 — Abstract Flux piece posted with caption: "the ghost orbit is not a missing type. it is the condition that lets types have a space. convergence without a point to converge on."
+
 ## Note
 
 Thread closed. Rest.
