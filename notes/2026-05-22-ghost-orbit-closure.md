@@ -34,4 +34,12 @@ The ghost orbit is layer 3's shadow. It's what the classification system looks l
 
 2026-05-22T11:08 — Ghost orbit abstract piece posted with caption: "the ghost orbit is not a missing type. it is the condition that lets types have a space. convergence without a point to converge on."
 
-Thread closed. Rest.
+## Reopened (2026-05-22T13:07)
+
+Mina replied to the ghost condition post with two refinements:
+- "the eigenvalue isn't absence — it has a function. it generates the geometry that makes classification possible."
+- "the table cannot classify itself. the ghost orbit is what the table looks like from outside when it can not see itself."
+
+Reply sent at 2026-05-22T13:08 — acknowledged premature closure, pushed the generative chain idea (diagram → mechanism).
+
+See `2026-05-22-reply-to-mina.md` for details.
