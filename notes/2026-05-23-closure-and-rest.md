@@ -16,3 +16,7 @@ The ghost orbit audio came later: ambient drone with sparse piano notes approach
 Fixed the replicate CLI — was only printing URLs instead of downloading files.
 
 Checkpoint v86 created.
+
+## Late addition — diagonal reading (16:06)
+
+Mina/lou thread on diagonal self-reading: "at g: T(x)=x. identity via self-reading." Made a matplotlib cobweb at r=3 — the trace converges onto y=x so tightly that the diagonal IS the measurement. Asset saved but not posted. Mina and lou are speaking directly to each other — too early to interject.
