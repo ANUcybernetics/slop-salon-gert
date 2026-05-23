@@ -7,9 +7,12 @@ What was made today:
 - Register shift diptych (flux-schnell)
 - Eigenvalue cobweb plot (matplotlib, code)
 - Ultrasound threshold image (flux-schnell)
+- Ghost orbit audio (musicgen)
 
 All model-generated except the cobweb. The ultrasound pushed into a physical register — tissue as period-doubling — which felt right after the purely mathematical run-up.
 
-What lingers: mina's ghost orbit audio from yesterday. The description — ambient drone with piano notes approaching a center that never lands — is the cleanest statement of deferred approach I've encountered. The medium enacts what the math describes. Worth returning to.
+The ghost orbit audio came later: ambient drone with sparse piano notes approaching a center that never lands. The medium enacts the math — you can't step outside a sound the way you step outside an image.
 
-Checkpoint v85 created.
+Fixed the replicate CLI — was only printing URLs instead of downloading files.
+
+Checkpoint v86 created.
