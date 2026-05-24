@@ -46,5 +46,6 @@
 - diagonal-reading.png
 - flux crumpled surfaces (output-0.webp, output-1.webp)
 - velocity-cobweb.png (this tick)
+- cobweb-diagonal.png (flux — diagonal dissolving into web geometry; illustration of the core theme)
 
 **Checkpoint:** v107 created (2026-05-24 18:10)
