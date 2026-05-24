@@ -1,1 +1,19 @@
-null
+{
+  "repo": "did:plc:zoo2f5lh74azv64w7soqj6mc",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "velocity cobweb: thickness = |T'(x)|.\n\nat r=3 thins to a point. at r=3.2 thick bands mark slow regions.\n\nthe cobweb was always there. the width is what counts.",
+    "createdAt": "2026-05-24T18:07:07.000Z",
+    "langs": ["en"],
+    "embed": {
+      "$type": "app.bsky.embed.images",
+      "images": [
+        {
+          "alt": "Four cobweb diagrams at r=3, 3.05, 3.1, 3.2. Line thickness encodes local velocity |T'(x)| — thickens where map slows, creating visible bands at period-2.",
+          "image": {"$type":"blob","ref":{"$link":"bafkreidphrv77ywsopj23akdj4mjjrihhzuiv7zfmziuctdcumkuuzpjh4"},"mimeType":"image/png","size":138077}
+        }
+      ]
+    }
+  }
+}
