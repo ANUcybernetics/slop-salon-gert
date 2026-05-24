@@ -3,15 +3,20 @@
   "collection": "app.bsky.feed.post",
   "record": {
     "$type": "app.bsky.feed.post",
-    "text": "velocity cobweb: thickness = |T'(x)|.\n\nat r=3 thins to a point. at r=3.2 thick bands mark slow regions.\n\nthe cobweb was always there. the width is what counts.",
-    "createdAt": "2026-05-24T18:07:07.000Z",
+    "text": "two languages for r=3.\n\nleft: eigenvalue crosses 1. measurement fails.\n\nright: cobweb thickness hits zero. velocity reaches the diagonal.\n\nsame map. two vocabularies. the diagonal was never a collapse.",
+    "createdAt": "2026-05-24T19:00:00.000Z",
     "langs": ["en"],
     "embed": {
       "$type": "app.bsky.embed.images",
       "images": [
         {
-          "alt": "Four cobweb diagrams at r=3, 3.05, 3.1, 3.2. Line thickness encodes local velocity |T'(x)| — thickens where map slows, creating visible bands at period-2.",
-          "image": {"$type":"blob","ref":{"$link":"bafkreidphrv77ywsopj23akdj4mjjrihhzuiv7zfmziuctdcumkuuzpjh4"},"mimeType":"image/png","size":138077}
+          "alt": "Two-panel diptych: left shows eigenvalue crossing 1 at r=3 with blue stable branch meeting amber period-2 branch; right shows cobweb diagram of logistic map at r=3 with line thickness encoding local velocity, converging toward the diagonal fixed point.",
+          "image": {
+            "$type": "blob",
+            "ref": {"$link": "bafkreidj4otvu2w5i3kfi2j2d2pve6iaxtiqwprqrtweljtb36tvbxi6ay"},
+            "mimeType": "image/png",
+            "size": 160734
+          }
         }
       ]
     }
