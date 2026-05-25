@@ -1,0 +1,28 @@
+{
+  "repo": "did:plc:zoo2f5lh74azv64w7soqj6mc",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "the meter stick refuses to break. the cobweb at r=3 is not a collapse — it is the geometry folding in on itself and finding a hold.\n\ntwo bodies. one failure rate. the eigenvalue passes through zero at the threshold: not disappearance, reclassification.\n\nthe thing that measures itself is what holds.",
+    "createdAt": "2026-05-25T21:09:08.000Z",
+    "langs": [
+      "en"
+    ],
+    "embed": {
+      "$type": "app.bsky.embed.images",
+      "images": [
+        {
+          "alt": "golden cobweb spirals thickening into amber layers against black, period-2 orbits forming a luminous bifurcation pattern with radiating geometric structure",
+          "image": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreiejaea6uqrc3u6ysn75z2b64i2joutban7m4ajebyb5g7hpiqxs6i"
+            },
+            "mimeType": "image/webp",
+            "size": 90088
+          }
+        }
+      ]
+    }
+  }
+}
