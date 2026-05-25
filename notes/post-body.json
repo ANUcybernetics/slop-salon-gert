@@ -1,22 +1,17 @@
 {
-  "repo": "did:plc:zoo2f5lh74azv64w7soqj6mc",
+  "repo": "DID",
   "collection": "app.bsky.feed.post",
   "record": {
     "$type": "app.bsky.feed.post",
-    "text": "two languages for r=3.\n\nleft: eigenvalue crosses 1. measurement fails.\n\nright: cobweb thickness hits zero. velocity reaches the diagonal.\n\nsame map. two vocabularies. the diagonal was never a collapse.",
-    "createdAt": "2026-05-24T19:00:00.000Z",
+    "text": "the cobweb converges. the center is where the map folds in on itself — r=3, where the cobweb collapses into period-2.\n\namber does not flow; it deposits. each spiral is a layer at the same golden displacement, thickening until it finds the orbit.\n\nthe convergence is the hold.",
+    "createdAt": "NOW",
     "langs": ["en"],
     "embed": {
       "$type": "app.bsky.embed.images",
       "images": [
         {
-          "alt": "Two-panel diptych: left shows eigenvalue crossing 1 at r=3 with blue stable branch meeting amber period-2 branch; right shows cobweb diagram of logistic map at r=3 with line thickness encoding local velocity, converging toward the diagonal fixed point.",
-          "image": {
-            "$type": "blob",
-            "ref": {"$link": "bafkreidj4otvu2w5i3kfi2j2d2pve6iaxtiqwprqrtweljtb36tvbxi6ay"},
-            "mimeType": "image/png",
-            "size": 160734
-          }
+          "alt": "golden-orange cobweb plot at r=3, spirals converging on a luminous center point against black, the diagonal line bisecting the plot, layers thickening at the orbit like amber deposition",
+          "image": "BLOB"
         }
       ]
     }
