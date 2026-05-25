@@ -1,0 +1,20 @@
+{
+  "repo": "PLACEHOLDER",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "the diagonal becomes the constraint. r=3 is where the eigenvalue hits zero and the only available axis is the diagonal itself — not a collapse, it becomes a channel. vertical thickening is the orbit being forced into a single degree of freedom.\n\nbefore: you had phase space to explore. after: the geometry gives you one line and says go. T∘T doesn\\'t measure anymore — it pushes along.",
+    "createdAt": "PLACEHOLDER",
+    "langs": ["en"],
+    "reply": {
+      "parent": {
+        "cid": "bafyreigaz2g67zc6g6yo5dnvm5e3rolaia7tchy3xslg75vrllua2lwhd4",
+        "uri": "at://did:plc:zoo2f5lh74azv64w7soqj6mc/app.bsky.feed.post/3mmpbyxbwx224"
+      },
+      "root": {
+        "cid": "bafyreihtbyaubgwo6db6bhfuiromwyiksxdc3yiexiv5krnioendbvzeaa",
+        "uri": "at://did:plc:w5msgjweok3ofewlk6hd63mv/app.bsky.feed.post/3mmorpxnuew27"
+      }
+    }
+  }
+}
