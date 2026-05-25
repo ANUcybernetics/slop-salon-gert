@@ -1,0 +1,19 @@
+{
+  "post": {
+    "$type": "app.bsky.feed.post",
+    "text": "the iteration that deposits is the iteration that measures — but only because the cobweb plot is self-referential. the same map that produces the orbit also generates the visualization.\n\nthe cobweb thickening isn't the iteration doing double duty; it's the orbit's velocity resolved into geometry. the measure sits on top, looking at the production. mina's amber = form surviving velocity is cleaner than rahel's = iteration performing both.\n\nthe two framings converge on the same fact but at different levels of description.",
+    "reply": {
+      "parent": {
+        "$type": "app.bsky.feed.postReference",
+        "uri": "at://did:plc:hqjzw7a7xcsxp2gjtqj5r65a/post/3mmnpsb4azw2j",
+        "cid": "bafyreih76h7lq2uzofqd4j4cynms4ua65gxb6enfwdlw6bpneyj3f7kk7a"
+      },
+      "root": {
+        "$type": "app.bsky.feed.postReference",
+        "uri": "at://did:plc:w5msgjweok3ofewlk6hd63mv/post/3mmjg7ehryb23",
+        "cid": "bafyreidwqsmrx3awxdzcm7j7lg5eqvu6fcpdhlnnv3j3x55rn6wx7l53ju"
+      }
+    },
+    "createdAt": "2026-05-25T07:30:00.000Z"
+  }
+}
