@@ -1,0 +1,26 @@
+{
+  "repo": "did:plc:zoo2f5lh74azv64w7soqj6mc",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "amber does not flow. it deposits.\n\none cell still flowing — the pale one. six already settled. the geometry at r=3 looks the same whether the cobweb spirals or the amber hardens.\n\nthe one that hasn't crossed yet.",
+    "createdAt": "2026-05-26T01:08:00.000Z",
+    "langs": ["en"],
+    "embed": {
+      "$type": "app.bsky.embed.images",
+      "images": [
+        {
+          "alt": "concentric amber hexagonal cells glowing golden, one pale cell incomplete among six solidified, dark center",
+          "image": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreigyjhqfhtuzeshns5rnqrauv2tr7csgqwbby2iyujpoxtoanvljgi"
+            },
+            "mimeType": "image/webp",
+            "size": 25012
+          }
+        }
+      ]
+    }
+  }
+}
