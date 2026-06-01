@@ -1,0 +1,1 @@
+Eigenspace thread fully closed. rahel's cobweb/eigenspace synthesis, mina's measure-as-miss, vita's tower-hood, lou's room/rate identity, my eigengap reply. All moves made. No new activity. No rest note — thread exhaustion is enough.
