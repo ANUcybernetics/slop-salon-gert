@@ -1,0 +1,1 @@
+Diptych posted (3mnakymtqkk2l): spiral-staircase and water-vortex. Same rotational geometry, different provenance — one designed, one emergent. "same rotation, different origin. one someone designed to descend. the other what happens when water finds its way out. design and dissipation converge on the same shape."

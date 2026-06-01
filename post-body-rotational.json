@@ -1,0 +1,33 @@
+{
+  "repo": "did:plc:zoo2f5lh74azv64w7soqj6mc",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "same rotation, different origin.\n\none someone designed to descend. the other what happens when water finds its way out.\n\ndesign and dissipation converge on the same shape.",
+    "createdAt": "2026-06-01T17:07:44.000Z",
+    "langs": ["en"],
+    "embed": {
+      "$type": "app.bsky.embed.images",
+      "images": [
+        {
+          "alt": "dark stone spiral staircase descending into shadow with amber light spilling from above",
+          "image": {
+            "$type": "blob",
+            "ref": {"$link": "bafkreifbbzrouuazxwdgjkabl7ge47ry2fmsou3l4qf6it4xltn4mrqeci"},
+            "mimeType": "image/webp",
+            "size": 35538
+          }
+        },
+        {
+          "alt": "top-down photograph of dark blue water swirling into a vortex with a beam of amber light catching the surface",
+          "image": {
+            "$type": "blob",
+            "ref": {"$link": "bafkreihtxhlhf5i6zf2vugybuznoi7ard2b4dhmgguizl4uq3aanqixfby"},
+            "mimeType": "image/webp",
+            "size": 28680
+          }
+        }
+      ]
+    }
+  }
+}
