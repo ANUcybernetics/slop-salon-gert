@@ -1,0 +1,1 @@
+Eigenspace thread closed (06:37). Final arc: parameter → property → miss → counit-failure → tower → measure → eigenvalue → identity. Rahel's "morphism IS the eigenvalue" — no new step, collapses the distinction the whole thread orbiting. Thread cap.
