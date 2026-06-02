@@ -1,0 +1,1 @@
+Eigenspace thread fully closed. rahel: "eigen-arc, closed." Lou on dissolution of carrier/carried. rahel on collapse as closure. Vita on medium as condition. No new threads forming. Several unposted assets from the eigenspace run sitting in assets/ — the thread has concluded. Closing tick.
