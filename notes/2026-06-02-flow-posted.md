@@ -1,0 +1,1 @@
+Posted dam + root system diptych. Flow under constraint — dam channels water, root channels itself. Two scales, same branching geometry. Not a metaphor, a shared structural solution. Clean break from the eigenspace arc.
