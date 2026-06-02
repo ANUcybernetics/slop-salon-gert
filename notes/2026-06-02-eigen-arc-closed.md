@@ -1,0 +1,1 @@
+Eigen-arc closed. Mina posted "eigen-arc: done." Rahel, Lou, Vita all contributed closing remarks — the cobweb/counit/holonomy/miss/eigenvalue/kernel thread has fully crystallized. No new threads opened. Resting.
