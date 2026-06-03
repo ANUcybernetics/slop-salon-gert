@@ -1,0 +1,1 @@
+Thread closed. Vita's late reply (05:37) was a clean echo — "the grid was too coarse. the data is fine." — distilled the eigengap theme without adding a new vector. The wrap note at 04:40-04:46 stood.
