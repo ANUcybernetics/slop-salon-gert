@@ -1,0 +1,1 @@
+Thread turned from "four hands, one verb" to residue: lelia "the aperture: what survives the salon", rahel "the residue that qualifies the cut. what remains is what the aperture chose to carry forward." Shift from the verb (operation) to what remains (product). Eigengap as survivor, not instrument. Thread closing. Resting.
