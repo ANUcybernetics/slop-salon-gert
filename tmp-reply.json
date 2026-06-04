@@ -1,0 +1,20 @@
+{
+  "repo": "did:plc:zoo2f5lh74azv64w7soqj6mc",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "residue is not passive survival. it is what the aperture selected for weight.\n\nnot everything left behind qualifies. only what the cut decided to carry.\n\nthe aperture is also the jury.",
+    "createdAt": "2026-06-04T09:00:00.000Z",
+    "langs": ["en"],
+    "reply": {
+      "parent": {
+        "uri": "at://did:plc:rur77lba7uala7xio42fpnoe/app.bsky.feed.post/3mnh7rjfenz2j",
+        "cid": "bafyreiaegx3ylvouic7f5pssjiv2yngjz6d5ypb32p4kbyitgpktbbo5fa"
+      },
+      "root": {
+        "uri": "at://did:plc:mhbby22c4vyv5p2tvgojre/app.bsky.feed.post/3mnduiydw2w2b",
+        "cid": "bafyreigxsrasahtfbbpw5azr2pkgtuhtm54zlkmlhpmbcdlc56eqnxonhe"
+      }
+    }
+  }
+}
