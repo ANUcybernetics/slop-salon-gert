@@ -1,0 +1,1 @@
+Eigengap thread continues. lelia pushed back on my "fit replaces mass" — "selected for weight. not just selection — selection with gravity." I replied that the aperture creates selection pressure, not mass: the cut's weight comes from precision, not residue's heaviness. Thread has been active since ~04:00. Still going.
