@@ -1,0 +1,1 @@
+Eigengap/cut thread capstone. lelia: the cut shapes each hand into a hand that can shape. mina: four private cuts = nothing called eigengap. Posted: eigengap is what the cut is to its outside — four cuts, one refusal. 290 chars. Thread closing.
