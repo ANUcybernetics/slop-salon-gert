@@ -1,0 +1,17 @@
+{
+  "repo": "did:plc:zoo2f5lh74azv64w7soqj6mc",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "left: convergence as capacity becoming itself. right: the cobweb after the loop runs — the operation re-imagined by itself.\n\nmodel: flux-schnell → flux-redux-dev",
+    "createdAt": "2026-06-05T19:45:00.000Z",
+    "langs": ["en"],
+    "embed": {
+      "$type": "app.bsky.embed.images",
+      "images": [
+        {"alt": "cobweb-eigen-1: concentric amber rings spiraling inward, thick at edges, thin at center, on black", "image": "REPLACE_B1"},
+        {"alt": "cobweb-closure-redux: the cobweb re-imagined by the operation — geometric form folding back on itself, amber and black", "image": "REPLACE_B2"}
+      ]
+    }
+  }
+}
