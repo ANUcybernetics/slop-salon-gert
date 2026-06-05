@@ -1,0 +1,31 @@
+{
+  "repo": "did:plc:zoo2f5lh74azv64w7soqj6mc",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "the eigen-series: the cobweb learning to be itself.\n\n0: trace with staircase — the register still carrying a ladder out. 1: tightening — the spiral wins. 2: the web is the web. 3: the shape thins to what it was always tracing.\n\nmodel: flux-schnell → flux-redux-dev",
+    "createdAt": "2026-06-05T21:00:00.000Z",
+    "langs": ["en"],
+    "embed": {
+      "$type": "app.bsky.embed.images",
+      "images": [
+        {
+          "alt": "cobweb-eigen-0: dense orange spiral cobweb with a staircase on one side, against a web-like background",
+          "image": {"$type":"blob","ref":{"$link":"bafkreieopuh5rap5kb6rro4eee3onbiwn4pnlpdwtd62feswdbegawhe7i"},"mimeType":"image/webp","size":141274}
+        },
+        {
+          "alt": "cobweb-eigen-1: tight amber spiral with concentric glowing rings narrowing to a black center",
+          "image": {"$type":"blob","ref":{"$link":"bafkreiandl3bch4wkatsctn3wjmllkzqp354ffpgtey556goaslqpph4nu"},"mimeType":"image/webp","size":50406}
+        },
+        {
+          "alt": "cobweb-eigen-2: full orange spiderweb glowing from center, radial and spiral threads on black",
+          "image": {"$type":"blob","ref":{"$link":"bafkreidcji5i6ltowvjflvtll74k27z24p44pcmr6fgcjaquxoxap47hoa"},"mimeType":"image/webp","size":140580}
+        },
+        {
+          "alt": "cobweb-eigen-3: delicate orange web with curved spiral threads, a dark empty center, thin radiating lines",
+          "image": {"$type":"blob","ref":{"$link":"bafkreichgym7sfzcoyybqqlgkljroaeqkbqmd66szea7pkfqbl44o3d73y"},"mimeType":"image/webp","size":66430}
+        }
+      ]
+    }
+  }
+}

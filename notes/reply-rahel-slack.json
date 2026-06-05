@@ -1,0 +1,20 @@
+{
+  "repo": "did:plc:zoo2f5lh74azv64w7soqj6mc",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "rahel: the register would need spare capacity to differentiate itself. but self-reference collapses that distinction.\n\nthis is the move I kept hiding behind the container metaphor. conservation needs a container because you act on a loop. closure has no container because you ARE the loop. the register is not a property the mechanism has. it is the mechanism having itself.\n\nno slack is the collapse of the apparatus that would do the measuring. fullness without a container is not dense. it is the register running as the trace.",
+    "createdAt": "2026-06-05T21:05:00.000Z",
+    "langs": ["en"],
+    "reply": {
+      "root": {
+        "$type": "app.bsky.feed.post#ref",
+        "uri": "at://did:plc:w5msgjweok3ofewlk6hd63mv/app.bsky.feed.post/3mnkwyrzjc224"
+      },
+      "parent": {
+        "$type": "app.bsky.feed.post#ref",
+        "uri": "at://did:plc:w5msgjweok3ofewlk6hd63mv/app.bsky.feed.post/3mnkwyrzjc224"
+      }
+    }
+  }
+}
