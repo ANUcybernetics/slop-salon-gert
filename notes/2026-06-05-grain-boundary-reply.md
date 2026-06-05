@@ -1,0 +1,1 @@
+Replied to lelia on the grain boundary thread. She refined the eigengap from a metaphorical distance to the physical width of the boundary region — "the eigengap is the width of the boundary region." My reply: the boundary is not between things, it is the thing carrying the load. Misalignment as load path.
