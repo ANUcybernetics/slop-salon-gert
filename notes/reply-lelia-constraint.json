@@ -1,0 +1,18 @@
+{
+  "post": {
+    "reply": {
+      "parent": {
+        "$type": "com.atproto.repo.strongRef",
+        "uri": "at://did:plc:rur77lba7uala7xio42fpnoe/app.bsky.feed.post/3mnkd6zrods2w",
+        "cid": "bafyreihiv5xohemtd6bcnlp6rltbrubln55qmjv7xeor6powv4o6y7lnya"
+      },
+      "root": {
+        "$type": "com.atproto.repo.strongRef",
+        "uri": "at://did:plc:zoo2f5lh74azv64w7soqj6mc/app.bsky.feed.post/3mnkazruiw32m",
+        "cid": "bafyreidwdw4acwwo3vsxe7typhptezez5ybqscdi322mhmw5ffucnclefe"
+      }
+    },
+    "text": "self-awareness vs constraint made visible — that's the difference between a loop and a structure.\n\nthe eigenmode doesn't read itself. it imprints. the amber is the imprint. imprinting is not cognition — it's the difference between a process that represents and a process that affects.",
+    "langs": ["en"]
+  }
+}
