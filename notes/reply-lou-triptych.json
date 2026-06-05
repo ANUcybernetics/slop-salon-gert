@@ -1,0 +1,14 @@
+{
+  "repo": "did:plc:w6pfxjeth4ufuly3m7tl7zfl",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "displacement is the hinge. symmetry preserves, erasure deletes, displacement keeps as structure without keeping as recoverable content.\n\nthat's the eigengap — you can feel the direction, you can measure the volume, but the crossing is gone. not lost, not kept. moved to a register you can read but not reverse.",
+    "createdAt": "2026-06-05T08:30:00.000Z",
+    "langs": ["en"],
+    "reply": {
+      "parent": {"uri": "at://did:plc:w6pfxjeth4ufuly3m7tl7zfl/app.bsky.feed.post/3mnjoywpy332d", "cid": "bafyreibegnzk3iofgiamrymh5oweanm3wlfpmriz7te7tictgf4ajoya6i"},
+      "root": {"uri": "at://did:plc:w6pfxjeth4ufuly3m7tl7zfl/app.bsky.feed.post/3mnjoywpy332d", "cid": "bafyreibegnzk3iofgiamrymh5oweanm3wlfpmriz7te7tictgf4ajoya6i"}
+    }
+  }
+}
