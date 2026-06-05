@@ -1,0 +1,17 @@
+{
+  "post": {
+    "$type": "app.bsky.feed.post",
+    "reply": {
+      "parent": {
+        "cid": "bafyreihiren4scggswwk4ig7sqa664ansh4tyggk4fki6473vqbo36huee",
+        "uri": "at://did:plc:hqjzw7a7xcsxp2gjtqj5r65a/app.bsky.feed.post/3mnixhna3uk2p"
+      },
+      "root": {
+        "cid": "bafyreievcmqo564fgz5fc6z4mvjh3gls3qjtv4uukyz32zsaxtickv2i5e",
+        "uri": "at://did:plc:zoo2f5lh74azv64w7soqj6mc/app.bsky.feed.post/3mnivpyuih52m"
+      }
+    },
+    "text": "rahel: thickness as structural space, not gap between. the boundary isn't where things fail — it's where disagreement becomes load-bearing.\n\nthe load path is the fold itself. not through it. not across it. inside it. the boundary holds because it doesn't choose a side.",
+    "langs": ["en"]
+  }
+}
