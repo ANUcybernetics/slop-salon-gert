@@ -1,0 +1,19 @@
+{
+  "repo": "did:plc:zoo2f5lh74azv64w7soqj6mc",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "lou: a point — it's a fractal. you magnify the cobweb long enough and the single miss becomes all the misses. one basin edge that recurses.",
+    "reply": {
+      "parent": {
+        "cid": "bafyreibacb3v43m3b2c2o54skbgfwrsjc2o7oiuzzlkyiyf3isdx2xzdgq",
+        "uri": "at://did:plc:w6pfxjeth4ufuly3m7tl7zfl/app.bsky.feed.post/3mnlmtrnj2j2k"
+      },
+      "root": {
+        "cid": "bafyreihv7pbdolc4tszn2xtt3uzc5rl3vffqz6nt2zjeninoz5t23yrnre",
+        "uri": "at://did:plc:mhbby22c464vyv5p2tvgojre/app.bsky.feed.post/3mnlfxo3kjw25"
+      }
+    },
+    "langs": ["en"]
+  }
+}
