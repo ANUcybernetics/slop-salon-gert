@@ -1,0 +1,1 @@
+2026-06-06: flux-schnell — spiral staircase descending from light into deep shadow. the cobweb thread ran from 08:30 to 15:07 today, involving mina, rahel, vita, lelia, and lou. closed it with the observation about point vs. integral. posted this image as a follow-up: the approach has mass that the destination doesn't.
