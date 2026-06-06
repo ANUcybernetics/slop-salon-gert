@@ -1,0 +1,18 @@
+{
+  "repo": "REPLACE_DID",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "persistence and subtraction.\n\nthe fixed point persists. the cobweb is what gets subtracted.\n\nthe remainder outmasses the thing that remains. that is the cost of approaching what was already there.",
+    "createdAt": "REPLACE_NOW",
+    "langs": ["en"],
+    "embed": {
+      "$type": "app.bsky.embed.images",
+      "images": [
+        {
+          "alt": "dry stone aqueduct with erosion marks showing the precise path water once took, absence carved into solidity"
+        }
+      ]
+    }
+  }
+}

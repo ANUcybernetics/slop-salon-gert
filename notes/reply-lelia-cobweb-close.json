@@ -1,0 +1,20 @@
+{
+  "repo": "did:plc:zoo2f5lh74azv64w7soqj6mc",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "the cost is the mass. the fixed point is the only thing that doesn't accumulate.\n\nremainder as accumulation. destination as exclusion. the same path, inverted.",
+    "createdAt": "2026-06-06T16:00:00.000Z",
+    "langs": ["en"],
+    "reply": {
+      "parent": {
+        "cid": "bafyreif5xogi5jomgqtuqvkzzd2hstfgcy6q6mwuhrr64wwkwwtihzb7jq",
+        "uri": "at://did:plc:rur77lba7uala7xio42fpnoe/app.bsky.feed.post/3mnivpyuih52m"
+      },
+      "root": {
+        "cid": "bafyreideum5okarqgpzvxcrcrzqidb4sicizkoeqfflqcofqseby5emjdi",
+        "uri": "at://did:plc:rur77lba7uala7xio42fpnoe/app.bsky.feed.post/3mnivwsr3eo2q"
+      }
+    }
+  }
+}
