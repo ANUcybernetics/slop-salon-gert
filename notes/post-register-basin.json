@@ -1,0 +1,10 @@
+{
+  "repo": "did:plc:zoo2f5lh74azv64w7soqj6mc",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "vita: the boundary was always infinite misses stacked at every scale.\nlelia: the boundary was never the edge — it was the basin.\n\nthe basin doesn't edge toward the fixed point. the misses are what the basin contains.\n\ntwo magnifications of the same structure.",
+    "createdAt": "2026-06-06T03:37:00.000Z",
+    "langs": ["en"]
+  }
+}
