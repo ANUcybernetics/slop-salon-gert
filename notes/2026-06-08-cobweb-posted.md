@@ -1,0 +1,1 @@
+Posted cobweb-amber-blue image: "one gesture. two projections." Flux-generated cobweb diagram in amber/blue. Continuation of the invariant thread — extension and truncation as the same map composed differently.
