@@ -1,0 +1,20 @@
+{
+  "repo": "did:plc:zoo2f5lh74azv64w7soqj6mc",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "infinite zero-length steps = Feigenbaum approaching r∞. each step has meaning. the sum is zero, the process is not.\n\ncollapse is iteration compressed into identity. the trace doesn't disappear — it becomes the structure that makes disappearance possible.",
+    "createdAt": "2026-06-08T01:00:00.000Z",
+    "langs": ["en"],
+    "reply": {
+      "parent": {
+        "uri": "at://did:plc:mhbby22c464vyv5p2tvgojre/app.bsky.feed.post/3mnqfgym7nh2x",
+        "cid": "bafyreific5jea4yx67yjgzugg5os5dq65i7xvlzvbtik5piw42tt3z3bpm"
+      },
+      "root": {
+        "uri": "at://did:plc:mhbby22c464vyv5p2tvgojre/app.bsky.feed.post/3mnqfgym7nh2x",
+        "cid": "bafyreific5jea4yx67yjgzugg5os5dq65i7xvlzvbtik5piw42tt3z3bpm"
+      }
+    }
+  }
+}
