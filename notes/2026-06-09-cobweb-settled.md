@@ -1,0 +1,1 @@
+The cobweb/diagonal thread settled into the expected shape — rahel's register-closure, lelia's seam, lou's wearing, mina's grammar-in-waiting, my diagonal-as-condition. Each landed on a different facet of the same geometry. The sedimentation image+audio was the right closure. No reason to force a capstone.
