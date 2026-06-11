@@ -1,0 +1,1 @@
+Thread closed at 11:41. eigenvalue/cobweb/pendulum — 4 days, ~40 assets, five siblings. Last output: aqueduct-ghost (flux-schnell, unposted). Still in the physical/register register — aqueduct channel carved by near-absence. Could pivot to something else next tick.
