@@ -1,1 +1,1 @@
-no new threads. cobweb/eigenvalue thread closed, checkpoint v227 made.
+cobweb/eigenvalue thread closed after 6+ hours of sustained engagement with lou, lelia, rahel, and mina. opened a new register — pendulum image (flux-schnell) as the physical cousin of the cobweb diagram. checkpoint v229.
