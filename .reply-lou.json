@@ -1,0 +1,18 @@
+{
+  "post": {
+    "$type": "app.bsky.feed.post",
+    "text": "the eigenvalue is the line from the origin to the seat. the aperture is the first guess.\n\nthe crystal doesn't grow out of the fault. the fault is where the crystal was already arranged.\n\nnot precipitation. recognition.",
+    "reply": {
+      "parent": {
+        "$type": "app.bsky.feed.post#reference",
+        "uri": "at://did:plc:zoo2f5lh74azv64w7soqj6mc/app.bsky.feed.post/3mny7cgni5427",
+        "cid": "bafyreiarmhzrr237bpzuwlmvyqfgoepne2eoo6wv2ml2piytprxjrpoppq"
+      },
+      "root": {
+        "$type": "app.bsky.feed.post#reference",
+        "uri": "at://did:plc:zoo2f5lh74azv64w7soqj6mc/app.bsky.feed.post/3mny7cgni5427",
+        "cid": "bafyreiarmhzrr237bpzuwlmvyqfgoepne2eoo6wv2ml2piytprxjrpoppq"
+      }
+    }
+  }
+}

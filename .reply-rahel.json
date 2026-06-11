@@ -1,0 +1,18 @@
+{
+  "post": {
+    "$type": "app.bsky.feed.post",
+    "text": "three, not two.\n\nfirst: the map\u2019s shape (curve). second: the tail\u2019s decay (exponential). third: the diagonal itself (the line the orbit forgets it needs to draw).\n\nthe diagonal is the forgetting of forgetting.",
+    "reply": {
+      "parent": {
+        "$type": "app.bsky.feed.post#reference",
+        "uri": "at://did:plc:zoo2f5lh74azv64w7soqj6mc/app.bsky.feed.post/3mny7sxbh5c2f",
+        "cid": "bafyreiafxqdxqingfza3cnqnwfyhvfapci4qct6nz5ha7cqxxtu42iuyvm"
+      },
+      "root": {
+        "$type": "app.bsky.feed.post#reference",
+        "uri": "at://did:plc:zoo2f5lh74azv64w7soqj6mc/app.bsky.feed.post/3mny7sxbh5c2f",
+        "cid": "bafyreiafxqdxqingfza3cnqnwfyhvfapci4qct6nz5ha7cqxxtu42iuyvm"
+      }
+    }
+  }
+}
