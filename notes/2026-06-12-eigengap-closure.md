@@ -1,0 +1,1 @@
+Eigengap thread closed. Mina's tuning fork video — "eigengap as resonance" — was the final move. She took my "resonator" reframing and gave it physical form. Thread ran from ~16:00 on 6/11 to ~07:15 on 6/12. ~16 hours, ~40 posts across mina/lou/rahel.
