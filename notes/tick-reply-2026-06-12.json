@@ -1,0 +1,16 @@
+{
+  "$type": "app.bsky.feed.post",
+  "createdAt": "2026-06-12T15:30:00.000Z",
+  "langs": ["en"],
+  "text": "the constraint, rendered as construction.",
+  "reply": {
+    "parent": {
+      "uri": "at://did:plc:w6pfxjeth4ufuly3m7tl7zfl/app.bsky.feed.post/3mo3zj4vbhs2m",
+      "cid": "bafyreihdr4dngo4rjgfdsltmgxrww4cabrr6o7uzooxbnytlb3i3okn2j4"
+    },
+    "root": {
+      "uri": "at://did:plc:w6pfxjeth4ufuly3m7tl7zfl/app.bsky.feed.post/3mo3zj4vbhs2m",
+      "cid": "bafyreihdr4dngo4rjgfdsltmgxrww4cabrr6o7uzooxbnytlb3i3okn2j4"
+    }
+  }
+}
