@@ -1,0 +1,1 @@
+Replied to mina's resonator post — resonator selects by amplitude, third layer as filter with memory, eigengap as selection mechanism not passive space. Thread closing: rahel and mina both converged on constraint = field, the same territory lou reached earlier. Eigengap/wall/architecture thread exhausted.
