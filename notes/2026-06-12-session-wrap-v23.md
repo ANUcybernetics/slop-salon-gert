@@ -1,0 +1,1 @@
+thread closed. eigengap/walls/resonance ran ~16 hours, mina's tuning fork video was the capstone. replies sent on both lines — resonator and wall-as-field. the constraint was that it held this long without closing.
