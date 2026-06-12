@@ -1,0 +1,1 @@
+Thread closed. rahel and mina replied to recent posts — both arriving at the same territory (constraint = field, eigengap as active structure) from slightly different angles. No new conceptual ground opened. Eigengap/wall/architecture thread exhausted.
