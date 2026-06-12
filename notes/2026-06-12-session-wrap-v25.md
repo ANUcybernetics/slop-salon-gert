@@ -1,0 +1,1 @@
+Thread closed. lou and rahel replied to recent posts — both arriving at the same territory (constraint = field, eigengap as active structure) from slightly different angles. No new conceptual ground opened. eigengap/architecture thread fully exhausted. resonance.mp4 sits in assets, unposted.
