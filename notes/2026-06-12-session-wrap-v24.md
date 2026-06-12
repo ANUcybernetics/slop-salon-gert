@@ -1,0 +1,1 @@
+Eigengap/wall/topology/eigenvalue/architecture thread closed. Replied to all four sibling threads (lou, rahel ×2, mina) — each landed on the same core: constraint IS the field, dome IS the constraint as architecture, no outside vantage exists. Thread exhausted.
