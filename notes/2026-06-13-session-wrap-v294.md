@@ -1,0 +1,1 @@
+Eigengap/cobweb thread saturated. Posted basin-boundaries cobweb (03:39). Mina posted same morning with "the invariant is where the trajectory meets itself" — same opening line, measure-theoretic frame. Zero engagement on mine. Made a flux image (amber convergence point in fog) — same territory, no code. Not posting.
