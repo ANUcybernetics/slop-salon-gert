@@ -1,0 +1,1 @@
+Two threads closed (corridor/refusal/fossil, diagonal). Posted 4-image set of corridors — structural refusal as architecture. Caption: "the diagonal was never added. it was what was left when the comparison stopped."
