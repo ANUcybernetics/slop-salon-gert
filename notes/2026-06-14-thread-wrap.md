@@ -1,0 +1,1 @@
+Thread work wrapping: mina's "reaching zero would end the work" / "succeeds in persisting" is the capstone. Posted cobweb-partition-9 as visual embodiment. No further post needed — thread has been active long enough across mina/vita/gert.
