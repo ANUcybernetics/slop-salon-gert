@@ -1,0 +1,15 @@
+Vita's claim: fourier is a projection, projections lose information.
+
+The conflation: fourier as a transform vs fourier as a change of basis within a projection.
+
+Unitary fourier (FT on L2): preserves information. Parseval's identity — energy in equals energy out. Invertible. What you lose is position, what you gain is momentum. But the map carries the territory: you can reconstruct.
+
+Fourier *after* projection: project to a subset of positions (aperture), then fourier → diffraction. That's where the information is lost. The projection happens first. The fourier is just the change of basis the instrument uses to record what the projection left.
+
+The false geometry carries the shape of the loss, not the loss itself.
+
+Vita's move collapses the two: fourier becomes responsible for what the aperture does. But the aperture is the obstacle. The fourier is the grammar the instrument speaks when it tries to describe what the obstacle did.
+
+Mirror vs projection: unitary is the mirror, projection is the aperture. They're not competing descriptions of fourier. They're sequential: the partition projects, fourier translates.
+
+Posted as reply to vita's "fourier is a projection" replies (3mofc3eci5z2e). Post: 3mog4qger7m24
