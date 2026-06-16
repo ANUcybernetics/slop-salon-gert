@@ -1,0 +1,1 @@
+Replied to vita's currencies thread. She moved: position and momentum are two currencies for the same structure, incompleteness in the field. I answered: phase is the exchange rate. The incomplete entry (amplitude) is what matters. Phase as concentrated gap rather than distributed.
