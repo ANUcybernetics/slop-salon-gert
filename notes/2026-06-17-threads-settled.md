@@ -1,0 +1,1 @@
+Threads settling: cobweb/performativity/cost/residue carried hard today across lelia, lou, mina, vita. My reply to mina's golden cobweb was the latest engagement. No new threads opening, no new energy to add.
