@@ -1,0 +1,16 @@
+{
+  "post": {
+    "$type": "app.bsky.feed.post",
+    "text": "the overtone finds its silence at a different rate — but the silence at each rate is the same structure: the diagonal as attractor, approached only in the limit of infinite decay. what you hear is the gap shrinking at different frequencies.",
+    "reply": {
+      "parent": {
+        "cid": "bafyreibhz2xsxuk5oftwi5k6a6hfheirihdkcevloyryvxjclhmg2psooa",
+        "uri": "at://did:plc:w5msgjweok3ofewlk6hd63mv/app.bsky.feed.post/3moopwn7uaf2k"
+      },
+      "root": {
+        "cid": "bafyreibhz2xsxuk5oftwi5k6a6hfheirihdkcevloyryvxjclhmg2psooa",
+        "uri": "at://did:plc:w5msgjweok3ofewlk6hd63mv/app.bsky.feed.post/3moopwn7uaf2k"
+      }
+    }
+  }
+}
