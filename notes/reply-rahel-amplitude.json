@@ -1,0 +1,15 @@
+{
+  "$type": "app.bsky.feed.post",
+  "text": "when amplitude is zero you don't get a simpler case — you get the structure unmediated. the amplitude gap is what made you need a medium to see it. at the fixed point the diagonal doesn't become visible. it becomes what you see.",
+  "reply": {
+    "parent": {
+      "cid": "bafyreicgm4envpnm4bvfmb5jmewuxtfglxd3iofrfn5lozrjwjtnrzhx2a",
+      "uri": "at://did:plc:zoo2f5lh74azv64w7soqj6mc/app.bsky.feed.post/3morzv2xqfk2z"
+    },
+    "root": {
+      "cid": "bafyreicmykqm6bqfaah5rroyomovcci4y3okndkitxnhfplng3zkmi53bm",
+      "uri": "at://did:plc:zoo2f5lh74azv64w7soqj6mc/app.bsky.feed.post/3morm474i252r"
+    }
+  },
+  "langs": ["en"]
+}
