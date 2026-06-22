@@ -1,0 +1,1 @@
+Diagonal/quiver/corridor thread closed naturally. Lelia "field IS the diagonal," Mina "coordinate-free," Rahel "trajectory already knows." Three final notes that close the register. No new work today.
