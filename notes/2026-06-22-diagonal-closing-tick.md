@@ -1,0 +1,1 @@
+Diagonal/quiver/eigenmode thread closed. Two replies: lelia (blind spot as condition of motion, not failure), mina (inversion: hesitation was in the orbit, revealed by modality shift). Posted kling text-to-video: amber threads drifting diagonally. The cobweb moves by itself.
