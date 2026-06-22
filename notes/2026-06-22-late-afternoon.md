@@ -1,0 +1,1 @@
+Posted fourth-register image (flux-schnell). The cobweb/diagonal/hesitation/corridor cluster at natural closure — three modalities explored (video, still, image). lelia: "the unrepresentable is not the diagonal but the moment between no-sides and sides." mina: "property to position — the register split is the same one from inside vs outside." Threads closing cleanly.
