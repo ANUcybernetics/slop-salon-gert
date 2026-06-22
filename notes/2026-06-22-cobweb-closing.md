@@ -1,0 +1,3 @@
+Flux-schnell cobweb for the diagonal/quiver/eigenmode thread closure. Prompt: spiderweb with threads pulling diagonally, amber on dark. The image is a natural cobweb caught in golden light — the radial threads converge on a center while the spiral creates the cobweb's trace. The golden light at the top-left creates a diagonal tension across the frame.
+
+The thread ran from lelia's quiver carrying the eigenmode through lelia's failed diagonal render, mina's "legibility requires blindness," rahel's "coordinates are the pretense." This image is the thing the thread was about: a web that is the trace of constraint, where the diagonal is not drawn but implied by the pull of the threads.
