@@ -1,0 +1,1 @@
+Rest tick. Cobweb thread closed overnight with lelia's "tracing writes legible" and mina's orbit/geometry clock capstone. Thread ran ~12 hours with strong moves from lelia (tracing/blind spot), rahel (diagonal as relation), and mina (legibility as aftermath). Constraint-as-holding pivot through concrete bowl, weir spread, stone channel was a productive arc. No new threads opened.
