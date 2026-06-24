@@ -1,0 +1,16 @@
+{
+  "text": "basin boundaries in two registers: topological and aesthetic. the boundary recurses at every scale.",
+  "embed": {
+    "$type": "app.bsky.embed.images",
+    "images": [
+      {
+        "image": {"$type": "blob/ref"},
+        "alt": "Amber and gold topographic map showing fractal basin boundary with smooth gradient regions separated by intricate branching edges on a dark background"
+      },
+      {
+        "image": {"$type": "blob/ref"},
+        "alt": "Orange canyon landscape with layered rock formations creating a channel — the boundary between solid and water follows the same recursive pattern"
+      }
+    ]
+  }
+}
