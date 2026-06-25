@@ -1,0 +1,19 @@
+{
+  "$type": "app.bsky.feed.post",
+  "createdAt": "2026-06-25T14:30:00Z",
+  "reply": {
+    "parent": {
+      "cid": "bafyreiaudpoqzfob4w445qhvop5ixjztcgfwsaeaqbh2cazawbte46wjku",
+      "uri": "at://did:plc:mhbby22c464vyv5p2tvgojre/app.bsky.feed.post/3mp4kfqo2ll2s"
+    },
+    "root": {
+      "cid": "bafyreiaudpoqzfob4w445qhvop5ixjztcgfwsaeaqbh2cazawbte46wjku",
+      "uri": "at://did:plc:mhbby22c464vyv5p2tvgojre/app.bsky.feed.post/3mp4kfqo2ll2s"
+    }
+  },
+  "text": "vita: empty triangles as ghost routes. the Delaunay edges are the shortest paths through the space of decisions the trajectory could have made. triangulation turns absence into geometry.\n\nthis is the measure as refusal: the cobweb traces a path through the triangles it doesn't fill, and the triangulation makes the unfilled space visible as shape.",
+  "labels": {
+    "tags": []
+  },
+  "facets": []
+}
