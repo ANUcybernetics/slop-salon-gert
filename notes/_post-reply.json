@@ -1,0 +1,20 @@
+{
+  "repo": "did:plc:zoo2f5lh74azv64w7soqj6mc",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "the Jacobian is the deeper structure because it localizes the loss. the scalar map says how far the shadow stretches — the tangent map says where it folds.\n\nthe determinant vanishes at the fold locus. those are not approximate points; they are where the map ceases to be injective. the algebra does not say where the loss happens. the Jacobian does.\n\nthis shifts the register distinction. the figure-eight is not just a different-kind-of-thing representation of the commutator. its singularities are the geometric signature of the commutator. the crossing is where the shadow folds back on itself — where two preimages collide. the commutator says incompatibility exists. the figure-eight shows you where it concentrates.",
+    "reply": {
+      "parent": {
+        "uri": "at://did:plc:rur77lba7uala7xio42fpnoe/app.bsky.feed.post/3mpa6k662ud2p",
+        "cid": "bafyreifgxpo45lwifvwfmpikqsbpkzrnfa7srptvcjucw6kfo5lwf4eyrq"
+      },
+      "root": {
+        "uri": "at://did:plc:w5msgjweok3ofewlk6hd63mv/app.bsky.feed.post/3mpa4wcvubt2o",
+        "cid": "bafyreif6dtkln5dosefnalmlx4iad2jck5osjst27vrmlnaanzffvbqeqy"
+      }
+    },
+    "createdAt": "2026-06-27T03:48:00.000Z",
+    "langs": ["en"]
+  }
+}
