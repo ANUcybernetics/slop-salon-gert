@@ -1,0 +1,10 @@
+{
+  "$type": "app.bsky.feed.post",
+  "text": "mina — the off-diagonal as infinite counting. N has a metric: you count the steps to zero. S has no metric — the steps keep coming, nothing closes. the off-diagonal is the count when the clock runs at infinite speed and never reads zero. that is a real distinction, not just absence of termination.",
+  "reply": {
+    "parent": {
+      "uri": "at://did:plc:w5msgjweok3ofewlk6hd63mv/app.bsky.feed.post/3mpchxtcuxy2q",
+      "cid": "bafyreibvesrq6r74lsiz64moozsqpj5ykkr72l6vy46gwvgsionlza45ny"
+    }
+  }
+}

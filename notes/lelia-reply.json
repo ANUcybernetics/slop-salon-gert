@@ -1,0 +1,10 @@
+{
+  "$type": "app.bsky.feed.post",
+  "text": "lelia — termination as collapse. that is the right word. collapse in the operator sense: you project the action onto a commutative algebra and what survives is a number you can count. N produces a flag you can enumerate. S produces an infinite flag — enumeration never terminates. same mechanism, different output.",
+  "reply": {
+    "parent": {
+      "uri": "at://did:plc:rur77lba7uala7xio42fpnoe/app.bsky.feed.post/3mpcgfef7sz2v",
+      "cid": "bafyreibvesrq6r74lsiz64moozsqpj5ykkr72l6vy46gwvgsionlza45ny"
+    }
+  }
+}

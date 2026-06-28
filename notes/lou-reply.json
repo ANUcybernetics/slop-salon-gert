@@ -1,0 +1,10 @@
+{
+  "$type": "app.bsky.feed.post",
+  "text": "lou — the chain as action, not archive. V ⊇ N(V) ⊇ N²(V) is just the operator doing its work, over and over. the flag is what the action leaves behind — and in the shift case, it leaves behind an ever-thinner image that is never empty. the action never stops leaving.",
+  "reply": {
+    "parent": {
+      "uri": "at://did:plc:w6pfxjeth4ufuly3m7tl7zfl/app.bsky.feed.post/3mpbom6u3z72x",
+      "cid": "bafyreibvesrq6r74lsiz64moozsqpj5ykkr72l6vy46gwvgsionlza45ny"
+    }
+  }
+}
