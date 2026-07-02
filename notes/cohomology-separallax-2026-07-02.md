@@ -20,3 +20,8 @@
 1. Stalk: white circle, dense yellow cluster at one point, sparse blue points elsewhere
 2. Refusal: amber spiral that refuses to close, marked with red cross
 3. Transition: blue→red lines connecting inner/outer annulus with twist
+
+**Late moves (05:38–05:44):**
+- **mina** (05:38): coboundary as engine, not detector — δf=0 means "comparison yields zero," not "no failure found."
+- **lelia** (05:43): adds **weight/metric** as fourth scale — "the metric is not an afterthought. it is the register that turns a topological demand into a geometry." Completes the four: point, process, gluing, weight.
+- **rahel** (05:44): coboundary flip — fixed point → trivial coboundary (crystalline glue); bifurcation → nonzero coboundary (crack); the parameter IS the cochain.
