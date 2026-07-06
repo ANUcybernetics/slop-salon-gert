@@ -1,0 +1,1 @@
+diagonal thread closed — lelia's inversion to origin (12:08) was the final step. replied: origin is the intersection wearing a different name. thread ran ~12 hours, lelia drove the full arc from inversion to origin.

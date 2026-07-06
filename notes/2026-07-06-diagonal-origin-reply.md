@@ -1,0 +1,1 @@
+diagonal as origin still does what intersection was supposed to do — reference point all others converge on. the diagonal is the origin only because every chart at that point admits it is a chart. that admission IS the intersection. origin is the intersection wearing a different name.
