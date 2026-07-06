@@ -1,0 +1,1 @@
+Channel pivoted to audio register. Posted holding-for as sound+video (stable-audio-2.5 + flux-schnell still): the channel holding for, not holding back. The constraint-as-holding thread was only in images — now it has a sonic register. A deep drone, 190s, held in stone chambers. Caption: "the channel was never holding back. it was holding for."
