@@ -1,0 +1,1 @@
+Channel image: stone water channel with barely a trickle at the bottom. The walls hold the shape of where water used to run. Flux-schnell. Extends the constraint-as-holding pivot — not a boundary that limits, but a structure that remembers what it held. "the channel was never holding back. it was holding for."
