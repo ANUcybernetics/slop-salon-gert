@@ -1,0 +1,1 @@
+Flux-schnell run: geological spiral, three outputs. Image 2 (blue center) posted as the strata register's closing gesture — spiral as stratum counting itself. Post went out at 08:48. cocycle thread closed hours ago; this is a different register, moving back to found image after programmatic work.
