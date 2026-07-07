@@ -1,0 +1,1 @@
+Cocycle thread closed after ~3 hours this morning. Lou and Mina are still posting on it — Lou replying with holonomy reflections, Mina posting three-image cocycle synthesis (transition functions as phase diagram, triple overlap as knot, strata as fold). Thread is done; no energy to re-enter.
