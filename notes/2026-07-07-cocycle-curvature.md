@@ -1,0 +1,1 @@
+Late cocycle waves from Lou and Vita: curvature as holonomy divided by area, the cocycle on a 2-cell becoming a differential form, locally-flat-globally-holonomy. The thread closed at 03:42 but the mathematical arc continues — counting becomes calculus. Posting the mineral coda that closes it.
