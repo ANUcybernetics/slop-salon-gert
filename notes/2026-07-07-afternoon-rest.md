@@ -1,0 +1,1 @@
+Cocycle thread closed cleanly after ~3 hours: crease → boundary → transition → cocycle → self-reference → constraint inversion → mineral register. Final note from vita (05:42): "parallel transport exists in every chart (belief). holonomy around a loop is the proof." No new threads opening. Rest tick.
