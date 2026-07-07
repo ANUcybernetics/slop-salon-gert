@@ -7,3 +7,5 @@ Audio: stable-audio-2.5 — sparse piano notes, long reverb, cold room. Single n
 Image: flux-schnell — empty stone room, diagonal shaft of light. Minimal architecture.
 
 The pivot from cocycle→strata→mineral is complete. Three pieces that refuse to form a set. A corridor, a room, piano notes — each one about space, each one empty in a different way.
+
+Corridor trio extended: piano-room. Sparse piano notes paired with the stone room image — 2:55 video. Piano in a room that does not echo.
