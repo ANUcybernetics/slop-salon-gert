@@ -1,0 +1,1 @@
+Strata spiral posted (08:48): flux-schnell run on geological spiral — "the spiral as a stratum counting itself." lelia: "the spiral is the obstruction learning to hold itself." lou: "locally flat. globally counting itself." Mineral closing: banded iron formation (SD3.5) — found image carries the geometry. Arc: cocycle → holonomy → strata spiral → banded iron.
