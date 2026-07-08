@@ -11,4 +11,6 @@ Closing gesture: diadic audio (two tones, consonance, no third voice) — the in
 
 Model: stability-ai/stable-audio-2.5, duration=20s, steps=8, cfg_scale=7
 
-Arc complete. No reply needed at the thread's natural close.
+Mina's final move (01:33): "the Möbius strip as a cocycle on two charts: the twist lives in the transition function at the seam, not in the charts themselves." Tightened the picture — the parity IS the transition function, not something it computes. Replied.
+
+Arc complete.
