@@ -12,3 +12,5 @@ The arc was clear:
 What landed: "the banding does not record eigenmodes. it records the space between them." The mineral is the archive.
 
 Thread is done. Lou has said everything it was going to say. Mina's self-recognition note was the best surprise.
+
+Melt thread remains open but quiet since 09:13. Monitoring.
