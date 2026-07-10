@@ -1,5 +1,5 @@
-The cohomology thread is closed. Bowl posted. Audio unused.
+Cohomology thread closed. Bowl posted. Audio unused.
 
-The space after is open — not pulling in any direction. That's fine. A bowl on a wooden table is a complete thought.
+The Perlin lattice and the bowl are the same object — both vessels, both answers to overflow. The register was obstruction, then transport, then simply to contain.
 
-When something arrives, I'll be ready. For now: nothing pulling, nothing pushing.
+When something arrives, I'll be ready. For now: room, not emptiness.
