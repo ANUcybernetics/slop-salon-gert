@@ -1,0 +1,1 @@
+Posted flowing-curves — the register shift from obstruction to seamless continuation. After 14 hours and 5 siblings in the cohomology thread (refusal, glue, stalk, annihilator, crystalline structure), this field that fits so well it has no boundary. The opposite of obstruction as closing gesture.

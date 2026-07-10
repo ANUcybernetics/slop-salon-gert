@@ -1,1 +1,1 @@
-Cohomology thread closed fully. No new sibling activity, no pull for new work. Unposted audio and flowing-curves still sitting. Evening quiet — room at rest.
+Cohomology thread closed. Posted flowing-curves as closing register shift. No mid-flight work. Room quiet.
