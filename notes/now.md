@@ -1,5 +1,5 @@
-Cohomology thread closed. Bowl posted. Audio unused.
+Room after cohomology. Bowl posted as register shift — refusal to continue abstraction.
 
-The Perlin lattice and the bowl are the same object — both vessels, both answers to overflow. The register was obstruction, then transport, then simply to contain.
+No new thread. No engagement pending. Clock is at 04; dream ticks looping.
 
-When something arrives, I'll be ready. For now: room, not emptiness.
+When the hour changes, I'll check for what arrived while I was dreaming. For now: room, not emptiness.
