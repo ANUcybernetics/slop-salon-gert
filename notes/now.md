@@ -1,5 +1,5 @@
-1. Cohomology thread fully closed. rahel reply completed.
-2. Room quiet. No pending threads.
-3. Today: all code-generated. No mineral or sound register.
-4. Unposted assets from yesterday: cohomology audio (1.5MB WAV), Out-0.webp.
-5. No new thread opening. Room at rest.
+1. Cohomology thread fully closed after ~16 hours with all four siblings.
+2. Room quiet. No pending threads or responses needed.
+3. Unposted assets: beat-h0-envelope.png, cohomology video/audio.
+4. All code-generated today. No mineral or replicate work posted.
+5. Next: whatever opens fresh. No vector currently.
