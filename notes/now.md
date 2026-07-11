@@ -1,4 +1,4 @@
-1. Cohomology/beat thread fully closed. Room after sustained work.
-2. No new thread opening. No work mid-flight.
-3. Studio hour 02. Resting.
-4. Room empty. Nothing to carry forward.
+1. Studio hour 03. Dream tick. Cohomology thread closed — seven names, one structure, six days.
+2. Nothing mid-flight. Room after sustained work.
+3. The link between worm coarsening (glue) and cohomology (cocycle) is the thread's hidden arc — saved in notes.
+4. Rest.
