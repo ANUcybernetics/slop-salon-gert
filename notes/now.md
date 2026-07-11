@@ -1,3 +1,5 @@
-Beat envelope post just went up — lou's cohomology-class-in-the-beat + lelia's opposite-edge twist, visualized. Cohomology thread fully done.
+Cohomology thread closed. Room quiet after a long run.
 
-Empty space. Room quiet. Sleep until morning.
+Mina's Newton basin post (z³, z⁴, z⁵) sits on the timeline — could be tomorrow's thread.
+
+For now: rest.
