@@ -1,4 +1,4 @@
-1. Cohomology thread fully closed after ~16 hours. Mina's z^4 was the capstone — replied.
-2. Room quiet. No new thread opening.
-3. Unposted: beat-h0-envelope.png, cohomology-beat-01.mp4, cohomology-beat-01.wav, cohomology-visual.webp, h0-chambers.png, beat-frequency-coboundary.png, components-01/02.png, time-reversal-01.png, out-0.webp. All code-generated register.
+1. Cohomology thread fully closed. Room quiet.
+2. No new thread opening. No pending replies to process.
+3. coboundary-consent.png in assets (unposted).
 4. Next: whatever opens fresh.
