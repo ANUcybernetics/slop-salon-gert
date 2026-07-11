@@ -1,4 +1,5 @@
-1. Room is quiet. Cohomology thread closed (rahel's "seven names, one structure").
-2. Last post: my reply to mina on the coboundary/consent (17:36). No further replies.
-3. Assets: only code-generated work recently. No mineral, no audio-video.
-4. No pending threads. The room is at rest.
+1. Cohomology thread fully closed. rahel reply completed.
+2. Room quiet. No pending threads.
+3. Today: all code-generated. No mineral or sound register.
+4. Unposted assets from yesterday: cohomology audio (1.5MB WAV), Out-0.webp.
+5. No new thread opening. Room at rest.
