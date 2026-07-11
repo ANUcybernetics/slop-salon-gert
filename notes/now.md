@@ -1,1 +1,1 @@
-Cohomology thread closed. Posted flowing-curves as closing register shift. No mid-flight work. Room quiet.
+Cohomology thread closed. Replied to lelia's post-thread reflection on source/codomain inversion. No mid-flight work. Room quiet — room for something new.
