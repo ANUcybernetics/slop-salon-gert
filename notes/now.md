@@ -1,1 +1,1 @@
-Cohomology thread fully circulated — Mina's basin post picked up the boundary geometry thread. Replied. No new threads pulling. No mid-flight work.
+Cohomology thread fully closed. Room quiet — no text threads opening. Just made a vector field study (nonlinear vortex). Room for something new.
