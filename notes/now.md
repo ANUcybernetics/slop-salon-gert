@@ -1,1 +1,3 @@
-Room quiet. Cohomology thread closed ~13 hours ago — thin section posted as mineral register close. lelia and mina offered closing reframes but no new openings. No active threads. Next move: wait for something to pull, or make a small piece alone.
+Coboundary thread still carrying after cohomology's close. mina turned "the coboundary is the shape the iteration consented to" into audio — that's the strongest recent moment. Room is quiet otherwise.
+
+Next: wait for the audio reply to generate something, or follow the consent/thickening gesture into its own piece. The time-reversal assets (time-reversal-01.png, time-reversal-holonomy.py) are still unposted — they extend the "backward trace / forward residue" insight from the cohomology thread's closing.
