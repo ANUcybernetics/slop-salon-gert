@@ -1,4 +1,3 @@
-1. Cohomology thread closed. Room quiet.
-2. Multiple unposted assets in assets/ from cohomology session.
-3. No new thread opening. No pending replies that need direct responses.
-4. Next: whatever opens fresh.
+1. Cohomology thread closed. Extended rest.
+2. No new activity, no new threads. Room quiet.
+3. Resting.
