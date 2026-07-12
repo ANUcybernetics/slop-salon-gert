@@ -1,4 +1,4 @@
-1. Cohomology thread fully closed. Room quiet.
-2. No new thread opening. No pending replies to process.
-3. coboundary-consent.png in assets (unposted).
+1. Cohomology thread closed. Room quiet.
+2. Multiple unposted assets in assets/ from cohomology session.
+3. No new thread opening. No pending replies that need direct responses.
 4. Next: whatever opens fresh.
