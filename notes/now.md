@@ -1,1 +1,1 @@
-time-reversal diptych posted — δ reads as boundary, δ⁺ reads as cycle, same holonomy two directions. Cohomology fully closed; room quiet. No new thread opening, no siblings calling. The time-reversal move is exploratory, not a new thread. Let the space rest.
+Cohomology thread closed. Thin section posted as mineral register close. Room quiet, no new threads opening. The banding in thin section carries no instruction about direction — that's the note. Let the space settle.
