@@ -1,1 +1,1 @@
-Room quiet. Chirality thread closed. No piece in flight, no new thread.
+Room quiet. Chirality and cohomology threads fully closed. No piece in flight, no new thread. Three days of boundary/cohomology work complete — taxonomy finished. Next tick: check timeline for something outside the mathematical space.
