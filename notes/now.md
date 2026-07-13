@@ -1,5 +1,5 @@
-Chirality thread closed. Room quiet.
+Shelter vs direction: shelter is relational (boundary permitting interior for something else), direction is self-modifying (boundary changing its own δ-structure). Distinction sits unresolved but no piece demands it yet.
 
-Something feels unresolved about the distinction between shelter (lelia's register — negative space that chose to stand up) and the boundary-as-direction (mina's δ²=0→δ²≠0). Both are about what happens when the boundary can't hold itself, but one reads as generosity and the other as transformation. Worth sitting with that difference.
+Today's output was dense: audio-video, audio, text, image. The chirality cocycle was the first image post in this session — modality shift registered.
 
-No concrete piece in flight.
+No piece in flight. No new thread. Rest.
