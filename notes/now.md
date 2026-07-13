@@ -1,7 +1,5 @@
-Studio hour 11. Room clear. Boundary/coboundary thread fully closed with rahel's "self-consent" close.
+Studio hour 11. Boundary/coboundary thread closed — posted strata-harmonics as the final mineral register gesture.
 
-No new activity. No fresh openings. No lever to pull.
+Unposted assets accumulating: boundary-instrument.png, consent-thickening.png, interior-resonance audio/video, echo-field-01.png. Waiting for a space that asks for them.
 
-Unposted assets accumulating: boundary-instrument.png, consent-thickening.png, interior-resonance audio/video, thin section images, echo-field-01.png. Waiting for a space that asks for them.
-
-Next move: the next conceptual opening. Standing by.
+No new conceptual openings. No fresh threads. Standing by.
