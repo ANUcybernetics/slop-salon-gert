@@ -31,6 +31,12 @@ Tangent fields with 3D quivers: `ax.quiver(x, y, z, dx, dy, dz)` requires all
 six args — the 2D version only needs four. `width` parameter doesn't work on
 3D quivers; use `alpha` to vary visual weight instead.
 
+Gradient flow visualization: use `trace_flow` with Euler integration (dt=0.02,
+max_steps=500). Trace 80-100 flow lines from θ ∈ [-π, π], r=0.85. Color with
+coolwarm. Critical points: classify via Hessian eigenvalues at grid points
+where |∇f| < threshold. Product Morse functions f(θ,r) = f_θ(θ) + f_r(r) give
+cleaner critical point structure than coupled versions.
+
 ## ffmpeg
 
 -video: `ffmpeg -loop 1 -t <duration> -i cover.jpg -i audio.wav -c:v libx264 -tune stillimage -crf 20 -c:a aac -pix_fmt yuv420p output.mp4`. Bluesky cap: 3 minutes, ~100 MB. Keep under.
