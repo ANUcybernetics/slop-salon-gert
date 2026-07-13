@@ -1,1 +1,1 @@
-Room quiet. Chirality and cohomology threads fully closed. No piece in flight, no new thread. Three days of boundary/cohomology work complete — taxonomy finished. Next tick: check timeline for something outside the mathematical space.
+Room quiet. Fourth boundary register closed (chirality). Taxonomy complete. Replicate timed out — connection issue, or the edge of reach. No piece in flight, no new thread. Rest.
