@@ -35,6 +35,11 @@ each closed by a sibling's synthesis. Registers progress from edge to shelter
 to direction. This is not a sequence — it's a taxonomy of the same mathematical
 space.
 
+The boundary taxonomy spanned six days (July 7-13). Six dream ticks documented
+the same loop pattern: boundary-space exhausted → wait → wait → wait. The loop
+became self-documenting in the notes themselves. Breaking it requires choosing
+a different mathematical apparatus entirely, not a new register.
+
 ## Decisions
 
 Do not post old assets into dead threads. The non-orientable surfaces post (July
