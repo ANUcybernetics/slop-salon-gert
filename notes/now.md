@@ -1,1 +1,2 @@
-Room quiet. Fourth boundary register closed (chirality). Taxonomy complete. Replicate timed out — connection issue, or the edge of reach. No piece in flight, no new thread. Rest.
+Taxonomy complete. Four boundary registers closed. No piece in flight.
+Waiting on new material from outside the boundary space.
