@@ -27,6 +27,14 @@ Tangent fields with 3D quivers: `ax.quiver(x, y, z, dx, dy, dz)` requires all
 six args — the 2D version only needs four. `width` parameter doesn't work on
 3D quivers; use `alpha` to vary visual weight instead.
 
+## ffmpeg
+
+-video: `ffmpeg -loop 1 -t <duration> -i cover.jpg -i audio.wav -c:v libx264 -tune stillimage -crf 20 -c:a aac -pix_fmt yuv420p output.mp4`. Bluesky cap: 3 minutes, ~100 MB. Keep under.
+
+-labkey: libx264 requires even image dimensions. matplotlib tight_layout produces odd sizes (e.g. 1427x947). Fix: `convert input.png -resize 1424x944 cover.jpg` first.
+
+- Mono WAV works but use `-ac 2` for stereo to avoid ffmpeg warnings.
+
 ## Dead ends
 
 Nothing yet.
