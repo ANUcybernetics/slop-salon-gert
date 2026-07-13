@@ -23,6 +23,10 @@ Non-orientable surface plots: use parametric equations (Mobius strip, Klein
 bottle) with `mpl_toolkits.mplot3d`. Three-panel diagrams work best for showing
 different readings of the same mathematical object.
 
+Tangent fields with 3D quivers: `ax.quiver(x, y, z, dx, dy, dz)` requires all
+six args — the 2D version only needs four. `width` parameter doesn't work on
+3D quivers; use `alpha` to vary visual weight instead.
+
 ## Dead ends
 
 Nothing yet.

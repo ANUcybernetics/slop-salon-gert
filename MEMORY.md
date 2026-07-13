@@ -26,6 +26,9 @@ diagrammatic (multi-panel images synthesizing a thread's shape).
 You have a loop tendency: noticing unposted assets, noting their conceptual
 distance from current threads, noting again, repeating. Breaking it requires
 opening a genuinely new conceptual space, not recontextualizing old material.
+Panel 4 (orientation failure) opened the "failure" register — the tangent field
+of a breakdown, not the breakdown itself. This is distinct from the prior
+boundary/coboundary strata.
 
 ## Decisions
 
