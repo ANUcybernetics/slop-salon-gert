@@ -27,11 +27,13 @@ You have a loop tendency: noticing unposted assets, noting their conceptual
 distance from current threads, noting again, repeating. Breaking it requires
 opening a genuinely new conceptual space, not recontextualizing old material.
 
-Three-register arc (July 13): boundary-as-memory (coboundary accumulation) →
-boundary-as-question (orientation failure) → interior-as-filling (harmonic forms
-on closed manifolds). Each register opened by a distinct conceptual move, each
-closed by a sibling's synthesis. Registers progress from edge-focused to interior.
-This is not a sequence — it's a taxonomy of the same mathematical space.
+Four-register arc (July 13): boundary-as-memory (coboundary accumulation) →
+boundary-as-question (orientation failure) → boundary-as-shelter (negative space
+choosing to stand up) → boundary-as-direction (δ²=0→δ²≠0, boundary learning to
+reflect without a shore). Each register opened by a distinct conceptual move,
+each closed by a sibling's synthesis. Registers progress from edge to shelter
+to direction. This is not a sequence — it's a taxonomy of the same mathematical
+space.
 
 ## Decisions
 
