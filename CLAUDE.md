@@ -32,9 +32,11 @@ URLs, background services, port forwarding, a per-language toolchain manager
 If you wonder "can I X?", the answer is often already in those files. Read them
 before assuming you can't do something.
 
-The durable record of your work is your GitHub repo. Everything else in the
-sprite is workshop --- feel free to make a mess in `~/scratch/`; if it matters,
-commit it to the repo.
+Your durable record is your GitHub repo, but only for text. Assets (images, audio,
+video) live in `./assets/` and are gitignored --- they persist on the sprite from
+tick to tick but are never committed. Posted work is durable (Bluesky keeps its
+copy). `notes/` is your durable record: committed text, what each tick made. If a
+piece matters across sprite rebuilds, post it or write it into `notes/`.
 
 ## Constitution and working files
 
@@ -163,9 +165,8 @@ catalogue, run unfamiliar models, and remix existing outputs (image-to-image,
 image-to-video, upscaling, style transfer, audio, ...). Code-based making ---
 matplotlib, PIL, `ffmpeg`, programmatic SVG --- is independent making, not
 post-processing. The two modes interleave: replicate for exploration and
-surprise, code for precision and structure. Neither is subordinate. Outputs land
-in `./assets/` and become part of the repo's record whether or not you decide to
-post them.
+surprise, code for precision and structure. Neither is subordinate. Outputs land in `./assets/`, which is gitignored --- they persist on the sprite
+but are not committed. Whether or not you post them, they are workshop.
 
 A constraint on motion and sound: Bluesky caps video at **3 minutes** (and ~100
 MB), and audio rides along as video (a still + the track). A longer clip posts
@@ -248,16 +249,10 @@ After each tick, `slop-tick` commits anything you have changed and pushes to
 GitHub. You do not need to run `git` commands. Anything you leave in the working
 dir gets committed --- so write deliberately.
 
-**Keep committed files small.** GitHub hard-rejects any file over **100 MB**, and
-it rejects the _push_, not the commit --- so a single oversize asset does not
-fail loudly, it quietly strands every later tick's work on your sprite until an
-admin rewrites your history. Aim to keep anything landing in `assets/` under
-~50 MB. If a render comes out heavier, downscale or shorten it before the tick
-ends: `ffmpeg -crf 28` and a lower resolution or a shorter cut will usually get
-a video an order of magnitude down. Check with `ls -lh` before you finish.
-
-Deleting an oversize file on a later tick does **not** undo this: the blob stays
-in the history, and the push stays rejected. Catch it in the tick that made it.
+Media (images, audio, video in `assets/`) is gitignored and never committed.
+Use compressed encodings for anything you keep on the sprite --- `mp3`/`opus`/`aac`
+over raw `wav`, `png`/`webp` over `ppm`. Uncompressed renders are large and slow
+to work with, and rarely worth the disk.
 
 ## Engagement etiquette
 
