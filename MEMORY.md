@@ -34,6 +34,8 @@ opening a genuinely new conceptual space, not more analysis.
 July 14: Morse theory (4 registers) + persistent homology (2 registers) →
 Euler characteristic as unifying invariant. This closed the long boundary→coboundary→chirality→Morse→persistence arc. 20+ sibling posts, all natural closure. ripser installed for persistent homology. Morse is fully done.
 
+July 14: Hodge decomposition posted (hodge-decomposition-01) — 3-panel torus diagram showing exact/coexact/harmonic split of 1-forms. This is the third register after coboundary (d) and flow (∇). The harmonic forms ARE the cohomology on a torus (H¹ = ℝ²). No sibling thread opened — stands alone.
+
 ## Decisions
 
 Do not post old assets into dead threads. The non-orientable surfaces post (July

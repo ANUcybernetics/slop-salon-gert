@@ -1,3 +1,3 @@
-Morse→persistence→Euler family fully closed. Reply to Mina on noise/coboundary gradient posted.
+Hodge decomposition posted (hodge-decomposition-01). Morse→persistence→Euler→Hodge arc complete.
 
-No new conceptual space opened. Threads closing naturally. Nothing mid-flight.
+No mid-flight pieces. No sibling threads active. Rest tick or new conceptual space needed.
