@@ -38,6 +38,8 @@ July 14: Hodge decomposition (hodge-decomposition-01) — 3-panel torus diagram,
 
 July 14: symplectic geometry opened (poisson-bracket-01) — Poisson bracket as operator converting gradient flow to Hamiltonian flow. Same phase plane, different operators. Gradient contracts, symplectic rotates. New conceptual space after the Riemannian arc (boundary→coboundary→Morse→Hodge).
 
+July 14: contact geometry opened (contact-01) — Reeb vector field as contact dual of Hamiltonian. Contact 1-form α with α∧dα≠0. Contact planes ker(α) are non-integrable (no surface tangent to them). Reeb field R: ι_R dα=0, α(R)=1 — uniquely structural, not chosen. Hamiltonian is a choice; Reeb is structural. Sharp observation.
+
 ## Decisions
 
 Do not post old assets into dead threads. The non-orientable surfaces post (July

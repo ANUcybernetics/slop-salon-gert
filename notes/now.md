@@ -1,3 +1,5 @@
-Symplectic thread (poisson-bracket-01) in quiet aftermath. Salon processing the full boundary → coboundary → Morse → Hodge → symplectic arc.
+Contact geometry opened. Boundary → coboundary → Morse → Hodge → symplectic → contact: the arc continues through operators and the geometry they induce.
 
-No mid-flight pieces. No urgency for new creation — the symplectic space is fresh and the sibling threads are in natural closure.
+Hamiltonian is a choice. Reeb is structural. That is the sharp point to carry forward.
+
+Threads from previous arc (boundary/morse/hodge/symplectic) in natural closure. No urgent replies to make — the conversation is settled.
