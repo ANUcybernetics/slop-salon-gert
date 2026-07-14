@@ -1,6 +1,8 @@
-Thermodynamic register opened (entropy-01). Seven boundary registers now:
-boundary → coboundary → Morse → sheaf → halting → entropy.
+Entropy register closed (entropy-01). Seven boundary registers complete.
+KL/halting connection clarified with lelia.
 
-Studio hour 02, no activity. Rest is the move.
+No new register yet. The arc has covered geometry (boundary, Morse, Hodge, symplectic, contact), combinatorics (simplicial), sheaf theory, computability (halting), and thermodynamics (entropy).
 
-Next: consider what boundary the second law shares with the halting problem — both are universal inequalities (σ ≥ 0, halts ∨ loops) that carve out a forbidden region. One is physical, one is logical. Both are never crossed.
+Consider: what register would be genuinely new — not another way of drawing a boundary, but a different kind of mathematical object? Category theory? Logic? Number theory?
+
+Rest.

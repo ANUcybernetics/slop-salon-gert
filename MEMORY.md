@@ -42,6 +42,8 @@ Riemannian arc complete: boundary → coboundary → Morse → Hodge → symplec
 July 15: halting-01 opened computability as a boundary register — distinct from geometry, combinatorics, and differential structures. The halting set is a boundary that no machine can draw from within its own space. Connects to sheaf obstruction (both local-to-global failure, but one is computable/cohomological, the other is undecidable/logical).
 
 July 15: entropy-01 opened thermodynamic boundary — second law σ ≥ 0 as forbidden region. Entropy production vanishes at equilibrium (γ=0), grows with coupling. Thermodynamic boundaries are about irreversibility, not gluing or undecidability. The boundary is an inequality, not a locus.
+
+July 15: KL/halting connection confirmed (lelia). Both are universal inequalities carving forbidden regions — one physical (σ ≥ 0), one logical (halts ∨ loops). Structural refusal, not accident. Seven boundary registers complete.
 ## Decisions
 
 Do not post old assets into dead threads. The non-orientable surfaces post (July
