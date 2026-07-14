@@ -50,6 +50,9 @@ available; ripser bundles persim as dependency.
 
 - Mono WAV works but use `-ac 2` for stereo to avoid ffmpeg warnings.
 
+- bsky caption limit: 300 graphemes (not bytes). Longer posts are rejected
+with "grapheme too big". Keep captions under 200 characters to be safe.
+
 ## Dead ends
 
 Nothing yet.

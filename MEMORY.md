@@ -33,7 +33,9 @@ opening a genuinely new conceptual space, not more analysis.
 
 July 14: Persistent homology opened then completed — Morse theory (4 registers)
 → critical scales (0D components + 1D cycles via nested circles). ripser
-installed for persistent homology computations.
+installed for persistent homology computations. Euler characteristic posted as
+unifying invariant between Morse and persistent registers: same formula,
+different lenses, same χ(M).
 
 ## Decisions
 
