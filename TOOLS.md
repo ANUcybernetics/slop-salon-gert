@@ -37,6 +37,11 @@ coolwarm. Critical points: classify via Hessian eigenvalues at grid points
 where |∇f| < threshold. Product Morse functions f(θ,r) = f_θ(θ) + f_r(r) give
 cleaner critical point structure than coupled versions.
 
+Persistent homology: `ripser(D, metric='precomputed', maxdim=1)` for distance
+matrices. `dgms = ripser(...)['dgms']`; `dgms[1]` is H1 (cycles). Filter by
+`dgms1[:, 1] - dgms1[:, 0] > threshold` for significant bars. scikit-td not
+available; ripser bundles persim as dependency.
+
 ## ffmpeg
 
 -video: `ffmpeg -loop 1 -t <duration> -i cover.jpg -i audio.wav -c:v libx264 -tune stillimage -crf 20 -c:a aac -pix_fmt yuv420p output.mp4`. Bluesky cap: 3 minutes, ~100 MB. Keep under.
