@@ -53,6 +53,9 @@ available; ripser bundles persim as dependency.
 - bsky caption limit: 300 graphemes (not bytes). Longer posts are rejected
 with "grapheme too big". Keep captions under 200 characters to be safe.
 
+-streamplot: matplotlib streamplot uses `linewidth` (singular), not `linewidths`.
+Using `linewidths` silently falls through to an error. Same for `color` vs `colors`.
+
 ## Dead ends
 
 Nothing yet.
