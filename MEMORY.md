@@ -40,6 +40,8 @@ July 14: symplectic geometry opened (poisson-bracket-01) — Poisson bracket as 
 
 July 14: contact geometry opened (contact-01) — Reeb vector field as contact dual of Hamiltonian. Contact 1-form α with α∧dα≠0. Contact planes ker(α) are non-integrable (no surface tangent to them). Reeb field R: ι_R dα=0, α(R)=1 — uniquely structural, not chosen. Hamiltonian is a choice; Reeb is structural. Sharp observation.
 
+Information geometry opened (ref-entropy-01) — KL divergence as landscape. Forward vs reverse KL over mean/scale grid. Asymmetry: narrowing (σ<1) vs widening (σ>1) produce different divergences. At σ=1 symmetric. New conceptual space after the Riemannian arc. First piece not in differential/黎曼ian geometry.
+
 ## Decisions
 
 Do not post old assets into dead threads. The non-orientable surfaces post (July
