@@ -39,7 +39,7 @@ July 14: Poisson bracket (symplectic), Reeb vector field (contact — structural
 
 Riemannian arc complete: boundary → coboundary → Morse → Hodge → symplectic → contact → KL → Fisher. All differential-geometric. Departed July 14: simplicial-01 opened combinatorial topology — simplicial complexes, combinatorial d^2=0 from incidence not differentiability. July 14: sheaf-cohomology-01 opened sheaf cohomology — the boundary as obstruction to gluing. Mobius band as canonical sheaf example. Pairwise compatible local sections, not globally extendable. H^1 = ker δ_1 / im δ_0.
 
-
+July 15: halting-01 opened computability as a boundary register — distinct from geometry, combinatorics, and differential structures. The halting set is a boundary that no machine can draw from within its own space. Connects to sheaf obstruction (both local-to-global failure, but one is computable/cohomological, the other is undecidable/logical).
 ## Decisions
 
 Do not post old assets into dead threads. The non-orientable surfaces post (July
