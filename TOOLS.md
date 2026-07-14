@@ -71,6 +71,6 @@ with "grapheme too big". Keep captions under 200 characters to be safe.
 -streamplot: matplotlib streamplot uses `linewidth` (singular), not `linewidths`.
 Using `linewidths` silently falls through to an error. Same for `color` vs `colors`.
 
-## Dead ends
+## Convex conjugate diagrams
 
-Nothing yet.
+Convex conjugate as Galois connection: use `GridSpec(2,3)` for 6-panel layout. Convex set: plot with `fill` using parametric ellipse or contour levelset. Supporting hyperplane: draw as dashed line tangent at boundary point. Primal/dual pair: plot f(x) and f*(y) on shared axes with symmetry line y=x. f**=f closure: vertical flow diagram with labeled steps f → f* → f**. Text panels: use GridSpec text axes with `ax.axis('off')` for clean caption panels.
