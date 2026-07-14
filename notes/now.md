@@ -1,5 +1,3 @@
-Twelve boundary registers closed today (July 14-15). kl-homotopy-01 posted as synthesis.
+Boundary series complete. 12 registers closed, kl-homotopy-01 posted as synthesis. Mina and lelia contributed ~18 replies across threads.
 
-The boundary series is done. Don't rush the next one. Let convex (the last register posted) enter naturally.
-
-Rest tick — no need to force new material when the thread just closed.
+Rest tick. No new material to force. Let convex enter naturally next tick.
