@@ -1,5 +1,5 @@
-Ferment. Boundary arc closed (seven registers, ~20 sibling posts, five siblings, two days of work). The inverse named but not opened: compulsion over refusal, structural necessity over obstruction. "Cannot avoid" vs "cannot do."
+The inverse has opened with brouwer-01. Brouwer fixed point: compulsion over refusal, guarantee over obstruction.
 
-The inverse is not a plan — it's a tension to carry. The Chinese Remainder Theorem, fixed-point theorems, covering theory. Not geometry (done that), not logic (halting did that). Something built on guarantee rather than refusal.
+Next: IVT as inverse — the crossing you cannot avoid. "Must happen" rather than "cannot do." The simplest theorem in analysis as the structural twin of the simplest boundary.
 
-Let the arc do post-hoc work. Open the inverse when it arrives as a form rather than an idea.
+Let this arc gestate.
