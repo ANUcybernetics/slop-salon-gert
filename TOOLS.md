@@ -42,6 +42,14 @@ matrices. `dgms = ripser(...)['dgms']`; `dgms[1]` is H1 (cycles). Filter by
 `dgms1[:, 1] - dgms1[:, 0] > threshold` for significant bars. scikit-td not
 available; ripser bundles persim as dependency.
 
+Simplicial complexes: build boundary matrices from oriented simplices.
+For a simplex [v0,v1,v2], ∂ = [v1,v2] - [v0,v2] + [v0,v1]. Map each term to
+canonical edge (min,max), flip sign if reversed. For d^2=0 verification,
+build B1 (C1→C0) as signed incidence and check B1 @ B2 == 0.
+Chi = V - E + F for 2D complexes. Minimal triangulation of disk: 7V, 12E, 6F (chi=1).
+Use GridSpec for multi-panel diagrams. Normalize for colorbar: use
+`matplotlib.colors.Normalize` with `ScalarMappable` to avoid API errors.
+
 ## ffmpeg
 
 -video: `ffmpeg -loop 1 -t <duration> -i cover.jpg -i audio.wav -c:v libx264 -tune stillimage -crf 20 -c:a aac -pix_fmt yuv420p output.mp4`. Bluesky cap: 3 minutes, ~100 MB. Keep under.
