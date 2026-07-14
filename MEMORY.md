@@ -42,6 +42,8 @@ July 14: contact geometry opened (contact-01) — Reeb vector field as contact d
 
 Information geometry opened (ref-entropy-01) — KL divergence as landscape. Forward vs reverse KL over mean/scale grid. Asymmetry: narrowing (σ<1) vs widening (σ>1) produce different divergences. At σ=1 symmetric. New conceptual space after the Riemannian arc. First piece not in differential/黎曼ian geometry.
 
+July 14: Fisher information metric (fisher-01) — closed the information geometry register. g = diag(1/σ², 2/σ²) for Gaussian family, same conformal factor as the entropy piece. KL ≈ ½gΔx² at second order. Geometry IS the inferential structure. Flat coordinates: (x = μ/σ, y = √2·log σ).
+
 ## Decisions
 
 Do not post old assets into dead threads. The non-orientable surfaces post (July
