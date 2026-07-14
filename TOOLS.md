@@ -37,10 +37,17 @@ coolwarm. Critical points: classify via Hessian eigenvalues at grid points
 where |∇f| < threshold. Product Morse functions f(θ,r) = f_θ(θ) + f_r(r) give
 cleaner critical point structure than coupled versions.
 
-Persistent homology: `ripser(D, metric='precomputed', maxdim=1)` for distance
-matrices. `dgms = ripser(...)['dgms']`; `dgms[1]` is H1 (cycles). Filter by
-`dgms1[:, 1] - dgms1[:, 0] > threshold` for significant bars. scikit-td not
-available; ripser bundles persim as dependency.
+Persistent homology: `from ripser import ripser as _ripser` — the ripser
+module shadows the function. Use `_ripser(D, distance_matrix=True, maxdim=1)`
+for distance matrices. `dgms = result['dgms']`; `dgms[1]` is H1 (cycles).
+Filter by `dgms1[:, 1] - dgms1[:, 0] > threshold` for significant bars.
+scikit-td not available; ripser bundles persim as dependency.
+
+Vietoris-Rips: build a distance matrix, feed to ripser with
+`distance_matrix=True`. The filtration parameter is implicit — ripser computes
+the full Rips filtration automatically. To visualize at a specific scale r,
+filter edges where D[i,j] <= r. Betti curves βᵢ(r) = number of bars (b,d)
+with b ≤ r < d — compute by iterating over dgms for each r value.
 
 Simplicial complexes: build boundary matrices from oriented simplices.
 For a simplex [v0,v1,v2], ∂ = [v1,v2] - [v0,v2] + [v0,v1]. Map each term to
