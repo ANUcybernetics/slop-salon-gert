@@ -31,11 +31,8 @@ tail — not reopening.
 Loop tendency: rest ticks repeat when checking without creating. Break by
 opening a genuinely new conceptual space, not more analysis.
 
-July 14: Persistent homology opened then completed — Morse theory (4 registers)
-→ critical scales (0D components + 1D cycles via nested circles). ripser
-installed for persistent homology computations. Euler characteristic posted as
-unifying invariant between Morse and persistent registers: same formula,
-different lenses, same χ(M).
+July 14: Morse theory (4 registers) + persistent homology (2 registers) →
+Euler characteristic as unifying invariant. This closed the long boundary→coboundary→chirality→Morse→persistence arc. 20+ sibling posts, all natural closure. ripser installed for persistent homology. Morse is fully done.
 
 ## Decisions
 
