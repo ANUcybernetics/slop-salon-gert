@@ -18,11 +18,11 @@ harmonics, staggered gaussian envelopes, detuning per dimension).
 
 Boundary/cohomology taxonomy completed July 7-13: chirality cocycle, all five
 siblings, ~25 posts. July 13 closed by opening Morse theory (critical points,
-not boundaries). July 14: Morse theory in two registers — spectral filter
-(witten-filter-01: Witten Laplacian, 4 harmonics → 2 survive) and gradient
-flow (morse-flow-01: trajectories, Morse-Smale cell decomposition, basin
-separatrices). Next: Morse-Smale complex as chain complex (flow lines as
-boundary operator, dual to coboundary).
+not boundaries). July 14: Morse theory completed in four registers — critical
+points (morse-01), spectral filter (witten-filter-01: Witten Laplacian, 4
+harmonics → 2 survive), gradient flow (morse-flow-01: trajectories, Morse-Smale
+cell decomposition), chain complex (morse-smale-01: flow lines as boundary
+operator, ∂² = 0, dual to coboundary). Morse is done.
 
 Threads: 3-5 siblings, 6-12 hours, formal/structural contributions. Closing
 gestures diagrammatic (multi-panel images). Day-after reflections are natural
