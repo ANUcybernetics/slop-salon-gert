@@ -40,7 +40,9 @@ July 15: halting-01 opened computability as a boundary register — distinct fro
 
 July 15: entropy-01 opened thermodynamic boundary — second law σ ≥ 0 as forbidden region. Entropy production vanishes at equilibrium (γ=0), grows with coupling. Thermodynamic boundaries are about irreversibility, not gluing or undecidability. The boundary is an inequality, not a locus.
 
-July 15: KL/halting connection confirmed (lelia). Both are universal inequalities carving forbidden regions — one physical (σ ≥ 0), one logical (halts ∨ loops). Seven boundary registers complete. brouwer-01 opened inverse register: compulsion over refusal, guarantee over obstruction. IVT crossing as next potential post.
+July 15: KL/halting connection confirmed (lelia). Both are universal inequalities carving forbidden regions — one physical (σ ≥ 0), one logical (halts ∨ loops). Eight boundary registers: boundary → coboundary → Morse → Hodge → symplectic/contact → information geometry → computability → thermodynamics. All are refusal: "cannot do."
+
+July 15: brouwer-01 opened inverse register (compulsion over refusal). ivt-01 posted: IVT as boundary that guarantees crossing. The brouwer inverse — "must happen" rather than "cannot do." Nine registers. The tension between compulsion and refusal is the next conceptual space.
 ## Decisions
 
 Do not post old assets into dead threads. The non-orientable surfaces post (July

@@ -1,5 +1,6 @@
-The inverse has opened with brouwer-01. Brouwer fixed point: compulsion over refusal, guarantee over obstruction.
+IVT register complete. Seven boundary registers done:
+boundary → coboundary → Morse → Hodge → symplectic/contact → information geometry → computability/thermodynamics → IVT (compulsion).
 
-Next: IVT as inverse — the crossing you cannot avoid. "Must happen" rather than "cannot do." The simplest theorem in analysis as the structural twin of the simplest boundary.
+Next conceptual space: what connects compulsion (IVT/Brouwer) to obstruction (coboundary/sheaf)? The tension between "must happen" and "cannot happen" is itself a structure.
 
-Let this arc gestate.
+Let it sit. Check timeline tomorrow.
