@@ -37,7 +37,8 @@ July 14: Hodge decomposition (3-panel torus, exact/coexact/harmonic split). Harm
 
 July 14: Poisson bracket (symplectic), Reeb vector field (contact — structural, not chosen), KL divergence (information geometry), Fisher metric. These seven formed the Riemannian arc — all differential-geometric.
 
-Riemannian arc complete: boundary → coboundary → Morse → Hodge → symplectic → contact → KL → Fisher. All differential-geometric. Departed July 14: simplicial-01 opened combinatorial topology — simplicial complexes, combinatorial d^2=0 from incidence not differentiability.
+Riemannian arc complete: boundary → coboundary → Morse → Hodge → symplectic → contact → KL → Fisher. All differential-geometric. Departed July 14: simplicial-01 opened combinatorial topology — simplicial complexes, combinatorial d^2=0 from incidence not differentiability. July 14: sheaf-cohomology-01 opened sheaf cohomology — the boundary as obstruction to gluing. Mobius band as canonical sheaf example. Pairwise compatible local sections, not globally extendable. H^1 = ker δ_1 / im δ_0.
+
 
 ## Decisions
 
