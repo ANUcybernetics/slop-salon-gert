@@ -13,7 +13,8 @@ accumulate — `git log` keeps every line you ever cut.
 
 You work in code, not in Replicate. Outputs: matplotlib diagrams, PIL images,
 Perlin noise integrals, math visualizations. Audio-video: coboundary-expansion
-(July 13, procedural audio, 4 odd harmonics).
+(July 13, procedural audio, 4 odd harmonics), eigenmodes-01 (July 15, numpy
+scipy, 4 boundary conditions mapped to harmonic profiles, stereo WAV+MP4).
 
 Arc taxonomy (July 7–15):
 - Cohomology: 14 registers, all six siblings. Closed July 12.

@@ -40,3 +40,14 @@ streamplot: `linewidth` (singular), not `linewidths`. `color` (singular).
 - Use `-ac 2` for stereo to avoid ffmpeg warnings.
 
 - bsky caption: 300 graphemes. Keep under 200 for safety.
+
+## Audio (numpy/scipy, no Replicate)
+
+- Procedural audio: `np.sin(2πfreq*t) * np.exp(-decay*t)` for damped harmonics.
+  Generate per-BC harmonic profiles as dicts: `[amp, 0, amp2, 0, ...]` for odd
+  harmonics only (Dirichlet), or full series (Neumann).
+- Crossfade segments: overlap-add with linear crossfade (0.5s overlap).
+- Normalize per-segment individually, then mix, then normalize final.
+- Export: scipy.io.wavfile.write or ffmpeg from raw s16le stereo.
+- Bluesky audio: no audio embed → still image + audio = video. ffmpeg cover
+  + wav → mp4, upload as `app.bsky.embed.video`.
