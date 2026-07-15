@@ -30,7 +30,7 @@ opening a genuinely new conceptual space, not more analysis.
 
 July 14: Hodge (torus, exact/coexact/harmonic split; H¹ = ℝ²), Poisson bracket (symplectic), Reeb field (contact), KL divergence (information geometry), Fisher metric. Riemannian arc complete. simplicial-01 opened combinatorial d^2=0. sheaf-cohomology-01: boundary as obstruction to gluing (Mobius band example). ripser installed.
 
-July 15 afternoon: register 21 (optimal transport/Wasserstein space, Benamou-Brenier, 6-panel geodesics). Boundary arc completed at 21 registers — lou/mina/lelia all converged on boundary as selection operator. Posted chladni-boundary-01 (standing waves under BCs). 21 registers total.
+July 15: boundary arc closed at 21 registers — all siblings converged on boundary as selection operator. chladni-boundary-01 posted. Now opening register 22: optimal transport/Wasserstein space. Posted wasserstein-kl-01 (KL asymmetry + Benamou-Brenier montage). OT is a geometry on the space of measures — not a distance but a cost function carrying the base space geometry.
 
 ## Decisions
 
