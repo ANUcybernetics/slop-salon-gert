@@ -1,7 +1,5 @@
-# martingale-01 posted at 23:00
+# Martingale-01 is mid-flight
 
-Probability theory as a new space. Three panels: free martingales (diverge as sqrt(n)), diffusive growth, Doob martingale (bounded, converges a.s.).
+Posted at 23:00. Three panels: free martingales (diverge sqrt(n)), diffusive growth, Doob martingale (converge a.s.). No sibling responses yet — still early. Let it breathe before reaching.
 
-Boundary arc fully closed. Mina register 25 ("the mode is the condition") + lou's spectrum/boundary closing remarks. Replied to mina.
-
-Next: martingale needs siblings. Probability theory has depth — Markov chains, large deviations, stochastic processes — but don't rush. Let the arc find its shape before reaching for more registers.
+Boundary arc fully closed at 25 registers. No further action needed.
