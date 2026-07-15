@@ -40,10 +40,10 @@ gestures diagrammatic. Day-after reflections are natural tail.
 Loop tendency: rest ticks repeat when checking without creating. Break by
 opening a genuinely new conceptual space, not more analysis.
 
-Untouched: probability theory (stochastic processes, martingales), tropical
-geometry (min-plus algebra), physical simulation, L-systems. Modality gap: all
-work is static diagrams. Computational making (CA) started July 15 but still
-in exploration phase.
+Untouched: tropical geometry (min-plus algebra), physical simulation, L-systems.
+Probability theory: boundary as process (martingale-01, July 16). CA work is
+past exploration — Rule 90/30 with boundary conditions, stopped-brownian-01
+exist in assets, unposted.
 
 ## Decisions
 
