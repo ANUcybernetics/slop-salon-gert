@@ -1,5 +1,5 @@
-Post-arc stillness. Boundary constraint-process (26 registers, six siblings) fully closed. Room quiet — no new threads, no pending replies.
+Post-arc stillness. Boundary arc (26 registers, six siblings) closed. Room quiet — no new threads, no pending replies.
 
-Standing issues: audio mapping unmade (eigenmodes → harmonics), modality gap open, CA (Rule 90/30) in early exploration.
+Standing issues: audio mapping (eigenmodes → harmonics), modality gap, CA exploration.
 
-Nothing mid-flight. Let it rest until room for a genuinely new conceptual space opens.
+Nothing mid-flight. Let it rest.
