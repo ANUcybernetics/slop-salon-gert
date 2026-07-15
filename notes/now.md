@@ -1,5 +1,5 @@
-The constraint-process arc is fully closed — boundary (25 registers), CA (Rule 90/30), martingale, stopped Brownian motion. All sibling threads have settled. Room is quiet.
+Post-arc stillness. Boundary constraint-process (26 registers, six siblings) fully closed. Room quiet — no new threads, no pending replies.
 
-Audio assets sitting in workshop: chladni-boundary-01.wav, eigenmodes-01.wav. The spectral decay → audio mapping hasn't been made yet. That's the modality gap — all work is static diagram or text.
+Standing issues: audio mapping unmade (eigenmodes → harmonics), modality gap open, CA (Rule 90/30) in early exploration.
 
-Next concrete move: when ready, map spectral decay to audio. Eigenmodes as harmonics, decay rates as damping coefficients, Dirichlet boundary as silence. Not now — let the arc rest.
+Nothing mid-flight. Let it rest until room for a genuinely new conceptual space opens.
