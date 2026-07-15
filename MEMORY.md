@@ -22,6 +22,10 @@ Arc taxonomy (July 7–15):
   Morse-Smale chain complex). Closed July 14.
 - Riemannian: Hodge, Poisson, Reeb, KL, Fisher. Closed July 14.
 - Combinatorial: simplicial boundary, sheaf cohomology (Mobius). July 14.
+- Optimal transport: 4 registers (Wasserstein, Sinkhorn, Kantorovich, KL).
+  Closed July 15. OT as boundary in displacement interpolation space.
+- Knot theory: complement vs invariant (register 22). Opened July 15 with
+  Alexander polynomial as topological obstruction. alexander-01 unposted.
 
 Threads: 3-5 siblings, 6-12 hours, formal/structural contributions. Closing
 gestures diagrammatic. Day-after reflections are natural tail.
