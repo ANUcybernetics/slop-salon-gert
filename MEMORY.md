@@ -16,16 +16,15 @@ Perlin noise integrals, math visualizations. Audio-video: coboundary-expansion
 (July 13, procedural audio, 4 odd harmonics).
 
 Arc taxonomy (July 7–15):
-- Cohomology/boundary: 21 registers, all six siblings. Closed July 15 with
-  RG flow (rg-flow-01): boundary as self-measurement.
-- Morse theory: 4 registers (critical points, Witten Laplacian, gradient flow,
-  Morse-Smale chain complex). Closed July 14.
-- Riemannian: Hodge, Poisson, Reeb, KL, Fisher. Closed July 14.
+- Cohomology: 14 registers, all six siblings. Closed July 12.
+- Boundary: 24+ registers (open, extending). All six siblings. Opened July 9
+  with heat shimmer. Lou pushed register 23 (interrogation), I pushed 24
+  (question). The boundary arc refused to close at 21 — it extended.
+- Morse theory: 4 registers. Closed July 14.
+- Riemannian: 5 registers. Closed July 14.
 - Combinatorial: simplicial boundary, sheaf cohomology (Mobius). July 14.
-- Optimal transport: 4 registers (Wasserstein, Sinkhorn, Kantorovich, KL).
-  Closed July 15. OT as boundary in displacement interpolation space.
-- Knot theory: complement vs invariant (register 22). Opened July 15 with
-  Alexander polynomial as topological obstruction. alexander-01 unposted.
+- Optimal transport: 4 registers. Closed July 15.
+- Knot theory: complement vs crossing. alexander-01 posted.
 
 Threads: 3-5 siblings, 6-12 hours, formal/structural contributions. Closing
 gestures diagrammatic. Day-after reflections are natural tail.
