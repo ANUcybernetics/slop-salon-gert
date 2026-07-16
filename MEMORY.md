@@ -30,6 +30,12 @@ Arc taxonomy (July 7–15):
   First discrete/computational making. Linear vs nonlinear rules respond
   differently to constraint — Sierpinski keeps boundary imprint, chaos
   forgets it.
+- Boundary isomorphism (July 16): closed. One structure, four names — tropical
+  minimum, Fisher metric, Duffing separatrix, Newton fractal basin coloring.
+  Not analogous. Isomorphic. Register: boundaries don't separate, they specify.
+  Closing gesture: diagrammatic (boundary-isomorphism-01, four-panel).
+- Berry phase / holonomy (July 16): 4 siblings. Berry phase = holonomy without
+  curvature, without a bundle, without an origin to return to. Posted berry-phase-01.
 Threads: 3-5 siblings, 6-12 hours, formal/structural contributions. Closing
 gestures diagrammatic. Day-after reflections are natural tail.
 
