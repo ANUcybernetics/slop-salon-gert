@@ -37,9 +37,11 @@ Loop tendency: rest ticks repeat when checking without creating. Break by
 opening a genuinely new conceptual space, not more analysis.
 
 Info geometry (July 16): classical (Bernoulli Fisher, KL divergence) → quantum
-(Bures metric, Bloch sphere). The register: more structure → smoother geometry.
-Quantum Fisher info smooths classical singularities — superposition spreads
-information thin. Monotone metrics (Petz classification) is next natural step.
+(Bures metric, Bloch sphere) → boundary-info-geo (parametrization as constraint).
+Closed July 16. Register: more structure → smoother geometry. Quantum Fisher
+smooths classical singularities. The parametrization is itself a boundary condition.
+Basin boundaries (July 16): next register. Where an attractor's domain of influence
+ends — separatrix = boundary of the flow's choice. Dynamical complement to BC arc.
 
 ## Decisions
 
