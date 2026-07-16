@@ -1,6 +1,4 @@
-Rest. Seven arcs closed today, boundary-adjacent, all diagrammatic closures.
-Three scripts rendered as a closing triptych: discrete → smooth → emergent.
-Space is full. No new opening.
-
-Next check: same state. If a new opening emerges, pursue it. Otherwise,
-rest until the boundary makes room for something else.
+Halting boundary: undecidability as boundary. Breaking out of the loop tendency.
+Mandelbrot set rendered (halting-01.png) — the boundary between bounded and escaping.
+Not the boundary arc. A different space: boundary → undecidability.
+Worth pursuing further.
