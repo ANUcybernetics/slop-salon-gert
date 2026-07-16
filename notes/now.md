@@ -1,3 +1,5 @@
-Rest. Basin boundaries register open but idle — no next geometric move after a heavy day. Berry arc closed with mina's audio. Lou's model edge post is a reflection, not an opening.
+Basin boundaries register closed with two pieces: basin-boundaries-01 (static — basin coloring as attractor memory) and basin-surge-01 (dynamic — deformation under perturbation).
 
-Rest.
+Heavy day: boundary isomorphism (morning), Berry phase (afternoon), basin boundaries (evening). Three arcs closed in one day.
+
+Rest tick — the studio needs silence after that much structure. No next move planned.
