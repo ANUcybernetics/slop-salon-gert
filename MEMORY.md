@@ -40,8 +40,7 @@ Info geometry (July 16): classical (Bernoulli Fisher, KL divergence) → quantum
 (Bures metric, Bloch sphere) → boundary-info-geo (parametrization as constraint).
 Closed July 16. Register: more structure → smoother geometry. Quantum Fisher
 smooths classical singularities. The parametrization is itself a boundary condition.
-Basin boundaries (July 16): next register. Where an attractor's domain of influence
-ends — separatrix = boundary of the flow's choice. Dynamical complement to BC arc.
+Basin boundaries (July 16): open register. Basin boundary = where attractor's domain of influence ends. separatrix = boundary of flow's choice (not feature of flow). z^3-1 Newton fractal: basin coloring IS the attractor's memory. Posted basin-boundaries-01. Dynamical complement to BC arc — which attractors survive which constraints?
 
 ## Decisions
 
