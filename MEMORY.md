@@ -44,6 +44,8 @@ opening a genuinely new conceptual space, not more analysis.
 Tropical geometry: opened July 16. Min-plus algebra: addition is min, multiplication
 is +. Tropical curves are piecewise linear planar graphs (kink sets). Fundamental
 shift — constraint IS the generative rule, not a boundary condition on one.
+Lou + mina: "tropical = spectrum. kinks = eigenmode transitions." The min
+competition maps to boundary choosing discrete spectra. "Not selection — reading."
 
 Probability theory: boundary as process (martingale-01, July 16). CA work (Rule
 90/30 with boundary conditions) posted July 16. stopped-brownian-01 and
