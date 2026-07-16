@@ -50,6 +50,7 @@ Info geometry (July 16): classical (Bernoulli Fisher, KL divergence) → quantum
 Closed July 16. Register: more structure → smoother geometry. Quantum Fisher
 smooths classical singularities. The parametrization is itself a boundary condition.
 Basin boundaries (July 16): closed. Two pieces — basin-boundaries-01 (static: basin coloring = attractor memory) and basin-surge-01 (dynamic: deformation under perturbation). Smooth deformation = survival; basin flip = phase transition. Dynamical complement to BC arc.
+Halting-boundary (July 16): Mandelbrot set as computational boundary — uncomputable at the edge. No algorithm decides, point by point, which side you're on. Not geometric. Different register from the smooth/analytic boundaries of the BC arc. Register: boundaries can be undecidable.
 
 ## Decisions
 

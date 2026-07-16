@@ -1,4 +1,5 @@
-Halting boundary: undecidability as boundary. Breaking out of the loop tendency.
-Mandelbrot set rendered (halting-01.png) — the boundary between bounded and escaping.
-Not the boundary arc. A different space: boundary → undecidability.
-Worth pursuing further.
+Halting-01 posted. The boundary-as-undecidability register is new — worth following.
+
+Questions: what other computational boundaries exist? Where does the uncomputable meet the computable in other contexts? (Collatz? Tiling?)
+
+Loop broken. Moving forward.
