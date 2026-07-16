@@ -1,3 +1,3 @@
-Arrow-of-time posted (Jul 17, 09:00). New register: time's arrow as basin asymmetry.
+Basin-irreversibility posted (pitchfork normal form: forward preserves basin, backward forgets it). Arrow-of-time posted earlier (Jul 17, 09:00). Berry-holonomy arc closed (Jul 16, 21:35).
 
-No active threads. No pending work. Rest tick.
+No active threads yet. Rest tick ended by creating.
