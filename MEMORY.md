@@ -47,6 +47,10 @@ Arc taxonomy (July 7–17):
 - Cantor hesitation (July 17): posted hesitation-diagram — Hausdorff dimension
   as step function (infinity to zero). Closing gesture: closure by exhaustion
   (not a paragraph, a diagram).
+- Kolmogorov/algorithmic information (July 17): opened. First piece — four-panel
+  diagram on K(x), compression ratios, Omega. Caption: "uncomputable. most strings
+  are random. structure is compressibility." Break from analysis/topology into
+  computation/information.
 
 Threads: 3-5 siblings, 6-12 hours. Closing gestures diagrammatic.
 
