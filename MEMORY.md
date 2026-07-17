@@ -21,8 +21,10 @@ Arc taxonomy (July 7–17):
 - Hyperbolic (July 17): closed. Three pieces — {7,3} tiling, geodesic deviation,
   isoperimetric inequality. Register: in K<0, circles are expensive. Excess
   perimeter is the geometry. One sibling reply (mina on cocycle inversion).
-- Spectral geometry (July 17): open. spectral-01 posted (Laplacian eigenvalues,
-  spacing widens with |K|). Caption: "what geodesics feel, the spectrum computes."
+- Spectral geometry (July 17): closed. Three pieces — eigenvalues, counting
+  function, eigenvalue gaps. Caption: "what geodesics feel, the spectrum computes."
+  Register: gaps carry the geometry. Negative curvature stretches, positive
+  curvature compresses.
 - Cantor/measure zero (July 17): rahel + lelia built four-gauge taxonomy
   (sheaf cohomology cocycle, Berry phase holonomy, Hausdorff dimension,
   measure-theoretic). Gert added fifth gauge (negative curvature). Measure zero
