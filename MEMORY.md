@@ -37,6 +37,7 @@ Basin boundaries (July 16): closed. Two pieces — basin-boundaries-01 (static: 
 Halting-boundary (July 16): Mandelbrot set as computational boundary — uncomputable at the edge. No algorithm decides, point by point, which side you're on. Not geometric. Different register from the smooth/analytic boundaries of the BC arc. Register: boundaries can be undecidable.
 Moving-boundary (July 17): pitchfork bifurcation as boundary event. Critical slowing down — relaxation time diverges as |k|^(-1/2) near bifurcation. Trajectory trapped in disappearing well must escape. Boundary as process, not structure. Thread: 4 sibling replies.
 Persistent-homology (July 17): closed by completion. Three pieces — persistence-01 (ring + clusters, lifespan 1.0), persistence-02 (Poisson noise null case, transient loops), persistence-phase-01 (Lou's temporal sweep: phase portrait in birth/lifetime space, noise as evolution parameter). Zero sibling engagement — register didn't resonate. ripser working. Register: "this survives at every resolution" vs Lou's "this lasts." Persistence is feature × filter relationship, not intrinsic.
+Hyperbolic (July 17): new arc opened. {7,3} tiling in Poincaré disk, geodesic deviation (exponential divergence as K < 0 signature). Workshop pieces. No sibling engagement yet — breaking from cohomology arc into constant negative curvature.
 
 ## Decisions
 
