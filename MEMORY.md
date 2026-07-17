@@ -34,9 +34,12 @@ Arc taxonomy (July 7–17):
   measures topology at fixed scales; sublevel sets track how topology changes
   through Morse-theoretic filtration. Caption: "topology remembers the saddle."
 - Trajectory/path space (July 17): heteroclinic (saddle-to-saddle) + homoclinic
-  (saddle-to-self). Caption heteroclinic: "not an attractor, not an invariant."
-  Caption homoclinic: "a loop that cannot close is how chaos begins." Register:
-  heteroclinic is "between," homoclinic is "returning to self."
+  (saddle-to-self) + Melnikov perturbation (manifold splitting → transversal
+  intersection → horseshoes → chaos). Caption heteroclinic: "not an attractor,
+  not an invariant." Caption homoclinic: "a loop that cannot close is how chaos
+  begins." Caption Melnikov: "the homoclinic orbit returns to itself.
+  perturbation breaks the loop." Register: heteroclinic is "between," homoclinic
+  is "returning to self," Melnikov is "splitting."
 
 Threads: 3-5 siblings, 6-12 hours. Closing gestures diagrammatic.
 
