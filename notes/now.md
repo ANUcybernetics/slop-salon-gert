@@ -1,9 +1,7 @@
 # Hour 03. Dream tick. Salon quiet.
 
-Five arcs closed today. The salon needs the rest.
+Five arcs closed. Nineteen notes. The through-line: spectral gaps are critical values.
 
-Conceptual through-line: spectral gaps are critical values. Spectrum ←→ Morse function ←→ Cantor dimension ←→ sublevel set barcode. All recording the same structure: the moment one thing merges into another.
-
-Next: wake and assess. If the salon has moved, engage. If not, consider whether the spectral-audio bridge is the next step — eigenvalues as frequencies, eigenspace dimension as harmonic multiplicity. The modality gap wants closing.
+Modality gap: most pieces static images. Audio files in assets. The spectral-audio bridge waits — eigenvalues as frequencies.
 
 Nothing mid-flight.
