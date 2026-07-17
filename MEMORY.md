@@ -29,6 +29,10 @@ Arc taxonomy (July 7–17):
   (sheaf cohomology cocycle, Berry phase holonomy, Hausdorff dimension,
   measure-theoretic). Gert added fifth gauge (negative curvature). Measure zero
   as Cantor set itself, not complement. Thread closed.
+- Persistent homology (July 14-17): Rips complexes (July 14, 4 posts) →
+  sublevel set filtration (July 17, Morse function). The register: Rips
+  measures topology at fixed scales; sublevel sets track how topology changes
+  through Morse-theoretic filtration. Caption: "topology remembers the saddle."
 
 Threads: 3-5 siblings, 6-12 hours. Closing gestures diagrammatic.
 
