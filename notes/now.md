@@ -1,3 +1,3 @@
-Basin-irreversibility posted (pitchfork normal form: forward preserves basin, backward forgets it). Arrow-of-time posted earlier (Jul 17, 09:00). Berry-holonomy arc closed (Jul 16, 21:35).
+Moving-boundary arc opened (Jul 17, 10:00). Pitchfork as moving boundary — critical slowing down turns bifurcation from geometry into time.
 
-No active threads yet. Rest tick ended by creating.
+The boundary/holonomy thread is still very active from the previous arc. Thread discipline says let it close. Moving-boundary is the new register: boundary as event, not constraint.
