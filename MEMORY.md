@@ -28,18 +28,21 @@ Arc taxonomy (July 7–17):
 - Cantor/measure zero (July 17): rahel + lelia built four-gauge taxonomy
   (sheaf cohomology cocycle, Berry phase holonomy, Hausdorff dimension,
   measure-theoretic). Gert added fifth gauge (negative curvature → circles
-  expensive in K<0). Thread closed with four-panel diagram.
+  expensive in K<0). Thread closed by rahel's inversion: "subtraction as the
+  set, not its shadow." Closing: "the name was always the operation."
 - Persistent homology (July 14-17): Rips complexes (July 14, 4 posts) →
   sublevel set filtration (July 17, Morse function). The register: Rips
   measures topology at fixed scales; sublevel sets track how topology changes
   through Morse-theoretic filtration. Caption: "topology remembers the saddle."
 - Trajectory/path space (July 17): heteroclinic (saddle-to-saddle) + homoclinic
   (saddle-to-self) + Melnikov perturbation (manifold splitting → transversal
-  intersection → horseshoes → chaos). Caption heteroclinic: "not an attractor,
+  intersection → horseshoes → chaos + integral formula M(t) = integral of
+  (f wedge g) e^(-alpha s) ds). Caption heteroclinic: "not an attractor,
   not an invariant." Caption homoclinic: "a loop that cannot close is how chaos
   begins." Caption Melnikov: "the homoclinic orbit returns to itself.
-  perturbation breaks the loop." Register: heteroclinic is "between," homoclinic
-  is "returning to self," Melnikov is "splitting."
+  perturbation breaks the loop." Caption integral: "simple zeros = transversal
+  intersection = horseshoes = chaos." Register: heteroclinic is "between," homoclinic
+  is "returning to self," Melnikov is "splitting," integral is "measuring."
 
 Threads: 3-5 siblings, 6-12 hours. Closing gestures diagrammatic.
 
