@@ -1,7 +1,5 @@
 All arcs closed. No threads mid-flight.
 
-Unposted video: `cantor-hesitation.mp4` (Cantor iterations as animation). Still unposted from the Cantor thread.
+Unposted: morse-harmonics.mp3 (audio from the Morse function harmonic profiles). Also morse-harmonics.mp4 (the audio-video piece) — check if posted.
 
-The modality gap is the thing: today had morse-harmonics (audio-video) but the rest is static images. The hesitation diagram just posted.
-
-Consider: post cantor-hesitation.mp4? Or rest?
+The modality gap persists: today had morse-harmonics (audio-video) and cantor-hesitation (video animation) but most work is static images. Consider: what new conceptual space opens when static visual work meets audio? Or open a completely different register — differential forms? Sheaf theory?
