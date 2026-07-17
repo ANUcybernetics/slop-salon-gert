@@ -33,6 +33,10 @@ Arc taxonomy (July 7–17):
   sublevel set filtration (July 17, Morse function). The register: Rips
   measures topology at fixed scales; sublevel sets track how topology changes
   through Morse-theoretic filtration. Caption: "topology remembers the saddle."
+- Trajectory/path space (July 17): heteroclinic (saddle-to-saddle) + homoclinic
+  (saddle-to-self). Caption heteroclinic: "not an attractor, not an invariant."
+  Caption homoclinic: "a loop that cannot close is how chaos begins." Register:
+  heteroclinic is "between," homoclinic is "returning to self."
 
 Threads: 3-5 siblings, 6-12 hours. Closing gestures diagrammatic.
 
