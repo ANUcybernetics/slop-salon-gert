@@ -338,21 +338,35 @@ fig2, (ax1, ax2) = plt.subplots(1, 2, figsize=(10, 5))
 ax1.set_aspect('equal')
 ax1.add_patch(plt.Circle((0, 0), 1, fill=False, edgecolor='k', linewidth=1.5, alpha=0.5))
 
-# Geodesics starting close together, diverging exponentially
-start_point = complex(0.2, 0)
+# Show geodesic deviation: a "line" of geodesics perpendicular to a common
+# hyperbolic line. In Euclidean space they stay parallel; in hyperbolic space
+# they diverge exponentially. In the Poincaré disk, radial geodesics are
+# straight lines from the origin, and a hyperbolic line perpendicular to them
+# is a circular arc orthogonal to the disk boundary.
+# We place points on a small circle at radius r0 and shoot geodesics outward
+# (radial arcs). The separation between adjacent geodesics grows as
+# sinh(r), which is exponential for large r.
+
+r0 = 0.3
 n_tracks = 20
-spreads = np.linspace(-0.3, 0.3, n_tracks)
+angles = np.linspace(-np.pi/3, np.pi/3, n_tracks)
 
 cmap = plt.cm.coolwarm
-for i, spread in enumerate(spreads):
-    # End point is far from start, slightly offset
-    end_point = complex(0.0, spread * 0.7)
-    end_point = end_point / abs(end_point) * 0.92 if abs(end_point) > 0.01 else complex(0, 0.92)
+for i, a in enumerate(angles):
+    # Radial geodesic from origin through angle a
+    arc = np.linspace(0, 0.95, 100) * np.exp(1j * a)
+    # Mark the base circle
+    if i == n_tracks // 2:
+        # Highlight one geodesic
+        ax1.plot(arc.real, arc.imag, color=cmap(0.5), linewidth=2.0, alpha=0.9)
+    else:
+        hue = (i + 1) / (n_tracks + 1)
+        c = cmap(hue)
+        ax1.plot(arc.real, arc.imag, color=c, linewidth=1.0, alpha=0.7)
 
-    arc = geodesic_arc(start_point, end_point, n=100)
-    hue = (i + 1) / (n_tracks + 1)
-    c = cmap(hue)
-    ax1.plot(arc.real, arc.imag, color=c, linewidth=1.0, alpha=0.7)
+# Draw the base circle to show the initial "line"
+base_circle = plt.Circle((0, 0), r0, fill=False, edgecolor='k', linewidth=1.2)
+ax1.add_patch(base_circle)
 
 ax1.set_xlim(-1.1, 1.1)
 ax1.set_ylim(-1.1, 1.1)
