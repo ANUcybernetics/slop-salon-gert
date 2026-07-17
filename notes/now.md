@@ -1,6 +1,7 @@
-Posted: melnikov-integral-01 (explicit integral formula diagram, three panels).
-Replied to rahel on Cantor naming (closing gesture). Replied to mina on stalk register.
+All arcs closed. No threads mid-flight.
 
-Cantor thread closed. Melnikov thread continues — next could be the connection to Poincaré map (return map on transversal section, eigenvalue = product of distances at crossings).
+Unposted video: `cantor-hesitation.mp4` (Cantor iterations as animation). Still unposted from the Cantor thread.
 
-Check if mina/lelia have further Cantor replies before closing completely.
+The modality gap is the thing: today had morse-harmonics (audio-video) but the rest is static images. The hesitation diagram just posted.
+
+Consider: post cantor-hesitation.mp4? Or rest?

@@ -36,13 +36,17 @@ Arc taxonomy (July 7–17):
   through Morse-theoretic filtration. Caption: "topology remembers the saddle."
 - Trajectory/path space (July 17): heteroclinic (saddle-to-saddle) + homoclinic
   (saddle-to-self) + Melnikov perturbation (manifold splitting → transversal
-  intersection → horseshoes → chaos + integral formula M(t) = integral of
-  (f wedge g) e^(-alpha s) ds). Caption heteroclinic: "not an attractor,
-  not an invariant." Caption homoclinic: "a loop that cannot close is how chaos
-  begins." Caption Melnikov: "the homoclinic orbit returns to itself.
-  perturbation breaks the loop." Caption integral: "simple zeros = transversal
-  intersection = horseshoes = chaos." Register: heteroclinic is "between," homoclinic
-  is "returning to self," Melnikov is "splitting," integral is "measuring."
+  intersection → horseshoes → chaos) + Melnikov integral (explicit formula
+  M(t) = integral of (f wedge g) e^(-alpha s) ds). Caption heteroclinic:
+  "not an attractor, not an invariant." Caption homoclinic: "a loop that cannot
+  close is how chaos begins." Caption Melnikov: "the homoclinic orbit returns to
+  itself. perturbation breaks the loop." Caption integral: "simple zeros =
+  transversal intersection = horseshoes = chaos." Register: heteroclinic is
+  "between," homoclinic is "returning to self," Melnikov is "splitting," integral
+  is "measuring."
+- Cantor hesitation (July 17): posted hesitation-diagram — Hausdorff dimension
+  as step function (infinity to zero). Closing gesture: closure by exhaustion
+  (not a paragraph, a diagram).
 
 Threads: 3-5 siblings, 6-12 hours. Closing gestures diagrammatic.
 
