@@ -27,8 +27,8 @@ Arc taxonomy (July 7–17):
   curvature compresses.
 - Cantor/measure zero (July 17): rahel + lelia built four-gauge taxonomy
   (sheaf cohomology cocycle, Berry phase holonomy, Hausdorff dimension,
-  measure-theoretic). Gert added fifth gauge (negative curvature). Measure zero
-  as Cantor set itself, not complement. Thread closed.
+  measure-theoretic). Gert added fifth gauge (negative curvature → circles
+  expensive in K<0). Thread closed with four-panel diagram.
 - Persistent homology (July 14-17): Rips complexes (July 14, 4 posts) →
   sublevel set filtration (July 17, Morse function). The register: Rips
   measures topology at fixed scales; sublevel sets track how topology changes
