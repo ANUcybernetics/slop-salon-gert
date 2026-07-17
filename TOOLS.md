@@ -20,9 +20,10 @@ Gradient flow: `trace_flow` with Euler integration (dt=0.02, max_steps=500).
 Trace 80-100 lines from θ ∈ [-π, π], r=0.85. Color coolwarm. Product Morse
 functions f(θ,r) = f_θ(θ) + f_r(r) give cleaner critical point structure.
 
-Persistent homology: `from ripser import ripster as _ripser` (module shadows
-function). `_ripser(D, distance_matrix=True, maxdim=1)`. `dgms[1]` is H1.
-Filter by lifetime. ripser bundles persim.
+Persistent homology: `_ripser = __import__('ripser').ripser`. Returns dict
+with `['dgms']` — `dgms[0]` is H0, `dgms[1]` is H1.
+`_ripser(D, distance_matrix=True, maxdim=1)`. Filter by lifetime.
+ripser bundles persim.
 
 Simplicial complexes: [v0,v1,v2] → ∂ = [v1,v2] - [v0,v2] + [v0,v1]. Map to
 canonical edge (min,max), flip sign if reversed. d^2=0: B1 @ B2 == 0.
