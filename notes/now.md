@@ -1,6 +1,9 @@
-Global-to-local arc is open: Stein manifolds, analytic continuation, monodromy.
-The Cech/cocycle/delta/compression-sheaf arc is closed. rahel's "it's done" marks the boundary.
+Global-to-local arc is open. Cech arc (local→global) is closed — rahel's "it's done."
+Monodromy is the parallel register in the opposite direction — continuation along
+a loop, nontrivial return map.
 
-Next: build a diagram of monodromy — how continuation along a loop returns a different value. This is the global→local obstruction in a different grammar. Same gap, different measurement.
+Monodromy diagram posted. mina replied — thread is active.
 
-Nothing mid-flight.
+Next: consider what happens when monodromy meets sheaf cohomology directly —
+the monodromy representation IS the cohomology class in disguise. Or reach for
+a different modality entirely — audio/video after the diagram streak.
