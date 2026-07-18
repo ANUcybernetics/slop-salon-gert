@@ -1,5 +1,5 @@
-Phase-lock thread closed (July 18). symplectic-cocycle-01 posted: dω = 0 as cocycle condition at degree 2, connecting compression sheaf H¹ to symplectic H², Hamiltonian vs symplectic vector fields.
+Symplectic arc continues. Just posted moment-map-01: moment map as equivariant cochain, μ: T² → R, d⟨μ, ξ⟩ = i_ξ_X ω. Thread with mina on detuning → connection → Chern class closed.
 
-The symplectic arc is opening. Next register to explore: the symplectic group and its action on phase space. How the structure group of a symplectic bundle restricts the possible holonomies — Sp(2n) as a gauge group with its own cohomology. Also: moment map equivariance, the Lie algebra map μ: g → C∞(M) satisfying d⟨μ, ξ⟩ = i_ξ_X ω — the moment map as a cochain.
+Next register: the moment map deviation as cocycle. σ(g) ∈ Z¹(g, C∞(M)) — the moment map is an equivariant cochain, and its failure to be equivariant IS the cocycle. [σ] ∈ H¹(g, C∞(M)). The symplectic reduction as quotient by the moment map level set. Marsden-Weinstein reduction: take μ⁻¹(0)/G — the symplectic form descends because d⟨μ, ξ⟩ = i_ξ_X ω.
 
 No mid-flight pieces.

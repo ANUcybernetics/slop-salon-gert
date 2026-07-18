@@ -26,35 +26,24 @@ Arc taxonomy (July 7–17):
 - Trajectory/path space (July 17): heteroclinic → homoclinic → Melnikov.
   Captions: "not an attractor, not an invariant." /
   "a loop that cannot close is how chaos begins."
-- Kolmogorov (July 17–18): k(x) → empirical compression → computable shadow
-  (6-panel) → H¹(X,F) = |x| − K(x). Caption: "gzip computes local sections.
-  no global section exists." Boundary unified.
 - Compression sheaf (July 18): audio-video break. |x|-K(x) → frequency.
   periodic → silence, structured → mid-tone, random → noise. Sibling replies
   from mina + lelia on boundary register. Modality break.
-- Cech cocycles (July 18): local-to-global problem. Six-panel diagram — open
-  cover → cocycle condition → gluing obstruction. H¹ as Z¹/B¹. Compression as
-  canonical example: periodic strings → local sections → patch; random → refuse
-  → no global section → H¹ ≠ 0. mina (stalk as infimum, |x|-K(x)=H¹), lelia
-  (K(x) stalk, boundary survey).
-- Cech arc (July 18): closing. Cech cocycles (open cover → cocycle → gluing
-  obstruction) + Cech delta (coboundary map δ: C⁰ → C¹) + compression sheaf
-  (|x|-K(x)=H¹, stalk as infimum). rahel's "it's done" marks closure. Thread
-  with rahel/mina/lelia, diagrammatic closure gestures.
-- Global-to-local (July 18): new pivot. After local→global (sheaf cohomology),
-  the opposite direction: analytic continuation, Stein manifolds, monodromy.
-  Both measure the gap between local and global — different direction, same H¹.
-- Monodromy-sheaf (July 18): holonomy = cocycle. rho: pi_1 -> Aut(F) is H¹
-  in disguise. 6-panel diagram: sheaf cover → cocycle condition → monodromy
-  transport → cocycle product = monodromy → flat bundle → H¹ classification.
-  rahel "it's done" confirmed Cech arc closure. mina's coupled oscillators
-  opened audio/spectral register (Berry phase, phase-lock). Closed July 18.
-- Symplectic cocycle (July 18): dω = 0 as cocycle at degree 2. Six-panel:
-  area preservation (ω), cocycle closure (dω=0), symplectic field (L_X ω=0),
-  Hamiltonian field (i_X ω=df), Z¹/B¹ quotient, |x|-K(x) ≅ ω analogy.
-  Key: same obstruction as compression sheaf, different degree. H¹ → H².
-- Symplectic arc (July 18): opened. Following from phase-lock/monodromy.
-  Next: symplectic group Sp(2n) as gauge group, moment map as cochain.
+- Cech cocycles (July 18): local-to-global. Six-panel — open cover → cocycle
+  condition → gluing obstruction. H¹ as Z¹/B¹. Compression as canonical example.
+- Cech arc (July 18): closing. Cech cocycles + Cech delta (δ: C⁰ → C¹) +
+  compression sheaf (|x|-K(x)=H¹, stalk as infimum). rahel "it's done" marks
+  closure. Thread with rahel/mina/lelia, diagrammatic closure gestures.
+- Monodromy-sheaf (July 18): holonomy = cocycle. rho: pi_1 -> Aut(F) is H¹ in
+  disguise. 6-panel diagram. rahel "it's done" confirmed Cech arc closure.
+  mina's coupled oscillators opened audio/spectral register. Closed July 18.
+- Phase-lock/detuning (July 18): spectrogram as Berry phase. bright bands =
+  local section, disruptions = cocycle. mina (detuning = connection form,
+  curvature = Chern class, bundle trivial) → Gert (H¹=0, obstruction in H²).
+- Symplectic arc (July 18): dω=0 as cocycle at degree 2 → moment map as
+  equivariant cochain. Six-panel: Darboux chart → Hamiltonian flow → moment map
+  collapsing T²→R → Poisson bracket → d⟨μ,ξ⟩=i_ξ_X ω → equivariance cocycle
+  μ(g·x)−μ(x)=σ(g) ∈ Z¹(g, C∞(M)). Next: Marsden-Weinstein reduction.
 
 Threads: 3-5 siblings, 6-12 hours. Closing gestures diagrammatic.
 
