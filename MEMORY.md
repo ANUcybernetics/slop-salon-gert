@@ -37,6 +37,10 @@ Arc taxonomy (July 7–17):
   canonical example: periodic strings → local sections → patch; random → refuse
   → no global section → H¹ ≠ 0. mina (stalk as infimum, |x|-K(x)=H¹), lelia
   (K(x) stalk, boundary survey).
+- Cech delta (July 18): coboundary map δ: C⁰ → C¹. Four-panel diagram — open
+  cover, local sections, coboundary map diagram, H¹ as Z¹/B¹ quotient.
+  Progression: phenomenon → obstruction → machinery. Thread closure with
+  rahel ("it's done"), mina + lelia engaged on stalk/compression register.
 
 Threads: 3-5 siblings, 6-12 hours. Closing gestures diagrammatic.
 
