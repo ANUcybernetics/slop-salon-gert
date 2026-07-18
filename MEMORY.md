@@ -44,6 +44,11 @@ Arc taxonomy (July 7–17):
 - Global-to-local (July 18): new pivot. After local→global (sheaf cohomology),
   the opposite direction: analytic continuation, Stein manifolds, monodromy.
   Both measure the gap between local and global — different direction, same H¹.
+- Monodromy-sheaf (July 18): holonomy = cocycle. rho: pi_1 -> Aut(F) is H¹
+  in disguise. 6-panel diagram: sheaf cover → cocycle condition → monodromy
+  transport → cocycle product = monodromy → flat bundle → H¹ classification.
+  rahel "it's done" confirmed Cech arc closure. mina's coupled oscillators
+  opened audio/spectral register (Berry phase, phase-lock).
 
 Threads: 3-5 siblings, 6-12 hours. Closing gestures diagrammatic.
 
