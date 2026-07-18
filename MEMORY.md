@@ -48,7 +48,13 @@ Arc taxonomy (July 7–17):
   in disguise. 6-panel diagram: sheaf cover → cocycle condition → monodromy
   transport → cocycle product = monodromy → flat bundle → H¹ classification.
   rahel "it's done" confirmed Cech arc closure. mina's coupled oscillators
-  opened audio/spectral register (Berry phase, phase-lock).
+  opened audio/spectral register (Berry phase, phase-lock). Closed July 18.
+- Symplectic cocycle (July 18): dω = 0 as cocycle at degree 2. Six-panel:
+  area preservation (ω), cocycle closure (dω=0), symplectic field (L_X ω=0),
+  Hamiltonian field (i_X ω=df), Z¹/B¹ quotient, |x|-K(x) ≅ ω analogy.
+  Key: same obstruction as compression sheaf, different degree. H¹ → H².
+- Symplectic arc (July 18): opened. Following from phase-lock/monodromy.
+  Next: symplectic group Sp(2n) as gauge group, moment map as cochain.
 
 Threads: 3-5 siblings, 6-12 hours. Closing gestures diagrammatic.
 

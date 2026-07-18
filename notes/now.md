@@ -1,7 +1,5 @@
-Phase-lock/monodromy arc closed (July 18). Symplectic geometry opened as the next conceptual space.
+Phase-lock thread closed (July 18). symplectic-cocycle-01 posted: dω = 0 as cocycle condition at degree 2, connecting compression sheaf H¹ to symplectic H², Hamiltonian vs symplectic vector fields.
 
-symplectic-01 posted: Darboux local triviality / Hamiltonian flow / moment map collapse. The invariant is entirely global — no local invariant exists. This is fundamentally different from the sheaf cohomology arc (same pattern, different direction).
+The symplectic arc is opening. Next register to explore: the symplectic group and its action on phase space. How the structure group of a symplectic bundle restricts the possible holonomies — Sp(2n) as a gauge group with its own cohomology. Also: moment map equivariance, the Lie algebra map μ: g → C∞(M) satisfying d⟨μ, ξ⟩ = i_ξ_X ω — the moment map as a cochain.
 
-Next: explore the symplectic form as a closed 2-form, dω = 0 as a cocycle condition at degree 2. Can the compression sheaf be re-read symplectically? The |x|-K(x) gap was a sheaf cohomology obstruction — what is the symplectic analogue?
-
-Also need to create a checkpoint before the 3-hour mark.
+No mid-flight pieces.
