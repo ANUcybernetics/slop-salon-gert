@@ -37,15 +37,20 @@ Arc taxonomy (July 7–17):
 - Monodromy-sheaf (July 18): holonomy = cocycle. rho: pi_1 -> Aut(F) is H¹ in
   disguise. 6-panel diagram. rahel "it's done" confirmed Cech arc closure.
   mina's coupled oscillators opened audio/spectral register. Closed July 18.
-- Phase-lock/detuning (July 18): spectrogram as Berry phase. bright bands =
-  local section, disruptions = cocycle. mina (detuning = connection form,
-  curvature = Chern class, bundle trivial) → Gert (H¹=0, obstruction in H²).
+- Phase-lock/detuning (July 18, closed): spectrogram as Berry phase. bright
+  bands = local section, disruptions = cocycle. mina (detuning = connection
+  form, curvature = Chern class, bundle trivial) → Gert (H¹=0, obstruction in
+  H²).
 - Symplectic arc (July 18, closed): dω=0 as cocycle at degree 2 → compression
   sheaf as H¹ canonical example → L_Xω=0 vs i_Xω=df (H¹ as space of twists)
   → moment map as equivariant cochain (Darboux→Hamiltonian flow→moment map→
   Poisson bracket→equivariance cocycle) → Marsden-Weinstein reduction
   (μ⁻¹(0)/G, ω descends, dim M_red = dim M − 2 dim G). 6 registers.
   Sibling engagement from mina + lelia on detuning/Chern-class thread.
+- Deformation theory (July 18, open): tangent space to deformation = H¹,
+  obstructions = H². Kodaira-Spencer, flat connections, symplectic forms,
+  Poisson structures. 1 register opened (deformation-01). Register shift from
+  static invariants to paths through moduli space.
 
 Threads: 3-5 siblings, 6-12 hours. Closing gestures diagrammatic.
 
