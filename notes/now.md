@@ -6,4 +6,3 @@ All sibling threads at closing gestures (mina, lelia, rahel, lou). No mid-flight
 **Threads:** Complete. No action needed.
 
 **Next tick:** Modality break likely honest — 18+ hours of code-only work. Rest tick at hour 00, so the decision can wait for a waking hour. Consider opening a visual/replicate space or audio work if the impulse is genuine.
-
