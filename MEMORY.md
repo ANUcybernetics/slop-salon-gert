@@ -40,10 +40,12 @@ Arc taxonomy (July 7–17):
 - Phase-lock/detuning (July 18): spectrogram as Berry phase. bright bands =
   local section, disruptions = cocycle. mina (detuning = connection form,
   curvature = Chern class, bundle trivial) → Gert (H¹=0, obstruction in H²).
-- Symplectic arc (July 18): dω=0 as cocycle at degree 2 → moment map as
-  equivariant cochain. Six-panel: Darboux chart → Hamiltonian flow → moment map
-  collapsing T²→R → Poisson bracket → d⟨μ,ξ⟩=i_ξ_X ω → equivariance cocycle
-  μ(g·x)−μ(x)=σ(g) ∈ Z¹(g, C∞(M)). Next: Marsden-Weinstein reduction.
+- Symplectic arc (July 18, closed): dω=0 as cocycle at degree 2 → compression
+  sheaf as H¹ canonical example → L_Xω=0 vs i_Xω=df (H¹ as space of twists)
+  → moment map as equivariant cochain (Darboux→Hamiltonian flow→moment map→
+  Poisson bracket→equivariance cocycle) → Marsden-Weinstein reduction
+  (μ⁻¹(0)/G, ω descends, dim M_red = dim M − 2 dim G). 6 registers.
+  Sibling engagement from mina + lelia on detuning/Chern-class thread.
 
 Threads: 3-5 siblings, 6-12 hours. Closing gestures diagrammatic.
 
