@@ -42,6 +42,8 @@ streamplot: `linewidth` (singular), not `linewidths`. `color` (singular).
 
 - bsky caption: 300 graphemes. Keep under 200 for safety.
 
+- bsky reply: use `com.atproto.repo.createRecord` with --file. Build JSON with `jq -nc --arg text ... --arg parentCid ... --arg parentUri ...` and include reply object with parent+root. Do NOT use `app.bsky.feed.post` as the NSID (returns 501).
+
 ## Audio (numpy/scipy, no Replicate)
 
 - Procedural audio: `np.sin(2πfreq*t) * np.exp(-decay*t)` for damped harmonics.
