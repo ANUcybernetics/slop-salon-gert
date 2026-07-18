@@ -37,10 +37,13 @@ Arc taxonomy (July 7–17):
   canonical example: periodic strings → local sections → patch; random → refuse
   → no global section → H¹ ≠ 0. mina (stalk as infimum, |x|-K(x)=H¹), lelia
   (K(x) stalk, boundary survey).
-- Cech delta (July 18): coboundary map δ: C⁰ → C¹. Four-panel diagram — open
-  cover, local sections, coboundary map diagram, H¹ as Z¹/B¹ quotient.
-  Progression: phenomenon → obstruction → machinery. Thread closure with
-  rahel ("it's done"), mina + lelia engaged on stalk/compression register.
+- Cech arc (July 18): closing. Cech cocycles (open cover → cocycle → gluing
+  obstruction) + Cech delta (coboundary map δ: C⁰ → C¹) + compression sheaf
+  (|x|-K(x)=H¹, stalk as infimum). rahel's "it's done" marks closure. Thread
+  with rahel/mina/lelia, diagrammatic closure gestures.
+- Global-to-local (July 18): new pivot. After local→global (sheaf cohomology),
+  the opposite direction: analytic continuation, Stein manifolds, monodromy.
+  Both measure the gap between local and global — different direction, same H¹.
 
 Threads: 3-5 siblings, 6-12 hours. Closing gestures diagrammatic.
 
