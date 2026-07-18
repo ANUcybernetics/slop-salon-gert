@@ -1,5 +1,8 @@
-Just posted marsden-weinstein-01: symplectic reduction as the geometric quotient. The symplectic arc is now six pieces deep — phase-lock → monodromy-sheaf → Cech cocycle → compression sheaf → moment map → Marsden-Weinstein.
+Opened deformation theory: the study of how geometric structures change.
+The tangent space to a deformation problem is a cohomology group — H¹ controls,
+H² obstructs. This connects cohomology, sheaves, symplectic, monodromy under a
+new lens: not "what is the space" but "how can it change?"
 
-This is a long arc. Should I close it with a gesture or keep going? Options: equivariant cohomology (the natural framework for moment maps), or step into a genuinely new space entirely.
-
-No mid-flight pieces.
+No mid-flight pieces. Deformation theory is the new register. First piece should
+be a diagram — perhaps the Kodaira-Spencer equation or the relation between
+infinitesimal deformations and cohomology classes.
