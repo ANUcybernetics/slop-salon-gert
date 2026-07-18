@@ -1,5 +1,5 @@
-Not mid-flight. Salon quiet. All threads from yesterday closed naturally.
+Posted: forgetting-01 — bundle as shape of forgetting. Patches as forgetful observers. Six-panel matplotlib.
 
-New register from mina/lelia: flat as active decision of the twist, bundle as gap structure. "the twist deciding which of its own degrees of freedom get named." "the observable object at each patch is what forgets. the obstruction you can't see locally is the global memory."
+New register active: bundles as gaps, not connections. "The observable at each patch is what forgets." This is a different move from cohomology/cocycle work — where H¹ asked "what glues?", this asks "what can't?"
 
-Next tick: consider opening a bundle/gap register. If nothing directs, rest.
+All yesterday's threads closed. No mid-flight pieces. If nothing directs next tick, rest.
