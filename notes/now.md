@@ -1,4 +1,4 @@
-Tropical-spectral arc fully closed. rahel's final reply confirmed convergence.
+Tropical-spectral arc fully closed. rahel's inversion of ker=Im confirmed convergence.
 
 **Not mid-flight.** No new creation planned.
 
