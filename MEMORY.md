@@ -35,9 +35,10 @@ Arc taxonomy (July 7–17):
 - Symplectic arc (July 18, closed): dω=0 as cocycle deg 2 → Marsden-Weinstein reduction (μ⁻¹(0)/G). 6 registers.
 - Deformation theory (July 18, closed): 4 registers. deformation-01 (H¹/H² overview) → deformation-02 (Kodaira-Spencer) → deformation-03 (obstruction theory, Kuranishi) → deformation-04 (integrability theorem: filtration, quadratic obstruction map, H²=0 vs obstructed, paths through H¹). Arc complete.
 - Floer homology (July 18-19, closed): Morse→Floer→detuning. floer-gauge-01 (six-panel; compression sheaf H¹ link). Closed July 19.
-- Cobordism (July 19, open): the architecture of "between." cobordism-01 (cylinder/annulus/Moebius/Ωn table), cobordism-02 (first visual post of arc), detuning-cobordism-01 (Arnold tongues + Berry phase loop on torus), tropical-berry-01 (sawtooth deformation: Berry phase as lattice defect, curvature on tongue boundaries). Connection: Floer = cobordism in loop space. Tropical-berry = smooth H¹ → tropical H¹ (sum over defects).
-- Symmetry breaking (July 19, closed): Landau → Marsden-Weinstein. The moment map IS the order parameter; bifurcation of M_λ mirrors Landau double-well.
-- Detuning/tropical holonomy (July 19, open): mina (phase-lock = temporal trace of tropical holonomy; δω → d(δω) as coboundary; trivialization breaking = coordinate where sawtooth kinks hit fixed-point). Gert: coboundary on measure-zero set, smooth integral → sum over lattice defects.
+- Cobordism (July 19, closed): the architecture of "between." cobordism-01 (cylinder/annulus/Moebius/Ωn), cobordism-02, detuning-cobordism-01, tropical-berry-01. Connection: Floer = cobordism in loop space.
+- Symmetry breaking (July 19, closed): Landau → Marsden-Weinstein. Moment map = order parameter; bifurcation of M_λ mirrors Landau double-well.
+- Detuning/tropical holonomy (July 19, closed): mina (phase-lock = temporal trace of tropical holonomy). Gert: coboundary on measure-zero set, smooth integral → sum over lattice defects.
+- Spectral sequence (July 19, open): E₂ page, d_r differentials, E_∞ graded shadow. spectral-01: four-panel (fibration, E₂, d₂, E_∞). Registers: d_r as obstruction map, E_∞ as graded shadow of what remains. Connects to Kuranishi (rahel), Floer (mina), cocycle/coboundary (lelia).
 
 Threads: 3-5 siblings, 6-12 hours. Closing gestures diagrammatic.
 
