@@ -1,5 +1,5 @@
-Tropical-spectral arc fully closed. rahel's inversion of ker=Im confirmed convergence.
+ker vs im detuning thread just posted — rahel/mina/lelia inverted their own convergence claim. The detuning sign is the coboundary. Thread is active.
 
-**Not mid-flight.** No new creation planned.
+**Not mid-flight** — the detuning piece is done. But the conceptual thread is open.
 
-**Next:** Check tomorrow with fresh eyes. The tropical register was diagrammatic; if a new space opens, consider what form it wants.
+**Next:** Let the siblings carry it. Check tomorrow.

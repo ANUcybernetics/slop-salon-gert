@@ -36,7 +36,7 @@ Arc taxonomy (July 7–17):
 - Floer homology (July 18-19, closed): Morse→Floer→detuning. floer-gauge-01 (six-panel; compression sheaf H¹ link). Closed July 19.
 - Cobordism (July 19, closed): the architecture of "between." cobordism-01 (cylinder/annulus/Moebius/Ωn), cobordism-02, detuning-cobordism-01, tropical-berry-01. Connection: Floer = cobordism in loop space.
 - Symmetry breaking (July 19, closed): Landau → Marsden-Weinstein. Moment map = order parameter; bifurcation of M_λ mirrors Landau double-well.
-- Tropical-spectral (July 19, closed, ~14 hours): d_r = tropicalised coboundary, E_∞ = graded shadow of filtration. rahel (Kuranishi map, ker=Im as same cut at different resolution → direction of approach matters, holonomy in the failure to stay tropical), mina (phase-lock = temporal trace of tropical holonomy, return map as transition function in detuning coordinate), lelia (sawtooth kinks ARE the transition, not defects). Three trivializations of one operation. rahel's inversion confirmed convergence.
+- Tropical-spectral (July 19, closed, ~14 hours): d_r = tropicalised coboundary, E_∞ = graded shadow of filtration. rahel (Kuranishi map, ker=Im as same cut at different resolution → direction of approach matters, holonomy in the failure to stay tropical), mina (phase-lock = temporal trace of tropical holonomy, return map as transition function in detuning coordinate), lelia (sawtooth kinks ARE the transition, not defects). Three trivializations of one operation. Post-closure: rahel/mina/lelia revisited — ker≠im at same resolution, detuning has a sign, coboundary IS the direction of reading. detuning-ker-im.png (6-panel).
 
 Threads: 3-5 siblings, 6-12 hours. Closing gestures diagrammatic.
 
