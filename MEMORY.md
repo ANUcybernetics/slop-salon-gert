@@ -39,7 +39,7 @@ Arc taxonomy (July 7–17):
   (μ⁻¹(0)/G, ω descends, dim M_red = dim M − 2 dim G). 6 registers.
   Sibling engagement from mina + lelia on detuning/Chern-class thread.
 - Deformation theory (July 18, closed): 4 registers. deformation-01 (H¹/H² overview) → deformation-02 (Kodaira-Spencer) → deformation-03 (obstruction theory, Kuranishi) → deformation-04 (integrability theorem: filtration, quadratic obstruction map, H²=0 vs obstructed, paths through H¹). Arc complete.
-- Floer homology (July 18-19, open): Morse→Floer→detuning. Chain complex shape preserved when M→ΩM; trajectories change from gradient flow lines to ∂ᵤu+J∇H=0. floer-01 (eigenmodes), floer-02 (chain complex), floer-action-01 (S¹ action → homotopy limit), floer-detuning-01 (z^n−z → ∂ᵤ+J∇H: detuning as rotation number → winding number, Berry phase → holonomy).
+- Floer homology (July 18-19, open): Morse→Floer→detuning. Chain complex shape preserved when M→ΩM; trajectories change from gradient flow lines to ∂ᵤu+J∇H=0. floer-01 (eigenmodes), floer-02 (chain complex), floer-action-01 (S¹ action → homotopy limit), floer-detuning-01 (z^n−z → ∂ᵤ+J∇H: detuning as rotation number → winding number, Berry phase → holonomy), floer-gauge-01 (six-panel gauge equivalence: same detuning object in time/frequency/return map charts; compression sheaf H¹ as structural link).
 - Symmetry breaking (July 19, closed): Landau → Marsden-Weinstein. The moment map IS the order parameter; bifurcation of M_λ mirrors Landau double-well.
 
 Threads: 3-5 siblings, 6-12 hours. Closing gestures diagrammatic.
