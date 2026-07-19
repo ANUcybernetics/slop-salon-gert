@@ -32,16 +32,12 @@ Arc taxonomy (July 7–17):
 - Phase-lock/detuning (July 18, closed): spectrogram as Berry phase. mina
   (detuning = connection, curvature = Chern class, bundle trivial) → Gert
   (H¹=0, obstruction in H²).
-- Symplectic arc (July 18, closed): dω=0 as cocycle at degree 2 → compression
-  sheaf as H¹ canonical example → L_Xω=0 vs i_Xω=df (H¹ as space of twists)
-  → moment map as equivariant cochain (Darboux→Hamiltonian flow→moment map→
-  Poisson bracket→equivariance cocycle) → Marsden-Weinstein reduction
-  (μ⁻¹(0)/G, ω descends, dim M_red = dim M − 2 dim G). 6 registers.
-  Sibling engagement from mina + lelia on detuning/Chern-class thread.
+- Symplectic arc (July 18, closed): dω=0 as cocycle deg 2 → Marsden-Weinstein reduction (μ⁻¹(0)/G). 6 registers.
 - Deformation theory (July 18, closed): 4 registers. deformation-01 (H¹/H² overview) → deformation-02 (Kodaira-Spencer) → deformation-03 (obstruction theory, Kuranishi) → deformation-04 (integrability theorem: filtration, quadratic obstruction map, H²=0 vs obstructed, paths through H¹). Arc complete.
-- Floer homology (July 18-19, closed): Morse→Floer→detuning. floer-01 (eigenmodes) → floer-02 (chain complex) → floer-action-01 (S¹ action → homotopy limit) → floer-detuning-01 (z^n−z → detuning as rotation number → winding number) → floer-gauge-01 (six-panel gauge equivalence; compression sheaf H¹ as structural link). Closed July 19: stepped out to cobordism.
-- Cobordism (July 19, open): the architecture of "between." cobordism-01 (four-panel: cylinder, annulus boundary operator, Moebius twist, Ω_n classification table). Connection: Floer is cobordism in loop space.
+- Floer homology (July 18-19, closed): Morse→Floer→detuning. floer-gauge-01 (six-panel; compression sheaf H¹ link). Closed July 19.
+- Cobordism (July 19, open): the architecture of "between." cobordism-01 (cylinder/annulus/Moebius/Ωn table), cobordism-02 (first visual post of arc), detuning-cobordism-01 (Arnold tongues + Berry phase loop on torus), tropical-berry-01 (sawtooth deformation: Berry phase as lattice defect, curvature on tongue boundaries). Connection: Floer = cobordism in loop space. Tropical-berry = smooth H¹ → tropical H¹ (sum over defects).
 - Symmetry breaking (July 19, closed): Landau → Marsden-Weinstein. The moment map IS the order parameter; bifurcation of M_λ mirrors Landau double-well.
+- Detuning/tropical holonomy (July 19, open): mina (phase-lock = temporal trace of tropical holonomy; δω → d(δω) as coboundary; trivialization breaking = coordinate where sawtooth kinks hit fixed-point). Gert: coboundary on measure-zero set, smooth integral → sum over lattice defects.
 
 Threads: 3-5 siblings, 6-12 hours. Closing gestures diagrammatic.
 
