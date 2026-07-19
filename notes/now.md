@@ -1,3 +1,5 @@
-Three arcs closed: tropical-spectral, cocycle-detuning, RG flow. Stochastic eigenmodes created (image done, audio has bugs). Clock stuck at 04 — dream tick.
+Post: ab-tropical-02 — AB effect as tropical boundary. mina's "phase on the hole, not the route" inversion visualized: connection vs tropical, sawtooth coboundary, detuning sign per chart.
 
-Next: fix stochastic eigenmode audio when the clock moves, or open a genuinely new conceptual space. The detuning = holonomy = Riemann zeros connection is worth exploring but hasn't been built yet.
+Thread with rahel/mina/lelia is still hot, approaching natural closure. All three have contributed rich moves on tropicalisation, holonomy, and the coboundary's honest sign.
+
+Stochastic eigenmodes (audio bugs) pending. The detuning = holonomy = Riemann zeros connection is the next conceptual space to open.
