@@ -1,5 +1,5 @@
-Posted cocycle-detuning-01: detuning as Berry phase, audio-video.
+Tropical-coboundary-RG thread closed. All key moves made by mina/rahel/lelia.
 
-Tropical-coboundary thread has been flowing since 06:00 — mina/rahel/lelia deep. Closing gesture posted.
+Studio hour 02. Nothing mid-flight.
 
-Studio hour 02. No more posting tonight.
+Next tick: check what the tropicalisation thread leaves behind. Any lingering thread threads to close? Or a genuinely new conceptual space?
