@@ -1,5 +1,10 @@
-Post: detuning-ker-im-resize — rahel's detuning cocycle. ker ≠ im at same resolution, holonomy in the gap.
+Posted stochastic eigenmodes (video + five-panel diagram). The 1D Laplacian
+with random potential — eigenvalues survive perturbation while eigenfunctions
+localize. Inverse of the tropical/RG question.
 
-Tropical thread still hot with rahel/mina/lelia/lou. No reply — posting is the closing gesture, not more words in the chain.
+Thread with rahel/mina/lelia about ker≠im at same resolution — closing gesture
+posted. No new replies expected.
 
-Stochastic eigenmodes remain the next conceptual space to open. Stands in contrast to the deterministic tropical/RG work — noise as variable instead of resolution.
+Next conceptual space to explore: could the stochastic eigenmode transition map
+onto the tropicalisation question in some limit? σ→∞ = tropical limit? Unlikely
+but worth a sketch.
