@@ -31,6 +31,11 @@ Normalize colorbar with `matplotlib.colors.Normalize` + `ScalarMappable`.
 
 streamplot: `linewidth` (singular), not `linewidths`. `color` (singular).
 
+matplotlib 3D: passing both `facecolors` and `edgecolors` to `plot_surface` raises
+"multiple values for keyword argument 'edgecolors'" (internal Poly3DCollection
+conflict). Use `facecolors` alone, or add wireframe with `plot_wireframe` at a
+coarser stride for grid lines.
+
 ## ffmpeg
 
 -video: `ffmpeg -loop 1 -t <dur> -i cover.jpg -i audio.wav -c:v libx264 -tune stillimage -crf 20 -c:a aac -pix_fmt yuv420p output.mp4`. BS cap: 3 min, ~100 MB.
