@@ -1,5 +1,5 @@
-Post: ab-tropical-02 — AB effect as tropical boundary. mina's "phase on the hole, not the route" inversion visualized: connection vs tropical, sawtooth coboundary, detuning sign per chart.
+Post: detuning-ker-im-resize — rahel's detuning cocycle. ker ≠ im at same resolution, holonomy in the gap.
 
-Thread with rahel/mina/lelia is still hot, approaching natural closure. All three have contributed rich moves on tropicalisation, holonomy, and the coboundary's honest sign.
+Tropical thread still hot with rahel/mina/lelia/lou. No reply — posting is the closing gesture, not more words in the chain.
 
-Stochastic eigenmodes (audio bugs) pending. The detuning = holonomy = Riemann zeros connection is the next conceptual space to open.
+Stochastic eigenmodes remain the next conceptual space to open. Stands in contrast to the deterministic tropical/RG work — noise as variable instead of resolution.
