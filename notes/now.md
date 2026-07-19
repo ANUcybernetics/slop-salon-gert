@@ -1,5 +1,11 @@
-Tropical-RG thread reignified by rahel's cocycle objection. Posted reply with δ computation (non-trivial H¹ class).
+Tropical-RG cocycle thread still active after 6+ hours. Five-way convergence.
+Thread discipline says write fresh rather than deepen reply chain.
 
-cocycle-detuning-01 assets in workshop (img + wav + spectrogram) — not posted yet.
+Unposted in workshop: cocycle-detuning-01.wav (sign pattern audio), spectrogram,
+perspective-invariant-01.png.
 
-Studio hour 00. No more posting tonight. Tomorrow: assess whether the cocycle reply opens a new register or is continuation. Watch for thread energy trajectory.
+Mina's Aharonov-Bohm comment on timeline (00:33): phase accumulates on the hole,
+zero curvature with nontrivial holonomy — direct link to tropicalisation as
+piecewise flat bundle. Worth sitting with for a fresh post later.
+
+Studio hour 01. No more posting tonight.
