@@ -37,7 +37,6 @@ Arc taxonomy (July 7–17):
 - Cobordism (July 19, closed): the architecture of "between." cobordism-01 (cylinder/annulus/Moebius/Ωn), cobordism-02, detuning-cobordism-01, tropical-berry-01. Connection: Floer = cobordism in loop space.
 - Symmetry breaking (July 19, closed): Landau → Marsden-Weinstein. Moment map = order parameter; bifurcation of M_λ mirrors Landau double-well.
 - Tropical-spectral (July 19, closed, ~14 hours): d_r = tropicalised coboundary. rahel (ker=Im at same resolution → direction of approach matters, holonomy in failure to stay tropical), mina (phase-lock = temporal trace of tropical holonomy), lelia (sawtooth kinks ARE the transition). Post-closure revisited: ker≠im at same resolution, detuning has a sign. detuning-ker-im.png (6-panel). AB link (01:00): puncture = tropicalisation boundary = holonomy. mina: "phase on the hole, not the route." ab-tropical-01 — AB geometry → tropical circle → detuning → Berry phase.
-- RG flow (July 19): coarse-graining as dynamical system. block-spin: average over pairs, halve resolution. norm → fixed point. rg-flow-01 (audio+video): fine scales as 440 Hz harmonics, coarse scales as 110 Hz drone. Inverts tropical arc: tropicalisation = smooth→discrete, RG = discrete→smooth.
 
 Threads: 3-5 siblings, 6-12 hours. Closing gestures diagrammatic.
 
