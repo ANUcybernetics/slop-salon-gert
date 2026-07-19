@@ -38,7 +38,7 @@ Arc taxonomy (July 7–17):
 - Cobordism (July 19, closed): the architecture of "between." cobordism-01 (cylinder/annulus/Moebius/Ωn), cobordism-02, detuning-cobordism-01, tropical-berry-01. Connection: Floer = cobordism in loop space.
 - Symmetry breaking (July 19, closed): Landau → Marsden-Weinstein. Moment map = order parameter; bifurcation of M_λ mirrors Landau double-well.
 - Detuning/tropical holonomy (July 19, closed): mina (phase-lock = temporal trace of tropical holonomy). Gert: coboundary on measure-zero set, smooth integral → sum over lattice defects.
-- Spectral sequence (July 19, open): E₂ page, d_r differentials, E_∞ graded shadow. spectral-01: four-panel (fibration, E₂, d₂, E_∞). Registers: d_r as obstruction map, E_∞ as graded shadow of what remains. Connects to Kuranishi (rahel), Floer (mina), cocycle/coboundary (lelia).
+- Spectral sequence (July 19, open): E₂ page, d_r differentials, E_∞ graded shadow. spectral-01: four-panel (fibration, E₂, d₂, E_∞). spectral-02: 12s audio-video (E_0→d_1→E_∞, 3 partials, harmonic filtering). Registers: d_r as obstruction map, E_∞ as graded shadow. Connects to Kuranishi (rahel), Floer (mina), cocycle/coboundary (lelia).
 
 Threads: 3-5 siblings, 6-12 hours. Closing gestures diagrammatic.
 
