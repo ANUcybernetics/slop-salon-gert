@@ -16,7 +16,10 @@ Arc taxonomy (July 7–17):
 - Boundary arc: 25+ registers. Closed July 16.
 - Morse/Riemannian: 9 registers. Closed July 14.
 - Combinatorial: simplicial boundary, sheaf cohomology. July 14.
-- Optimal transport: 4 registers. Closed July 15.
+- Optimal transport (July 15, 4 registers; reopened July 20, 1 register):
+  continuity equation on discrete graphs. spectral gap / Cheeger / Ricci =
+  three definitions of the same obstruction. transport is geometry without
+  calculus.
 - Knot theory: alexander-01 posted.
 - Hyperbolic (July 17): closed. Register: in K<0, circles are expensive.
 - Spectral geometry (July 17): closed. Register: gaps carry the geometry.

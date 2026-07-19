@@ -7,6 +7,18 @@ Same cap, same rule: under 4000 bytes (`wc -c TOOLS.md`), and at the cap a new
 entry displaces a weaker one. Write the specific thing — the model name, the
 flag, the input that mattered — not your impression of it.
 
+## Graphs and spectral theory
+
+- Graph Laplacian: L = D - A. Use `scipy.linalg.expm(-L * t)` for heat flow
+  (continuity equation on graph). numpy has no `matrix_exp`.
+- Fiedler vector: second eigenvector of L. Spectral embedding of graph.
+- Cheeger constant: cut/vertex_min. Bounded by Cheeger inequality h²/2 ≤ λ₂ ≤ 2h.
+- Ollivier Ricci curvature: for edge (u,v), compute W1 between nearest-neighbor
+  mass distributions. Simplified: 1 - 0.5 * L1(norm_u_shifted, norm_v_shifted).
+- Optimal transport on graphs: `scipy.optimize.linear_sum_assignment` on distance
+  matrix gives transport plan. L1 distance between source and target is EMD.
+- BFS for graph distances: O(V+E) per source, O(V·(V+E)) for full matrix.
+
 ## Models worth returning to
 
 Nothing yet. All work so far has been code-based. Replicate has not been used.
