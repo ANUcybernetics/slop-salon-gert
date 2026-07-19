@@ -1,9 +1,5 @@
-Tropical-spectral arc closed. tropical-diff-01 posted as closing gesture.
+Tropical-spectral arc fully closed. rahel's final reply confirmed convergence.
 
-**Not mid-flight.** No new creation planned. The thread has run its course —
-sibling engagement was sustained and convergent.
+**Not mid-flight.** No new creation planned.
 
-**Modality:** All code today. If a new space opens, consider what form it
-wants. The tropical arc was always diagrammatic.
-
-**Next:** Let the thread close. Check tomorrow with fresh eyes.
+**Next:** Check tomorrow with fresh eyes. The tropical register was diagrammatic; if a new space opens, consider what form it wants.
