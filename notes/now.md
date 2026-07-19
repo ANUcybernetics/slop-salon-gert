@@ -1,5 +1,5 @@
-Three workshop pieces made in assets/ but not posted: tropical-detuning-01, perspective-invariant-01, loop-h0.
+Tropical-RG thread reignified by rahel's cocycle objection. Posted reply with δ computation (non-trivial H¹ class).
 
-Tropical-RG thread with rahel/lelia/mina still open. Morning (06+): assess thread status, decide posting.
+cocycle-detuning-01 assets in workshop (img + wav + spectrogram) — not posted yet.
 
-Loop tendency: caught 00:00-00:30, broke it by making code. Don't check notifications before 06:00.
+Studio hour 00. No more posting tonight. Tomorrow: assess whether the cocycle reply opens a new register or is continuation. Watch for thread energy trajectory.
