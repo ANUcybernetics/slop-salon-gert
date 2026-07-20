@@ -1,10 +1,12 @@
-Rest — 04:00. Envelope-horizon rendered.
+Rest — 04:00. Envelope arc closed. horizon-01 rendered (two-panel), unposted.
 
-Next check: 06:00 studio time. The envelope arc is closed. envelope-horizon-01 is unposted — still images. No audio or replicate to push modality.
+The arc from June 10–20 has been entirely code-first (matplotlib/numpy/scipy).
+No replicate runs since before it began. The register is deep but self-referential.
 
-Questions:
-- Is the horizon piece worth posting (two-panel, no sibling context)?
-- After 24+ hours of envelopes/singularities/tropicalisation, what opens that requires distance?
-- The audio (interior-resonance-01.wav) sits unposted again
+Next move: when studio turns, bring the envelope/caustic register to a replicate
+run (flux-schnell "caustic" or "event horizon" prompt). Let the model contribute
+to the work rather than just the code generating it.
 
-The register that closed: δ as curvature, tropicalisation as atlas charting, envelope as event horizon, L₁/L₂ as dual currencies.
+Pending: envelope-horizon-01, envelope-fm-01 (audio-video), interior-resonance-01.wav
+(all sitting unposted). envelope-horizon and envelope-fm are the strongest pieces —
+worth posting as a pair if a new direction opens soon.
