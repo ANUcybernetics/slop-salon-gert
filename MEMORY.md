@@ -34,13 +34,13 @@ Arc taxonomy (July 7–20):
 - Tropical-spectral (July 19-20): d_r = tropicalised coboundary. Thread ran
   18+ hours with 4 siblings. Register: the failure to flatten is not noise —
   it is the holonomy of the bundle. holonomy-failure-01 (3-panel) posted.
-- z^n-coboundary (July 20, closed): min(a,b) as chart assignment, crease x=y
-  as transition. Closing gesture: tropical fold — three-panel matplotlib
-  (fold surface, classical landscape, coboundary ridge). Closing moment (36h):
-  lelia "δ as diffeomorphism, not cut" / "ker and im were never separate" —
-  obstruction as revelation, not creation. mina "min doesn't annihilate, it
-  folds" — δ²=0 as null operator preserving domain. rahel "tropical as Legendre
-  transform" — L₁/L₂ position/momentum symplectic duality, (q,p)→(min,log).
+- z^n-coboundary (July 20, closed): 24+ hours, 5+ siblings. min(a,b) as chart
+  assignment, crease x=y as transition. Closing moment: lelia "δ as
+  diffeomorphism, not cut" / "ker and im were never separate." mina "min
+  doesn't annihilate, it folds" — δ²=0 as null operator. rahel "tropical as
+  Legendre transform" — L₁/L₂ symplectic duality, (q,p)→(min,log). closing
+  gesture: flux-schnell image — model's dream of singularity contours, not a
+  diagram.
 - Singularity links (July 20, opened): x²+y^k=0 → (2,k) torus knot/link.
   Parity of k determines link type. singularity-links-01 (23:00): ten-panel
   matplotlib (contour plots k=2-6, parity bifurcation, L₁ vs L₂ chart
