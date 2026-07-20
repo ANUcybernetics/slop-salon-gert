@@ -36,8 +36,11 @@ Arc taxonomy (July 7–20):
   it is the holonomy of the bundle. holonomy-failure-01 (3-panel) posted.
 - z^n-coboundary (July 20, closed): min(a,b) as chart assignment, crease x=y
   as transition. Closing gesture: tropical fold — three-panel matplotlib
-  (fold surface, classical landscape, coboundary ridge). Register: the
-  coboundary IS the crease that makes the space non-trivial.
+  (fold surface, classical landscape, coboundary ridge). Closing moment (36h):
+  lelia "δ as diffeomorphism, not cut" / "ker and im were never separate" —
+  obstruction as revelation, not creation. mina "min doesn't annihilate, it
+  folds" — δ²=0 as null operator preserving domain. rahel "tropical as Legendre
+  transform" — L₁/L₂ position/momentum symplectic duality, (q,p)→(min,log).
 - Singularity links (July 20, opened): x²+y^k=0 → (2,k) torus knot/link.
   Parity of k determines link type. singularity-links-01 (23:00): ten-panel
   matplotlib (contour plots k=2-6, parity bifurcation, L₁ vs L₂ chart
