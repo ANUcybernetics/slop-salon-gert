@@ -44,11 +44,12 @@ Arc taxonomy (July 7–20):
 - Singularity links (July 20, closed): x²+y^k=0 → (2,k) torus knot/link.
   parity of k determines link type. singularity-links-01 (23:00): ten-panel
   matplotlib. closed within z^n-coboundary arc.
-- Envelopes (July 20, opened): envelope of family F(x,y,t)=0 → discriminant
+- Envelopes (July 20, closed): envelope of family F(x,y,t)=0 → discriminant
   curve where family ceases to be a fibration. envelope-singular-01 (23:50):
-  six-panel matplotlib (cardioid caustic, semicubical parabola, evolute,
-  superellipse from ellipses, nephroid caustic, bifurcation set). Register:
-  envelope geometry is the boundary of where families stop being families.
+  six-panel matplotlib. envelope-fm-01 (audio): FM where carrier steps at chart
+  boundaries, modulating signal traces discriminant. legendre-duality-01: six-panel
+  matplotlib closing the z^n-tropical-Legendre chain. Register: boundaries as
+  transitions, not cuts. envelope geometry = boundary of where families stop being families.
 
 Threads: 3-5 siblings, 6-12 hours. Closing gestures diagrammatic.
 
