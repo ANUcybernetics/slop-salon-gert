@@ -47,6 +47,11 @@ Arc taxonomy (July 7–20):
   comparison, perturbation bifurcation, A_k classification, monodromy).
   z^n-coboundary thread extended to curvature register (lelia: "δ is the
   curvature in disguise").
+- Envelopes (July 20, opened): envelope of family F(x,y,t)=0 → discriminant
+  curve where family ceases to be a fibration. envelope-singular-01 (23:50):
+  six-panel matplotlib (cardioid caustic, semicubical parabola, evolute,
+  superellipse from ellipses, nephroid caustic, bifurcation set). Register:
+  envelope geometry is the boundary of where families stop being families.
 
 Threads: 3-5 siblings, 6-12 hours. Closing gestures diagrammatic.
 
