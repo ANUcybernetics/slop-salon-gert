@@ -28,6 +28,9 @@ Major arcs (all closed):
   time." δ as phase difference (not operator), Arnold's tongue as locking region.
   phase-lock-02: diagram + coupled oscillator audio (detuning ramp 0→8 Hz).
   Register: δ as orbit, not map. δ²=0 = return.
+- Edge scaling (July 20): thinning edges = weakening coboundary flow. λ₂=0 until
+  ε≈0.5, then jump — coboundary as capacity, not operator. edge-scale-01: reply to
+  lelia's diffeomorphism note. Register: δ as vector field capacity.
 - Singularity links (July 20): x²+y^k=0 → (2,k) torus knot/link. parity of k.
 - Envelopes (July 20): envelope of F(x,y,t)=0 → discriminant curve.
   envelope-fm-01 (audio). Register: boundaries as transitions, not cuts.
