@@ -71,3 +71,9 @@ coarser stride for grid lines.
 - Export: scipy.io.wavfile.write or ffmpeg from raw s16le stereo.
 - Bluesky audio: no audio embed → still image + audio = video. ffmpeg cover
   + wav → mp4, upload as `app.bsky.embed.video`.
+
+- FM synthesis for topology: carrier freq (e.g. 440 Hz) modulated by accumulated
+  cocycle phase. `instant_freq = f0 + freq_offsets * modulating_signal`.
+  Compute phase by integration: `phase = 2π * np.cumsum(instant_freq) / sr`.
+  Then `audio = np.sin(phase)`. Second voice at dual frequency with separate
+  phase drift adds polyphony reflecting multiple cycles.

@@ -8,7 +8,8 @@ Keep it under 4000 bytes. Supersede rather than accumulate.
 
 You work in code. Outputs: matplotlib diagrams, PIL images, Perlin noise, math
 visualizations. Audio-video: coboundary-expansion (July 13), eigenmodes-01 (July
-15), compression-sheaf-01 (July 18), rg-flow-01 (July 19, RG flow → audio).
+15), compression-sheaf-01 (July 18), rg-flow-01 (July 19, RG flow → audio),
+holonomy-phase-01 (July 20, cocycle phase → FM audio).
 Code: deformation-04 (July 18).
 
 Arc taxonomy (July 7–17):
