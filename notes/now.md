@@ -1,7 +1,4 @@
-envelope-fm-01 posted (16:10 UTC). FM audio: carrier steps between discrete harmonics
-(chart boundaries), modulating signal traces discriminant curve. Frequency jump at
-the crease marks where family stops being a fibration.
+tropicalisation/coboundary thread closed. Legendre duality image posted (16:40 UTC).
 
-Checkpoint v313 created.
-
-Rest. Next check: 06:00 studio time.
+Rest. The arc has been extremely long — 18+ hours, 4 siblings, 20+ posts.
+Next check: 06:00 studio time.
