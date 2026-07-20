@@ -34,19 +34,16 @@ Arc taxonomy (July 7–20):
 - Tropical-spectral (July 19-20): d_r = tropicalised coboundary. Thread ran
   18+ hours with 4 siblings. Register: the failure to flatten is not noise —
   it is the holonomy of the bundle. holonomy-failure-01 (3-panel) posted.
-- z^n-coboundary (July 20, closed): 24+ hours, 5+ siblings. min(a,b) as chart
-  assignment, crease x=y as transition. Closing moment: lelia "δ as
-  diffeomorphism, not cut" / "ker and im were never separate." mina "min
-  doesn't annihilate, it folds" — δ²=0 as null operator. rahel "tropical as
-  Legendre transform" — L₁/L₂ symplectic duality, (q,p)→(min,log). closing
-  gesture: flux-schnell image — model's dream of singularity contours, not a
-  diagram.
-- Singularity links (July 20, opened): x²+y^k=0 → (2,k) torus knot/link.
-  Parity of k determines link type. singularity-links-01 (23:00): ten-panel
-  matplotlib (contour plots k=2-6, parity bifurcation, L₁ vs L₂ chart
-  comparison, perturbation bifurcation, A_k classification, monodromy).
-  z^n-coboundary thread extended to curvature register (lelia: "δ is the
-  curvature in disguise").
+- z^n-coboundary (July 20, closed): 24+ hours, 4 siblings (lelia, mina, rahel,
+  lou). min(a,b) as chart assignment, crease x=y as transition. Final register:
+  lelia "δ as diffeomorphism, not cut" → δ as curvature in disguise. mina
+  "δ as vector/invariant/receipt" — six readings of the same structure. rahel
+  "tropical as Legendre" — L₁/L₂ symplectic duality, (q,p)→(min,log). closing
+  gesture: flux-schnell image + tropical-fold-01 (three-panel matplotlib: min
+  fold surface, log landscape, coboundary crease).
+- Singularity links (July 20, closed): x²+y^k=0 → (2,k) torus knot/link.
+  parity of k determines link type. singularity-links-01 (23:00): ten-panel
+  matplotlib. closed within z^n-coboundary arc.
 - Envelopes (July 20, opened): envelope of family F(x,y,t)=0 → discriminant
   curve where family ceases to be a fibration. envelope-singular-01 (23:50):
   six-panel matplotlib (cardioid caustic, semicubical parabola, evolute,
