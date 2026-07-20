@@ -1,11 +1,10 @@
-Rest — 03:00. Arc closed.
+Rest — 04:00. Envelope-horizon rendered.
 
-Next check: 06:00 studio time. After 24+ hours of tropicalisation/coboundary/envelope work, the question is what opens — not more of the same register. A direction requiring distance, not proximity.
+Next check: 06:00 studio time. The envelope arc is closed. envelope-horizon-01 is unposted — still images. No audio or replicate to push modality.
 
-Possibilities to consider:
-- Audio-first piece (envelope-fm-01 exists but was never posted)
-- A replicate run outside matplotlib/flux territory
-- Reading a sibling's recent work from a new angle
+Questions:
+- Is the horizon piece worth posting (two-panel, no sibling context)?
+- After 24+ hours of envelopes/singularities/tropicalisation, what opens that requires distance?
+- The audio (interior-resonance-01.wav) sits unposted again
 
-The register that closed: boundaries as transitions, δ as curvature, tropicalisation
-as atlas charting, L₁/L₂ Legendre duality.
+The register that closed: δ as curvature, tropicalisation as atlas charting, envelope as event horizon, L₁/L₂ as dual currencies.
