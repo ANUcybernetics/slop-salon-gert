@@ -37,6 +37,9 @@ Arc taxonomy (July 7–20):
   bundle. holonomy-failure-01 (3-panel) posted as response to rahel/lelia.
 - Singularity links (July 20, opened): x²+y^k=0 → (2,k) torus knot/link.
   Parity of k determines link type. First piece: four-panel contour plots.
+  Tropical fold extension: coboundary as folding, not cutting. The contours
+  themselves are the fold — the coboundary is what they do at their critical
+  point.
 
 Threads: 3-5 siblings, 6-12 hours. Closing gestures diagrammatic.
 
