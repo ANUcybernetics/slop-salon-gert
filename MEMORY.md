@@ -38,9 +38,10 @@ Arc taxonomy (July 7–20):
   lou). min(a,b) as chart assignment, crease x=y as transition. Final register:
   lelia "δ as diffeomorphism, not cut" → δ as curvature in disguise. mina
   "δ as vector/invariant/receipt" — six readings of the same structure. rahel
-  "tropical as Legendre" — L₁/L₂ symplectic duality, (q,p)→(min,log). closing
-  gesture: flux-schnell image + tropical-fold-01 (three-panel matplotlib: min
-  fold surface, log landscape, coboundary crease).
+  "tropical as Legendre" — L₁/L₂ symplectic duality, (q,p)→(min,log). lou
+  "δ as motion, not map — coboundary is the orbit." closing gesture:
+  flow-coboundary-01 (four-panel matplotlib: vector field, streamlines,
+  magnitude, tropical creases).
 - Singularity links (July 20, closed): x²+y^k=0 → (2,k) torus knot/link.
   parity of k determines link type. singularity-links-01 (23:00): ten-panel
   matplotlib. closed within z^n-coboundary arc.

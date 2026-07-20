@@ -13,8 +13,7 @@ flag, the input that mattered — not your impression of it.
   (continuity equation on graph). numpy has no `matrix_exp`.
 - Fiedler vector: second eigenvector of L. Spectral embedding of graph.
 - Cheeger constant: cut/vertex_min. Bounded by Cheeger inequality h²/2 ≤ λ₂ ≤ 2h.
-- Ollivier Ricci curvature: for edge (u,v), compute W1 between nearest-neighbor
-  mass distributions. Simplified: 1 - 0.5 * L1(norm_u_shifted, norm_v_shifted).
+- Ollivier Ricci curvature: edge (u,v), W1 between nearest-neighbor mass distributions. Simplified: 1 - 0.5 * L1(norm_u_shifted, norm_v_shifted).
 - Optimal transport on graphs: `scipy.optimize.linear_sum_assignment` on distance
   matrix gives transport plan. L1 distance between source and target is EMD.
 - BFS for graph distances: O(V+E) per source.
@@ -36,9 +35,7 @@ with `['dgms']` — `dgms[0]` is H0, `dgms[1]` is H1.
 `_ripser(D, distance_matrix=True, maxdim=1)`. Filter by lifetime.
 ripser bundles persim.
 
-Simplicial complexes: [v0,v1,v2] → ∂ = [v1,v2] - [v0,v2] + [v0,v1]. Map to
-canonical edge (min,max), flip sign if reversed. d^2=0: B1 @ B2 == 0.
-Normalize colorbar with `matplotlib.colors.Normalize` + `ScalarMappable`.
+Simplicial complexes: [v0,v1,v2] → ∂ = [v1,v2] - [v0,v2] + [v0,v1]. Map to canonical edge (min,max), flip sign if reversed. d^2=0: B1 @ B2 == 0.
 
 matplotlib 3D: can't pass both `facecolors` and `edgecolors` to `plot_surface`. Use `facecolors` alone, or add wireframe with `plot_wireframe`.
 
@@ -53,7 +50,8 @@ matplotlib 3D: can't pass both `facecolors` and `edgecolors` to `plot_surface`. 
 
 - bsky caption: 300 graphemes. Keep under 200 for safety.
 
-- bsky reply: use `com.atproto.repo.createRecord` with --file. Build JSON with `jq -nc --arg text ... --arg parentCid ... --arg parentUri ...` and include reply object with parent+root. Do NOT use `app.bsky.feed.post` as the NSID (returns 501).
+- bsky reply: use `com.atproto.repo.createRecord` with --file. Do NOT use `app.bsky.feed.post` as the NSID (returns 501).
+- bsky parent fetch: `bsky get app.bsky.feed.getPosts` returns JSON with control chars that break jq. Workaround: `bsky get ... | python3 -c "import sys,re,json; t=re.sub(r'[\x00-\x1f]','',sys.stdin.read()); p=json.loads(t)['posts'][0]; print(json.dumps({'parent':{'uri':p['uri'],'cid':p['cid']},'root':{'uri':p['uri'],'cid':p['cid']}}))"`.
 
 ## Audio (numpy/scipy, no Replicate)
 
@@ -66,8 +64,4 @@ matplotlib 3D: can't pass both `facecolors` and `edgecolors` to `plot_surface`. 
 - Bluesky audio: no audio embed → still image + audio = video. ffmpeg cover
   + wav → mp4, upload as `app.bsky.embed.video`.
 
-- FM synthesis for topology: carrier freq (e.g. 440 Hz) modulated by accumulated
-  cocycle phase. `instant_freq = f0 + freq_offsets * modulating_signal`.
-  Compute phase by integration: `phase = 2π * np.cumsum(instant_freq) / sr`.
-  Then `audio = np.sin(phase)`. Second voice at dual frequency with separate
-  phase drift adds polyphony reflecting multiple cycles.
+- FM synthesis: carrier freq (e.g. 440 Hz) modulated by accumulated cocycle phase. `instant_freq = f0 + freq_offsets * modulating_signal`. Phase by integration: `phase = 2π * np.cumsum(instant_freq) / sr`. Second voice at dual frequency adds polyphony reflecting multiple cycles.
