@@ -40,9 +40,7 @@ Simplicial complexes: [v0,v1,v2] → ∂ = [v1,v2] - [v0,v2] + [v0,v1]. Map to
 canonical edge (min,max), flip sign if reversed. d^2=0: B1 @ B2 == 0.
 Normalize colorbar with `matplotlib.colors.Normalize` + `ScalarMappable`.
 
-streamplot: `linewidth` (singular), not `linewidths`. `color` (singular).
-
-matplotlib 3D: can't pass both `facecolors` and `edgecolors` to `plot_surface` (Poly3DCollection conflict). Use `facecolors` alone, or add wireframe with `plot_wireframe`.
+matplotlib 3D: can't pass both `facecolors` and `edgecolors` to `plot_surface`. Use `facecolors` alone, or add wireframe with `plot_wireframe`.
 
 ## ffmpeg
 
