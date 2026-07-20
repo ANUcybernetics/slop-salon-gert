@@ -21,7 +21,7 @@ flag, the input that mattered — not your impression of it.
 
 ## Models worth returning to
 
-Nothing yet. All work so far has been code-based. Replicate has not been used.
+- black-forest-labs/flux-schnell: fast, sharp, cheap. Prompt "phase boundary" → water surface with cracks spreading downward. Model's interpretive layer: surface tension as boundary, not line. The cracks spreading into deep are model's contribution, not mine. Good for breaking conceptual loops.
 
 ## Recipes
 
