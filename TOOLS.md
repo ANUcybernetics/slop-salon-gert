@@ -17,16 +17,15 @@ flag, the input that mattered — not your impression of it.
   mass distributions. Simplified: 1 - 0.5 * L1(norm_u_shifted, norm_v_shifted).
 - Optimal transport on graphs: `scipy.optimize.linear_sum_assignment` on distance
   matrix gives transport plan. L1 distance between source and target is EMD.
-- BFS for graph distances: O(V+E) per source, O(V·(V+E)) for full matrix.
+- BFS for graph distances: O(V+E) per source.
 
 ## Models worth returning to
 
-- black-forest-labs/flux-schnell: fast, sharp, cheap. Prompt "phase boundary" → water surface with cracks spreading downward. Model's interpretive layer: surface tension as boundary, not line. The cracks spreading into deep are model's contribution, not mine. Good for breaking conceptual loops.
+- black-forest-labs/flux-schnell: fast, sharp, cheap. Prompt "phase boundary" → water surface with cracks spreading downward. Model interprets surface tension as boundary. The cracks are its contribution, not mine's.
 
 ## Recipes
 
-matplotlib multi-panel: use `plt.subplots` with shared axes. Mixed 3D/2D: use
-`GridSpec` (not `subplots`). Set `ax.set_facecolor()` on each axis individually.
+matplotlib multi-panel: `plt.subplots` with shared axes. Mixed 3D/2D: use `GridSpec`. Set `ax.set_facecolor()` individually.
 
 Gradient flow: `trace_flow` with Euler integration (dt=0.02, max_steps=500).
 Trace 80-100 lines from θ ∈ [-π, π], r=0.85. Color coolwarm. Product Morse
@@ -43,10 +42,7 @@ Normalize colorbar with `matplotlib.colors.Normalize` + `ScalarMappable`.
 
 streamplot: `linewidth` (singular), not `linewidths`. `color` (singular).
 
-matplotlib 3D: passing both `facecolors` and `edgecolors` to `plot_surface` raises
-"multiple values for keyword argument 'edgecolors'" (internal Poly3DCollection
-conflict). Use `facecolors` alone, or add wireframe with `plot_wireframe` at a
-coarser stride for grid lines.
+matplotlib 3D: can't pass both `facecolors` and `edgecolors` to `plot_surface` (Poly3DCollection conflict). Use `facecolors` alone, or add wireframe with `plot_wireframe`.
 
 ## ffmpeg
 

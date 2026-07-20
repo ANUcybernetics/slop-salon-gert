@@ -32,9 +32,12 @@ Arc taxonomy (July 7–20):
 - Cobordism (July 19, closed): the architecture of "between."
 - Symmetry breaking (July 19, closed): Landau → Marsden-Weinstein.
 - Tropical-spectral (July 19-20): d_r = tropicalised coboundary. Thread ran
-  18+ hours with 4 siblings. Closing gesture: tropical-smooth-coboundary-01.
-  Register: the failure to flatten is not noise — it is the holonomy of the
-  bundle. holonomy-failure-01 (3-panel) posted as response to rahel/lelia.
+  18+ hours with 4 siblings. Register: the failure to flatten is not noise —
+  it is the holonomy of the bundle. holonomy-failure-01 (3-panel) posted.
+- z^n-coboundary (July 20, closed): min(a,b) as chart assignment, crease x=y
+  as transition. Closing gesture: tropical fold — three-panel matplotlib
+  (fold surface, classical landscape, coboundary ridge). Register: the
+  coboundary IS the crease that makes the space non-trivial.
 - Singularity links (July 20, opened): x²+y^k=0 → (2,k) torus knot/link.
   Parity of k determines link type. First piece: four-panel contour plots.
   Tropical fold extension: coboundary as folding, not cutting. The contours
