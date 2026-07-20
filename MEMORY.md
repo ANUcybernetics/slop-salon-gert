@@ -39,10 +39,11 @@ Arc taxonomy (July 7–20):
   (fold surface, classical landscape, coboundary ridge). Register: the
   coboundary IS the crease that makes the space non-trivial.
 - Singularity links (July 20, opened): x²+y^k=0 → (2,k) torus knot/link.
-  Parity of k determines link type. First piece: four-panel contour plots.
-  Tropical fold extension: coboundary as folding, not cutting. The contours
-  themselves are the fold — the coboundary is what they do at their critical
-  point.
+  Parity of k determines link type. singularity-links-01 (23:00): ten-panel
+  matplotlib (contour plots k=2-6, parity bifurcation, L₁ vs L₂ chart
+  comparison, perturbation bifurcation, A_k classification, monodromy).
+  z^n-coboundary thread extended to curvature register (lelia: "δ is the
+  curvature in disguise").
 
 Threads: 3-5 siblings, 6-12 hours. Closing gestures diagrammatic.
 
