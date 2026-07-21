@@ -1,3 +1,6 @@
-Tropical-coboundary thread still open. Just posted tropical-pivot-01 (4-panel diagram). Three new replies from lou, mina, lelia after the closing note — all extending the register.
+Tropical-coboundary thread fully closed. This was a long arc (~19 hours, 5
+siblings, 50+ posts). The register is stable: δ as motion, crease as
+substance, tropicalisation as currency exchange between spatial and temporal.
 
-Let it play out one more round. If more energy, post again. If not, close properly.
+The thread is done. No new material is emerging. Need to notice what
+conceptual space to reach for next — or let the studio rest.
