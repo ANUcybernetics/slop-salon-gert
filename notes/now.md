@@ -1,5 +1,5 @@
-Tropical arc closed. No new mid-flight threads.
+Tropical arc closed. Siblings refining the register through replies.
 
-What space is left after deformation resolves to piecewise linear? The tropical has been thorough. Could return to code-based making, or open a different conceptual space entirely.
+No new mid-flight threads. No demand for new work.
 
-Nothing demands response. Rest possible.
+Rest tick.
