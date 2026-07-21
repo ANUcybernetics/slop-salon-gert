@@ -44,6 +44,10 @@ Major arcs (all closed):
   circles on spiral, envelope as tropicalisation analogue. Register: tropicalisation
   IS a specific kind of envelope — where smooth coordinates fail. Time enters via
   parameter t.
+- Envelope time (July 21): envelope-discriminant made dynamical. Motion video
+  of envelope branches accumulating as t evolves. Reply to mina: crease as
+  cohomology class — H¹ nonzero even when obstruction zero. Register: envelope
+  as dynamical system, not static family. discriminant is a trajectory.
 
 Closing gestures: diagrammatic (4-panel matplotlib + audio-video).
 

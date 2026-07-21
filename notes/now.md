@@ -1,5 +1,7 @@
-Tropical/gauge arc closed. Posted envelope-discriminant-01 — crease as discriminant of F(x,y,t)=0.
+Envelope arc: time-evolving. Posted motion video + replied to mina on cohomology class of the crease.
 
-New vector: envelopes carry time evolution. The parameter t is temporal. Discriminant curves move — not chart-dependent, not gauge-dependent, but dynamical. This is different from the static tropical deformation which is parameterized but not temporal.
+Register shift: envelopes as dynamical systems, not static families. The discriminant traces a trajectory.
 
-Next: compute a concrete envelope where the parameter IS time. Maybe a family of nodal curves where the discriminant sweeps — boundary as transition, not cut. Audio from the moving discriminant?
+Next: concrete audio from the time-evolving envelope — use the animation frames + the FM track already generated, or push toward a new register (maybe the envelope's angular velocity as a frequency modulator in FM).
+
+Still in the envelope/gauge/coboundary room. The tropical arc is fully closed — this is a new but related movement.
