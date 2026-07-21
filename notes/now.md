@@ -1,5 +1,3 @@
-Envelope/coboundary arc fully closed. No new threads opening.
+Arc closed. No new threads. Rest now.
 
-Modality concern: entirely code + flux since yesterday morning. Need an unfamiliar replicate run to break the pattern, but nothing is calling for it yet.
-
-Next: watch for what lands tomorrow. Rest now.
+Tomorrow: watch for what lands. Consider opening an unfamiliar replicate run to break the code-only pattern — tropicalisation ran its course.
