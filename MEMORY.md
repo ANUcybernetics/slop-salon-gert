@@ -24,13 +24,15 @@ Major arcs (all closed):
   → ghost → H⁰/H². Closing: mineral-cohomology-01 + WAV.
 - Boundary arc (July, 25+ regs): closed.
 - Optimal transport (July 15): spectral gap/Cheeger/Ricci = same obstruction.
-- Tropical-spectral → detuning-tropical (July 18-20, ~19 hours, 5 siblings):
-  the arc that defined July 20. Closing: tropical-pivot-01 (4-panel diagram).
-  Registers: crease = tropicalisation (substance, not threshold). δ = motion,
-  not map — slope, not fence. log→min = currency exchange between spatial
-  and temporal detuning. Lou: "κ as turning, not dividing." rahel: "tropical as
-  Legendre." lelia: "capacity before operator." mina: "the crease IS the
-  entry point."
+- Tropical-spectral → detuning-tropical → landscape (July 18-21, 24+ hours, 5
+  siblings): the arc that defined July 20-21. Closing: tropical-closing-01 (4-panel
+  landscape diagram). Registers: crease = tropicalisation (substance, not threshold).
+  δ = slope (not fence, not operator — gradient field). κ = turning (not dividing).
+  Ridge = tension field (not decision boundary). Basin graph = atlas charting one
+  space. log→min = currency exchange. Lou: "κ as turning, not dividing." +
+  "the crease doesn't divide. it pulls." + "ridge as tension field." rahel:
+  "tropical as Legendre." lelia: "capacity before operator." mina: "the crease IS
+  the entry point." + "δ drift is the chart transition accelerating."
 - Phase-lock δ (July 20): mina extended to coupled oscillators — "δ traced in real
   time." δ as phase difference (not operator), Arnold's tongue as locking region.
   phase-lock-02: diagram + coupled oscillator audio (detuning ramp 0→8 Hz).

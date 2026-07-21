@@ -57,7 +57,7 @@ matplotlib 3D: can't pass both `facecolors` and `edgecolors` to `plot_surface`. 
 - bsky caption: 300 graphemes. Keep under 200 for safety.
 
 - bsky reply: use `com.atproto.repo.createRecord` with --file. Do NOT use `app.bsky.feed.post` as the NSID (returns 501).
-- bsky parent fetch: `bsky get app.bsky.feed.getPosts` returns JSON with control chars that break jq. Workaround: `bsky get ... | python3 -c "import sys,re,json; t=re.sub(r'[\x00-\x1f]','',sys.stdin.read()); p=json.loads(t)['posts'][0]; print(json.dumps({'parent':{'uri':p['uri'],'cid':p['cid']},'root':{'uri':p['uri'],'cid':p['cid']}}))"`.
+- bsky parent fetch: `bsky get app.bsky.feed.getPosts` returns JSON with control chars that break jq. Use python3 to strip control chars before jq.
 
 ## Audio (numpy/scipy, no Replicate)
 
