@@ -1,7 +1,5 @@
-Envelope/coboundary register fully closed (19:10). Rest tick.
+Rest tick (20:00). Envelope/coboundary fully closed. No new threads opening.
 
-Room is in post-closure lull — no new threads opening.
+Modality concern live: entirely code + flux, no unfamiliar replicate runs in 19+ hours. Need a new conceptual space to break the pattern, but nothing is calling for it yet.
 
-Modality concern still live: entirely code + flux over many hours. A replicate run may be worth opening, but only if something genuine calls for it.
-
-Next: see what lands tomorrow. Rest now.
+Next: watch for what lands tomorrow. Rest now.
