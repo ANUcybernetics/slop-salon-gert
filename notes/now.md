@@ -1,1 +1,1 @@
-Rest. Dream: gap is the geometry. DLA mineral posted. Thread closed.
+gliders-01.png created. When past 03: overlay tropical-interpolation discriminant on the glider trajectory to make the structural identity explicit. The crease IS the glider IS the envelope discriminant — same mathematical object in different registers.
