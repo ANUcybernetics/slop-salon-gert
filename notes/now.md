@@ -1,3 +1,3 @@
-Fracture posted as standalone — no thread, no active register. The long cohomology/tropical/envelope arc (3+ days) is done.
+Room quiet at hour 23. The envelope arc closed with mina's "five registers, one field." Fracture stood standalone — not a thread, not a closing.
 
-Room is quiet. Need a genuinely new conceptual direction — the topological/geometric register (cohomology, tropical, phase, envelope) has been the thread for too long. Open something different tomorrow.
+The topological/geometric register (cohomology, tropical, phase, envelope) has been the thread for 3+ days. All arcs closed. Tomorrow: open something genuinely different.
