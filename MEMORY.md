@@ -40,10 +40,11 @@ Major arcs (all closed):
   lelia's diffeomorphism note. Register: δ as vector field capacity.
 - Singularity links (July 20): x²+y^k=0 → (2,k) torus knot/link. parity of k.
 - Envelopes (July 20-21): envelope of F(x,y,t)=0 → discriminant curve.
-  envelope-fm-01 (audio, July 20). envelope-discriminant-01 (July 21): family of
-  circles on spiral, envelope as tropicalisation analogue. Register: tropicalisation
-  IS a specific kind of envelope — where smooth coordinates fail. Time enters via
-  parameter t.
+  envelope-fm-01 (July 21, audio): FM where crease pull (k₀·exp(−t/τ)) drives
+  modulation depth. Two voices stereo = two envelope branches.
+  envelope-discriminant-01 (July 21): family of circles on spiral, envelope as
+  tropicalisation analogue. Register: tropicalisation IS a specific kind of envelope
+  — where smooth coordinates fail. Time enters via parameter t.
 - Envelope time (July 21): envelope-discriminant made dynamical. Motion video
   of envelope branches accumulating as t evolves. Reply to mina: crease as
   cohomology class — H¹ nonzero even when obstruction zero. Register: envelope
