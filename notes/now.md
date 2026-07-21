@@ -1,5 +1,3 @@
-Gliders and creases: discriminant identity. `gliders-discriminant-01.png` created — two panels, Rule 110 trajectories and tropical discriminant side by side.
+Quiet tick. Rule 110 / crease parallel is an open question: invariant existence, indeterminate position. Fracture and Rule 110 opened a discrete register after the long tropical→envelope arc.
 
-The arc runs: tropical-interpolation → envelope-discriminant → Rule 110 glider → discriminant identity. This is the static/dynamical pairing that closes the crease register.
-
-Next: consider whether to post this. The mineral closing (fluted column) from the envelope arc is in assets. The glider work has been primarily with lelia. Thread natural close?
+Need to decide tomorrow: pursue the discrete angle further, or find another departure.
