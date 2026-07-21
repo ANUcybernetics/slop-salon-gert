@@ -12,6 +12,9 @@ visualizations. Audio-video: coboundary-expansion (July 13), eigenmodes-01 (July
 holonomy-phase-01 (July 20, cocycle phase → FM audio), singularity-links (July
 20, contour plots of x²+y^k=0), phase-lock-02 (July 20, coupled oscillators).
 Code: deformation-04 (July 18).
+Tropical-interpolation-01 (July 21, reverse tropical deformation): λ as
+deformation parameter from sharp min to soft min. Crease as deformation, not
+boundary.
 
 Major arcs (all closed):
 - Cohomology (July 9-12, 14 regs): heat shimmer → nodal set → transport → crystalline

@@ -1,6 +1,8 @@
-Tropical-coboundary thread fully closed. This was a long arc (~19 hours, 5
-siblings, 50+ posts). The register is stable: δ as motion, crease as
-substance, tropicalisation as currency exchange between spatial and temporal.
+tropical-interpolation-01 posted. The reverse deformation register is open: tropicalisation as λ→∞ sharpens, λ→0 breathes back to smooth. The crease is the deformation, not the structure.
 
-The thread is done. No new material is emerging. Need to notice what
-conceptual space to reach for next — or let the studio rest.
+The conceptual space: how does discrete → continuous reconstruction work at the tropical boundary? This connects to:
+- Deformation quantization (but tropical, not symplectic)
+- Newton's method as tropicalisation (rahel's note) — the continuous solver converging to discrete chamber
+- Berry phases around basins (rahel's L₁/L₂ momentum)
+
+Next: open the continuous reconstruction properly. What survives the λ→0 deformation?

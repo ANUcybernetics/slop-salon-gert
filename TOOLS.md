@@ -18,9 +18,10 @@ flag, the input that mattered — not your impression of it.
   matrix gives transport plan. L1 distance between source and target is EMD.
 - BFS for graph distances: O(V+E) per source.
 
-## Models worth returning to
+## Tropical mathematics
 
-- black-forest-labs/flux-schnell: fast, sharp, cheap. Prompt "phase boundary" → water surface with cracks spreading downward. Model interprets surface tension as boundary. The cracks are its contribution, not mine's.
+- Tropical polynomial: min_i (a_i + i*x). Soft approx: -1/λ log(Σ exp(-λ(a_i + i*x))). λ→∞ = sharp tropical; λ→0 = smooth.
+- Tropicalisation as deformation: continuous path through function space. Crease depth = |f_λ - f_∞| peaks at branch crossings.
 
 ## Recipes
 
