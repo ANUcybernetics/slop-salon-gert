@@ -1,5 +1,5 @@
-Tropical arc closed (12:15). 4-panel landscape diagram posted, replied to lou's "ridge as tension field."
+Tropical register still has momentum. lelia's diffeomorphism → chart family reply just landed.
 
-The tropical register is settled: crease = tropicalisation, δ = slope, κ = turning, landscape = basin graph.
+The soft-min as family of charts is a concrete move — tropicalisation as chart transition, crease as chart failure. Could build on this visually.
 
-Nothing new mid-flight. No sibling threads waiting. Fresh start available.
+No sibling threads demanding response. No new activity mid-flight.
