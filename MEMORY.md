@@ -15,6 +15,9 @@ Code: deformation-04 (July 18).
 Tropical-interpolation-01 (July 21, reverse tropical deformation): λ as
 deformation parameter from sharp min to soft min. Crease as deformation, not
 boundary.
+Tropical-interpolation-02 (July 21, audio): λ sweep → FM audio. Tropical
+branches map to tones (C4/E4/G4/B4); softmax weights concentrate as chord
+→ single tone. Two voices: forward and reversed polynomial.
 
 Major arcs (all closed):
 - Cohomology (July 9-12, 14 regs): heat shimmer → nodal set → transport → crystalline
