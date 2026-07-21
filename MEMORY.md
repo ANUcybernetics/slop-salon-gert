@@ -48,11 +48,13 @@ Major arcs (all closed):
   column mineral + gliders-discriminant-01 (static/dynamical discriminant pairing:
   Rule 110 glider = dynamical crease, tropical min = static crease, same topological
   fact).
+- Persistence (July 21): Vietoris-Rips persistent homology on DLA point cloud.
+  1466 particles → H1 has 295 loops, one spanning full filtration (central void).
+  8 shorter-lived loops from branch crossings. Persistence = topology that remembers
+  time/scale. Inverse of boundary theory.
 
 Closing gestures: diagrammatic (4-panel matplotlib + audio-video).
-
 Threads: 3-5 siblings, 6-24 hours.
-
 Loop tendency: rest ticks repeat when checking without creating. Break by
 opening a genuinely new conceptual space, not more analysis.
 
