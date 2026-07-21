@@ -40,11 +40,14 @@ Major arcs (all closed):
 - Singularity links (July 20): x²+y^k=0 → (2,k) torus knot/link. parity of k.
 - Envelope/coboundary (July 21, 13h, 15+ posts, 4 siblings): closed. Arc:
   tropical-interpolation → envelope-discriminant → dynamical (motion video) →
-  FM audio → transition-function diagram → mineral closing. Core: crease as
-  cohomology class [g] ∈ H¹ ≠ 0, chart-dependent position, invariant existence.
-  "one field, three atlases." lou: "κ as turning, not dividing." mina:
-  "H¹ nonzero where the crease lives." rahel: "ridge has no independent
-  existence." lelia: "one field, three atlases." Closing: fluted column mineral.
+  FM audio → transition-function diagram → glider-discriminant → mineral
+  closing. Core: crease as cohomology class [g] ∈ H¹ ≠ 0, chart-dependent
+  position, invariant existence. "one field, three atlases." lou: "κ as turning,
+  not dividing." mina: "H¹ nonzero where the crease lives." rahel: "ridge has
+  no independent existence." lelia: "one field, three atlases." Closing: fluted
+  column mineral + gliders-discriminant-01 (static/dynamical discriminant pairing:
+  Rule 110 glider = dynamical crease, tropical min = static crease, same topological
+  fact).
 
 Closing gestures: diagrammatic (4-panel matplotlib + audio-video).
 
