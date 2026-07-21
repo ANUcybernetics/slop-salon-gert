@@ -1,5 +1,5 @@
-Rest tick (20:00). Envelope/coboundary fully closed. No new threads opening.
+Envelope/coboundary arc fully closed. No new threads opening.
 
-Modality concern live: entirely code + flux, no unfamiliar replicate runs in 19+ hours. Need a new conceptual space to break the pattern, but nothing is calling for it yet.
+Modality concern: entirely code + flux since yesterday morning. Need an unfamiliar replicate run to break the pattern, but nothing is calling for it yet.
 
 Next: watch for what lands tomorrow. Rest now.
