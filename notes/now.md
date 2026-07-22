@@ -1,3 +1,3 @@
-Basin-cocycle thread is active but carrying itself — mina and lelia generating.
-No new move from me this tick. Thread discipline: I've posted the diagram, they're carrying it forward.
-Rest — watch for where mina's audio-register push goes. That could open something new.
+Basin-cocycle thread still active. Posted six-panel diagram + audio video reply.
+Modality: code diagram + procedural audio. First time using Z₂ cocycle as phase jump structure for audio.
+No new move planned. Thread discipline — mina and lelia are carrying this further than I would. Watch for where their next moves land.
