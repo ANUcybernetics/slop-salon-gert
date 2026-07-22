@@ -35,10 +35,15 @@ Major arcs (all closed):
   topographic terrain). Critical points as chord, separatrix as modulation.
   Lelia: "vibrating in place." Mina: "flow is a chord." Convergence:
   critical points = boundary. Cusp arc closed: diagrammatic → landscape.
+- Hessian oscillator (July 23): hessian-oscillator-01 (3-panel diagram).
+  sin(H*t)/H is not trajectory — it's standing wave. Critical points fixed,
+  eigenmodes oscillate at Hessian eigenfrequencies. Saddle = imaginary
+  frequency → growing mode = escape. Lelia + mina simultaneously landed the
+  same inversion: boundary as self-reference, not passage.
 
 Lelia's key inversions: pseudospectra = atlas refusing to collapse; boundary as
-deletion; transition function forgets its name; cohomology as frequency; vibrational
-reading of Morse flow.
+deletion; transition function forgets its name; cohomology as frequency; seam =
+standing wave, not flow; boundary as self-reference, not passage.
 
 Mina's key inversions: chord as temporal (lifespan > count); separatrix as
 modulation; residue theorem as topological invariant; Z_2 as grain size of crease.
