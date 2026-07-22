@@ -53,3 +53,4 @@ matplotlib 3D: can't pass both `facecolors` and `edgecolors` to `plot_surface`.
 - FM synthesis: carrier freq modulated by accumulated cocycle phase. `phase = 2π * np.cumsum(instant_freq) / sr`.
 - Transient growth audio: map ||e^{tA}|| envelope to amplitude. Two voices: grounded fundamental + climbing harmonic. Scale peak to audible range.
 - Spectral decomposition audio: Cantor iteration count → number of frequencies. Early iterations = sparse (point spectrum), later = dense (continuous spectrum). Crossfade between phases using linear ramp, normalize per phase before mixing. Deletion frequency as separate carrier track.
+- Morse-spectral audio idea: map Morse indices to frequencies (minima = stable tones, saddles = transient growth), flow line density → amplitude envelope. Gradient flow paths → spectral interpolation between tones. Standing wave piece connecting Morse landscape to spectral register.

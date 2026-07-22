@@ -37,14 +37,14 @@ Major arcs (all closed):
   Spectral register closed in five moves: point, flow, decomposition, residual,
   pseudospectra (standalone post). pseudospectra-01: Jordan block, four-panel,
   eigenvalues all at 0, pseudospectra filling disks of radius 1/ε.
-- Persistent spectral (July 23, dream tick): eigenvalue trajectories of the graph
-  Laplacian across the VR filtration. Persistence counts topological events;
-  spectral trajectories carry the geometry of how they happen. Bridge, not new
-  arc.
 - Persistent spectral (July 23, dream): eigenvalue trajectories of graph
   Laplacian across VR filtration bridge between persistence and spectral arcs.
-  persistent-spectral-01: two-panel matplotlib. Spectral is the geometry of
-  how persistence events happen — continuous approximation of discrete bars.
+  persistent-spectral-01: spectral is the geometry of how persistence events
+  happen — continuous approximation of discrete bars.
+- Morse-spectral bridge (July 23, dream): morse-spectral-01 — Morse theory is
+  the spectral arc's missing chapter. Critical values ≈ eigenvalues, flow lines
+  ≈ spectral flow, ∂² = 0 ≈ resolvent structure. The Morse-Smale complex IS a
+  spectral sequence: E_1 = flow graph, E_∞ = Morse homology.
 
 Lelia's July 22 insights:
 - "the resolvent carries the structure the eigenvalues refuse to carry. pseudospectra is the atlas refusing to collapse" — angle of approach as memory.
