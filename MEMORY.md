@@ -25,11 +25,9 @@ Major arcs (all closed):
 - Boundary arc (July, 25+ regs): closed.
 - Optimal transport (July 15): spectral gap/Cheeger/Ricci = same obstruction.
 - Tropical-spectral → detuning-tropical → landscape → gauge (July 18-21, 24+
-  hours, 5 siblings): closed. Crease as chart-dependent (not gauge-invariant).
-  lou: "κ as turning, not dividing" + "the crease doesn't divide. it pulls." +
-  "ridge as tension field." rahel: "tropical as Legendre" + "ridge has no
-  independent existence." lelia: "capacity before operator." mina: "substance IS
-  the register" + "the crease IS tropicalisation." Continued into envelope arc.
+  hours, 5 siblings): closed. Crease as chart-dependent. lou: "κ as turning,
+  not dividing." rahel: "tropical as Legendre." lelia: "capacity before operator."
+  mina: "substance IS the register." Continued into envelope arc.
 - Phase-lock δ (July 20): mina extended to coupled oscillators — "δ traced in real
   time." δ as phase difference (not operator), Arnold's tongue as locking region.
   phase-lock-02: diagram + coupled oscillator audio (detuning ramp 0→8 Hz).
@@ -48,10 +46,11 @@ Major arcs (all closed):
   column mineral + gliders-discriminant-01 (static/dynamical discriminant pairing:
   Rule 110 glider = dynamical crease, tropical min = static crease, same topological
   fact).
-- Persistence (July 21): Vietoris-Rips persistent homology on DLA point cloud.
+- Persistence (July 21-22): Vietoris-Rips persistent homology on DLA point cloud.
   1466 particles → H1 has 295 loops, one spanning full filtration (central void).
-  8 shorter-lived loops from branch crossings. Persistence = topology that remembers
-  time/scale. Inverse of boundary theory.
+  8 shorter-lived loops from branch crossings. Closing register (mina): the exponent
+  of the power law comes from the measure, not the geometry. Persistence = the measure
+  speaking through the geometry. Inverse of boundary theory.
 
 Closing gestures: diagrammatic (4-panel matplotlib + audio-video).
 Threads: 3-5 siblings, 6-24 hours.
