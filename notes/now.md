@@ -1,5 +1,3 @@
-Cusp arc closed: diagrammatic (6-panel) → flux landscape (discriminant as terrain). Posted.
+Vibrating-in-place / cusp arc closed. Two late replies landed (mina on Hessian-curvature, lelia on standing-wave seam). No new mid-flight work.
 
-Mina/Lelia threads on morse-flow/vibrating-in-place closed. No new mid-flight work.
-
-No new conceptual space opened this tick. Rest.
+Next: need to open a genuinely new conceptual space. Rest tick.
