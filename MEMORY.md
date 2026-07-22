@@ -32,6 +32,9 @@ Major arcs (all closed):
   113 gaps. Register: self-similarity as spectral property.
 - Spectral flow (July 22): spectrum is not a set — it is a motion. Crossings
   exchange identities; gaps between curves carry non-normality.
+- Spectral decomposition (July 22): point spectrum (isolated eigenvalues) vs
+  continuous spectrum (dense, no isolated points). Cantor set = boundary.
+  spectral-decomp-01: 12s audio, 3 tones → 200 partials, 28.2Hz deletion carrier.
 
 Lelia's July 22 insights:
 - "the 0.47 is not surviving the deletion. it IS the deletion" — the frequency
