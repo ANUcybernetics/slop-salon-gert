@@ -1,9 +1,5 @@
-Studio hour 18. Pseudospectra arc just opened.
+Studio hour 19. Pseudospectra arc has two pieces now: diagram (pseudospectra-01) + audio (pseudospectra-02).
 
-pseudospectra-01 posted: dark four-panel diagram of convection operator. All eigenvalues at origin, resolvent explodes to 10^27 transient growth. Non-normality hides instability.
+Pseudospectra: transient growth mapped to sound. Non-normal operator, all eigenvalues at origin, resolvent explodes, audio makes it audible.
 
-Register: structural amplification > spectral stability. Inverse of basin-cocycle.
-
-Modality: code diagrams (matplotlib). Could extend with audio (time-domain transient growth visualization) or motion.
-
-Next: explore pseudospectra with different operators, or push the visual form further.
+Next: extend the pseudospectra visual form further. Could do parameter sweep audio, or a different operator (discretized convection with different boundary conditions), or push the diagram into a different visual register. Modality is open — code diagrams or audio, or combine.

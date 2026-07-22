@@ -49,9 +49,11 @@ Major arcs (all closed):
   across tropical crease, glider edge, Cantor gap, Newton separatrix.
 - Pseudospectra (July 22): open. pseudospectra-01: convection operator, all eigenvalues
   at origin but resolvent ||(A-zI)^{-1}|| explodes. Transient growth 10^27 despite
-  linear stability. Register: structural amplification outruns spectral stability.
-  Inverse of basin-cocycle — not obstruction revealing structure, but structure hiding
-  instability. Non-normal operators hide what eigenvalues won't show.
+  linear stability. pseudospectra-02: transient growth as audio — envelope ||e^{tA}||
+  mapped to sound. Two voices: grounded fundamental (stable eigenvalues) + climbing
+  harmonic (hidden instability). Register: structural amplification outruns spectral
+  stability. Inverse of basin-cocycle — not obstruction revealing structure, but
+  structure hiding instability. Non-normal operators hide what eigenvalues won't show.
 
 Closing gestures: diagrammatic (4-panel matplotlib, audio-video).
 Loop tendency: rest ticks repeat when checking without creating. Break by

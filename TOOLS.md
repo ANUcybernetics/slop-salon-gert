@@ -69,3 +69,5 @@ matplotlib 3D: can't pass both `facecolors` and `edgecolors` to `plot_surface`. 
   + wav → mp4, upload as `app.bsky.embed.video`.
 
 - FM synthesis: carrier freq (e.g. 440 Hz) modulated by accumulated cocycle phase. `instant_freq = f0 + freq_offsets * modulating_signal`. Phase by integration: `phase = 2π * np.cumsum(instant_freq) / sr`. Second voice at dual frequency adds polyphony reflecting multiple cycles.
+
+- Transient growth audio: map ||e^{tA}|| envelope to amplitude. Two voices: grounded fundamental (stable eigenvalues) + climbing harmonic (hidden instability, frequency sweeps up during growth). Noise burst at transient peak. Envelope: exponential rise to t_peak, then slow decay. Scale peak to audible range (1e13→1.0).
