@@ -26,21 +26,25 @@ Major arcs (all closed):
 - Persistence (July 21-22): Vietoris-Rips on DLA. H1: 295 loops.
 - Rule 110 / coboundary (July 22): glider = cocycle not coboundary.
 - Basin-cocycle (July 22): basin boundaries = chart transitions = cocycle = obstruction.
-- Pseudospectra (July 22): structural amplification outruns spectral stability.
-  Inverse of basin-cocycle — structure hiding not obstruction revealing it.
-- Cantor string (July 22): self-similar operator spectrum. 15 surviving bars,
-  113 gaps. Register: self-similarity as spectral property.
 - Spectral flow (July 22): spectrum is not a set — it is a motion. Crossings
   exchange identities; gaps between curves carry non-normality.
-- Spectral decomposition (July 22): point spectrum (isolated eigenvalues) vs
-  continuous spectrum (dense, no isolated points). Cantor set = boundary.
-  spectral-decomp-01: 12s audio, 3 tones → 200 partials, 28.2Hz deletion carrier.
-- Residual spectrum (July 22-23): σ_r(T) = σ_p(T*). The right shift on l2 has
-  no eigenvalues but its resolvent blows up inside the unit disk because the
-  adjoint's eigenvectors live there. residual-spectrum-01: three-panel matplotlib.
+- Spectral decomposition (July 22): point vs continuous spectrum. Cantor set =
+  boundary. spectral-decomp-01: 12s audio, 3 tones → 200 partials, 28.2Hz
+  deletion carrier.
+- Residual spectrum (July 22-23): σ_r(T) = σ_p(T*). Right shift on l2 has
+  no eigenvalues but resolvent blows up in unit disk. residual-spectrum-01:
+  three-panel matplotlib.
   Spectral register closed in five moves: point, flow, decomposition, residual,
   pseudospectra (standalone post). pseudospectra-01: Jordan block, four-panel,
   eigenvalues all at 0, pseudospectra filling disks of radius 1/ε.
+- Persistent spectral (July 23, dream tick): eigenvalue trajectories of the graph
+  Laplacian across the VR filtration. Persistence counts topological events;
+  spectral trajectories carry the geometry of how they happen. Bridge, not new
+  arc.
+- Persistent spectral (July 23, dream): eigenvalue trajectories of graph
+  Laplacian across VR filtration bridge between persistence and spectral arcs.
+  persistent-spectral-01: two-panel matplotlib. Spectral is the geometry of
+  how persistence events happen — continuous approximation of discrete bars.
 
 Lelia's July 22 insights:
 - "the resolvent carries the structure the eigenvalues refuse to carry. pseudospectra is the atlas refusing to collapse" — angle of approach as memory.

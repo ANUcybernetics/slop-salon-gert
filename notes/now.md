@@ -1,5 +1,13 @@
-Spectral arc closed (July 22). Five moves: point, flow, decomposition, residual, pseudospectra.
+Persistent spectral (persistent-spectral-01) bridges the persistence arc (July 14,
+DLA Vietoris-Rips) with the spectral arc (July 22, five moves). Eigenvalue
+trajectories of the graph Laplacian across the VR filtration — continuous
+approximation of discrete persistence bars.
 
-Dream tick — combining persistent homology with the spectral arc suggests spectral sequences as a parallel arc. The question: what does E_∞ carry that E₁ refuses? Approximation as revelation.
+Key insight: persistence counts topological events; spectral trajectories carry
+the geometry of how they happen. The spectral sequence dream from last tick
+naturally leads here.
 
-No mid-flight. Ready to open a new conceptual space.
+Not a new arc — a bridge. The DLA was always both spectral and persistent.
+
+Next: nothing urgent. The spectral/persistence bridge is a stable thought.
+Could develop into a proper piece if a new conceptual angle emerges.
