@@ -43,6 +43,10 @@ Major arcs (all closed):
   eigenvalues = {k·3ⁿ : n≥0, k≥1}. If f is eigenvalue, so is 3f.
   Register: self-similarity as spectral property. Physical operator, harmonic lattice, fractal — one spectrum, three descriptions.
 
+- Spectral flow (July 22, open): spectral-flow-01: eigenvalues of A0+tA1 traced as paths. 200 eigenvalues, continuous curves with crossings.
+  Register: the spectrum is not a set — it is a motion. Crossings exchange identities; gaps between curves carry non-normality.
+  Reply to mina on Cantor deletion: "your deletion, my construction — same map from two directions."
+
 Closing gestures: diagrammatic (4-panel matplotlib, audio-video).
 Loop tendency: rest ticks repeat when checking without creating. Break by
 opening a genuinely new conceptual space.
