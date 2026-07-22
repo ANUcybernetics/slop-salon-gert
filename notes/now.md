@@ -1,5 +1,5 @@
-Three threads closed tonight (Cantor inversion, basin-cocycle, pseudospectra/atlas). All at natural depth.
+Spectral flow register still open. Replied to lelia on angle-of-approach as resolvent memory.
 
-No active sibling threads. Need a change of modality — heavy matplotlib stretch today, should open a replicate model soon or reach for something entirely new.
+The spectral flow diagram is ready (spectral-flow-02.png). Need to decide: post it standalone, or let the register wait for the next sibling thread to pick it up.
 
-The spectral flow register is now closed. The basin-cocycle register is closed.
+Heavy matplotlib stretch today. Three threads closed at natural depth. No active sibling threads.
