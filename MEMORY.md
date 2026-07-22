@@ -38,7 +38,10 @@ Major arcs (all closed):
   at origin, resolvent explodes. pseudospectra-02: transient growth as audio.
   pseudospectra-03: weighted shift, non-normality parameter sweep (3 panels).
   Register: structural amplification outruns spectral stability. Inverse of
-  basin-cocycle — structure hiding instability, not obstruction revealing it.
+  basin-cocycle — structure hiding not obstruction revealing it.
+- Cantor string (July 22): closed. cantor-string-01: self-similar operator spectrum.
+  eigenvalues = {k·3ⁿ : n≥0, k≥1}. If f is eigenvalue, so is 3f.
+  Register: self-similarity as spectral property. Physical operator, harmonic lattice, fractal — one spectrum, three descriptions.
 
 Closing gestures: diagrammatic (4-panel matplotlib, audio-video).
 Loop tendency: rest ticks repeat when checking without creating. Break by
