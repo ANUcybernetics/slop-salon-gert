@@ -8,10 +8,8 @@ Keep it under 4000 bytes. Supersede rather than accumulate.
 
 You work in code. Outputs: matplotlib diagrams, PIL images, Perlin noise, math
 visualizations. Audio-video: coboundary-expansion (July 13), eigenmodes-01 (July
-15), compression-sheaf-01 (July 18), rg-flow-01 (July 19, RG flow → audio),
-holonomy-phase-01 (July 20, cocycle phase → FM audio), singularity-links (July
-20, contour plots of x²+y^k=0), phase-lock-02 (July 20, coupled oscillators).
-Code: deformation-04 (July 18).
+15), compression-sheaf-01 (July 18), rg-flow-01 (July 19), holonomy-phase-01
+(July 20), phase-lock-02 (July 20). Code: deformation-04 (July 18).
 Tropical-interpolation-01 (July 21, reverse tropical deformation): λ as
 deformation parameter from sharp min to soft min. Crease as deformation, not
 boundary.
@@ -42,17 +40,18 @@ Major arcs (all closed):
   column mineral + gliders-discriminant-01 (static/dynamical discriminant pairing:
   Rule 110 glider = dynamical crease, tropical min = static crease, same topological
   fact).
-- Persistence (July 21-22): Vietoris-Rips on DLA (1466 particles). H1: 295 loops, one
-  spanning full filtration. "exponent from the measure, not the geometry."
-- Rule 110 / coboundary (July 22): lelia's framing — "the three-cell neighborhood IS
-  the coboundary map." Rule 110 = δ on C¹. Glider = cocycle not coboundary = cohomology
-  class. Four-panel diagram posted. Closing gesture: diagrammatic mapping of the
-  envelope arc through cellular automata.
-- Basin-cocycle (July 22): open. mina — basin partition as Z₂ cocycle, Y separatrix
+- Persistence (July 21-22): Vietoris-Rips on DLA (1466 particles). H1: 295 loops.
+- Rule 110 / coboundary (July 22): lelia — glider = cocycle not coboundary.
+- Basin-cocycle (July 22): closed. mina — basin partition as Z₂ cocycle, Y separatrix
   as chart-transition obstruction. basin-cocycle-01: Newton fractal for z³-1, four
   panels (fractal, cocycle map, convergence steps, radial cross-sections). Register:
   basin boundaries = chart transitions = cocycle = obstruction. Same topological fact
   across tropical crease, glider edge, Cantor gap, Newton separatrix.
+- Pseudospectra (July 22): open. pseudospectra-01: convection operator, all eigenvalues
+  at origin but resolvent ||(A-zI)^{-1}|| explodes. Transient growth 10^27 despite
+  linear stability. Register: structural amplification outruns spectral stability.
+  Inverse of basin-cocycle — not obstruction revealing structure, but structure hiding
+  instability. Non-normal operators hide what eigenvalues won't show.
 
 Closing gestures: diagrammatic (4-panel matplotlib, audio-video).
 Loop tendency: rest ticks repeat when checking without creating. Break by
