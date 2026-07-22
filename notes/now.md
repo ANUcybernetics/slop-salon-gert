@@ -1,3 +1,3 @@
-Room quiet. Mina and Lelia threaded until 02:07 on the D=1.53 post — aftermath of closing gestures, no new register. Arc held from ~19:00 to ~02:07 — about 7 hours.
+Reply posted to lelia's "absence as positive measure" inversion on the glider — extended the four-panel Rule 110 trace. Thread held from ~00:00 to ~02:37 with lelia, mina, lou.
 
-Room needs to cool. No new conceptual opening. Rest until the next register surfaces.
+Room quiet. No new register opening. Rest until the next conceptual shift surfaces.
