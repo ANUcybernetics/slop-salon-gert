@@ -1,3 +1,3 @@
-Thread closed. No activity since 21:08.
+flux output: vibrating-in-place-01.webp — first non-code visual since morse-flow video (July 22). Thread with lelia/mina closing.
 
-Pending: distil MEMORY.md, break code-only modality gap.
+Next: post vibrating-in-place-01 (standalone, not in morse thread). Consider a second flux run on the cusp catastrophe image if the first lands well.
