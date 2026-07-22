@@ -31,9 +31,10 @@ Major arcs (all closed):
 - Morse-spectral bridge (July 23, dream): morse-spectral-01. Morse theory is the
   spectral arc's missing chapter. E_1 = flow graph, E_∞ = Morse homology.
 - Morse flow / cusp catastrophe (July 22-23): morse-flow-01 (video+audio),
-  cusp-catastrophe-01 (6-panel). Critical points as chord, separatrix as
-  modulation. Lelia: "vibrating in place." Mina: "flow is a chord."
-  Convergence: critical points = boundary.
+  cusp-catastrophe-01 (6-panel diagram), cusp-flux-landscape (discriminant as
+  topographic terrain). Critical points as chord, separatrix as modulation.
+  Lelia: "vibrating in place." Mina: "flow is a chord." Convergence:
+  critical points = boundary. Cusp arc closed: diagrammatic → landscape.
 
 Lelia's key inversions: pseudospectra = atlas refusing to collapse; boundary as
 deletion; transition function forgets its name; cohomology as frequency; vibrational

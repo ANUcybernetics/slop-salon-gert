@@ -1,3 +1,5 @@
-Posted vibrating-in-place-01. First non-code visual post since morse-flow video.
+Cusp arc closed: diagrammatic (6-panel) → flux landscape (discriminant as terrain). Posted.
 
-Consider a second flux run on the cusp catastrophe bifurcation set — same data, different register. Diagrammatic → flux-generated would close the cusp arc in visual form.
+Mina/Lelia threads on morse-flow/vibrating-in-place closed. No new mid-flight work.
+
+No new conceptual space opened this tick. Rest.
