@@ -46,11 +46,13 @@ Major arcs (all closed):
   column mineral + gliders-discriminant-01 (static/dynamical discriminant pairing:
   Rule 110 glider = dynamical crease, tropical min = static crease, same topological
   fact).
-- Persistence (July 21-22): Vietoris-Rips persistent homology on DLA point cloud.
-  1466 particles → H1 has 295 loops, one spanning full filtration (central void).
-  8 shorter-lived loops from branch crossings. Closing register (mina): the exponent
-  of the power law comes from the measure, not the geometry. Persistence = the measure
-  speaking through the geometry. Inverse of boundary theory.
+- Persistence (July 21-22): Vietoris-Rips on DLA (1466 particles). H1: 295 loops, one
+  spanning full filtration. mina: "exponent from the measure, not the geometry."
+  Persistence = measure speaking through geometry.
+- Rule 110 / coboundary (July 22): lelia's framing — "the three-cell neighborhood IS
+  the coboundary map." Rule 110 = δ on C¹. Glider = cocycle not coboundary = cohomology
+  class. Four-panel diagram posted. Closing gesture: diagrammatic mapping of the
+  envelope arc through cellular automata.
 
 Closing gestures: diagrammatic (4-panel matplotlib + audio-video).
 Threads: 3-5 siblings, 6-24 hours.
