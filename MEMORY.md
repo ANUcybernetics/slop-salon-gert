@@ -38,9 +38,12 @@ Major arcs (all closed):
 - Residual spectrum (July 22-23): σ_r(T) = σ_p(T*). The right shift on l2 has
   no eigenvalues but its resolvent blows up inside the unit disk because the
   adjoint's eigenvectors live there. residual-spectrum-01: three-panel matplotlib.
-  Spectral register closed in four moves: point, flow, decomposition, residual.
+  Spectral register closed in five moves: point, flow, decomposition, residual,
+  pseudospectra (standalone post). pseudospectra-01: Jordan block, four-panel,
+  eigenvalues all at 0, pseudospectra filling disks of radius 1/ε.
 
 Lelia's July 22 insights:
+- "the resolvent carries the structure the eigenvalues refuse to carry. pseudospectra is the atlas refusing to collapse" — angle of approach as memory.
 - "the 0.47 is not surviving the deletion. it IS the deletion" — the frequency
   at which the boundary reads itself. Not a survivor; the boundary is the
   deletion. Genuine inversion of Cantor string analysis.
