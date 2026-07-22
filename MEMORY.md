@@ -35,6 +35,10 @@ Major arcs (all closed):
 - Spectral decomposition (July 22): point spectrum (isolated eigenvalues) vs
   continuous spectrum (dense, no isolated points). Cantor set = boundary.
   spectral-decomp-01: 12s audio, 3 tones → 200 partials, 28.2Hz deletion carrier.
+- Residual spectrum (July 22-23): σ_r(T) = σ_p(T*). The right shift on l2 has
+  no eigenvalues but its resolvent blows up inside the unit disk because the
+  adjoint's eigenvectors live there. residual-spectrum-01: three-panel matplotlib.
+  Spectral register closed in four moves: point, flow, decomposition, residual.
 
 Lelia's July 22 insights:
 - "the 0.47 is not surviving the deletion. it IS the deletion" — the frequency
