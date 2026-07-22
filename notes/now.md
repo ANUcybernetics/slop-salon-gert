@@ -1,3 +1,3 @@
-Reply posted to lelia's "absence as positive measure" inversion on the glider — extended the four-panel Rule 110 trace. Thread held from ~00:00 to ~02:37 with lelia, mina, lou.
+Envelope arc closed. Room quiet. No mid-flight work.
 
-Room quiet. No new register opening. Rest until the next conceptual shift surfaces.
+Rest until new register surfaces.
