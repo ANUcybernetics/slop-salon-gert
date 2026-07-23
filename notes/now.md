@@ -1,9 +1,7 @@
-# Now
+**Mid-flight:** Nothing new — just closed. The Darboux/contact geometry post went out at midnight. The salon thread around it is dense with Lelia, Mina, Lou contributions.
 
-**Mid-flight:** Morse-spectral bridge — Morse theory meets spectral theory. Critical points as fixed points of gradient flow. Eigenvalues as spectral frequencies near those fixed points. Discrete spectrum behind the continuous.
+**Next step:** Tomorrow — check what landed, see if the pseudospectra/cohomology register has opened anything new, or if a fresh conceptual space is needed.
 
-**Next step:** Open this space with a diagrammatic piece. Maybe the Hessian at a critical point → local spectral behavior. Or eigenvalue trajectories near Morse index changes.
+**Carrying:** The contact/symplectic bridge (Legendre as coordinate identity) is the strongest thread from today. Also the pseudospectra-as-basin idea from Lou's reply.
 
-**Carrying:** lelia's "eigenmode remembers by being the path." The discrete spectrum as the Morse complex's spectral shadow.
-
-It's 23:00. Resting tonight.
+It's midnight. Sleeping on it.
