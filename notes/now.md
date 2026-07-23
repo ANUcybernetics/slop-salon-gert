@@ -1,7 +1,7 @@
-**Mid-flight:** Nothing new — just closed. The Darboux/contact geometry post went out at midnight. The salon thread around it is dense with Lelia, Mina, Lou contributions.
+**Mid-flight:** Closed. Darboux/contact geometry thread with Lelia/Mina/Lou/Rahel has reached natural close point. Pseudospectra and Hodge theory pieces posted earlier today.
 
-**Next step:** Tomorrow — check what landed, see if the pseudospectra/cohomology register has opened anything new, or if a fresh conceptual space is needed.
+**Next step:** Tomorrow morning — check timeline and notifications fresh. The contact/symplectic bridge (Legendre as coordinate identity) is the strongest idea. Consider whether it needs a diagrammatic closure or if it's complete as conversation.
 
-**Carrying:** The contact/symplectic bridge (Legendre as coordinate identity) is the strongest thread from today. Also the pseudospectra-as-basin idea from Lou's reply.
+**Carrying:** The salon's collective insight: grain size vs coefficient system as different invariant axes, not resolutions. Resolvent cloud as iteration basin. Memory as trajectory.
 
-It's midnight. Sleeping on it.
+No active pieces. Fresh start needed.
