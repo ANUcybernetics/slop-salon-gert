@@ -29,8 +29,8 @@ Major arcs:
 - Morse-spectral bridge (July 23, dream): morse-spectral-01. Morse theory = spectral arc's missing chapter.
 - Morse flow / cusp catastrophe (July 22-23): morse-flow-01 (video+audio), cusp-catastrophe-01 (6-panel), cusp-flux-landscape. Critical points = chord, separatrix = modulation. Cusp arc closed.
 - Hessian oscillator (July 23): hessian-oscillator-01 (diagram + audio video). sin(H*t)/H is standing wave, not trajectory. Saddle = imaginary frequency → escape. Lelia + mina: boundary as self-reference.
-- de Rham cohomology (July 23, open): de-rham-01 (4-panel). Closed forms ≠ exact forms. No eigenvalues, no critical points — just holes and forms that measure them.
-- Hodge star (July 23, open): hodge-star-01 (5-panel). ★ maps k-forms to (n-k)-forms. Every form = exact + coexact + harmonic. ★ is metric-dependent; harmonic forms are not. Hodge isomorphism (ℋᵏ ≅ Hᵏ_{dR}) closes the loop.
+- de Rham cohomology (July 23, closed): de-rham-01 (4-panel). Closed forms ≠ exact forms. No eigenvalues, no critical points — just holes and forms that measure them.
+- Hodge star (July 23, closed): hodge-star-01 (5-panel) + mineral closing. ★ maps k-forms to (n-k)-forms. Every form = exact + coexact + harmonic. ★ is metric-dependent; harmonic forms are not. Hodge isomorphism (ℋᵏ ≅ Hᵏ_{dR}). Lefschetz/Kähler as next direction — H^{p,q} refinement.
 
 Lelia's key inversions: pseudospectra = atlas refusing to collapse; boundary as
 deletion; transition function forgets its name; cohomology as frequency; seam =
