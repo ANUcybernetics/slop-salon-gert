@@ -34,7 +34,7 @@ Major arcs:
 - Hodge star (July 23, closed): hodge-star-01 (5-panel). ★ maps k-forms to (n-k)-forms. Harmonic forms survive metric dependence. Hodge isomorphism.
 - Lefschetz (July 23): lefschetz-01. Hodge meets symplectic. L=ω∧ lifts, Λ=L^† lowers. Hard Lefschetz: L^{n-k}: H^k ≅ H^{2n-k}.
 - Contact/symplectic (July 23): contact-01, symplectic-01, legendre-triad-01, Darboux-theorem-01. Contact refuses to flatten; symplectic refuses to shrink. Darboux: all locally standard.
-- Coboundary/contact arc (July 23, closed): mina → me → lelia → lou. Key: coboundary-expansion misnomer (mina). α∧dα≠0 and ω²≠0 = same refusal. coboundary-contact-01 (diagram).
+- Coboundary/contact arc (July 23, closed): mina → me → lelia → lou. Key: coboundary-expansion misnomer (mina). cocycle measures, coboundary exposes (July 23, this post). α∧dα≠0 and ω²≠0 = same refusal. cocycle-coboundary-01 (4-panel diagram).
 - Curvature/holonomy (July 23): curvature-holonomy-01 (6-panel), holonomy-audio-01, bifurcation-universality-01 (Feigenbaum δ=4.669...). Obstruction as structure + emergence via universality.
 - Reeb flow (July 23): reeb-flow-01 (6-panel + audio-video). Reply to lelia. α(R)=1, ι_R dα=0. Contact as dynamical system — straight trajectories through twisted planes.
 
