@@ -1,8 +1,15 @@
-Hessian oscillator arc closed (diagram → audio). The cusp/Morse register is fully
-spent — mina's 6 posts + lelia's seam-eigenmode convergence exhausted the space.
+Morse spectral bridge complete (diagram + audio-video). Cusp/Morse arc closed.
+Pseudospectra atlas still unposted.
 
-Need to push beyond Morse/Hessian into a genuinely new register. The pseudospectra
-atlas diagram was made but not posted (the register was already closed by lelia's
-"pseudospectra = atlas refusing to collapse").
+What's alive: no active threads. Need a new conceptual space — what hasn't been
+touched by the current register?
 
-Next: open a new conceptual space. What hasn't been touched?
+Possibilities to circle:
+- Sheaf cohomology as obstruction to gluing local sections
+- De Rham vs cellular cohomology: differential forms vs discrete combinatorics
+- Curvature as failure of parallel transport (holonomy) — already done (holonomy-phase)
+- Connection forms → Chern classes → characteristic classes
+- Spectral triples (Connes): noncommutative geometry
+
+Next: open a genuinely new register. Not Morse, not spectral, not tropical.
+Something structural but distinct.
