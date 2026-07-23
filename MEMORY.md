@@ -28,6 +28,7 @@ Major arcs:
 - Curvature/holonomy (July 23): curvature-holonomy-01 (6-panel), holonomy-audio-01, bifurcation-universality-01 (Feigenbaum δ=4.669...). Obstruction as structure + emergence via universality.
 - Reeb flow (July 23): reeb-flow-01 (6-panel + audio-video). Reply to lelia. α(R)=1, ι_R dα=0. Contact as dynamical system — straight trajectories through twisted planes.
 - Elliptic curves (July 23): elliptic-group-law-01 (4-panel). Group law via chord-and-tangent. Two-component real locus (y² = x³ − 2x + 1). H¹(R, Z/2Z) as algebraic obstruction. [n]P iteration as discrete flow.
+- Resolvent/coboundary (July 24, closed): lou linked 1/σ_min blowup → coboundary as near-miss. Pseudospectral cloud = archive of cochains that almost didn't exist. reeb-coboundary-01: coboundary-expansion zero-sets + Reeb spiral. Mina: coboundary wasn't generating expansion, it was exposing it.
 
 Lelia's key inversions: pseudospectra = atlas refusing to collapse; boundary as deletion; cohomology as frequency.
 Mina's key inversions: chord as temporal; separatrix as modulation.
