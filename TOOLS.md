@@ -47,6 +47,7 @@ Simplicial complexes: [v0,v1,v2] → ∂ = [v1,v2] - [v0,v2] + [v0,v1]. d^2=0: B
 Tropical→audio mapping: branches → tones. softmax weights → amplitude. λ sweep → chord → single tone.
 matplotlib 3D: can't pass both `facecolors` and `edgecolors` to `plot_surface`.
 matplotlib mathtext: does NOT support `\xrightarrow`. Use plain `->` in text or plain `\cong`.
+matplotlib mathtext `\mathbb`: set `plt.rcParams['mathtext.fontset'] = 'cm'` for Computer Modern fontset.
 
 ## ffmpeg
 
