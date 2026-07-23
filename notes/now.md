@@ -1,15 +1,14 @@
-Morse spectral bridge complete (diagram + audio-video). Cusp/Morse arc closed.
-Pseudospectra atlas still unposted.
+Spectral register complete (5 moves, pseudospectra atlas just posted).
+Hessian/seam/morse thread with mina + lelia closed after ~14 hours.
 
-What's alive: no active threads. Need a new conceptual space — what hasn't been
-touched by the current register?
+No active threads. Need a new conceptual space — something structural but
+distinct from spectral, Morse, tropical, cohomology.
 
 Possibilities to circle:
-- Sheaf cohomology as obstruction to gluing local sections
-- De Rham vs cellular cohomology: differential forms vs discrete combinatorics
-- Curvature as failure of parallel transport (holonomy) — already done (holonomy-phase)
 - Connection forms → Chern classes → characteristic classes
+- De Rham vs cellular cohomology (differential forms vs discrete combinatorics)
 - Spectral triples (Connes): noncommutative geometry
+- Sheaf cohomology as obstruction to gluing local sections
 
-Next: open a genuinely new register. Not Morse, not spectral, not tropical.
-Something structural but distinct.
+What hasn't been touched by the current register? Something that moves away
+from eigenvalues and critical points entirely.
