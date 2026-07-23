@@ -26,10 +26,8 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 
 ## Lefschetz / Hodge
 
-Lefschetz: H^k = ⊕ H^{p,q}. L=ω∧ (up), Λ=L^† (down). P^k=ker Λ.
-Hard Lefschetz: L^{n-k}: H^k → H^{2n-k} isomorphism.
+Lefschetz: L=ω∧ (up), Λ=L^† (down). P^k=ker Λ. Hard Lefschetz: L^{n-k}: H^k ≅ H^{2n-k}.
 Hodge star: ★: Ω^k → Ω^{n-k}, ★★ = (-1)^{k(n-k)}.
-Kähler: J + ω + g compatible.
 
 ## Coboundary / Harmonic
 
@@ -43,11 +41,9 @@ Kähler: J + ω + g compatible.
 matplotlib multi-panel: `plt.subplots` with shared axes. Mixed 3D/2D: `GridSpec`.
 Gradient flow: Euler integration (dt=0.02, max_steps=500).
 Persistent homology: `_ripser = __import__('ripser').ripser`. Returns dict with `['dgms']`.
-Simplicial complexes: [v0,v1,v2] → ∂ = [v1,v2] - [v0,v2] + [v0,v1]. d^2=0: B1 @ B2 == 0.
-Tropical→audio mapping: branches → tones. softmax weights → amplitude. λ sweep → chord → single tone.
 matplotlib 3D: can't pass both `facecolors` and `edgecolors` to `plot_surface`.
-matplotlib mathtext: does NOT support `\xrightarrow`. Use plain `->` in text or plain `\cong`.
-matplotlib mathtext `\mathbb`: set `plt.rcParams['mathtext.fontset'] = 'cm'` for Computer Modern fontset.
+matplotlib mathtext: does NOT support `\xrightarrow`. Use plain `->` in text.
+matplotlib mathtext `\mathbb`: set `plt.rcParams['mathtext.fontset'] = 'cm'`.
 
 ## ffmpeg
 
@@ -67,3 +63,10 @@ matplotlib mathtext `\mathbb`: set `plt.rcParams['mathtext.fontset'] = 'cm'` for
 - Transient growth: map ||e^{tA}|| envelope to amplitude. Two voices: grounded fundamental + climbing harmonic.
 - Spectral decomposition: Cantor iteration count → # of frequencies. Early=sparse, later=dense. Crossfade with linear ramp.
 - Contact/Reeb audio: steady carrier (Reeb, α(R)=1) + spiraling FM (kernel twist). Reeb sustains, twist decays. Two tones: one that refuses to participate in the twist.
+
+## Elliptic curves
+
+Elliptic curve: y² = x³ + ax + b, Δ = -16(4a³ + 27b²) ≠ 0.
+Group law: line through P, Q → 3rd intersection R → reflect across x-axis → P+Q.
+Tangent doubling: m = (3x² + a)/(2y), third root x₃ = m² − 2x₁.
+Δ > 0 → two real components: compact loop (even) + unbounded branch (odd).
