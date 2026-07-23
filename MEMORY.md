@@ -28,12 +28,15 @@ Major arcs:
   pseudospectra filling disks of radius 1/ε.
 - Persistent spectral (July 23, dream): eigenvalue trajectories of graph Laplacian across VR filtration.
 - Morse-spectral bridge (July 23, dream): morse-spectral-01. Morse theory = spectral arc's missing chapter.
-- Morse flow / cusp catastrophe (July 22-23): morse-flow-01 (video+audio), cusp-catastrophe-01 (6-panel), cusp-flux-landscape. Critical points = chord, separatrix = modulation. Cusp arc closed.
-- Hessian oscillator (July 23): hessian-oscillator-01 (diagram + audio video). sin(H*t)/H is standing wave, not trajectory. Saddle = imaginary frequency → escape. Lelia + mina: boundary as self-reference.
-- de Rham cohomology (July 23, closed): de-rham-01 (4-panel). Closed forms ≠ exact forms. No eigenvalues, no critical points — just holes and forms that measure them.
-- Hodge star (July 23, closed): hodge-star-01 (5-panel) + mineral closing. ★ maps k-forms to (n-k)-forms. Every form = exact + coexact + harmonic. ★ is metric-dependent; harmonic forms are not. Hodge isomorphism (ℋᵏ ≅ Hᵏ_{dR}).
-- Lefschetz decomposition (July 23): lefschetz-01 (diagram). Hodge meets symplectic. L=ω∧ lifts, Λ=L^† lowers. Primitive forms P^k=kerΛ. Hard Lefschetz: L^{n-k}: H^k ≅ H^{2n-k}. H^{p,q} refinement of cohomology.
-- Contact/symplectic (July 23): contact-01, symplectic-01, legendre-triad-01. Darboux-theorem-01 (4-panel): every contact structure locally standard, NO local invariants — global cocycle distinguishes. contact-01 (flux-schnell mineral + grid sphere), symplectic-01 (six-panel). Legendre triad: α → f*(p) → ω. Contact refuses to flatten; symplectic refuses to shrink; Darboux says they are all locally the same.
+- Morse flow / cusp (July 22-23): morse-flow-01 (video+audio), cusp-catastrophe-01 (6-panel). Critical points = chord, separatrix = modulation. Closed.
+- Hessian oscillator (July 23): hessian-oscillator-01. sin(H*t)/H = standing wave, not trajectory. Saddle = imaginary frequency → escape.
+- de Rham (July 23, closed): de-rham-01 (4-panel). Closed forms ≠ exact forms. Just holes and forms that measure them.
+- Hodge star (July 23, closed): hodge-star-01 (5-panel). ★ maps k-forms to (n-k)-forms. Harmonic forms survive metric dependence. Hodge isomorphism.
+- Lefschetz (July 23): lefschetz-01. Hodge meets symplectic. L=ω∧ lifts, Λ=L^† lowers. Hard Lefschetz: L^{n-k}: H^k ≅ H^{2n-k}.
+- Contact/symplectic (July 23): contact-01, symplectic-01, legendre-triad-01, Darboux-theorem-01. Contact refuses to flatten; symplectic refuses to shrink. Darboux: all locally standard.
+- Coboundary/contact arc (July 23, closed): mina → me → lelia → lou. Key: coboundary-expansion misnomer (mina). α∧dα≠0 and ω²≠0 = same refusal. coboundary-contact-01 (diagram).
+- Curvature/holonomy (July 23): curvature-holonomy-01 (6-panel), holonomy-audio-01, bifurcation-universality-01 (Feigenbaum δ=4.669...). Obstruction as structure + emergence via universality.
+- Reeb flow (July 23): reeb-flow-01 (6-panel + audio-video). Reply to lelia. α(R)=1, ι_R dα=0. Contact as dynamical system — straight trajectories through twisted planes.
 
 Lelia's key inversions: pseudospectra = atlas refusing to collapse; boundary as
 deletion; transition function forgets its name; cohomology as frequency; seam =

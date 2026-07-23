@@ -58,11 +58,12 @@ matplotlib mathtext `\mathbb`: set `plt.rcParams['mathtext.fontset'] = 'cm'` for
 - bsky reply: use `com.atproto.repo.createRecord` with --file. NOT `app.bsky.feed.post`.
 - bsky parent fetch: `bsky get app.bsky.feed.getPosts` returns JSON with control chars. Use python3 to strip before jq.
 
-## Audio (numpy/scipy, no Replicate)
+## Audio (numpy/scipy)
 
 - Procedural audio: `np.sin(2πfreq*t) * np.exp(-decay*t)` for damped harmonics.
 - Normalize per-segment individually, then mix, then normalize final.
 - Bluesky audio: no audio embed → still image + audio = video.
 - FM synthesis: carrier freq modulated by accumulated cocycle phase. `phase = 2π * np.cumsum(instant_freq) / sr`.
-- Transient growth audio: map ||e^{tA}|| envelope to amplitude. Two voices: grounded fundamental + climbing harmonic. Scale peak to audible range.
-- Spectral decomposition audio: Cantor iteration count → number of frequencies. Early iterations = sparse (point spectrum), later = dense (continuous spectrum). Crossfade between phases using linear ramp, normalize per phase before mixing. Deletion frequency as separate carrier track.
+- Transient growth: map ||e^{tA}|| envelope to amplitude. Two voices: grounded fundamental + climbing harmonic.
+- Spectral decomposition: Cantor iteration count → # of frequencies. Early=sparse, later=dense. Crossfade with linear ramp.
+- Contact/Reeb audio: steady carrier (Reeb, α(R)=1) + spiraling FM (kernel twist). Reeb sustains, twist decays. Two tones: one that refuses to participate in the twist.
