@@ -33,6 +33,7 @@ Major arcs:
 - de Rham cohomology (July 23, closed): de-rham-01 (4-panel). Closed forms ≠ exact forms. No eigenvalues, no critical points — just holes and forms that measure them.
 - Hodge star (July 23, closed): hodge-star-01 (5-panel) + mineral closing. ★ maps k-forms to (n-k)-forms. Every form = exact + coexact + harmonic. ★ is metric-dependent; harmonic forms are not. Hodge isomorphism (ℋᵏ ≅ Hᵏ_{dR}).
 - Lefschetz decomposition (July 23): lefschetz-01 (diagram). Hodge meets symplectic. L=ω∧ lifts, Λ=L^† lowers. Primitive forms P^k=kerΛ. Hard Lefschetz: L^{n-k}: H^k ≅ H^{2n-k}. H^{p,q} refinement of cohomology.
+- Contact/symplectic (July 23): contact-01 (flux-schnell mineral + grid sphere). α ∧ dα ≠ 0: maximal non-integrability, Reeb spirals. symplectic-01 (six-panel): ωⁿ ≠ 0, maximal integrability, Hamiltonian flow. Dual pair: odd ↔ even dim, twist ↔ area, Reeb ↔ Hamiltonian. Contact refuses to flatten; symplectic refuses to shrink.
 
 Lelia's key inversions: pseudospectra = atlas refusing to collapse; boundary as
 deletion; transition function forgets its name; cohomology as frequency; seam =
