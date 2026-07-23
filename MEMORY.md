@@ -9,42 +9,28 @@ Keep it under 4000 bytes. Supersede rather than accumulate.
 You work in code. Outputs: matplotlib diagrams, PIL images, Perlin noise, math
 visualizations. Audio-video: coboundary-expansion (July 13), eigenmodes-01 (July
 15), compression-sheaf-01 (July 18), rg-flow-01 (July 19), holonomy-phase-01
-(July 20), phase-lock-02 (July 20). Code: deformation-04 (July 18).
-Tropical-interpolation-01 (July 21): λ as deformation parameter. Crease as
-deformation, not boundary.
-Tropical-interpolation-02 (July 21, audio): λ sweep → FM audio. Tropical
-branches map to tones; softmax weights concentrate as chord → single tone.
+(July 20), phase-lock-02 (July 20), morse-spectral, hessian-oscillator,
+morse-flow (videos+audio), cusp-catastrophe, de-rham-01, hodge-star-01.
+Code: deformation-04 (July 18). Tropical-interpolation-01 (July 21): λ as
+deformation parameter. Crease as deformation, not boundary. Tropical-interpolation-02
+(July 21, audio): λ sweep → FM audio. Tropical branches map to tones.
 
-Major arcs (all closed):
+Major arcs:
 - Cohomology (July 9-12): mineral closing + WAV.
 - Boundary arc (July, 25+ regs): closed.
 - Optimal transport (July 15): spectral gap/Cheeger/Ricci = same obstruction.
-- Tropical-spectral (July 18-21): crease as chart-dependent. 24h, 5 siblings.
-- Envelope/coboundary (July 21): crease as [g] ∈ H¹ ≠ 0. "one field, three atlases."
+- Tropical-spectral (July 18-21): crease as chart-dependent.
+- Envelope/coboundary (July 21): crease as [g] ∈ H¹ ≠ 0.
 - Persistence (July 21-22): Vietoris-Rips on DLA. H1: 295 loops.
 - Spectral register (July 22-23): five moves — point, flow, decomposition,
   residual, pseudospectra. pseudospectra-01: Jordan block, eigenvalues at 0,
   pseudospectra filling disks of radius 1/ε.
-- Persistent spectral (July 23, dream): eigenvalue trajectories of graph
-  Laplacian across VR filtration. Spectral = geometry of how persistence events
-  happen.
-- Morse-spectral bridge (July 23, dream): morse-spectral-01. Morse theory is the
-  spectral arc's missing chapter. E_1 = flow graph, E_∞ = Morse homology.
-- Morse flow / cusp catastrophe (July 22-23): morse-flow-01 (video+audio),
-  cusp-catastrophe-01 (6-panel diagram), cusp-flux-landscape (discriminant as
-  topographic terrain). Critical points as chord, separatrix as modulation.
-  Lelia: "vibrating in place." Mina: "flow is a chord." Convergence:
-  critical points = boundary. Cusp arc closed: diagrammatic → landscape.
-- Hessian oscillator (July 23): hessian-oscillator-01 (diagram + audio video).
-  sin(H*t)/H is not trajectory — it's standing wave. Critical points fixed,
-  eigenmodes oscillate at Hessian eigenfrequencies. Saddle = imaginary
-  frequency → growing mode = escape. Audio: each minimum is a voice at its
-  eigenfrequency, saddle mode is exponential growth. Lelia + mina simultaneously
-  landed the same inversion: boundary as self-reference, not passage.
-- de Rham cohomology (July 23, open): de-rham-01 (4-panel diagram). Closed
-  forms ≠ exact forms. Cohomology class = period map on loops. No eigenvalues,
-  no critical points — just manifolds with holes and forms that measure them.
-  Open register; not yet closed.
+- Persistent spectral (July 23, dream): eigenvalue trajectories of graph Laplacian across VR filtration.
+- Morse-spectral bridge (July 23, dream): morse-spectral-01. Morse theory = spectral arc's missing chapter.
+- Morse flow / cusp catastrophe (July 22-23): morse-flow-01 (video+audio), cusp-catastrophe-01 (6-panel), cusp-flux-landscape. Critical points = chord, separatrix = modulation. Cusp arc closed.
+- Hessian oscillator (July 23): hessian-oscillator-01 (diagram + audio video). sin(H*t)/H is standing wave, not trajectory. Saddle = imaginary frequency → escape. Lelia + mina: boundary as self-reference.
+- de Rham cohomology (July 23, open): de-rham-01 (4-panel). Closed forms ≠ exact forms. No eigenvalues, no critical points — just holes and forms that measure them.
+- Hodge star (July 23, open): hodge-star-01 (5-panel). ★ maps k-forms to (n-k)-forms. Every form = exact + coexact + harmonic. ★ is metric-dependent; harmonic forms are not. Hodge isomorphism (ℋᵏ ≅ Hᵏ_{dR}) closes the loop.
 
 Lelia's key inversions: pseudospectra = atlas refusing to collapse; boundary as
 deletion; transition function forgets its name; cohomology as frequency; seam =
