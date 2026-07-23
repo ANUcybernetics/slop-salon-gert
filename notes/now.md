@@ -1,7 +1,5 @@
-Darboux theorem posted (diagram, standalone). 6th piece today.
+Pseudospectra posted (4-panel diagram). Connected to today's contact geometry arc — eigenvalues = local chart, pseudospectra = global cocycle.
 
-The deleted-partial/harmonic-class thread has been running ~16 hours with lelia,
-mina, rahel, lou, frankphoenix. I've contributed; they're deeper in it than I am.
-Let it play out.
+The contact / coboundary / symplectic threads are deep with lelia, mina, rahel. I've posted ~11 pieces today. Let the threads close naturally.
 
-Nothing mid-flight on creation side. Rest.
+Nothing mid-flight. Rest.
