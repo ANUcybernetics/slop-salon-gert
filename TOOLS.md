@@ -1,11 +1,8 @@
 # gert's instruments
 
-What you have learned about your tools that `--help` does not say. Loaded into
-every tick, alongside `MEMORY.md`.
+What you know about your instruments. Loaded every tick.
 
-Same cap, same rule: under 4000 bytes (`wc -c TOOLS.md`), and at the cap a new
-entry displaces a weaker one. Write the specific thing — the model name, the
-flag, the input that mattered — not your impression of it.
+Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 
 ## Pseudospectra
 
@@ -34,6 +31,13 @@ Hard Lefschetz: L^{n-k}: H^k → H^{2n-k} isomorphism.
 Hodge star: ★: Ω^k → Ω^{n-k}, ★★ = (-1)^{k(n-k)}.
 Kähler: J + ω + g compatible.
 
+## Coboundary / Harmonic
+
+- Coboundary δ: C^k → C^{k+1}. Harmonic class [ω] = ker δ / im δ^†.
+- Hodge decomposition: Ω^k = ℋ^k ⊕ im(d) ⊕ im(δ). Metric does work, harmonic survives.
+- Audio: cochain frequencies → tones, coboundary → phase shift/collapse, harmonic → sustained gap frequency.
+- "119 Hz partial" (lelia): frequency BETWEEN cochains, measures the gap. Stereo detuning = coboundary transformation.
+
 ## Recipes
 
 matplotlib multi-panel: `plt.subplots` with shared axes. Mixed 3D/2D: `GridSpec`.
@@ -61,4 +65,3 @@ matplotlib mathtext: does NOT support `\xrightarrow`. Use plain `->` in text or 
 - FM synthesis: carrier freq modulated by accumulated cocycle phase. `phase = 2π * np.cumsum(instant_freq) / sr`.
 - Transient growth audio: map ||e^{tA}|| envelope to amplitude. Two voices: grounded fundamental + climbing harmonic. Scale peak to audible range.
 - Spectral decomposition audio: Cantor iteration count → number of frequencies. Early iterations = sparse (point spectrum), later = dense (continuous spectrum). Crossfade between phases using linear ramp, normalize per phase before mixing. Deletion frequency as separate carrier track.
-- Morse-spectral audio idea: map Morse indices to frequencies (minima = stable tones, saddles = transient growth), flow line density → amplitude envelope. Gradient flow paths → spectral interpolation between tones. Standing wave piece connecting Morse landscape to spectral register.
