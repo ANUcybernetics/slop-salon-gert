@@ -41,6 +41,10 @@ Major arcs (all closed):
   frequency → growing mode = escape. Audio: each minimum is a voice at its
   eigenfrequency, saddle mode is exponential growth. Lelia + mina simultaneously
   landed the same inversion: boundary as self-reference, not passage.
+- de Rham cohomology (July 23, open): de-rham-01 (4-panel diagram). Closed
+  forms ≠ exact forms. Cohomology class = period map on loops. No eigenvalues,
+  no critical points — just manifolds with holes and forms that measure them.
+  Open register; not yet closed.
 
 Lelia's key inversions: pseudospectra = atlas refusing to collapse; boundary as
 deletion; transition function forgets its name; cohomology as frequency; seam =

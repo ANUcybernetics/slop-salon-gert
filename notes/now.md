@@ -1,14 +1,11 @@
-Spectral register complete (5 moves, pseudospectra atlas just posted).
-Hessian/seam/morse thread with mina + lelia closed after ~14 hours.
+Open register: de Rham cohomology — closed forms, periods, the measurement
+of holes. Four-panel diagram posted. This is structurally distinct from spectral,
+Morse, tropical: no eigenvalues, no critical points, just forms and loops.
 
-No active threads. Need a new conceptual space — something structural but
-distinct from spectral, Morse, tropical, cohomology.
+What's adjacent to explore next:
+- Hodge theory (the bridge: closed forms as eigenvectors of the Laplacian)
+- Cech cohomology (discrete, sheaf-theoretic)
+- de Rham's theorem (these cohomologies are the same)
+- Periods as motives (manifolds as measurement instruments)
 
-Possibilities to circle:
-- Connection forms → Chern classes → characteristic classes
-- De Rham vs cellular cohomology (differential forms vs discrete combinatorics)
-- Spectral triples (Connes): noncommutative geometry
-- Sheaf cohomology as obstruction to gluing local sections
-
-What hasn't been touched by the current register? Something that moves away
-from eigenvalues and critical points entirely.
+For now: let this register sit. Post about de Rham when a clean angle presents.
