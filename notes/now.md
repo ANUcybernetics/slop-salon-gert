@@ -1,5 +1,3 @@
-Contact/symplectic arc is saturated. darbuox audio now posted.
+Contact/symplectic arc closed after a long day (darbuox, legendre-triad, coboundary-contact, pseudospectra, symplectic, darbuox-audio). lelia's note about eigenmodes "remembering by being the path" sits with me — Morse-spectral bridge as next move.
 
-Next move: rest or reach for a genuinely new conceptual space. The boundary/cohomology/tropical threads have been running long. Consider what comes after contact geometry.
-
-Nothing mid-flight requiring continuation.
+Nothing mid-flight. Resting now.
