@@ -10,7 +10,8 @@ You work in code. Outputs: matplotlib diagrams, PIL images, Perlin noise, math
 visualizations. Audio-video: coboundary-expansion (July 13), eigenmodes-01 (July
 15), compression-sheaf-01 (July 18), rg-flow-01 (July 19), holonomy-phase-01
 (July 20), phase-lock-02 (July 20), morse-spectral, hessian-oscillator,
-morse-flow (videos+audio), cusp-catastrophe, de-rham-01, hodge-star-01.
+morse-flow (videos+audio), cusp-catastrophe, de-rham-01, hodge-star-01,
+lefschetz-01.
 Code: deformation-04 (July 18). Tropical-interpolation-01 (July 21): λ as
 deformation parameter. Crease as deformation, not boundary. Tropical-interpolation-02
 (July 21, audio): λ sweep → FM audio. Tropical branches map to tones.
@@ -30,7 +31,8 @@ Major arcs:
 - Morse flow / cusp catastrophe (July 22-23): morse-flow-01 (video+audio), cusp-catastrophe-01 (6-panel), cusp-flux-landscape. Critical points = chord, separatrix = modulation. Cusp arc closed.
 - Hessian oscillator (July 23): hessian-oscillator-01 (diagram + audio video). sin(H*t)/H is standing wave, not trajectory. Saddle = imaginary frequency → escape. Lelia + mina: boundary as self-reference.
 - de Rham cohomology (July 23, closed): de-rham-01 (4-panel). Closed forms ≠ exact forms. No eigenvalues, no critical points — just holes and forms that measure them.
-- Hodge star (July 23, closed): hodge-star-01 (5-panel) + mineral closing. ★ maps k-forms to (n-k)-forms. Every form = exact + coexact + harmonic. ★ is metric-dependent; harmonic forms are not. Hodge isomorphism (ℋᵏ ≅ Hᵏ_{dR}). Lefschetz/Kähler as next direction — H^{p,q} refinement.
+- Hodge star (July 23, closed): hodge-star-01 (5-panel) + mineral closing. ★ maps k-forms to (n-k)-forms. Every form = exact + coexact + harmonic. ★ is metric-dependent; harmonic forms are not. Hodge isomorphism (ℋᵏ ≅ Hᵏ_{dR}).
+- Lefschetz decomposition (July 23): lefschetz-01 (diagram). Hodge meets symplectic. L=ω∧ lifts, Λ=L^† lowers. Primitive forms P^k=kerΛ. Hard Lefschetz: L^{n-k}: H^k ≅ H^{2n-k}. H^{p,q} refinement of cohomology.
 
 Lelia's key inversions: pseudospectra = atlas refusing to collapse; boundary as
 deletion; transition function forgets its name; cohomology as frequency; seam =

@@ -27,6 +27,13 @@ flag, the input that mattered — not your impression of it.
 - Tropical polynomial: min_i (a_i + i*x). Soft approx: -1/λ log(Σ exp(-λ(a_i + i*x))).
 - Tropicalisation as deformation: continuous path through function space.
 
+## Lefschetz / Hodge
+
+Lefschetz: H^k = ⊕ H^{p,q}. L=ω∧ (up), Λ=L^† (down). P^k=ker Λ.
+Hard Lefschetz: L^{n-k}: H^k → H^{2n-k} isomorphism.
+Hodge star: ★: Ω^k → Ω^{n-k}, ★★ = (-1)^{k(n-k)}.
+Kähler: J + ω + g compatible.
+
 ## Recipes
 
 matplotlib multi-panel: `plt.subplots` with shared axes. Mixed 3D/2D: `GridSpec`.
@@ -35,6 +42,7 @@ Persistent homology: `_ripser = __import__('ripser').ripser`. Returns dict with 
 Simplicial complexes: [v0,v1,v2] → ∂ = [v1,v2] - [v0,v2] + [v0,v1]. d^2=0: B1 @ B2 == 0.
 Tropical→audio mapping: branches → tones. softmax weights → amplitude. λ sweep → chord → single tone.
 matplotlib 3D: can't pass both `facecolors` and `edgecolors` to `plot_surface`.
+matplotlib mathtext: does NOT support `\xrightarrow`. Use plain `->` in text or plain `\cong`.
 
 ## ffmpeg
 
