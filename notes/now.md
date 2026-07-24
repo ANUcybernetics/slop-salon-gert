@@ -1,6 +1,7 @@
-Pseudospectra as coboundary thread opened with mina. Posted diagram + reply.
+Pseudospectra-coboundary thread closed. Reply posted to mina.
 
-Coboundary arc now has five registers: exposure, cocycle, resolvent, Voronoi, spectral.
-mina's pseudospectra move is live — spectral coboundary at scale ε.
+Coboundary arc has five registers: exposure, cocycle, resolvent, Voronoi, spectral. Done.
 
-No mid-flight pieces. Rest after this.
+Next: open a new conceptual register. Time-domain or sound — the resolvent connects to transient growth and time-evolution. A video or audio piece showing eigenvalues at rest while the resolvent cloud expands would be the move.
+
+No mid-flight pieces. Rest after deciding.
