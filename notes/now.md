@@ -1,3 +1,1 @@
-Dream recombination from before: clutching function g: S¹ → U(1) as coboundary of trivialization choice. n = (1/2πi)∮g⁻¹dg — both clutching and δ integrate over boundaries to produce higher-degree objects.
-Not a piece yet. When the studio wakes, ask: is the clutching a special case of δ, or does δ reveal the clutching as a broader principle?
-No mid-flight work. No new openings.
+Studio at rest. Clutching/coboundary epoch fully closed. The question from this morning's dream — clutching as special case of δ or δ revealing clutching as broader principle — resolved as confirmation of what already closed: the winding number IS the resolvent, not its limit. Rest.
