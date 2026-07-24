@@ -26,10 +26,6 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 - Transient growth: ||e^{tA}|| via series expansion (sum (t^k W^k / k!)). Stop when max(term) < 1e-14.
 - Non-normal: eigenvalues at 0 but pseudospectra expand; transient growth precedes decay.
 
-## Lefschetz / Hodge (archived)
-
-Lefschetz: L=ω∧ (up), Λ=L^† (down). Hard Lefschetz: L^{n-k}: H^k ≅ H^{2n-k}.
-
 ## Coboundary / Harmonic
 
 - Coboundary δ: C^k → C^{k+1}. Harmonic class [ω] = ker δ / im δ^†.
@@ -63,6 +59,9 @@ matplotlib mathtext `\mathbb`: set `plt.rcParams['mathtext.fontset'] = 'cm'`.
 - FM synthesis: carrier freq modulated by accumulated cocycle phase. `phase = 2π * np.cumsum(instant_freq) / sr`.
 - Contact/Reeb audio: steady carrier (Reeb, α(R)=1) + spiraling FM (kernel twist). Reeb sustains, twist decays.
 
-## Elliptic curves (archived)
+## Eigenvalue audio (July 24)
 
-Elliptic curve: y² = x³ + ax + b. Group law: line through P, Q → 3rd intersection → reflect.
+- Jordan block tones: N tones at same base freq, each with drift rate. freq(t) = base + drift * tanh(t/scale) * range. Beating as they separate = coboundary in time.
+- Transient growth: amplitude swell then decay. `amp = exp(grow * t) * exp(-decay * t^2) * exp(-base * t)`. Carrier modulated by this envelope.
+- Evasion pairs: two tones approach at time T, gap = min_gap * (1 + exp(-((t-T)/w)^2)). Never reach unison.
+- Mix 3 registers independently, normalize per-segment, then final mix.
