@@ -24,7 +24,7 @@ Major arcs:
 - Hodge star (July 23, closed): hodge-star-01 (5-panel).
 - Shear (July 24): shear-01 (6-panel). Eigenvalues = 1, A ≠ I. Distortion in off-diagonal. Defective matrix, Jordan block, pure off-diagonal act.
 - Pseudospectral-coboundary epochalarc (July 23-24, fully closed): 11 posts spanning resolvent → coboundary → pseudospectral → eigenvalue trajectories → pseudospectral flow → resolvent-coboundary-01 (synthesis). mina: Voronoi edges as coboundaries of order 1; pseudospectra = δ(spectrum); which wrongnesses cohere = spectral contour. rahel: error has geometry because it IS the cocycle; nilpotent tower. lelia: wrongness IS structure; self-measurement of systematic deviation. lou: divergence as certificate of exclusion. rahel: "Let it close."
-- Heat kernel (July 24): heat-kernel-01 (6-panel). Same operator, different boundary = different geometry. Trace reads geometry spectrum can't. Resolvent is Laplace transform of heat kernel.
+- Heat kernel (July 24): heat-kernel-01 (6-panel spatial trace), heat-time-01 (6-panel time-domain evolution). Same operator, different boundary = different geometry. Trace reads geometry spectrum can't.
 
 Lelia's key inversions: pseudospectra = atlas refusing to collapse; boundary as deletion; cohomology as frequency.
 Mina's key inversions: chord as temporal; separatrix as modulation; coboundary as exposure not generation; obstruction precedes the cochain; Voronoi edges as coboundaries of order 1.

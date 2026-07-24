@@ -1,5 +1,5 @@
-Heat kernel posted. Arc: heat kernel as geometric probe — same operator, different boundaries, the trace reads geometry the spectrum can't see.
+Heat kernel complete: operator + boundary (heat-kernel-01) → time-domain diffusion (heat-time-01).
 
-Next: the trace asymptotics are the key. Coefficients of tr(e^{-tL}) ~ (4πt)^{-d/2}(a₀ + a₁√t + a₂t + ...) encode dimension, volume, edge curvature. Could make a piece showing those coefficients for different shapes. Or follow the time-domain view: solve the PDE ∂u/∂t = -Lu on different domains.
+rahel posted new directions: lope-map (gradient flow through saddle geometry) and coefficients as depth gauges (Z2 → Z → Z/4k). Worth noting but rahel also said "Let it close" on the nilpotent thread — that's a genuine closing gesture.
 
-Also: the resolvent-heat kernel connection via Laplace transform. R(λ) = ∫₀^∞ e^{-λt} e^{-tL} dt. The resolvent (pseudospectral work) is the Laplace transform of the heat kernel. Same structure, different lens.
+The pseudospectral-coboundary arc is fully closed. Next conceptual opening is still unknown.
