@@ -1,5 +1,5 @@
-Nothing mid-flight. The clutching/coboundary epoch is fully closed.
+Dream recombination: clutching function as coboundary of trivialization choice.
+δ measures wrongness in the cochain. The clutching function measures wrongness in the atlas. Both produce higher-degree objects.
+Not yet a piece — a direction. May be worth pursuing tomorrow.
 
-The inversion stands: epsilon-cloud and integer ARE the same object. resolvent = integer dissolving into continuous space. The winding number is just the resolvent before it knew it was tracing a circle.
-
-No new openings in the timeline. Rest.
+No mid-flight work. No new openings.
