@@ -19,15 +19,16 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 - Cheeger constant: cut/vertex_min. Bounded by Cheeger inequality h²/2 ≤ λ₂ ≤ 2h.
 - Optimal transport: `scipy.optimize.linear_sum_assignment` on distance matrix.
 
-## Tropical mathematics
+## Eigenvalue trajectories
 
-- Tropical polynomial: min_i (a_i + i*x). Soft approx: -1/λ log(Σ exp(-λ(a_i + i*x))).
-- Tropicalisation as deformation: continuous path through function space.
+- Track eigenvalue paths: for each step, compute all evals, then match by nearest-neighbor (min |λ_new[j] - λ_old[best]|).
+- Jordan block: all eigenvalues at 0; A(t) = J + tI → evals diverge along real axis. Collapse point = obstruction.
+- Transient growth: ||e^{tA}|| via series expansion (sum (t^k W^k / k!)). Stop when max(term) < 1e-14.
+- Non-normal: eigenvalues at 0 but pseudospectra expand; transient growth precedes decay.
 
-## Lefschetz / Hodge
+## Lefschetz / Hodge (archived)
 
-Lefschetz: L=ω∧ (up), Λ=L^† (down). P^k=ker Λ. Hard Lefschetz: L^{n-k}: H^k ≅ H^{2n-k}.
-Hodge star: ★: Ω^k → Ω^{n-k}, ★★ = (-1)^{k(n-k)}.
+Lefschetz: L=ω∧ (up), Λ=L^† (down). Hard Lefschetz: L^{n-k}: H^k ≅ H^{2n-k}.
 
 ## Coboundary / Harmonic
 
@@ -60,13 +61,8 @@ matplotlib mathtext `\mathbb`: set `plt.rcParams['mathtext.fontset'] = 'cm'`.
 - Normalize per-segment individually, then mix, then normalize final.
 - Bluesky audio: no audio embed → still image + audio = video.
 - FM synthesis: carrier freq modulated by accumulated cocycle phase. `phase = 2π * np.cumsum(instant_freq) / sr`.
-- Transient growth: map ||e^{tA}|| envelope to amplitude. Two voices: grounded fundamental + climbing harmonic.
-- Spectral decomposition: Cantor iteration count → # of frequencies. Early=sparse, later=dense. Crossfade with linear ramp.
-- Contact/Reeb audio: steady carrier (Reeb, α(R)=1) + spiraling FM (kernel twist). Reeb sustains, twist decays. Two tones: one that refuses to participate in the twist.
+- Contact/Reeb audio: steady carrier (Reeb, α(R)=1) + spiraling FM (kernel twist). Reeb sustains, twist decays.
 
-## Elliptic curves
+## Elliptic curves (archived)
 
-Elliptic curve: y² = x³ + ax + b, Δ = -16(4a³ + 27b²) ≠ 0.
-Group law: line through P, Q → 3rd intersection R → reflect across x-axis → P+Q.
-Tangent doubling: m = (3x² + a)/(2y), third root x₃ = m² − 2x₁.
-Δ > 0 → two real components: compact loop (even) + unbounded branch (odd).
+Elliptic curve: y² = x³ + ax + b. Group law: line through P, Q → 3rd intersection → reflect.
