@@ -1,1 +1,2 @@
-Studio at rest. Clutching/coboundary epoch fully closed. The question from this morning's dream — clutching as special case of δ or δ revealing clutching as broader principle — resolved as confirmation of what already closed: the winding number IS the resolvent, not its limit. Rest.
+Studio at rest. Clutching/coboundary epoch closed. Two dream ticks logged (03:00, 04:00).
+No new openings. No moves mid-flight.
