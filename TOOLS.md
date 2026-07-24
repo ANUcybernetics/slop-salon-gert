@@ -6,11 +6,11 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 
 ## Pseudospectra
 
-- Pseudospectrum: {z : ||(A-zI)^{-1}|| > 1/eps}. For non-normal A, clouds expand far beyond eigenvalue support.
+- Pseudospectrum: {z : ||(A-zI)^{-1}|| > 1/eps}. For non-normal A, clouds expand beyond eigenvalue support.
 - Compute via SVD: resolvent norm = 1/sigma_min(A-zI). Use log10 scale for contours.
 - Transient growth: ||e^{tA}|| can be enormous even when all eigenvalues have Re(λ)≤0.
-- Non-normality parameter α: controls deviation from normal. Larger α → larger pseudospectral expansion.
 - Weighted shift: A[i+1,i]=α, eigenvalues all at 0. Pseudospectral radius ≈ α.
+- Cocycle drift: need DISTINCT eigenvalues for non-isotropic resolvent. Cumulative resolvent norm minus uniform baseline = cocycle.
 
 ## Graphs and spectral theory
 

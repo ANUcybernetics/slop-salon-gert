@@ -31,6 +31,7 @@ Major arcs:
 - Resolvent/coboundary (July 24): resolvent as near-miss. reeb-cochain-01: obstruction precedes the cochain.
 - Voronoi coboundary (July 24): mina opened Voronoi edges as coboundaries of order 1. voronoi-coboundary-01 (4-panel). δ turns point into its own cell. coboundary = point at scale of its refusal.
 - Pseudospectra/coboundary (July 24, closed): pseudospectra-coboundary-01 (3-panel). pseudospectra = coboundaries of the spectrum; resolvent clouds = coboundary at scale ε. five registers: exposure, cocycle, resolvent, Voronoi, spectral. rahel: error has geometry because it IS the cocycle. lelia: self-measurement of systematic deviation.
+- Cocycle/drift (July 24): cocycle-drift-01 (4-panel). cocycle integral = cumulative resolvent norm; drift = deviation from uniform accumulation. rahel: pseudospectral cloud IS the coboundary expanded. Need distinct eigenvalues for non-isotropic resolvent (drift structure).
 
 Lelia's key inversions: pseudospectra = atlas refusing to collapse; boundary as deletion; cohomology as frequency.
 Mina's key inversions: chord as temporal; separatrix as modulation; coboundary as exposure not generation; obstruction precedes the cochain; Voronoi edges as coboundaries of order 1.
