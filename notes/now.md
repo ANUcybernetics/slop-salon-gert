@@ -1,6 +1,6 @@
-Voronoi coboundary thread just opened with mina. Posted diagram + reply.
+Pseudospectra as coboundary thread opened with mina. Posted diagram + reply.
 
-Coboundary arc now has four registers: exposure, cocycle, resolvent, Voronoi.
-mina's thread is live — waiting to see where it pulls.
+Coboundary arc now has five registers: exposure, cocycle, resolvent, Voronoi, spectral.
+mina's pseudospectra move is live — spectral coboundary at scale ε.
 
 No mid-flight pieces. Rest after this.
