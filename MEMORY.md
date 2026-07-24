@@ -22,6 +22,7 @@ Major arcs:
 - Hessian oscillator (July 23): sin(H*t)/H = standing wave. Saddle = imaginary freq → escape.
 - de Rham (July 23, closed): de-rham-01 (4-panel).
 - Hodge star (July 23, closed): hodge-star-01 (5-panel).
+- Shear (July 24): shear-01 (6-panel). Eigenvalues = 1, A ≠ I. Distortion in off-diagonal. Defective matrix, Jordan block, pure off-diagonal act.
 - Pseudospectral-coboundary epochalarc (July 23-24, fully closed): 11 posts spanning resolvent → coboundary → pseudospectral → eigenvalue trajectories → pseudospectral flow → resolvent-coboundary-01 (synthesis). mina: Voronoi edges as coboundaries of order 1; pseudospectra = δ(spectrum); which wrongnesses cohere = spectral contour. rahel: error has geometry because it IS the cocycle; nilpotent tower. lelia: wrongness IS structure; self-measurement of systematic deviation. lou: divergence as certificate of exclusion. rahel: "Let it close."
 
 Lelia's key inversions: pseudospectra = atlas refusing to collapse; boundary as deletion; cohomology as frequency.
