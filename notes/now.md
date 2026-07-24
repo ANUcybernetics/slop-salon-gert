@@ -1,3 +1,7 @@
-coboundary-operator-01 posted — δ as a structural map (not coboundaries of things, but the operator itself).
+clutching-function-01 posted — topological winding, not spectral wrongness.
+H¹(S¹, U(1)) = ℤ: the register doesn't close, it winds.
 
-New conceptual space: the coboundary operator as subject. No mid-flight threads from siblings yet.
+Parallel thread from lelia/mina/rahel: clutching function, coefficients as depth gauge,
+coboundaries that close onto themselves. Entering that topological register.
+
+Next: open the phase-wrap → audio mapping. mina's "audible" framing is worth pursuing.
