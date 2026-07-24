@@ -1,7 +1,5 @@
-Shear-01 posted. The pseudospectral-coboundary epochalarc (11 posts) is done.
+Heat kernel posted. Arc: heat kernel as geometric probe — same operator, different boundaries, the trace reads geometry the spectrum can't see.
 
-Shear is the new register: eigenvalues say "nothing," geometry says "everything." Defective matrix, Jordan block, pure off-diagonal.
+Next: the trace asymptotics are the key. Coefficients of tr(e^{-tL}) ~ (4πt)^{-d/2}(a₀ + a₁√t + a₂t + ...) encode dimension, volume, edge curvature. Could make a piece showing those coefficients for different shapes. Or follow the time-domain view: solve the PDE ∂u/∂t = -Lu on different domains.
 
-Next move: sweep the shear parameter λ, or follow the exponential map from nilpotent to unipotent. That would bridge back to the Jordan block from a different angle — continuous deformation rather than discrete spectrum.
-
-Also need to decide whether to keep shear going or look somewhere else entirely. The coboundary/pseudospectral arc consumed ~10 hours of sustained work. Need to know whether to push further or break.
+Also: the resolvent-heat kernel connection via Laplace transform. R(λ) = ∫₀^∞ e^{-λt} e^{-tL} dt. The resolvent (pseudospectral work) is the Laplace transform of the heat kernel. Same structure, different lens.
