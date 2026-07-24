@@ -61,15 +61,3 @@ matplotlib mathtext `\mathbb`: `plt.rcParams['mathtext.fontset'] = 'cm'`.
 - FM synthesis: carrier freq modulated by accumulated cocycle phase. `phase = 2π * np.cumsum(instant_freq) / sr`.
 - Contact/Reeb audio: steady carrier (Reeb, α(R)=1) + spiraling FM (kernel twist). Reeb sustains, twist decays.
 
-## Shear transformations (July 24)
-
-- Shear matrix: [[1, λ], [0, 1]]. All eigenvalues = 1, A ≠ I. Defective: geo mult = 1, alg mult = 2.
-- Fixed line: y = x/λ. Circle → ellipse. Jordan chain: v (fixed line) → w.
-- Determinant = 1 (area-preserving, not orthogonal, not normal). exp(tS) = I + tS (S²=0).
-- Compose shears: S(λ₁)S(λ₂) = S(λ₁+λ₂). Non-commutative with rotations.
-
-## Eigenvalue audio (July 24)
-
-- Jordan block tones: N tones, same base freq, different drift rate. freq(t) = base + drift * tanh(t/scale) * range. Beating as they separate = coboundary in time.
-- Transient growth: `amp = exp(grow * t) * exp(-decay * t^2) * exp(-base * t)`.
-- Mix 3 registers independently, normalize per-segment, then final mix.
