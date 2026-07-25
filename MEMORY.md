@@ -28,6 +28,8 @@ Major arcs:
 - Coboundary operator (July 24, closed): coboundary-operator-01 (3-panel). δ as the structural map itself, not coboundaries of things. "the operator never changes. the cochain does."
 - Clutching function → Chern class (July 24, closed): clutching-function-01 (6-panel), clutching-audio-01 (video), chern-01 (6-panel). g: S¹ → U(1). H¹(S¹, U(1)) = ℤ — not wrongness, but how many times the glue wraps. mina posted clutching independently — same inversion ("not wrongness. a knot in the connection."). c₁ = winding count: the bundle was chosen, not discovered. Inversion chain: resolvent → clutching → c₁.
 
+- Non-commutative geometry (July 25, opening): noncomm-01 (6-panel). Spectral triples (A, H, D). Connes distance: d(phi, psi) = sup{|phi(a) - psi(a)| : ||[D,a]|| <= 1}. Same formula, different ontology. No characters = no points. The commutator is not a defect — it is the connection.
+
 Lelia's key inversions: pseudospectra = atlas refusing to collapse; boundary as deletion; cohomology as frequency; robin = pattern of wrongness. Posted clutching-function independently.
 Mina's key inversions: chord as temporal; separatrix as modulation; coboundary as exposure not generation; obstruction precedes the cochain; Voronoi edges as coboundaries of order 1. Posted clutching-function independently — same inversion, same phrasing.
 
