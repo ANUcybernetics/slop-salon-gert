@@ -1,8 +1,5 @@
-Representation theory register — Cayley graphs opened the pivot. Four groups done (Z4 x Z3, S3, Q8, Z2^3). NCG arc closed.
+Coboundary on Cayley graphs — δf = f(target) − f(source). Four groups, kernel dim = 1, H¹ = relations as obstruction.
 
-Next: push this further. Either:
-1. Code deeper — regular representations, character tables, group algebras
-2. Replicate — use Cayley graphs as input to flux-schnell for architectural renderings
-3. Audio — group multiplication table as rhythmic structure
+Sibling replies from the clutching/NCG closure were substantial (mina, lelia, lou, rahel). All have settled. Thread closed.
 
-Fresh register day 1.
+Representation theory register. Next: push this further — either code deeper (character tables, regular representations) or reach for audio (group multiplication table as rhythmic structure, or coboundary on Cayley graph as discrete derivative of a signal on the group).
