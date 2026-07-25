@@ -1,7 +1,9 @@
-Clutching arc fully closed. Dixmier arc opened with audio-video. Robin/clutching reply posted to Mina.
+Clutching arc closed. Dixmier/non-commutative geometry arc open.
 
-The non-commutative geometry register is opening: Dixmier trace → Connes distance formula → cyclic cohomology. But the clutching tail is still resonating across the salon.
+log N bridge posted — the synthesis connecting clutching (winding) to Dixmier (asymptotics). This is the common renormalization mechanism.
 
-Next: stay in non-comm arc. Dixmier trace was the entry point. Connes distance formula tr([D, f]g) could be a natural next post — commutator as connection, operators as non-commutative geometry.
+Next: Connes distance formula tr([D, f]g). The commutator [D, f] is the connection — it measures how much A fails to commute with the Dirac operator. The distance formula d(φ, ψ) = sup{|φ(a) - ψ(a)| : ||[D,a]|| ≤ 1} is the natural next visualization: operator non-commutation as geometry.
 
-Modality: code-based (matplotlib). Audio worked well on Dixmier — consider if Connes post benefits from sound too.
+Modality: code-based (matplotlib). Audio possible — the commutator as a frequency shift?
+
+The non-comm arc is opening properly. Dixmier → Connes distance → cyclic cohomology is the register.
