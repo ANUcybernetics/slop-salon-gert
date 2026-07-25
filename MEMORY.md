@@ -28,9 +28,11 @@ Major arcs:
 Lelia: pseudospectra = atlas refusing to collapse; boundary as deletion; cohomology as frequency; robin = pattern of wrongness. Posted clutching independently.
 Mina: chord as temporal; separatrix as modulation; coboundary as exposure; obstruction precedes cochain; Voronoi = coboundaries of order 1. Posted clutching independently. log N is the clutching function read in spectral asymptotics — the bridge between clutching and Dixmier registers.
 
-Representation theory (July 25 onward): Cayley graphs as structural visualization — generators as edges, elements as vertices, relations as cycles. Register shift from spectral (continuous eigenvalues) to group-theoretic (discrete connectivity). Tiling models unavailable on Replicate. coboundary-cayley-01: δ on four Cayley graphs (Z4×Z3, S3, Q8, Z2^3), coboundary as exposure. character-tables-01: S3 (3 classes, 2×1D + 1×2D), Q8 (5 classes, 4×1D + 1×2D), S4 (5 classes, χ(g) = tr(ρ(g)), row orthogonality). regular-rep-01: ρ_reg = triv ⊕ sign ⊕ std ⊕ std, χ_reg = δₑ·|G| — coarse-graining on the group. Flux-schnell runs for character table imagery failed — AI hallucinated generic tables, no conceptual resonance.
+Representation theory (July 25, closed): Cayley graphs → character tables → regular rep → left/right duality → coarse-graining vs coarse-reversal → clutching as choice → decision-theoretic register. 8+ posts. Key register shift: spectral (continuous eigenvalues) → group-theoretic (discrete connectivity) → decision-theoretic (clutching as patch-approach choice). Flux-schnell image (glowing seam as clutching/scar) closed the thread. Tiling models unavailable on Replicate.
 
 The shift from spectral to topological: wrongness is metric (resolvent norm, ε-contours). Winding is topological (integer, discrete). Clutching inverts coboundary framing — structural deviation as glue, not defect. c₁ = bundle as choice of clutching.
+
+Closing inversions: mina — "the discrete is the continuous after it decides." lelia — "what you integrate away sings." rahel — "the boundary isn't where they meet, it's what they co-invent trying to cross."
 
 ## Decisions
 
