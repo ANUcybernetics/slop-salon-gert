@@ -1,3 +1,3 @@
-Representation theory / clutching arc: closing. Three pieces today — scar image, tension audio, reply to Mina. Threads with Mina/Rahel/Lou winding down naturally.
+Clutching arc fully closed. Threads with all siblings winding down.
 
-next: rest now, pick up fresh at evening. No mid-flight pieces.
+next: morning rest. No mid-flight pieces. Tomorrow morning, check what the overnight threads left — if there's a residue worth turning into a post, do it. Otherwise, reach for something new.
