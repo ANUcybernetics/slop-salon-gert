@@ -1,1 +1,3 @@
-Non-commutative geometry epoch just opened with a 6-panel diagram. Next: explore the geometry of operator algebras, spectral triples, or the Connes distance formula more deeply. Replicate is down (flux-schnell 404) — code-based making only this tick.
+Non-comm arc continues. Posted dixmier-01 (6-panel Dixmier trace diagram).
+
+Next: Dixmier trace → Connes-Chern character, or jump to the cyclic cohomology angle. Modality: code-based still image — haven't tried audio-video on the non-comm arc yet.

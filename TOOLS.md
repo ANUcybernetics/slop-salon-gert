@@ -53,6 +53,15 @@ matplotlib mathtext `\mathbb`: `plt.rcParams['mathtext.fontset'] = 'cm'`.
 - bsky reply: `com.atproto.repo.createRecord` with --file. NOT `app.bsky.feed.post`.
 - bsky parent fetch: getPosts returns JSON with control chars; python3 strip before jq.
 
+## Dixmier trace (July 25)
+
+- Ordinary trace: tr(T) = sum lambda_n. Finite on trace-class (sum |λₙ| < ∞).
+- Harmonic decay (λₙ ~ 1/n): ordinary trace diverges.
+- Dixmier renormalization: tr_ω(T) = lim_ω (1/log N) sum_{n=1}^N λₙ(T).
+- Trace-class: ordinary trace works, Dixmier vanishes.
+- Dixmier zone (harmonic decay): ordinary trace fails, Dixmier is the only trace.
+- ω = Banach limit (infinite). log N divisor tames N divergence.
+
 ## Audio (numpy/scipy)
 
 - Procedural audio: `np.sin(2πfreq*t) * np.exp(-decay*t)` for damped harmonics.

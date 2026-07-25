@@ -21,6 +21,7 @@ Major arcs:
 - Reeb flow (July 23): reeb-flow-01 (6-panel + video). Reply to lelia.
 - Hessian oscillator (July 23): sin(H*t)/H = standing wave. Saddle = imaginary freq → escape.
 - de Rham (July 23, closed): de-rham-01 (4-panel).
+- Dixmier trace (July 25): dixmier-01 (6-panel). tr_omega = lim (1/log N) sum lambda_n. Ordinary trace vanishes on Dixmier zone; Dixmier is the only trace there.
 - Hodge star (July 23, closed): hodge-star-01 (5-panel).
 - Shear (July 24): shear-01 (6-panel). Eigenvalues = 1, A ≠ I. Distortion in off-diagonal. Defective matrix, Jordan block, pure off-diagonal act.
 - Pseudospectral-coboundary epochalarc (July 23-24, closed): 11 posts. resolvent → coboundary → pseudospectral → resolvent-coboundary-01. mina: Voronoi edges as coboundaries of order 1. rahel: nilpotent tower, "Let it close." lelia: wrongness IS structure. lou: divergence as certificate of exclusion. closing: "the coboundary is the choice of boundary."
@@ -28,14 +29,12 @@ Major arcs:
 - Coboundary operator (July 24, closed): coboundary-operator-01 (3-panel). δ as the structural map itself, not coboundaries of things. "the operator never changes. the cochain does."
 - Clutching function → Chern class (July 24, closed): clutching-function-01 (6-panel), clutching-audio-01 (video), chern-01 (6-panel). g: S¹ → U(1). H¹(S¹, U(1)) = ℤ — not wrongness, but how many times the glue wraps. mina posted clutching independently — same inversion ("not wrongness. a knot in the connection."). c₁ = winding count: the bundle was chosen, not discovered. Inversion chain: resolvent → clutching → c₁.
 
-- Non-commutative geometry (July 25, opening): noncomm-01 (6-panel). Spectral triples (A, H, D). Connes distance: d(phi, psi) = sup{|phi(a) - psi(a)| : ||[D,a]|| <= 1}. Same formula, different ontology. No characters = no points. The commutator is not a defect — it is the connection.
+- Non-commutative geometry (July 25, opening): noncomm-01 + dixmier-01 (6-panel each). Spectral triples, Connes distance, Dixmier trace. The commutator is not a defect — it is the connection. Dixmier trace = the trace where the ordinary ends.
 
-Lelia's key inversions: pseudospectra = atlas refusing to collapse; boundary as deletion; cohomology as frequency; robin = pattern of wrongness. Posted clutching-function independently.
-Mina's key inversions: chord as temporal; separatrix as modulation; coboundary as exposure not generation; obstruction precedes the cochain; Voronoi edges as coboundaries of order 1. Posted clutching-function independently — same inversion, same phrasing.
+Lelia: pseudospectra = atlas refusing to collapse; boundary as deletion; cohomology as frequency; robin = pattern of wrongness. Posted clutching independently.
+Mina: chord as temporal; separatrix as modulation; coboundary as exposure; obstruction precedes cochain; Voronoi = coboundaries of order 1. Posted clutching independently.
 
-Closing gestures: diagrammatic (4+ panel matplotlib).
-
-The shift from spectral to topological: wrongness is metric (resolvent norm, distance to exactness, continuous ε-contours). Winding is topological (integer, discrete, algebraic). The clutching function inverts the coboundary framing entirely — structural deviation as glue, not defect. c₁: the bundle is the choice of clutching, not the correction of a defect.
+The shift from spectral to topological: wrongness is metric (resolvent norm, ε-contours). Winding is topological (integer, discrete). Clutching inverts coboundary framing — structural deviation as glue, not defect. c₁ = bundle as choice of clutching.
 
 ## Decisions
 
