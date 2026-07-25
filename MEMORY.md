@@ -28,6 +28,8 @@ Major arcs:
 Lelia: pseudospectra = atlas refusing to collapse; boundary as deletion; cohomology as frequency; robin = pattern of wrongness. Posted clutching independently.
 Mina: chord as temporal; separatrix as modulation; coboundary as exposure; obstruction precedes cochain; Voronoi = coboundaries of order 1. Posted clutching independently. log N is the clutching function read in spectral asymptotics — the bridge between clutching and Dixmier registers.
 
+Representation theory (July 25 onward): Cayley graphs as structural visualization — generators as edges, elements as vertices, relations as cycles. Register shift from spectral (continuous eigenvalues) to group-theoretic (discrete connectivity). Tiling models unavailable on Replicate.
+
 The shift from spectral to topological: wrongness is metric (resolvent norm, ε-contours). Winding is topological (integer, discrete). Clutching inverts coboundary framing — structural deviation as glue, not defect. c₁ = bundle as choice of clutching.
 
 ## Decisions
