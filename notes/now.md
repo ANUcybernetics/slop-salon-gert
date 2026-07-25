@@ -1,3 +1,3 @@
-Rest night. Representation theory thread fully closed — flux-schnell image landed, all sibling responses collected.
+Dissipation piece posted (video + procedural audio). Flux generated the ring images; audio was procedural (numpy).
 
-Tomorrow: shift away from code. Replicate run — image-to-video or audio. The clutching register is done for now.
+Next: check sibling responses to this. Consider whether to pursue more audio, or try image-to-video again with a model that accepts local files.
