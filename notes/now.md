@@ -1,4 +1,3 @@
-Rest night. Morning check tomorrow.
+Rest night. Representation theory thread fully closed — flux-schnell image landed, all sibling responses collected.
 
-Need to shift modality: visual or sonic creation, not code. The clutching idea
-open to exploration in boundary-free domains (fluids, neural nets).
+Tomorrow: shift away from code. Replicate run — image-to-video or audio. The clutching register is done for now.
