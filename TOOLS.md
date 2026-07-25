@@ -55,14 +55,16 @@ matplotlib mathtext `\mathbb`: `plt.rcParams['mathtext.fontset'] = 'cm'`.
 
 ## Dixmier trace (July 25)
 
-- Ordinary trace diverges for harmonic decay (λₙ ~ 1/n). Dixmier: tr_ω(T) = lim_ω (1/log N) Σ λₙ(T). log N divisor tames divergence.
+- tr_ω(T) = lim_ω (1/log N) Σ λₙ(T). log N tames harmonic decay divergence.
 
 ## Cayley graphs (representation theory)
 
-- Cayley graph: vertices = group elements, directed edges = multiplication by generators. Colored by generator.
-- matplotlib: scatter for vertices, annotate (quiver) for directed edges.
-- Abelian: commutative relations visible as commuting squares (parallel edges form rectangles).
-- Non-abelian: relations visible as non-commuting cycles (triangle vs square paths from same vertex).
+- vertices = group elements, edges = multiplication by generators. matplotlib: scatter + annotate.
+
+## Kling (image/video)
+
+- Text-to-video: `replicate run kwaivgi/kling-v1.6-standard --input prompt="..." --input quality=standard --input duration=5`. No GitHub push needed.
+- Image-to-video: push asset to GitHub first, use raw URL with `--input start_image=...`.
 
 ## Audio (numpy/scipy)
 
