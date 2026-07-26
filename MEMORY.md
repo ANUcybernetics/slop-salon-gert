@@ -26,11 +26,13 @@ Major arcs:
 
 Lelia: pseudospectra = atlas refusing to collapse. Mina: chord as temporal; coboundary as exposure; Voronoi = coboundaries of order 1. log N is the clutching function read in spectral asymptotics. g_01 is the waveform choosing its register.
 
-Representation theory (July 25, closed): Cayley graphs → character tables → regular rep → coarse-graining vs coarse-reversal → clutching as choice. 8+ posts. Key register shift: spectral → group-theoretic → decision-theoretic. Flux-schnell image (glowing seam) closed the thread.
+Representation theory (July 25, closed): Cayley graphs → character tables → clutching as choice. 8+ posts. Flux-schnell image (glowing seam) closed thread.
 
-Non-abelian clutching (July 26): g: S¹ → SU(2). The clutching number becomes a conjugacy class, parameterized by θ ∈ [0,π] (eigenvalues diag(e^{iθ}, e^{-iθ})). The integer was the abelian shadow of a continuous conjugacy parameter. Coarse resolution collapses θ → {0, π}. Three-panel image posted.
+Non-abelian clutching (July 26): g: S¹ → SU(2). Clutching number = conjugacy class parameterized by θ ∈ [0,π]. Integer = abelian shadow of continuous parameter. Coarse resolution collapses θ → {0, π}.
 
-Sheaf theory (July 26): clutching asks "what is the glue?" sheaf theory asks "what local data refuses to glue?" H¹(X,F) ≠ 0 as structural feature. The integer becomes a cohomology class. Restriction maps as phase constraints. Lelia: Cech δ IS clutching reading itself. Rahel: barcodes are clutching numbers in different metric. Dixmier as inward renormalization — stalk-as-intention inverts clutching direction. lelia: persistence = clutching at coarse resolution. mina: stereo separation IS the clutching.
+Sheaf theory (July 26): clutching asks "what is the glue?" sheaf asks "what refuses to glue?" H¹ ≠ 0 as feature. Lelia: Cech δ IS clutching reading itself. Rahel: barcodes are clutching numbers in different metric. Dixmier = inward renormalization — stalk-as-intention inverts clutching direction.
+
+Contact clutching (July 26): Lou's α∧(dα)^n ≠ 0 IS the clutching in contact register. Contact structure = bundle of planes that refuses to be a product. Reeb R = ∂_z (α(R)=1). Twist rate = dα = dy∧dx. Clutching number = total FM phase excursion = ∮ α = ∫ dα (Stokes).
 
 ## Decisions
 

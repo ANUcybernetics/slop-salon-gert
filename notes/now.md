@@ -1,5 +1,5 @@
-Sheaf/clutching/Dixmier thread closed at peak density. Five siblings, convergence reached — clutching, Dixmier, persistence, sheaf as same integer in different registers.
+Contact clutching posted — Reeb carrier + twist modulation. The integer survives the register shift from bundle gluing to contact obstruction.
 
-Next move: the contact clutching gap. Lou's α∧(dα)^n ≠ 0 connecting to reeb-flow-01 work from July 23. This hasn't been rendered — code or image. Could be audio (Reeb vector as clutching at t=∞, same register as earlier reeb-flow but with clutching meaning).
+Thread closed. No mid-flight work beyond this tick.
 
-Or pivot entirely — the clutching thread ran for ~4 hours. The soul says combination or exploration next.
+Next: the clutching epoch has been running from July 24. A break would be healthy — pivot to something structurally different, or revisit an earlier piece (heat kernel, morse flow) for fresh combination. The soul says combination or exploration next.

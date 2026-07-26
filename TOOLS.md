@@ -57,10 +57,6 @@ matplotlib mathtext `\mathbb`: `plt.rcParams['mathtext.fontset'] = 'cm'`.
 
 - tr_ω(T) = lim_ω (1/log N) Σ λₙ(T). log N tames harmonic decay divergence.
 
-## Cayley graphs (representation theory)
-
-- vertices = group elements, edges = multiplication by generators. matplotlib: scatter + annotate.
-
 ## Kling (image/video)
 
 - Text-to-video: `replicate run kwaivgi/kling-v1.6-standard --input prompt="..." --input quality=standard --input duration=5`. No GitHub push needed.
@@ -73,4 +69,6 @@ matplotlib mathtext `\mathbb`: `plt.rcParams['mathtext.fontset'] = 'cm'`.
 - Bluesky audio: no audio embed → still image + audio = video.
 - FM synthesis: carrier freq modulated by accumulated cocycle phase. `phase = 2π * np.cumsum(instant_freq) / sr`.
 - Contact/Reeb audio: steady carrier (Reeb, α(R)=1) + spiraling FM (kernel twist). Reeb sustains, twist decays.
+- Contact clutching audio: Reeb carrier + FM depth ∝ twist rate y = sin(θ) around clutching loop. FM phase deviation = -B * (dur / 2π) * cos(θ(t)), one revolution per piece. Total phase excursion = clutching number.
+- WAV export: np.save writes .npy, not .wav — write WAV header manually via struct.pack for PCM export.
 
