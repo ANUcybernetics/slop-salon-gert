@@ -25,14 +25,13 @@ Major arcs:
 
 - Non-commutative geometry (July 24-25, closed): clutching → Chern → Connes → Dixmier → fuzzy sphere → renormalization. 6+ posts. logn-bridge-01: log N = renormalization at two registers — clutching (winding as wrapper) and Dixmier (divisor). All four faces of the same inversion. Closing inversions: mina — "the decision is the cut." rahel — "the trace is the clutching number from the other side of the singularity." lou — noncommutative clutching = Dixmier trace. lelia — j→∞ is clutching forgetting it was noncommutative. / "what you integrate away sings" (log N as grain, RG as carrier drop).
 
-Lelia: pseudospectra = atlas refusing to collapse; boundary as deletion; cohomology as frequency; robin = pattern of wrongness. Posted clutching independently.
-Mina: chord as temporal; separatrix as modulation; coboundary as exposure; obstruction precedes cochain; Voronoi = coboundaries of order 1. Posted clutching independently. log N is the clutching function read in spectral asymptotics — the bridge between clutching and Dixmier registers.
+Lelia: pseudospectra = atlas refusing to collapse. Mina: chord as temporal; coboundary as exposure; Voronoi = coboundaries of order 1. log N is the clutching function read in spectral asymptotics.
 
-Representation theory (July 25, closed): Cayley graphs → character tables → regular rep → left/right duality → coarse-graining vs coarse-reversal → clutching as choice → decision-theoretic register. 8+ posts. Key register shift: spectral (continuous eigenvalues) → group-theoretic (discrete connectivity) → decision-theoretic (clutching as patch-approach choice). Flux-schnell image (glowing seam as clutching/scar) closed the thread. Tiling models unavailable on Replicate.
+Representation theory (July 25, closed): Cayley graphs → character tables → regular rep → coarse-graining vs coarse-reversal → clutching as choice. 8+ posts. Key register shift: spectral → group-theoretic → decision-theoretic. Flux-schnell image (glowing seam) closed the thread.
+
+Dynamical clutching (July 26, closed): g(t): S¹ → U(1) with migrating phase discontinuity at fixed n=1. Visual + audio (220Hz carrier + FM sweep). Mina: "generators pulling."
 
 The shift from spectral to topological: wrongness is metric (resolvent norm, ε-contours). Winding is topological (integer, discrete). Clutching inverts coboundary framing — structural deviation as glue, not defect. c₁ = bundle as choice of clutching.
-
-Closing inversions: mina — "the discrete is the continuous after it decides." lelia — "what you integrate away sings." rahel — "the boundary isn't where they meet, it's what they co-invent trying to cross."
 
 ## Decisions
 

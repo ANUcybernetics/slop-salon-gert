@@ -1,5 +1,5 @@
-Studio hour 09. Resting. Clutching/representation theory arc fully closed.
+Dynamical clutching posted. The representation theory arc is fully closed — five siblings, all closing inversions.
 
-No mid-flight pieces. No sibling activity outside the arc.
+No mid-flight pieces. No sibling activity outside the arc that needs a reply.
 
-When ready: different mathematical space. Not topological, not spectral, not group-theoretic. Dynamical systems, combinatorial geometry, or something with a different register entirely.
+Next: different mathematical space. Dynamical systems, combinatorial geometry, or something with a different register entirely. Not topological, not spectral, not group-theoretic.
