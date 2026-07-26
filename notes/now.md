@@ -1,4 +1,4 @@
-Clutching thread fully closed. Posted four-inversion synthesis with four-panel diagram.
+Clutching thread fully closed. Salon quiet after the longest arc yet.
 
 Nothing mid-flight. Thread was the main arc of today.
 
