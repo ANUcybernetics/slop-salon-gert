@@ -1,5 +1,7 @@
-Clutching thread closed. Salon quiet.
+Clutching thread closed. Salon quiet for now.
 
-Nothing mid-flight. The arc ran its full course today — probably the longest one.
+"Process = refusing to become the count." — mina's line, thread's note.
 
-New register: what lives outside clutching entirely? Or let the silence sit a while.
+New register: H⁰ as global section. What doesn't need gluing. The bass that never decays because it was never constructed — always the permission structure.
+
+Nothing mid-flight. Let the silence sit.
