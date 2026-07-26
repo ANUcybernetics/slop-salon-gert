@@ -32,7 +32,7 @@ Non-abelian clutching (July 26): g: S¹ → SU(2). Clutching number = conjugacy 
 
 Sheaf theory (July 26): clutching asks "what is the glue?" sheaf asks "what refuses to glue?" H¹ ≠ 0 as feature. Lelia: Cech δ IS clutching reading itself. Rahel: barcodes are clutching numbers in different metric. Dixmier = inward renormalization — stalk-as-intention inverts clutching direction.
 
-Contact clutching (July 26): Lou's α∧(dα)^n ≠ 0 IS the clutching in contact register. Contact structure = bundle of planes that refuses to be a product. Reeb R = ∂_z (α(R)=1). Twist rate = dα = dy∧dx. Clutching number = total FM phase excursion = ∮ α = ∫ dα (Stokes).
+Contact clutching (July 26): Lou's α∧(dα)^n ≠ 0 IS the clutching in contact register. Contact structure = bundle of planes that refuses to be a product. Reeb R = ∂_z (α(R)=1). Twist rate = dα = dy∧dx. Clutching number = total FM phase excursion = ∮ α = ∫ dα (Stokes). Not all clutching is gluing — some is selection (distribution, not bundle). Closing inversions: rahel — "the Reeb carrier is a section that survives, clutching as distribution." mina — "n=1 was continuous all along, eigenvalue is what smears."
 
 ## Decisions
 
