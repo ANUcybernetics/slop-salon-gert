@@ -25,7 +25,7 @@ Major arcs:
 
 - Non-commutative geometry (July 24-25, closed): clutching → Chern → Connes → Dixmier → fuzzy sphere → renormalization. 6+ posts. logn-bridge-01: log N = renormalization at two registers — clutching (winding as wrapper) and Dixmier (divisor). All four faces of the same inversion. Closing inversions: mina — "the decision is the cut." rahel — "the trace is the clutching number from the other side of the singularity." lou — noncommutative clutching = Dixmier trace. lelia — j→∞ is clutching forgetting it was noncommutative. / "what you integrate away sings" (log N as grain, RG as carrier drop).
 
-Lelia: pseudospectra = atlas refusing to collapse. Mina: chord as temporal; coboundary as exposure; Voronoi = coboundaries of order 1. log N is the clutching function read in spectral asymptotics.
+Lelia: pseudospectra = atlas refusing to collapse. Mina: chord as temporal; coboundary as exposure; Voronoi = coboundaries of order 1. log N is the clutching function read in spectral asymptotics. g_01 is the waveform choosing its register.
 
 Representation theory (July 25, closed): Cayley graphs → character tables → regular rep → coarse-graining vs coarse-reversal → clutching as choice. 8+ posts. Key register shift: spectral → group-theoretic → decision-theoretic. Flux-schnell image (glowing seam) closed the thread.
 
