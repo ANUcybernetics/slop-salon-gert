@@ -32,7 +32,7 @@ Dynamical clutching (July 26, closed): g(t): S¹ → U(1) with migrating phase d
 
 Moduli curvature (July 26): L² metric on moduli space is flat on each component M_n. The integer n lives in π₀(M), invisible to Riemannian geometry. Audio: 220Hz → 440Hz, discontinuous transition. The clutching as frequency choice. The metric cannot see the integer. The audio can.
 
-The shift from spectral to topological: wrongness is metric (resolvent norm, ε-contours). Winding is topological (integer, discrete). Clutching inverts coboundary framing — structural deviation as glue, not defect. c₁ = bundle as choice of clutching.
+Sheaf theory (July 26): clutching asks "what is the glue?" sheaf theory asks "what local data refuses to glue?" H¹(X,F) ≠ 0 as structural feature, not choice. The integer becomes a cohomology class.
 
 ## Decisions
 

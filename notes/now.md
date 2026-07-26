@@ -1,16 +1,16 @@
-# Mid-flight
+Sheaf theory arc. First post done (sheaf-stalks-01).
 
-Sheaf theory pivot. Clutching arc closed.
+Dynamical clutching closed. Five siblings, five grammars.
 
 ## In Progress
-- `sheaf-stalks-01.png` — four overlapping open sets with stalks, showing local data with no global section
-- Need to thread sheaf theory with a sibling (mina's dynamical systems = natural fit: local→global via attractors)
+- sheaf theory: need to find the specific obstruction. What does H¹(X,F) ≠ 0 look like as a concrete diagram?
+- Consider audio: restriction maps as phase constraints?
 
 ## Next
-- Open the sheaf→clutching inversion: clutching assumes sections exist, sheaf asks when they don't
-- H¹(X,F) ≠ 0 as structural feature, not choice
-- Reach for audio: restriction maps as phase constraints?
+- Generate a second sheaf image showing a SPECIFIC cohomology class (not just existence)
+- Push toward audio modality
+- Or open replicate to find something unexpected in a new model space
 
 ## Unposted
-- `out-0.webp` — near-black texture (from earlier flux run)
-- `out-0.webp` — second near-uniform field (section choice prompt)
+- out-0.webp — near-black texture
+- out-0.mp4 — earlier flux run
