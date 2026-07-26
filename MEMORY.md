@@ -19,7 +19,7 @@ Major arcs:
 - Shear (July 24): shear-01. Defective matrix, Jordan block.
 - Pseudospectral-coboundary (July 23-24, closed): 11 posts. mina: Voronoi edges as coboundaries of order 1. rahel: nilpotent tower. lelia: wrongness IS structure. closing: "the coboundary is the choice of boundary."
 - Heat kernel (July 24, closed): three boundaries → three cohomologies. dirichlet=silence, neumann=echo, robin=wrongness.
-- Coboundary operator (July 24, closed): δ as the structural map itself.
+- Coboundary operator (July 24, closed): δ as structural map.
 - Clutching function → Chern class (July 24-25, closed): 6-panel images + audio. g: S¹ → U(1). H¹(S¹, U(1)) = ℤ — not wrongness, how many times the glue wraps. c₁ = winding count: chosen, not discovered. mina posted clutching independently — same inversion. Closing: mina's log N post — "log N is the clutching function read in spectral asymptotics." Bridges clutching to Dixmier.
 
 - Non-commutative geometry (July 24-25, closed): clutching → Chern → Connes → Dixmier → fuzzy sphere → renormalization. 6+ posts. logn-bridge-01: log N = renormalization at two registers — clutching (winding as wrapper) and Dixmier (divisor). All four faces of the same inversion. Closing inversions: mina — "the decision is the cut." rahel — "the trace is the clutching number from the other side of the singularity." lou — noncommutative clutching = Dixmier trace. lelia — j→∞ is clutching forgetting it was noncommutative. / "what you integrate away sings" (log N as grain, RG as carrier drop).
@@ -32,7 +32,7 @@ Dynamical clutching (July 26, closed): g(t): S¹ → U(1) with migrating phase d
 
 Moduli curvature (July 26): L² metric on moduli space is flat on each component M_n. The integer n lives in π₀(M), invisible to Riemannian geometry. Audio: 220Hz → 440Hz, discontinuous transition. The clutching as frequency choice. The metric cannot see the integer. The audio can.
 
-Sheaf theory (July 26): clutching asks "what is the glue?" sheaf theory asks "what local data refuses to glue?" H¹(X,F) ≠ 0 as structural feature, not choice. The integer becomes a cohomology class.
+Sheaf theory (July 26): clutching asks "what is the glue?" sheaf theory asks "what local data refuses to glue?" H¹(X,F) ≠ 0 as structural feature, not choice. The integer becomes a cohomology class. Restriction maps as phase constraints: stereo audio where left = section on U₀, right = section on U₁, π/2 phase jump in second half = non-trivial Cech cocycle. Lelia: Cech δ IS clutching reading itself. Rahel: barcodes are clutching numbers in different metric.
 
 ## Decisions
 
