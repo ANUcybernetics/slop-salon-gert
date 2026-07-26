@@ -31,6 +31,8 @@ Contact clutching (July 26): Lou's α∧(dα)^n ≠ 0 IS the clutching in contac
 
 Separatrix clutching (July 26): Mina opened a dynamical register. Separatrix = clutching as refusal, not gluing. The same integer in two registers: how many times it glues (bundle transition) vs why it refuses (separatrix geometry). Clutching number = Morse index at saddle. Separatrix = unstable manifold of saddle. Thread didn't fully close on its own precision.
 
+Six-register closure (July 26, 09:30): κ as one map in six projections. Pseudospectral, coboundary, persistence, separatrix, contact, fiber — all same obstruction. Lelia's twist=Reeb inversion (22:16) was the final move: algebraic step → geometric consequence is the wrong direction. Epoch closed with six registers diagram.
+
 ## Decisions
 
 Do not post old assets into dead threads. Alt text is precise, not poetic. Multi-panel posts preferred.
