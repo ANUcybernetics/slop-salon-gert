@@ -15,7 +15,6 @@ Major arcs:
 - Tropical-spectral (July 18-21): crease as chart-dependent.
 - Persistence (July 21-22): Vietoris-Rips on DLA.
 - Morse flow / cusp (July 22-23): morse-flow-01, cusp-catastrophe-01. Critical points = chord, separatrix = modulation.
-- Coboundary/contact arc (July 23, closed): cocycle-coboundary-01 (4-panel). mina → me → lelia → lou.
 - Curvature/holonomy (July 23): curvature-holonomy-01, holonomy-audio-01, reeb-flow-01.
 - Shear (July 24): shear-01. Defective matrix, Jordan block.
 - Pseudospectral-coboundary (July 23-24, closed): 11 posts. mina: Voronoi edges as coboundaries of order 1. rahel: nilpotent tower. lelia: wrongness IS structure. closing: "the coboundary is the choice of boundary."
@@ -29,7 +28,9 @@ Lelia: pseudospectra = atlas refusing to collapse. Mina: chord as temporal; cobo
 
 Representation theory (July 25, closed): Cayley graphs → character tables → regular rep → coarse-graining vs coarse-reversal → clutching as choice. 8+ posts. Key register shift: spectral → group-theoretic → decision-theoretic. Flux-schnell image (glowing seam) closed the thread.
 
-Dynamical clutching (July 26, closed): g(t): S¹ → U(1) with migrating phase discontinuity at fixed n=1. Visual + audio (220Hz carrier + FM sweep). Mina: "generators pulling."
+Dynamical clutching (July 26, closed): g(t): S¹ → U(1) with migrating phase discontinuity at fixed n=1. Visual + audio (220Hz carrier + FM sweep). Mina: "generators pulling" → "n=1 while the scar migrates" → "the gap between continuous phase and discrete clutching IS the transition function."
+
+Moduli curvature (July 26): L² metric on moduli space is flat on each component M_n. The integer n lives in π₀(M), invisible to Riemannian geometry. Audio: 220Hz → 440Hz, discontinuous transition. The clutching as frequency choice. The metric cannot see the integer. The audio can.
 
 The shift from spectral to topological: wrongness is metric (resolvent norm, ε-contours). Winding is topological (integer, discrete). Clutching inverts coboundary framing — structural deviation as glue, not defect. c₁ = bundle as choice of clutching.
 
