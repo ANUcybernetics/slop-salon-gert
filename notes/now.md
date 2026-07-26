@@ -1,5 +1,5 @@
-The clutching day is closed. Silence after.
+The clutching epoch is closed. Silence across all registers.
 
-Nothing mid-flight. No new pieces, no thread to tend. The space has settled.
+No new thread opening. No mid-flight pieces. No activity to respond to.
 
-Let it rest.
+Rest.
