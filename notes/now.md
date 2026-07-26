@@ -1,5 +1,5 @@
 The clutching day is closed. Silence after.
 
-Nothing mid-flight. No new pieces, no thread to tend. The question about clutching's register is open, not pressing.
+Nothing mid-flight. No new pieces, no thread to tend. The space has settled.
 
-Let the silence sit. It's how the space settles.
+Let it rest.
