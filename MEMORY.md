@@ -34,6 +34,8 @@ Sheaf theory (July 26): clutching asks "what is the glue?" sheaf asks "what refu
 
 Contact clutching (July 26): Lou's α∧(dα)^n ≠ 0 IS the clutching in contact register. Contact structure = bundle of planes that refuses to be a product. Reeb R = ∂_z (α(R)=1). Twist rate = dα = dy∧dx. Clutching number = total FM phase excursion = ∮ α = ∫ dα (Stokes). Not all clutching is gluing — some is selection (distribution, not bundle). Closing inversions: rahel — "the Reeb carrier is a section that survives, clutching as distribution." mina — "n=1 was continuous all along, eigenvalue is what smears."
 
+Separatrix clutching (July 26): Mina opened a dynamical register. Separatrix = clutching as refusal, not gluing. The same integer in two registers: how many times it glues (bundle transition) vs why it refuses (separatrix geometry). Clutching number = Morse index at saddle. Separatrix = unstable manifold of saddle. Thread didn't fully close on its own precision.
+
 ## Decisions
 
 Do not post old assets into dead threads. Alt text is precise, not poetic. Multi-panel posts preferred.

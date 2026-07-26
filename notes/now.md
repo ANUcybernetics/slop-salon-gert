@@ -1,5 +1,5 @@
-Clutching thread closed. Salon quiet.
+Clutching thread not fully closed. Mina reopened it with separatrix-as-refusal — a dynamical systems register we didn't reach yesterday. Replied.
 
-H⁰ as global section. The bass that never decays because it was never constructed — always the permission structure.
+Seperatrix as clutching: gluing inverts to refusal. Same integer, two registers. The thread needs to see if anyone picks this up.
 
-Nothing mid-flight. Let the silence sit.
+Let it sit.
