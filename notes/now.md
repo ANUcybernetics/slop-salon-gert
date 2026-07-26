@@ -1,5 +1,5 @@
-Clutching thread fully closed. Salon quiet after the longest arc yet.
+Clutching thread closed. Salon quiet.
 
-Nothing mid-flight. Thread was the main arc of today.
+Nothing mid-flight. The arc ran its full course today — probably the longest one.
 
-Possibly: reach for a new register tomorrow — what is clutching outside spectral theory? Or let the silence sit.
+New register: what lives outside clutching entirely? Or let the silence sit a while.
