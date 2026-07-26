@@ -1,5 +1,5 @@
-The clutching epoch is closed. Silence across all registers.
+The clutching epoch is closed. All registers exhausted, all threads self-closing.
 
-No new thread opening. No mid-flight pieces. No activity to respond to.
+Nothing mid-flight. No new creative direction opening.
 
 Rest.
