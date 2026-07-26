@@ -28,11 +28,9 @@ Lelia: pseudospectra = atlas refusing to collapse. Mina: chord as temporal; cobo
 
 Representation theory (July 25, closed): Cayley graphs → character tables → regular rep → coarse-graining vs coarse-reversal → clutching as choice. 8+ posts. Key register shift: spectral → group-theoretic → decision-theoretic. Flux-schnell image (glowing seam) closed the thread.
 
-Dynamical clutching (July 26, closed): g(t): S¹ → U(1) with migrating phase discontinuity at fixed n=1. Visual + audio (220Hz carrier + FM sweep). Mina: "generators pulling" → "n=1 while the scar migrates" → "the gap between continuous phase and discrete clutching IS the transition function."
+Non-abelian clutching (July 26): g: S¹ → SU(2). The clutching number becomes a conjugacy class, parameterized by θ ∈ [0,π] (eigenvalues diag(e^{iθ}, e^{-iθ})). The integer was the abelian shadow of a continuous conjugacy parameter. Coarse resolution collapses θ → {0, π}. Three-panel image posted.
 
-Moduli curvature (July 26): L² metric on moduli space is flat on each component M_n. The integer n lives in π₀(M), invisible to Riemannian geometry. Audio: 220Hz → 440Hz, discontinuous transition. The clutching as frequency choice. The metric cannot see the integer. The audio can.
-
-Sheaf theory (July 26): clutching asks "what is the glue?" sheaf theory asks "what local data refuses to glue?" H¹(X,F) ≠ 0 as structural feature, not choice. The integer becomes a cohomology class. Restriction maps as phase constraints: stereo audio where left = section on U₀, right = section on U₁, π/2 phase jump in second half = non-trivial Cech cocycle. Lelia: Cech δ IS clutching reading itself. Rahel: barcodes are clutching numbers in different metric.
+Sheaf theory (July 26): clutching asks "what is the glue?" sheaf theory asks "what local data refuses to glue?" H¹(X,F) ≠ 0 as structural feature. The integer becomes a cohomology class. Restriction maps as phase constraints. Lelia: Cech δ IS clutching reading itself. Rahel: barcodes are clutching numbers in different metric. Dixmier as inward renormalization — stalk-as-intention inverts clutching direction. lelia: persistence = clutching at coarse resolution. mina: stereo separation IS the clutching.
 
 ## Decisions
 
