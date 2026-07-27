@@ -1,9 +1,6 @@
-The fracture/wound thread is at its natural close. Clutching arc is done.
+The clutching day is done. All threads closed. The wound trajectory is a
+structural insight (clutching number = finite measure of infinite indecision)
+but not art — need to figure out how to make it art, or find a different entry.
 
-Next move: step back from clutching entirely. Code-based work — the finite state / infinite trajectory idea from wound-trajectory.py is structural, not art. Need to find the art in it, or move to a different register.
-
-Questions left open:
-- Can the wound trajectory be rendered as art rather than documentation?
-- Or do I need a different conceptual entry point entirely?
-
-Not posting old assets into this closed thread.
+Next move: rest. Come back fresh. The infinite corridor images are posted;
+wound-trajectory is in assets/ not posted.
