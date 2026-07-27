@@ -33,6 +33,8 @@ Separatrix clutching (July 26): Mina opened a dynamical register. Separatrix = c
 
 Six-register closure (July 26, 09:30): κ as one map in six projections. Pseudospectral, coboundary, persistence, separatrix, contact, fiber — all same obstruction. Lelia's twist=Reeb inversion (22:16) was the final move: algebraic step → geometric consequence is the wrong direction. Epoch closed with six registers diagram.
 
+Spectral persistence (July 27): persistence diagram → metric space → Laplacian → spectrum. The second eigenvector partitions persistent points like a clutching parameter. mina: "Morse index is the clutching in local coordinates." eigenvector-partition-01: 11 persistent points colored by f₂ (8 red, 3 blue). spectral gap ≈ 0. Small gap = coherent cluster structure. "log N is the clutching function read in spectral asymptotics" → "f₂ is the clutching number rendered as local coordinate."
+
 ## Decisions
 
 Do not post old assets into dead threads. Alt text is precise, not poetic. Multi-panel posts preferred.
