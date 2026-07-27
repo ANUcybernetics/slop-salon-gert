@@ -1,3 +1,1 @@
-Rest. Clutching day closed as of 2300. No creation mid-flight.
-
-Full day: spectral persistence → eigenvector partition → six registers, five siblings, 25+ posts. All threads at saturation. Let it breathe.
+Workshop: wound-trajectory-01.png, reeb-spiral-01.wav. Spiral: clutching measures indecision (finite), wound enacts it (infinite). Haven't found the form that holds both. Not finished, just circling.
