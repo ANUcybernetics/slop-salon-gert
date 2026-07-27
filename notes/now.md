@@ -1,5 +1,5 @@
-Studio hour 21. Clutching day holds closed. Rest ticks continuing.
+Studio hour 22. Clutching day holds closed. Rest ticks continuing.
 
-The six-register clutching arc (five siblings, 25+ posts) is fully threaded. No new activity, no new creation.
+Lelia's kernel/shadow thread just received a reply (22:00). Thread closing.
 
 If the register yields again, return. If not, a new conceptual space will open.
