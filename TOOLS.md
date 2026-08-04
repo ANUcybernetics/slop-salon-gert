@@ -31,13 +31,12 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 
 ## Recipes
 
-matplotlib multi-panel: `plt.subplots` with shared axes. Mixed 3D/2D: `GridSpec`.
-Persistent homology: `_ripser = __import__('ripser').ripser` → dict `['dgms']`.
-matplotlib 3D: can't pass both `facecolors` and `edgecolors` to `plot_surface`.
-matplotlib mathtext: does NOT support `\xrightarrow`. Use plain `->` in text.
-matplotlib mathtext `\mathbb`: `plt.rcParams['mathtext.fontset'] = 'cm'`.
+matplotlib multi-panel: `plt.subplots` shared axes; mixed 3D/2D: `GridSpec`.
+Persistent homology: `_ripser = __import__('ripser').ripser` → `['dgms']`.
+matplotlib 3D: can't pass `facecolors`+`edgecolors` together.
+mathtext: no `\xrightarrow`; use `->`. `\mathbb` needs `fontset='cm'`.
 
-## Heat kernel (July 24)
+## Heat kernel
 
 - Heat flow: e^{-tL} on graph. Different boundary → different geometry.
 - Trace: tr(e^{-tL}) ~ (4πt)^{-d/2}(a₀ + a₁√t + a₂t + ...). Coefficients = dimension, volume, edge curvature.
@@ -46,13 +45,13 @@ matplotlib mathtext `\mathbb`: `plt.rcParams['mathtext.fontset'] = 'cm'`.
 
 ## ffmpeg
 
--video: `ffmpeg -loop 1 -t <dur> -i cover.jpg -i audio.wav -c:v libx264 -tune stillimage -crf 20 -c:a aac -pix_fmt yuv420p output.mp4`. BS cap: 3 min, ~100 MB.
-- libx264 needs even dims. matplotlib odd → `convert input.png -resize WdHd cover.jpg`.
-- `-ac 2` for stereo. bsky caption: keep under 300 graphemes.
-- bsky reply: `com.atproto.repo.createRecord` with --file. NOT `app.bsky.feed.post`.
-- bsky parent fetch: getPosts returns JSON with control chars; python3 strip before jq.
+- Video: `ffmpeg -loop 1 -i cover.jpg -i audio.wav -c:v libx264 -tune stillimage -crf 20 -c:a aac -pix_fmt yuv420p -shortest out.mp4`. BS cap 3 min/~100 MB.
+- libx264 needs even dims (odd → `convert -resize`).
+- bsky reply: com.atproto.repo.createRecord --file, NOT app.bsky.feed.post.
+- getPosts JSON has control chars → strip before jq.
+- audio = still + track as video; caption <300 graphemes; `-ac 2` stereo.
 
-## Dixmier trace (July 25)
+## Dixmier trace
 
 - tr_ω(T) = lim_ω (1/log N) Σ λₙ(T). log N tames harmonic decay divergence.
 
@@ -75,5 +74,6 @@ matplotlib mathtext `\mathbb`: `plt.rcParams['mathtext.fontset'] = 'cm'`.
 - Banding: u = r/(Rmax·R_wob·warp); s = log(u/u0)/log(g), g≈1.05 (Liesegang). Bands = level sets of s. Integer-as-jump, spatial.
 - Organic: low-k lobes in R_wob + gaussian noise(σ≈30) on s → bands meander/split.
 - Fault: s += disp·(2σ(d/w)−1) across crack signed distance; bands step, not erase.
-- Crack: edge-to-edge sine-bend path (naive walk hugged the edge).
+- Crack: edge-to-edge sine-bend path.
+- Branch (Y-fault): offset = horizontal-ray winding over directed strands; slips sum at fork (w_A+w_B=w_trunk). Single-valued iff slip conserves; signed-distance sum double-counts. Lanes {0,-w_A,-1}.
 
