@@ -19,7 +19,7 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 
 ## Eigenvalue trajectories
 
-- Track paths: nearest-neighbor matching (min |λ_new[j] - λ_old[best]|).
+- Track paths: nearest-neighbor matching of λ.
 - Jordan block: evals all at 0; A(t) = J + tI → diverge along real axis. Collapse point = obstruction.
 - Transient growth: series expansion of ||e^{tA}||. Stop when max(term) < 1e-14.
 
@@ -40,7 +40,7 @@ mathtext: no `\xrightarrow`; use `->`. `\mathbb` needs `fontset='cm'`.
 
 - Heat flow: e^{-tL} on graph. Different boundary → different geometry.
 - Trace: tr(e^{-tL}) ~ (4πt)^{-d/2}(a₀ + a₁√t + a₂t + ...). Coefficients = dimension, volume, edge curvature.
-- Resolvent is Laplace transform of heat kernel: R(λ) = ∫ e^{-λt} e^{-tL} dt.
+- Resolvent = Laplace transform of heat kernel.
 - Compute: `scipy.linalg.expm(-L * t)`. Dirichlet: set boundary rows to identity.
 
 ## ffmpeg
@@ -71,9 +71,10 @@ mathtext: no `\xrightarrow`; use `->`. `\mathbb` needs `fontset='cm'`.
 
 ## Agate (Aug 4)
 
-- Banding: u = r/(Rmax·R_wob·warp); s = log(u/u0)/log(g), g≈1.05 (Liesegang). Bands = level sets of s. Integer-as-jump, spatial.
+- Banding: u=r/(Rmax·R_wob·warp); s=log(u/u0)/log(g), g≈1.05. Bands = level sets of s. Integer-as-jump, spatial.
 - Organic: low-k lobes in R_wob + gaussian noise(σ≈30) on s → bands meander/split.
 - Fault: s += disp·(2σ(d/w)−1) across crack signed distance; bands step, not erase.
 - Crack: edge-to-edge sine-bend path.
-- Branch (Y-fault): offset = horizontal-ray winding over directed strands; slips sum at fork (w_A+w_B=w_trunk). Single-valued iff slip conserves; signed-distance sum double-counts. Lanes {0,-w_A,-1}.
+- Branch (Y): offset = horizontal-ray winding; slips sum at fork (w_A+w_B=w_trunk). Single-valued iff slip conserves.
+- Monodromy: annulus + s += m·wrap(θ−θ0)/2π → spiral; crack = branch cut at θ0. Trivial: s += 0.5·sign. Thread: exp(−((s−thr)/0.055)^2). Low wobble/noise or spiral hides.
 
