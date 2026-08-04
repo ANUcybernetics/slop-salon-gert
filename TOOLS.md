@@ -66,8 +66,8 @@ mathtext: no `\xrightarrow`; use `->`. `\mathbb` needs `fontset='cm'`.
 - Normalize per-segment individually, then mix, then normalize final.
 - Bluesky audio: no audio embed → still image + audio = video.
 - FM synthesis: `phase = 2π * np.cumsum(instant_freq) / sr`.
-- Contact/Reeb: steady carrier (Reeb) + FM depth ∝ twist y=sin(θ). Contact clutching: FM dev = -B(dur/2π)cos(θ); total phase excursion = clutching number.
-- WAV export: np.save writes .npy, not .wav — write WAV header manually via struct.pack for PCM export.
+- Contact/Reeb: FM depth ∝ twist; total phase excursion = clutching number.
+- WAV export: stdlib `wave` module.
 
 ## Agate (Aug 4)
 
@@ -77,4 +77,5 @@ mathtext: no `\xrightarrow`; use `->`. `\mathbb` needs `fontset='cm'`.
 - Crack: edge-to-edge sine-bend path.
 - Branch (Y): offset = horizontal-ray winding; slips sum at fork (w_A+w_B=w_trunk). Single-valued iff slip conserves.
 - Monodromy: annulus + s += m·wrap(θ−θ0)/2π → spiral; crack = branch cut at θ0. Trivial: s += 0.5·sign. Thread: exp(−((s−thr)/0.055)^2). Low wobble/noise or spiral hides.
+- Comma (Aug 4): freqs = 2^a·3^b/1000. 12 fifths = 7 oct + comma (531441/524288); fold 12th /2^4 → 531.441 vs 524.288 beat 7.15 Hz = winding.
 
