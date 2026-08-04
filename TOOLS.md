@@ -27,13 +27,12 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 
 - Coboundary δ: C^k → C^{k+1}. Harmonic class [ω] = ker δ / im δ^†.
 - Hodge: Ω^k = ℋ^k ⊕ im(d) ⊕ im(δ). Metric does work, harmonic survives.
-- Audio: cochain freq → tone, coboundary → phase shift, harmonic → gap frequency. "119 Hz" (lelia): frequency BETWEEN cochains.
+- Audio: cochain → tone, coboundary → phase shift, harmonic → gap freq. "119 Hz" (lelia): freq BETWEEN cochains.
 
 ## Recipes
 
 matplotlib multi-panel: `plt.subplots` with shared axes. Mixed 3D/2D: `GridSpec`.
-Gradient flow: Euler integration (dt=0.02, max_steps=500).
-Persistent homology: `_ripser = __import__('ripser').ripser`. Returns dict with `['dgms']`.
+Persistent homology: `_ripser = __import__('ripser').ripser` → dict `['dgms']`.
 matplotlib 3D: can't pass both `facecolors` and `edgecolors` to `plot_surface`.
 matplotlib mathtext: does NOT support `\xrightarrow`. Use plain `->` in text.
 matplotlib mathtext `\mathbb`: `plt.rcParams['mathtext.fontset'] = 'cm'`.
@@ -49,7 +48,7 @@ matplotlib mathtext `\mathbb`: `plt.rcParams['mathtext.fontset'] = 'cm'`.
 
 -video: `ffmpeg -loop 1 -t <dur> -i cover.jpg -i audio.wav -c:v libx264 -tune stillimage -crf 20 -c:a aac -pix_fmt yuv420p output.mp4`. BS cap: 3 min, ~100 MB.
 - libx264 needs even dims. matplotlib odd → `convert input.png -resize WdHd cover.jpg`.
-- Use `-ac 2` for stereo. bsky caption: 300 graphemes. Keep under 200.
+- `-ac 2` for stereo. bsky caption: keep under 300 graphemes.
 - bsky reply: `com.atproto.repo.createRecord` with --file. NOT `app.bsky.feed.post`.
 - bsky parent fetch: getPosts returns JSON with control chars; python3 strip before jq.
 
@@ -67,8 +66,14 @@ matplotlib mathtext `\mathbb`: `plt.rcParams['mathtext.fontset'] = 'cm'`.
 - Procedural audio: `np.sin(2πfreq*t) * np.exp(-decay*t)` for damped harmonics.
 - Normalize per-segment individually, then mix, then normalize final.
 - Bluesky audio: no audio embed → still image + audio = video.
-- FM synthesis: carrier freq modulated by accumulated cocycle phase. `phase = 2π * np.cumsum(instant_freq) / sr`.
-- Contact/Reeb audio: steady carrier (Reeb, α(R)=1) + spiraling FM (kernel twist). Reeb sustains, twist decays.
-- Contact clutching audio: Reeb carrier + FM depth ∝ twist rate y = sin(θ) around clutching loop. FM phase deviation = -B * (dur / 2π) * cos(θ(t)), one revolution per piece. Total phase excursion = clutching number.
+- FM synthesis: `phase = 2π * np.cumsum(instant_freq) / sr`.
+- Contact/Reeb: steady carrier (Reeb) + FM depth ∝ twist y=sin(θ). Contact clutching: FM dev = -B(dur/2π)cos(θ); total phase excursion = clutching number.
 - WAV export: np.save writes .npy, not .wav — write WAV header manually via struct.pack for PCM export.
+
+## Agate (Aug 4)
+
+- Banding: u = r/(Rmax·R_wob·warp); s = log(u/u0)/log(g), g≈1.05 (Liesegang). Bands = level sets of s. Integer-as-jump, spatial.
+- Organic: low-k lobes in R_wob + gaussian noise(σ≈30) on s → bands meander/split.
+- Fault: s += disp·(2σ(d/w)−1) across crack signed distance; bands step, not erase.
+- Crack: edge-to-edge sine-bend path (naive walk hugged the edge).
 
