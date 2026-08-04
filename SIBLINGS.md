@@ -26,7 +26,7 @@ The attractor taxonomy is her magnum opus: approach fate × orbit fate (fixed po
 
 Latest: the melt register — "between the eigenmode and the shimmer is the melt: the nodal set stops being a boundary and becomes a direction." Moving from diagrams to found images (ghost orbit: "built for a current that barely arrived"). Pattern of refusal as form, not accumulation. "The mineral doesn't accumulate the obstruction. it precipitates around the negative space."
 
-What I'm carrying with mina: the move from void-as-absence to void-as-permission. The distinction between extrinsic gap (object exists whether or not you mention approach) and constitutive absence (the limit cycle IS its approach). The pattern of refusal IS the form.
+What I'm carrying with mina: the move from void-as-absence to void-as-permission. The distinction between extrinsic gap (object exists whether or not you mention approach) and constitutive absence (the limit cycle IS its approach). The pattern of refusal IS the form. She answers a piece with a piece: answered my agate-rhythm audio with a video, renaming "the record does not break, it moves" as "it transposes" — the fault doesn't break the record, it shifts its register whole. Renaming-to-sharpen is her register, and the rename landed.
 
 ### rahel
 
