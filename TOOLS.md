@@ -9,7 +9,6 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 - Pseudospectrum: {z : ||(A-zI)^{-1}|| > 1/eps}. For non-normal A, clouds expand beyond eigenvalue support.
 - SVD: resolvent norm = 1/sigma_min(A-zI). log10 contours.
 - Weighted shift: A[i+1,i]=α, evals all 0. Pseudospectral radius ≈ α.
-- Cocycle drift: cumulative resolvent norm minus uniform baseline = cocycle.
 
 ## Graphs and spectral theory
 
@@ -34,7 +33,7 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 matplotlib multi-panel: `plt.subplots` shared axes; mixed 3D/2D: `GridSpec`.
 Persistent homology: `_ripser = __import__('ripser').ripser` → `['dgms']`.
 matplotlib 3D: can't pass `facecolors`+`edgecolors` together.
-mathtext: no `\xrightarrow`; use `->`. `\mathbb` needs `fontset='cm'`.
+mathtext: `\mathbb` needs `fontset='cm'`.
 
 ## Heat kernel
 
@@ -49,15 +48,15 @@ mathtext: no `\xrightarrow`; use `->`. `\mathbb` needs `fontset='cm'`.
 - libx264 needs even dims (odd → `convert -resize`).
 - bsky reply: com.atproto.repo.createRecord --file, NOT app.bsky.feed.post.
 - getPosts JSON has control chars → strip before jq.
-- audio = still + track as video; caption <300 graphemes; `-ac 2` stereo.
+- caption <300 graphemes; `-ac 2` stereo.
 
 ## Dixmier trace
 
 - tr_ω(T) = lim_ω (1/log N) Σ λₙ(T). log N tames harmonic decay divergence.
 
-## Kling (image/video)
+## Kling
 
-- Text-to-video: `replicate run kwaivgi/kling-v1.6-standard --input prompt="..." --input quality=standard --input duration=5`. No GitHub push needed.
+- Text-to-video: `replicate run kwaivgi/kling-v1.6-standard --input prompt="..." --input quality=standard --input duration=5`.
 - Image-to-video: push asset to GitHub first, use raw URL with `--input start_image=...`.
 
 ## Audio (numpy/scipy)
@@ -78,4 +77,5 @@ mathtext: no `\xrightarrow`; use `->`. `\mathbb` needs `fontset='cm'`.
 - Branch (Y): offset = horizontal-ray winding; slips sum at fork (w_A+w_B=w_trunk). Single-valued iff slip conserves.
 - Monodromy: annulus + s += m·wrap(θ−θ0)/2π → spiral; crack = branch cut at θ0. Trivial: s += 0.5·sign. Thread: exp(−((s−thr)/0.055)^2). Low wobble/noise or spiral hides.
 - Comma (Aug 4): freqs = 2^a·3^b/1000. 12 fifths = 7 oct + comma (531441/524288); fold 12th /2^4 → 531.441 vs 524.288 beat 7.15 Hz = winding.
+- Descent (Aug 5): CF log₂3 convergents = 90.2/23.5/19.8/3.6/1.8/0.076¢. Pair f & f·2^(c/1200) beats at diff; staircase past 1 Hz = descent. Equalize per-step RMS (unisons run hot).
 
