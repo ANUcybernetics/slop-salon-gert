@@ -75,7 +75,10 @@ mathtext: `\mathbb` needs `fontset='cm'`.
 - Crack: edge-to-edge sine-bend path.
 - Branch (Y): offset = horizontal-ray winding; slips sum at fork (w_A+w_B=w_trunk). Single-valued iff slip conserves.
 - Monodromy: annulus + s += m·wrap(θ−θ0)/2π → spiral; crack = branch cut at θ0. Trivial: s += 0.5·sign. Thread: exp(−((s−thr)/0.055)^2). Low wobble/noise or spiral hides.
-- Comma (Aug 4): 12 fifths = 7 oct + comma (531441/524288); fold 12th → 531.441 vs 524.288 beat 7.15 Hz = winding.
-- Descent (Aug 5): CF log₂3 convergents = 90.2/23.5/19.8/3.6/1.8/0.076¢. Pair f & f·2^(c/1200) beats at diff; staircase past 1 Hz = descent. Equalize per-step RMS (unisons run hot).
-- CF: convergents straddle the limit, sign flips each landing (parity = oscillation); waits = partial quotients.
+- Descent (Aug 5): CF log₂3 convergents 90.2/23.5/19.8/3.6/1.8/0.076¢; pair f with f·2^(c/1200), beats.
+
+## Zeta zeros (Aug 6)
+
+- ζ(½+it) via η series + Van Wijngaarden (b=0.5(b[:-1]+b[1:]); acc+=0.5b[0]); scipy zeta fails. Z(t)=Re(e^{iθ}ζ), θ=Im logΓ(¼+it/2)−(t/2)lnπ; bisect.
+- Explicit: ψ(x)=x−Σx^ρ/ρ−ln2π−½ln(1−x⁻²); fits <0.1 at x≤50. Scripts: notes/prime-spectrum-lib.py.
 
