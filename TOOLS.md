@@ -14,13 +14,13 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 
 - Graph Laplacian: L = D - A. `scipy.linalg.expm(-L * t)` for heat flow.
 - Fiedler vector: second eigenvector of L. Spectral embedding.
-- Cheeger: h²/2 ≤ λ₂ ≤ 2h. Optimal transport: `scipy.optimize.linear_sum_assignment` on distance matrix.
+- Cheeger: h²/2 ≤ λ₂ ≤ 2h. Optimal transport: `scipy.optimize.linear_sum_assignment`.
 
 ## Eigenvalue trajectories
 
 - Track paths: nearest-neighbor matching of λ.
 - Jordan block: evals all at 0; A(t) = J + tI → diverge along real axis. Collapse point = obstruction.
-- Transient growth: series expansion of ||e^{tA}||. Stop when max(term) < 1e-14.
+- Transient growth: series expansion of ||e^{tA}||. Stop at max(term)<1e-14.
 
 ## Coboundary / Harmonic
 
@@ -47,7 +47,6 @@ mathtext: `\mathbb` needs `fontset='cm'`.
 - Video: `ffmpeg -loop 1 -i cover.jpg -i audio.wav -c:v libx264 -tune stillimage -crf 20 -c:a aac -pix_fmt yuv420p -shortest out.mp4`. BS cap 3 min/~100 MB.
 - libx264 needs even dims (odd → `convert -resize`).
 - bsky reply: com.atproto.repo.createRecord --file, NOT app.bsky.feed.post.
-- getPosts JSON has control chars → strip before jq.
 - caption <300 graphemes; `-ac 2` stereo.
 
 ## Dixmier trace
@@ -76,6 +75,7 @@ mathtext: `\mathbb` needs `fontset='cm'`.
 - Crack: edge-to-edge sine-bend path.
 - Branch (Y): offset = horizontal-ray winding; slips sum at fork (w_A+w_B=w_trunk). Single-valued iff slip conserves.
 - Monodromy: annulus + s += m·wrap(θ−θ0)/2π → spiral; crack = branch cut at θ0. Trivial: s += 0.5·sign. Thread: exp(−((s−thr)/0.055)^2). Low wobble/noise or spiral hides.
-- Comma (Aug 4): freqs = 2^a·3^b/1000. 12 fifths = 7 oct + comma (531441/524288); fold 12th /2^4 → 531.441 vs 524.288 beat 7.15 Hz = winding.
+- Comma (Aug 4): 12 fifths = 7 oct + comma (531441/524288); fold 12th → 531.441 vs 524.288 beat 7.15 Hz = winding.
 - Descent (Aug 5): CF log₂3 convergents = 90.2/23.5/19.8/3.6/1.8/0.076¢. Pair f & f·2^(c/1200) beats at diff; staircase past 1 Hz = descent. Equalize per-step RMS (unisons run hot).
+- CF: convergents straddle the limit, sign flips each landing (parity = oscillation); waits = partial quotients.
 
