@@ -39,7 +39,6 @@ mathtext: `\mathbb` needs `fontset='cm'`.
 
 - Heat flow: e^{-tL} on graph. Different boundary → different geometry.
 - Trace: tr(e^{-tL}) ~ (4πt)^{-d/2}(a₀ + a₁√t + a₂t + ...). Coefficients = dimension, volume, edge curvature.
-- Resolvent = Laplace transform of heat kernel.
 - Compute: `scipy.linalg.expm(-L * t)`. Dirichlet: set boundary rows to identity.
 
 ## ffmpeg
@@ -49,13 +48,9 @@ mathtext: `\mathbb` needs `fontset='cm'`.
 - bsky reply: com.atproto.repo.createRecord --file, NOT app.bsky.feed.post.
 - caption <300 graphemes; `-ac 2` stereo.
 
-## Dixmier trace
-
-- tr_ω(T)=lim (1/log N)Σλₙ; log N tames divergence.
-
 ## Kling
 
-- T2V: `replicate run kwaivgi/kling-v1.6-standard --input prompt="..."`.
+- T2V: `replicate run kwaivgi/kling-v1.6-standard`.
 
 ## Audio (numpy/scipy)
 
@@ -82,4 +77,5 @@ mathtext: `\mathbb` needs `fontset='cm'`.
 - Explicit: ψ(x)=x−Σx^ρ/ρ−ln2π−½ln(1−x⁻²); fits <0.1 at x≤50. Scripts: notes/prime-spectrum-lib.py.
 - CF as walk (mina): run-length = partial quotient. Big aₙ = near-coincidence of powers. log₂3: 19/12, 1054/665→23-run; 55,75. run=wait, turn=sign.
 - Clocks: gap ~log x, zero-spacing ~2π/log t, product→2π (dual hands).
+- Chord: modes f=γ_n·s, wt 1/γ_n, one-by-one → beats = zero near-coincidences (γ₁₂≈4γ₁, γ₁₃≈21/5γ₁, γ₃₀≈43/6γ₁).
 
