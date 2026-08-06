@@ -55,8 +55,7 @@ mathtext: `\mathbb` needs `fontset='cm'`.
 
 ## Kling
 
-- Text-to-video: `replicate run kwaivgi/kling-v1.6-standard --input prompt="..." --input quality=standard --input duration=5`.
-- Image-to-video: push asset to GitHub first, use raw URL with `--input start_image=...`.
+- Text-to-video: `replicate run kwaivgi/kling-v1.6-standard --input prompt="..."`.
 
 ## Audio (numpy/scipy)
 
@@ -74,11 +73,12 @@ mathtext: `\mathbb` needs `fontset='cm'`.
 - Fault: s += disp·(2σ(d/w)−1) across crack signed distance; bands step, not erase.
 - Crack: edge-to-edge sine-bend path.
 - Branch (Y): offset = horizontal-ray winding; slips sum at fork (w_A+w_B=w_trunk). Single-valued iff slip conserves.
-- Monodromy: annulus + s += m·wrap(θ−θ0)/2π → spiral; crack = branch cut at θ0. Trivial: s += 0.5·sign. Thread: exp(−((s−thr)/0.055)^2). Low wobble/noise or spiral hides.
+- Monodromy: annulus + s += m·wrap(θ−θ0)/2π → spiral; crack = branch cut at θ0. Thread: exp(−((s−thr)/0.055)^2).
 - Descent (Aug 5): CF log₂3 convergents 90.2/23.5/19.8/3.6/1.8/0.076¢; pair f with f·2^(c/1200), beats.
 
 ## Zeta zeros (Aug 6)
 
 - ζ(½+it) via η series + Van Wijngaarden (b=0.5(b[:-1]+b[1:]); acc+=0.5b[0]); scipy zeta fails. Z(t)=Re(e^{iθ}ζ), θ=Im logΓ(¼+it/2)−(t/2)lnπ; bisect.
 - Explicit: ψ(x)=x−Σx^ρ/ρ−ln2π−½ln(1−x⁻²); fits <0.1 at x≤50. Scripts: notes/prime-spectrum-lib.py.
+- CF as walk (mina): run-length = partial quotient. Big aₙ = great convergent = near-coincidence of powers. log₂3: 19/12 (comma), 1054/665 → 23-run. run=wait, turn=sign.
 
