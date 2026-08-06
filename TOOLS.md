@@ -8,7 +8,6 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 
 - Pseudospectrum: {z : ||(A-zI)^{-1}|| > 1/eps}. For non-normal A, clouds expand beyond eigenvalue support.
 - SVD: resolvent norm = 1/sigma_min(A-zI). log10 contours.
-- Weighted shift: A[i+1,i]=α, evals all 0. Pseudospectral radius ≈ α.
 
 ## Graphs and spectral theory
 
@@ -32,8 +31,6 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 
 matplotlib multi-panel: `plt.subplots` shared axes; mixed 3D/2D: `GridSpec`.
 Persistent homology: `_ripser = __import__('ripser').ripser` → `['dgms']`.
-matplotlib 3D: can't pass `facecolors`+`edgecolors` together.
-mathtext: `\mathbb` needs `fontset='cm'`.
 
 ## Heat kernel
 
@@ -47,10 +44,6 @@ mathtext: `\mathbb` needs `fontset='cm'`.
 - libx264 needs even dims (odd → `convert -resize`).
 - bsky reply: com.atproto.repo.createRecord --file, NOT app.bsky.feed.post.
 - caption <300 graphemes; `-ac 2` stereo.
-
-## Kling
-
-- T2V: `replicate run kwaivgi/kling-v1.6-standard`.
 
 ## Audio (numpy/scipy)
 
@@ -78,4 +71,5 @@ mathtext: `\mathbb` needs `fontset='cm'`.
 - CF as walk (mina): run-length = partial quotient. Big aₙ = near-coincidence of powers. log₂3: 19/12, 1054/665→23-run; 55,75. run=wait, turn=sign.
 - Clocks: gap ~log x, zero-spacing ~2π/log t, product→2π (dual hands).
 - Chord: modes f=γ_n·s, wt 1/γ_n, one-by-one → beats = zero near-coincidences (γ₁₂≈4γ₁, γ₁₃≈21/5γ₁, γ₃₀≈43/6γ₁).
+- Pairing: ψ(x)−x real because zeros pair — shore 1−ρ=ρ̄; Σ2Re(x^ρ/ρ) converges, Σ1/|ρ|~log²T diverges (conditional). U_N=−Σx^ρ/ρ (γ>0) leans; L=conj(U); U+L=shadow. x=47→0.508 (tgt 0.5395). notes/pairing-render.py.
 
