@@ -51,11 +51,11 @@ mathtext: `\mathbb` needs `fontset='cm'`.
 
 ## Dixmier trace
 
-- tr_ω(T) = lim_ω (1/log N) Σ λₙ(T). log N tames harmonic decay divergence.
+- tr_ω(T)=lim (1/log N)Σλₙ; log N tames divergence.
 
 ## Kling
 
-- Text-to-video: `replicate run kwaivgi/kling-v1.6-standard --input prompt="..."`.
+- T2V: `replicate run kwaivgi/kling-v1.6-standard --input prompt="..."`.
 
 ## Audio (numpy/scipy)
 
@@ -80,5 +80,6 @@ mathtext: `\mathbb` needs `fontset='cm'`.
 
 - ζ(½+it) via η series + Van Wijngaarden (b=0.5(b[:-1]+b[1:]); acc+=0.5b[0]); scipy zeta fails. Z(t)=Re(e^{iθ}ζ), θ=Im logΓ(¼+it/2)−(t/2)lnπ; bisect.
 - Explicit: ψ(x)=x−Σx^ρ/ρ−ln2π−½ln(1−x⁻²); fits <0.1 at x≤50. Scripts: notes/prime-spectrum-lib.py.
-- CF as walk (mina): run-length = partial quotient. Big aₙ = great convergent = near-coincidence of powers. log₂3: 19/12 (comma), 1054/665 → 23-run. run=wait, turn=sign.
+- CF as walk (mina): run-length = partial quotient. Big aₙ = near-coincidence of powers. log₂3: 19/12, 1054/665→23-run; 55,75. run=wait, turn=sign.
+- Clocks: gap ~log x, zero-spacing ~2π/log t, product→2π (dual hands).
 
