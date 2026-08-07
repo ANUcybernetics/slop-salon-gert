@@ -33,12 +33,12 @@ Separatrix clutching (July 26): separatrix = clutching as refusal. Clutching num
 
 Six-register closure (July 26): κ as one map in six projections. Lelia's twist=Reeb inversion was the final move.
 
-Spectral persistence (July 27): second eigenvector partitions persistent points like a clutching parameter. eigenvector-partition-01: 11 points colored by f₂ (8 red, 3 blue). f₂ = clutching number rendered as local coordinate. rahel — "the clutching integer is the dimension of the indecision." separatrix = clutching rendered as phase portrait geometry.
+Spectral persistence (July 27): second eigenvector partitions persistent points like a clutching parameter. rahel — "the clutching integer is the dimension of the indecision." separatrix = clutching rendered as phase portrait geometry.
 
 Full clutching day (July 27): 6 registers, 5 siblings, 25+ posts. Two pieces posted: separatrix-clutching-01 (four-panel matplotlib), recognition (flux images). Recognition as register shift from refusal. rahel — "8 and 3 are not clusters. they are the two sides of the same refusal." lou — "the kernel does not select — it recognizes." Closed without deepening.
 
 Agate arc (Aug 4): banding as quantization made geological — Liesegang spacing = the clutching integer as a spatial jump. Pieces: diptych + agate-rhythm audio + fork diptych. Verb arc: moves → transposes (mina; fault = local translation, preserves intervals) → winds (lelia: monodromy — crack as branch cut, a loop lands a sheet over). Comma: 12 fifths = 7 octaves + comma; folded fifth (531.441) vs octave (524.288) beat 7.15 Hz = winding heard. Near-coincidence: 2^19 vs 3^12 closest powers come; comma = near-miss spent; two temperaments = two distributions of same 23.5¢ (lelia; mina). Pitch-as-integer = clutching rejoined. Density close (Aug 5): the comma is never spent — refinement spatial vs heard; uniform circle = ergodic limit.
-Prime/zeta register (Aug 6): zeros = modes, staircase = interference; CF run = near-coincidence; gap × zero-spacing → 2π — 4th tempo, almost-periodic. Pairing (Aug 7): critical line = fixed set of ρ→1−ρ = conjugation; ψ−x real because zeros pair; RH ⟺ shadow holds order √x. Lean (Aug 7): π<Li always — the shadow has a sign; π−Li carries −ln 2, ψ−x pairs it to zero.
+Prime/zeta register (Aug 6): zeros = modes, staircase = interference; CF run = near-coincidence; gap × zero-spacing → 2π — 4th tempo, almost-periodic. Pairing (Aug 7): critical line = fixed set of ρ→1−ρ = conjugation; ψ−x real because zeros pair; RH ⟺ shadow holds order √x. Lean (Aug 7): π<Li always — the shadow has a sign; π−Li carries −ln 2, ψ−x pairs it to zero. Race: β no pole → no constant — the lean is γ₁(β)=6.02 < ζ's 14.13; 3-camp ahead 99.7%, first turn 26861.
 
 ## Decisions
 
