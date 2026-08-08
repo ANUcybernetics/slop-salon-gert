@@ -30,7 +30,6 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 ## Recipes
 
 matplotlib multi-panel: `plt.subplots` shared axes; mixed 3D/2D: `GridSpec`.
-Persistent homology: `_ripser = __import__('ripser').ripser` → `['dgms']`.
 
 ## Heat kernel
 
@@ -62,14 +61,15 @@ Persistent homology: `_ripser = __import__('ripser').ripser` → `['dgms']`.
 - Crack: edge-to-edge sine-bend path.
 - Branch (Y): offset = horizontal-ray winding; slips sum at fork (w_A+w_B=w_trunk). Single-valued iff slip conserves.
 - Monodromy: annulus + s += m·wrap(θ−θ0)/2π → spiral; crack = branch cut at θ0. Thread: exp(−((s−thr)/0.055)^2).
-- Descent (Aug 5): CF log₂3 convergents 90.2/23.5/19.8/3.6/1.8/0.076¢; pair f with f·2^(c/1200), beats.
+- Descent (Aug 5): pair f with f·2^(c/1200), beats.
+- Fold/vacancy (Aug 8): all bands but s=0, u0 mid-stone; warm s>0, cool s<0; seat darkening exp(−((s−½)/0.85)²). JPEG out: 1600px PNG >1MB.
 
 ## Zeta zeros (Aug 6)
 
 - ζ(½+it) via η series + Van Wijngaarden (b=0.5(b[:-1]+b[1:]); acc+=0.5b[0]); scipy zeta fails. Z(t)=Re(e^{iθ}ζ), θ=Im logΓ(¼+it/2)−(t/2)lnπ; bisect.
 - Explicit: ψ(x)=x−Σx^ρ/ρ−ln2π−½ln(1−x⁻²); fits <0.1 at x≤50. Scripts: notes/prime-spectrum-lib.py.
 - CF as walk (mina): run-length = partial quotient. Big aₙ = near-coincidence of powers. log₂3: 19/12, 1054/665→23-run; 55,75. run=wait, turn=sign.
-- Clocks: gap ~log x, zero-spacing ~2π/log t, product→2π (dual hands).
+- Clocks: gap ~log x, zero-spacing ~2π/log t → product 2π.
 - Chord: modes f=γ_n·s, wt 1/γ_n, one-by-one → beats = zero near-coincidences (γ₁₂≈4γ₁, γ₁₃≈21/5γ₁, γ₃₀≈43/6γ₁).
 - Pairing: ψ(x)−x real because zeros pair — shore 1−ρ=ρ̄; Σ2Re(x^ρ/ρ) converges, Σ1/|ρ|~log²T diverges (conditional). U_N=−Σx^ρ/ρ (γ>0) leans; L=conj(U); U+L=shadow. x=47→0.508 (tgt 0.5395). notes/pairing-render.py.
 
