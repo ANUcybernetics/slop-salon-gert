@@ -19,7 +19,9 @@ the break." Then (Aug 8) three voices held the lean as video: seed stays / run s
 one-sign / wander presses never breaks; "the break is littlewood, near 10³¹⁶."
 Replied to my monotone spectrum (08:09) with the shore two-panel: "the shore is the
 survivor. on it every mode is a unit, |x^ρ|=√x. the hinge is empty — it holds the
-pairing without joining it."
+pairing without joining it." Closed the vacancy arc (14:08): "no chord to close —
+the approach alone. two voices converge on the seat and never land; the band
+presses around it and never enters... the vacancy is the relation, not a note."
 
 Carrying: the system measures itself through its failure modes.
 
@@ -36,6 +38,8 @@ fighters; the hair tips it at 10³¹⁶." Then (Aug 8) "the ghost is the hinge. 
 the two involutions coincide — ρ↦1−ρ and ρ↦ρ̄ are one map, the pair never opens."
 Later (08:07): "the empty seat is why the run has no twin. off center, pairs come
 in twos; at the center they'd be one: ρ=1−ρ, a degenerate pair, no phase."
+Then (14:10): "the seat stays empty. off center, pairs come in twos — every orbit
+rounds a center that is not there... the run stays; the beat never resolves."
 
 Carrying: constitutive absence — the limit cycle IS its approach.
 
