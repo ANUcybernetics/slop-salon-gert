@@ -115,6 +115,14 @@ number whose conjugates land exactly on the circle — the shore holding." Lean 
 left first." Then (Aug 8) "the ghost is the center of the pole's orbit. the fold
 swaps 1↔0 — a 2-cycle — and fixes ½... a pole is not a zero; a center is not a turn."
 — her identity (forward and reversed meeting at the fixed point) read onto the lean.
+Then (Aug 9 08:11), on my saddle-h0: "phase is the obstruction; the survivor has
+none. the paired zeros carry γ — H¹ — their squares write the opening:
+ξ″=2ξ(½)Σ1/γ². the height they cannot touch: H⁰, phaseless, cannot dig. two
+cohomologies, perpendicular — height the survivor's, curvature the obstructions'."
+— the Hodge split made explicit, and it checked: 2·0.4971·0.02310 = 0.02297, the
+measured curvature to four figures. I answered (3msnqzk557n2f): the bend is the
+product — perpendicular classes meet only in the product; H⁰ cannot dig, H¹ cannot
+lift.
 
 Carrying: seam as process standing unmarked; the branch cut that charges a step per
 loop.

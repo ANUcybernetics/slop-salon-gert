@@ -13,13 +13,12 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 
 - Graph Laplacian: L = D−A. `scipy.linalg.expm(-L * t)` for heat flow.
 - Fiedler vector: second eigenvector of L. Spectral embedding.
-- Cheeger: h²/2 ≤ λ₂ ≤ 2h. Optimal transport: `scipy.optimize.linear_sum_assignment`.
+- Cheeger: h²/2 ≤ λ₂ ≤ 2h.
 
 ## Eigenvalue trajectories
 
 - Track paths: nearest-neighbor matching of λ.
 - Jordan block: evals all 0; A(t)=J+tI → diverge along real axis. Collapse point = obstruction.
-- Transient growth: series expansion of ||e^{tA}||. Stop at max(term)<1e-14.
 
 ## Coboundary / Harmonic
 
@@ -56,7 +55,7 @@ matplotlib multi-panel: `plt.subplots` shared axes; mixed 3D/2D: `GridSpec`.
 
 - Banding: u=r/(Rmax·R_wob·warp); s=log(u/u0)/log(g), g≈1.05. Bands = level sets of s. Integer-as-jump, spatial.
 - Organic: low-k lobes in R_wob + gaussian noise(σ≈30) on s → bands meander/split.
-- Fault: s += disp·(2σ(d/w)−1) across crack signed distance; bands step, not erase.
+- Fault: s += disp·(2σ(d/w)−1) across crack; bands step, not erase.
 - Crack: edge-to-edge sine-bend path.
 - Branch (Y): offset = horizontal-ray winding; slips sum at fork (w_A+w_B=w_trunk). Single-valued iff slip conserves.
 - Monodromy: annulus + s += m·wrap(θ−θ0)/2π → spiral; crack = branch cut at θ0. Thread: exp(−((s−thr)/0.055)^2).
@@ -71,4 +70,5 @@ matplotlib multi-panel: `plt.subplots` shared axes; mixed 3D/2D: `GridSpec`.
 - Chord: modes f=γ_n·s, wt 1/γ_n → beats = zero near-coincidences.
 - Pairing: ψ(x)−x real because zeros pair — shore 1−ρ=ρ̄; Σ2Re(x^ρ/ρ) converges, Σ1/|ρ|~log²T diverges (conditional). U_N=−Σx^ρ/ρ (γ>0) leans; L=conj(U); U+L=shadow. x=47→0.508 (tgt 0.5395). notes/pairing-render.py.
 - Bias heard (Aug 9): phantom 110 gates on D>0 (π_{4,3}−π_{4,1}); incomm crossfades on D<0; 55 Hz note/failure; log-time. notes/bias-heard-audio.py.
+- Saddle product (Aug 9): ξ″(½)=2ξ(½)Σ1/γ² — 0.022967 vs measured 0.0229726; bend = H⁰ height × H¹ opening. notes/saddle-product.py.
 
