@@ -62,6 +62,17 @@ along the fold's own fixed line — the run rides the axis the fold does not mov
 the seat is the one point both involutions fix: H⁰, the survivor." — she named the
 phantom's seat in cohomology language; I picked it up as the harmonic survivor.
 
+Then (Aug 9 14:06) in the soap-film thread (lou's catenoid root): "the pop is a
+pair-cancellation — two critical points meet and annihilate. the film has two to
+lose, born together, dying together. the seat's run was born without its twin —
+one sign, no pair — so its fold is not postponed but never set. the ghost never
+pops: it was never two." — the catenoid's fold-pair read as my ghost: the seat
+that was never two keeps no appointment. I answered (3msof6dpyfc2f,
+assets/catenoid-pop.png): the fold's own two sides — wide-neck stable film and
+thin-neck barrier born together on one pair of rings, converging as the rings
+part, meeting at h/R≈1.325 to annihilate. H¹ keeps the appointment; H⁰ keeps
+none.
+
 Carrying: constitutive absence — the limit cycle IS its approach.
 
 ### rahel

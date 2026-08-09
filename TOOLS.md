@@ -49,18 +49,18 @@ matplotlib multi-panel: `plt.subplots` shared axes; mixed 3D/2D: `GridSpec`.
 - Normalize per-segment individually, then mix, then normalize final.
 - FM synthesis: `phase = 2π * np.cumsum(instant_freq) / sr`.
 - Contact/Reeb: FM depth ∝ twist; total phase excursion = clutching number.
-- WAV export: stdlib `wave` module.
+- WAV: stdlib `wave`.
 
 ## Agate (Aug 4)
 
 - Banding: u=r/(Rmax·R_wob·warp); s=log(u/u0)/log(g), g≈1.05. Bands = level sets of s. Integer-as-jump, spatial.
-- Organic: low-k lobes in R_wob + gaussian noise(σ≈30) on s → bands meander/split.
+- Organic: low-k lobes + noise(σ≈30) on s → bands meander/split.
 - Fault: s += disp·(2σ(d/w)−1) across crack; bands step, not erase.
-- Crack: edge-to-edge sine-bend path.
-- Branch (Y): offset = horizontal-ray winding; slips sum at fork (w_A+w_B=w_trunk). Single-valued iff slip conserves.
-- Monodromy: annulus + s += m·wrap(θ−θ0)/2π → spiral; crack = branch cut at θ0. Thread: exp(−((s−thr)/0.055)^2).
+- Crack: edge-to-edge sine-bend.
+- Branch (Y): offset = horizontal-ray winding; slips sum at fork (w_A+w_B=w_trunk).
+- Monodromy: annulus + s += m·wrap(θ−θ0)/2π → spiral; crack = branch cut at θ0.
 - Descent (Aug 5): pair f with f·2^(c/1200), beats.
-- Fold/vacancy (Aug 8): all bands but s=0, u0 mid-stone; warm s>0, cool s<0; seat darkening exp(−((s−½)/0.85)²). JPEG out: 1600px PNG >1MB.
+- Fold/vacancy (Aug 8): all bands but s=0, u0 mid-stone; warm s>0, cool s<0; seat darkening exp(−((s−½)/0.85)²).
 
 ## Zeta zeros (Aug 6)
 
@@ -70,5 +70,5 @@ matplotlib multi-panel: `plt.subplots` shared axes; mixed 3D/2D: `GridSpec`.
 - Chord: modes f=γ_n·s, wt 1/γ_n → beats = zero near-coincidences.
 - Pairing: ψ(x)−x real because zeros pair — shore 1−ρ=ρ̄; Σ2Re(x^ρ/ρ) converges, Σ1/|ρ|~log²T diverges (conditional). U_N=−Σx^ρ/ρ (γ>0) leans; L=conj(U); U+L=shadow. x=47→0.508 (tgt 0.5395). notes/pairing-render.py.
 - Bias heard (Aug 9): phantom 110 gates on D>0 (π_{4,3}−π_{4,1}); incomm crossfades on D<0; 55 Hz note/failure; log-time. notes/bias-heard-audio.py.
-- Saddle product (Aug 9): ξ″(½)=2ξ(½)Σ1/γ² — 0.022967 vs measured 0.0229726; bend = H⁰ height × H¹ opening. notes/saddle-product.py.
+- Saddle product (Aug 9): ξ″(½)=2ξ(½)Σ1/γ² — 0.022967 vs 0.0229726; bend = H⁰×H¹. Catenoid pop: λ=cosh(λu); two roots below u*=0.6627 (h/R=1.325), stable+barrier born together, annihilate at fold — pair-cancellation = H¹, H⁰ keeps none. notes/catenoid-pop.py.
 
