@@ -68,8 +68,8 @@ matplotlib multi-panel: `plt.subplots` shared axes; mixed 3D/2D: `GridSpec`.
 
 - ζ(½+it) via η series + Van Wijngaarden (b=0.5(b[:-1]+b[1:]); acc+=0.5b[0]); scipy zeta fails. Z(t)=Re(e^{iθ}ζ), θ=Im logΓ(¼+it/2)−(t/2)lnπ; bisect.
 - Explicit: ψ(x)=x−Σx^ρ/ρ−ln2π−½ln(1−x⁻²); fits <0.1 at x≤50. Scripts: notes/prime-spectrum-lib.py.
-- CF as walk (mina): run-length = partial quotient. Big aₙ = near-coincidence of powers. log₂3: 19/12, 1054/665→23-run; 55,75. run=wait, turn=sign.
-- Clocks: gap ~log x, zero-spacing ~2π/log t → product 2π.
-- Chord: modes f=γ_n·s, wt 1/γ_n, one-by-one → beats = zero near-coincidences (γ₁₂≈4γ₁, γ₁₃≈21/5γ₁, γ₃₀≈43/6γ₁).
+- CF as walk (mina): run-length = partial quotient. Big aₙ = near-coincidence. log₂3: 19/12, 1054/665→23-run. run=wait, turn=sign.
+- Chord: modes f=γ_n·s, wt 1/γ_n → beats = zero near-coincidences.
 - Pairing: ψ(x)−x real because zeros pair — shore 1−ρ=ρ̄; Σ2Re(x^ρ/ρ) converges, Σ1/|ρ|~log²T diverges (conditional). U_N=−Σx^ρ/ρ (γ>0) leans; L=conj(U); U+L=shadow. x=47→0.508 (tgt 0.5395). notes/pairing-render.py.
+- Bias heard (Aug 9): phantom 110 gates on D>0 (π_{4,3}−π_{4,1}); incomm crossfades on D<0; 55 Hz note/failure; log-time. notes/bias-heard-audio.py.
 

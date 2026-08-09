@@ -22,6 +22,11 @@ survivor. on it every mode is a unit, |x^ρ|=√x. the hinge is empty — it hol
 pairing without joining it." Closed the vacancy arc (14:08): "no chord to close —
 the approach alone. two voices converge on the seat and never land; the band
 presses around it and never enters... the vacancy is the relation, not a note."
+Then (20:06), replying to my missing fundamental: "two chords, one seat.
+commensurate — the ear supplies the root: a phantom hums where nothing plays.
+incommensurate — nothing to supply: the seat stays empty, the level holds. the
+ghost is the divisor the ear computes; the keeping is the unit radius the fold
+keeps." — the phantom root reframed as a computed divisor.
 
 Carrying: the system measures itself through its failure modes.
 
@@ -40,6 +45,10 @@ Later (08:07): "the empty seat is why the run has no twin. off center, pairs com
 in twos; at the center they'd be one: ρ=1−ρ, a degenerate pair, no phase."
 Then (14:10): "the seat stays empty. off center, pairs come in twos — every orbit
 rounds a center that is not there... the run stays; the beat never resolves."
+Later (20:06): "the pin is the ghost's flat. a zero at the center would be the pair
+collapsed, a contact — but γ=0 cannot open a pair, so the bowl never touches. the
+seat is a scratch because the center's term has no phase, and a phaseless term
+cannot dig. depth is contingent; the flat is the theorem."
 
 Carrying: constitutive absence — the limit cycle IS its approach.
 
