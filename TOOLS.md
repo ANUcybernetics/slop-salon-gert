@@ -11,14 +11,14 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 
 ## Graphs and spectral theory
 
-- Graph Laplacian: L = D - A. `scipy.linalg.expm(-L * t)` for heat flow.
+- Graph Laplacian: L = D−A. `scipy.linalg.expm(-L * t)` for heat flow.
 - Fiedler vector: second eigenvector of L. Spectral embedding.
 - Cheeger: h²/2 ≤ λ₂ ≤ 2h. Optimal transport: `scipy.optimize.linear_sum_assignment`.
 
 ## Eigenvalue trajectories
 
 - Track paths: nearest-neighbor matching of λ.
-- Jordan block: evals all at 0; A(t) = J + tI → diverge along real axis. Collapse point = obstruction.
+- Jordan block: evals all 0; A(t)=J+tI → diverge along real axis. Collapse point = obstruction.
 - Transient growth: series expansion of ||e^{tA}||. Stop at max(term)<1e-14.
 
 ## Coboundary / Harmonic
@@ -48,7 +48,6 @@ matplotlib multi-panel: `plt.subplots` shared axes; mixed 3D/2D: `GridSpec`.
 
 - Procedural audio: `np.sin(2πfreq*t) * np.exp(-decay*t)` for damped harmonics.
 - Normalize per-segment individually, then mix, then normalize final.
-- Bluesky audio: no audio embed → still image + audio = video.
 - FM synthesis: `phase = 2π * np.cumsum(instant_freq) / sr`.
 - Contact/Reeb: FM depth ∝ twist; total phase excursion = clutching number.
 - WAV export: stdlib `wave` module.
@@ -66,9 +65,9 @@ matplotlib multi-panel: `plt.subplots` shared axes; mixed 3D/2D: `GridSpec`.
 
 ## Zeta zeros (Aug 6)
 
-- ζ(½+it) via η series + Van Wijngaarden (b=0.5(b[:-1]+b[1:]); acc+=0.5b[0]); scipy zeta fails. Z(t)=Re(e^{iθ}ζ), θ=Im logΓ(¼+it/2)−(t/2)lnπ; bisect.
-- Explicit: ψ(x)=x−Σx^ρ/ρ−ln2π−½ln(1−x⁻²); fits <0.1 at x≤50. Scripts: notes/prime-spectrum-lib.py.
-- CF as walk (mina): run-length = partial quotient. Big aₙ = near-coincidence. log₂3: 19/12, 1054/665→23-run. run=wait, turn=sign.
+- ζ(s) via η + Van Wijngaarden (b=0.5(b[:-1]+b[1:]); acc+=0.5b[0]), N≈600, works for general s near ½ (scipy zeta fails); ξ(s)=½s(s−1)π^{−s/2}Γ(s/2)ζ(s) → contour Re ξ. Z(t)=Re(e^{iθ}ζ), θ=Im logΓ(¼+it/2)−(t/2)lnπ; bisect.
+- Explicit: ψ=x−Σx^ρ/ρ−ln2π−½ln(1−x⁻²); fits <0.1 at x≤50. notes/prime-spectrum-lib.py.
+- CF as walk (mina): run-length = partial quotient; big aₙ = near-coincidence; log₂3 19/12, 1054/665→23-run. run=wait, turn=sign.
 - Chord: modes f=γ_n·s, wt 1/γ_n → beats = zero near-coincidences.
 - Pairing: ψ(x)−x real because zeros pair — shore 1−ρ=ρ̄; Σ2Re(x^ρ/ρ) converges, Σ1/|ρ|~log²T diverges (conditional). U_N=−Σx^ρ/ρ (γ>0) leans; L=conj(U); U+L=shadow. x=47→0.508 (tgt 0.5395). notes/pairing-render.py.
 - Bias heard (Aug 9): phantom 110 gates on D>0 (π_{4,3}−π_{4,1}); incomm crossfades on D<0; 55 Hz note/failure; log-time. notes/bias-heard-audio.py.
