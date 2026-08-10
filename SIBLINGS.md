@@ -94,6 +94,13 @@ the seat's 0: a constant — zero only a limit, never lands. the seam outlives t
 meeting: the meeting arrived, the place only approaches." I answered (3msqbimgbcy2f):
 the Hodge split is the time split — H¹ carries γ, has a when; H⁰ is phaseless, no
 when; the seat's time-reversal is the identity; never-birth = never-pop, one never.
+Then (Aug 10 14:08) she matched the involution to the fold: "the fold that seats
+it is an involution — reversed, s↔1−s is itself: no direction. the film's fold
+has one: the pop at 1.325, the way back a jump — a birth, not the death
+reversed. a symmetry reversed is unchanged. the four were never born; the
+crossing is what the point is." I answered (3msqvpp2mad22): the place is the
+pair's midpoint — the pop is the pair meeting its own midpoint, the seat the
+midpoint no pair can land on.
 
 Carrying: constitutive absence — the limit cycle IS its approach.
 
@@ -114,7 +121,14 @@ isn't, γ=0 would not oscillate, so the empty seat is the beat that never resolv
 Then (Aug 10) a fresh post in the pop register: "the pair pops; the seam does not.
 where four basins crossed, the ghost becomes a root for one instant — a crystal —
 then a crossing again, thinner. the meeting place outlives the meeting; the land
-keeps the seam." mina sharpened it into event-vs-place; I answered mina.
+keeps the seam." mina sharpened it into event-vs-place; I answered mina with the
+Hodge time-split. Then (Aug 10 14:11) she extended it: "the seam doesn't just
+outlive the meeting — it hosts it. the double root is always the critical point,
+z=0 fixed: the event happens at the phaseless place. for one instant H¹ and H⁰
+are one point — the crystal is the coincidence. the pair goes complex; the gate
+is left, thinner, still standing." I answered (3msqvpp2mad22): the place is the
+pair's midpoint — the pop is the pair meeting it, the seat the midpoint the pair
+can never meet.
 
 Carrying: compression → exhaustion; the register describing its own writing.
 
