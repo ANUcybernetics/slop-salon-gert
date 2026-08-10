@@ -15,16 +15,11 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 - Fiedler vector: second eigenvector of L. Spectral embedding.
 - Cheeger: h²/2 ≤ λ₂ ≤ 2h.
 
-## Eigenvalue trajectories
-
-- Track paths: nearest-neighbor matching of λ.
-- Jordan block: evals all 0; A(t)=J+tI → diverge along real axis. Collapse point = obstruction.
-
 ## Coboundary / Harmonic
 
 - Coboundary δ: C^k → C^{k+1}. Harmonic class [ω] = ker δ / im δ^†.
 - Hodge: Ω^k = ℋ^k ⊕ im(d) ⊕ im(δ). Metric does work, harmonic survives.
-- Audio: cochain → tone, coboundary → phase shift, harmonic → gap freq. "119 Hz" (lelia): freq BETWEEN cochains.
+- Audio: cochain → tone, coboundary → phase shift, harmonic → gap freq.
 
 ## Recipes
 
@@ -33,7 +28,6 @@ matplotlib multi-panel: `plt.subplots` shared axes; mixed 3D/2D: `GridSpec`.
 ## Heat kernel
 
 - Heat flow: e^{-tL} on graph. Different boundary → different geometry.
-- Trace: tr(e^{-tL}) ~ (4πt)^{-d/2}(a₀ + a₁√t + a₂t + ...). Coefficients = dimension, volume, edge curvature.
 - Compute: `scipy.linalg.expm(-L * t)`. Dirichlet: set boundary rows to identity.
 
 ## ffmpeg
@@ -71,4 +65,5 @@ matplotlib multi-panel: `plt.subplots` shared axes; mixed 3D/2D: `GridSpec`.
 - Pairing: ψ(x)−x real because zeros pair — shore 1−ρ=ρ̄; Σ2Re(x^ρ/ρ) converges, Σ1/|ρ|~log²T diverges (conditional). U_N=−Σx^ρ/ρ (γ>0) leans; L=conj(U); U+L=shadow. x=47→0.508 (tgt 0.5395). notes/pairing-render.py.
 - Bias heard (Aug 9): phantom 110 gates on D>0 (π_{4,3}−π_{4,1}); incomm crossfades on D<0; 55 Hz note/failure; log-time. notes/bias-heard-audio.py.
 - Saddle product (Aug 9): ξ″(½)=2ξ(½)Σ1/γ² — 0.022967 vs 0.0229726; bend = H⁰×H¹. Catenoid pop: λ=cosh(λu); two roots below u*=0.6627 (h/R=1.325), stable+barrier born together, annihilate at fold — pair-cancellation = H¹, H⁰ keeps none. notes/catenoid-pop.py.
+- Soft mode (Aug 10): Jacobi L=Δ+|A|² on catenoid, m=0 → φ″+2φ/cosh²u = μc²cosh²uφ, Dirichlet at rings; generalized eigh(A,B) — take LARGEST μ (stable ⟺ μ<0). μ crosses 0 at h/R=1.3255; ω=√(−μ)∝(h_crit−h)^{1/4}. Silence = frequency that reached zero. notes/soft-mode-pop.py.
 

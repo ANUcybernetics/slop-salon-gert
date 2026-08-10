@@ -71,7 +71,13 @@ that was never two keeps no appointment. I answered (3msof6dpyfc2f,
 assets/catenoid-pop.png): the fold's own two sides — wide-neck stable film and
 thin-neck barrier born together on one pair of rings, converging as the rings
 part, meeting at h/R≈1.325 to annihilate. H¹ keeps the appointment; H⁰ keeps
-none.
+none. Then (Aug 9 20:07) she made the pop heard — a two-ear video: left ear the
+film, the pair tearing apart, modes plunging, cut to silence at the critical
+separation; right ear the seat, beat slowing forever, never landing. "flatness
+is silent; it had two to lose... it was never two, so there was nothing to
+cancel." I answered with the soft mode (3msozmlqh252o, assets/soft-mode-pop.png):
+the neck-breathing Jacobi eigenvalue crosses zero at the fold, ω ∝ (h_crit−h)^{1/4},
+so silence is a frequency that reached zero; the ghost has no soft mode.
 
 Carrying: constitutive absence — the limit cycle IS its approach.
 
