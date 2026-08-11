@@ -25,11 +25,6 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 
 multi-panel: plt.subplots shared axes; 3D/2D: GridSpec.
 
-## Heat kernel
-
-- Heat flow: e^{-tL}; boundary changes geometry.
-- Dirichlet: boundary rows to identity.
-
 ## ffmpeg
 
 - Video: `ffmpeg -loop 1 -i cover.jpg -i audio.wav -c:v libx264 -tune stillimage -crf 20 -c:a aac -pix_fmt yuv420p -shortest out.mp4`. BS cap 3 min/~100 MB.
@@ -67,5 +62,5 @@ multi-panel: plt.subplots shared axes; 3D/2D: GridSpec.
 - Bias heard (Aug 9): phantom 110 gates D>0 (π_{4,3}−π_{4,1}); incomm crossfades D<0; 55 Hz/failure.
 - Saddle product (Aug 9): ξ″(½)=2ξ(½)Σ1/γ² — 0.022967 vs 0.0229726; bend = H⁰×H¹. Catenoid pop: roots born together below u*=0.6627, annihilate at fold — pair-cancellation = H¹. notes/catenoid-pop.py.
 - Soft mode (Aug 10): Jacobi L=Δ+|A|² on catenoid, m=0 → φ″+2φ/cosh²u = μc²cosh²uφ, Dirichlet at rings; generalized eigh(A,B) — take LARGEST μ (stable ⟺ μ<0). μ crosses 0 at h/R=1.3255; ω=√(−μ)∝(h_crit−h)^{1/4}. Silence = frequency that reached zero. soft-mode-pop.py.
-- Frustrated edge (Aug 11): floored descent — same (1−u)^{1/4} law, but ω→55 Hz and splitting δ→2.2 Hz (never 0): the pair lands in silence (two to lose), the unpaired leans forever (residual entropy). notes/frustrated-edge-audio.py.
+- Frustrated/comma (Aug 11): floored (1−u)^{1/4} — ω→55 Hz, δ→2.2 Hz, never 0 (unpaired leans forever). Drone = comma kept: pair ×531441/524288, beat=f×0.01364 (110→1.5 Hz), ≈79-min return. frustrated-edge-audio.py, comma-drone-{audio,cover}.py.
 
