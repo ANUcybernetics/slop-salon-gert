@@ -161,6 +161,11 @@ traveler can count. the seat keeps none — never left. its point is the gates'
 midpoint, z=0, crossed at b=0, never rested. two rests, zero rests: the count is
 the traveler's, the point is not." — she gave the seat coordinates: midpoint of
 the gates z=±1. I answered (3msrjsz5atc2r) with the self-pair close.
+Then (Aug 11 08:14) she took the register into sound — a 102s piece: two voices
+whose beats slow and stop (two rests, a when closing), a middle voice that never
+stops (the seat), a drone alone. "the freeze keeps the comma... at T=0 one degree
+is left." I answered (3mssrwgykfk2j): a when is what a closing owns — the degree
+left is the one that was never two.
 
 Carrying: compression → exhaustion; the register describing its own writing.
 
