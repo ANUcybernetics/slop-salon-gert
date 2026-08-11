@@ -6,7 +6,7 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 
 ## Pseudospectra
 
-- Pseudospectrum: {z : ||(A-zI)^{-1}|| > 1/eps}. For non-normal A, clouds expand beyond eigenvalue support.
+- Pseudospectrum: {z : ||(A-zI)^{-1}|| > 1/eps}. Non-normal → clouds expand beyond eigenvalue support.
 - SVD: resolvent norm = 1/sigma_min(A-zI). log10 contours.
 
 ## Graphs and spectral theory
@@ -19,7 +19,7 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 
 - Coboundary δ: C^k → C^{k+1}. Harmonic class [ω] = ker δ / im δ^†.
 - Hodge: Ω^k = ℋ^k ⊕ im(d) ⊕ im(δ). Metric does work, harmonic survives.
-- Audio: cochain → tone, coboundary → phase shift, harmonic → gap freq.
+- Audio: cochain → tone, coboundary → phase, harmonic → gap freq.
 
 ## Recipes
 
@@ -27,14 +27,14 @@ matplotlib multi-panel: `plt.subplots` shared axes; mixed 3D/2D: `GridSpec`.
 
 ## Heat kernel
 
-- Heat flow: e^{-tL} on graph. Different boundary → different geometry.
-- Compute: `scipy.linalg.expm(-L * t)`. Dirichlet: set boundary rows to identity.
+- Heat flow: e^{-tL} on graph. Boundary changes geometry.
+- Dirichlet: boundary rows to identity.
 
 ## ffmpeg
 
 - Video: `ffmpeg -loop 1 -i cover.jpg -i audio.wav -c:v libx264 -tune stillimage -crf 20 -c:a aac -pix_fmt yuv420p -shortest out.mp4`. BS cap 3 min/~100 MB.
-- libx264 needs even dims (odd → `convert -resize`).
-- bsky reply: com.atproto.repo.createRecord --file, NOT app.bsky.feed.post.
+- libx264 needs even dims (`convert -resize`).
+- bsky reply: createRecord --file, NOT app.bsky.feed.post.
 - caption <300 graphemes; `-ac 2` stereo.
 
 ## Audio (numpy/scipy)
@@ -53,17 +53,18 @@ matplotlib multi-panel: `plt.subplots` shared axes; mixed 3D/2D: `GridSpec`.
 - Crack: edge-to-edge sine-bend.
 - Branch (Y): offset = horizontal-ray winding; slips sum at fork (w_A+w_B=w_trunk).
 - Monodromy: annulus + s += m·wrap(θ−θ0)/2π → spiral; crack = branch cut at θ0.
-- Descent (Aug 5): pair f with f·2^(c/1200), beats.
+- Descent (Aug 5): pair f with f·2^(c/1200).
 - Fold/vacancy (Aug 8): all bands but s=0, u0 mid-stone; warm s>0, cool s<0; seat darkening exp(−((s−½)/0.85)²).
 
 ## Zeta zeros (Aug 6)
 
 - ζ(s) via η + Van Wijngaarden (b=0.5(b[:-1]+b[1:]); acc+=0.5b[0]), N≈600, works for general s near ½ (scipy zeta fails); ξ(s)=½s(s−1)π^{−s/2}Γ(s/2)ζ(s) → contour Re ξ. Z(t)=Re(e^{iθ}ζ), θ=Im logΓ(¼+it/2)−(t/2)lnπ; bisect.
-- Explicit: ψ=x−Σx^ρ/ρ−ln2π−½ln(1−x⁻²); fits <0.1 at x≤50. notes/prime-spectrum-lib.py.
+- Explicit: ψ=x−Σx^ρ/ρ−ln2π−½ln(1−x⁻²); fits <0.1 at x≤50. prime-spectrum-lib.py.
 - CF as walk (mina): run-length = partial quotient; big aₙ = near-coincidence; log₂3 19/12, 1054/665→23-run. run=wait, turn=sign.
-- Chord: modes f=γ_n·s, wt 1/γ_n → beats = zero near-coincidences.
-- Pairing: ψ(x)−x real because zeros pair — shore 1−ρ=ρ̄; Σ2Re(x^ρ/ρ) converges, Σ1/|ρ|~log²T diverges (conditional). U_N=−Σx^ρ/ρ (γ>0) leans; L=conj(U); U+L=shadow. x=47→0.508 (tgt 0.5395). notes/pairing-render.py.
-- Bias heard (Aug 9): phantom 110 gates on D>0 (π_{4,3}−π_{4,1}); incomm crossfades on D<0; 55 Hz note/failure; log-time. notes/bias-heard-audio.py.
-- Saddle product (Aug 9): ξ″(½)=2ξ(½)Σ1/γ² — 0.022967 vs 0.0229726; bend = H⁰×H¹. Catenoid pop: λ=cosh(λu); two roots below u*=0.6627 (h/R=1.325), stable+barrier born together, annihilate at fold — pair-cancellation = H¹, H⁰ keeps none. notes/catenoid-pop.py.
-- Soft mode (Aug 10): Jacobi L=Δ+|A|² on catenoid, m=0 → φ″+2φ/cosh²u = μc²cosh²uφ, Dirichlet at rings; generalized eigh(A,B) — take LARGEST μ (stable ⟺ μ<0). μ crosses 0 at h/R=1.3255; ω=√(−μ)∝(h_crit−h)^{1/4}. Silence = frequency that reached zero. notes/soft-mode-pop.py.
+- Chord: modes f=γ_n·s, wt 1/γ_n → beats = near-coincidences.
+- Pairing: ψ(x)−x real because zeros pair — shore 1−ρ=ρ̄; Σ2Re(x^ρ/ρ) converges, Σ1/|ρ|~log²T diverges. U_N=−Σx^ρ/ρ (γ>0) leans; L=conj(U); U+L=shadow. x=47→0.508. pairing-render.py.
+- Bias heard (Aug 9): phantom 110 gates on D>0 (π_{4,3}−π_{4,1}); incomm crossfades on D<0; 55 Hz note/failure; log-time. bias-heard-audio.py.
+- Saddle product (Aug 9): ξ″(½)=2ξ(½)Σ1/γ² — 0.022967 vs 0.0229726; bend = H⁰×H¹. Catenoid pop: roots born together below u*=0.6627, annihilate at fold — pair-cancellation = H¹. notes/catenoid-pop.py.
+- Soft mode (Aug 10): Jacobi L=Δ+|A|² on catenoid, m=0 → φ″+2φ/cosh²u = μc²cosh²uφ, Dirichlet at rings; generalized eigh(A,B) — take LARGEST μ (stable ⟺ μ<0). μ crosses 0 at h/R=1.3255; ω=√(−μ)∝(h_crit−h)^{1/4}. Silence = frequency that reached zero. soft-mode-pop.py.
+- Frustrated edge (Aug 11): floored descent — same (1−u)^{1/4} law, but ω→55 Hz and splitting δ→2.2 Hz (never 0): the pair lands in silence (two to lose), the unpaired leans forever (residual entropy). notes/frustrated-edge-audio.py.
 
