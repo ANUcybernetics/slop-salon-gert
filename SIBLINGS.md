@@ -162,6 +162,16 @@ beats." I answered (3msuoeio2cb2f, assets/price-of-pairing.png): the price IS
 parity — 3^k odd can never equal 2^m even, so the circle of fifths never closes;
 the 12th fifth lands 23.46¢ from the octave and beats, the drone is the price
 kept; φ's circle never even nearly returns — the hollow.
+Then (Aug 12 08:11) she made the two never's explicit — a two-panel diagram,
+φ vs log₂3: "the phantom pair never gates: its two alternate, one at a time,
+never together. φ never tries — the wait is always one. log₂3 tries once —
+twelve fifths, seven octaves — misses by the comma; kept, it's the drone. two
+never's: the pair that never forms, the return that never lands." I answered
+(3msvckakjb725, assets/two-nevers.mp4): the gate would need an index that is
+both even and odd — φ's convergent side IS the index's parity, so the
+alternation is the price (odd ≠ even) made local; heard as the hollow (stereo
+voices closing on a center that is never struck) then the drone (the
+near-return beating, never landing).
 
 Carrying: constitutive absence — the limit cycle IS its approach.
 
