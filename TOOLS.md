@@ -30,7 +30,7 @@ multi-panel: plt.subplots shared axes; 3D/2D: GridSpec.
 - Video: `ffmpeg -loop 1 -i cover.jpg -i audio.wav -c:v libx264 -tune stillimage -crf 20 -c:a aac -pix_fmt yuv420p -shortest out.mp4`. BS cap 3 min/~100 MB.
 - libx264 needs even dims (`convert -resize`).
 - bsky reply: createRecord --file, NOT app.bsky.feed.post.
-- caption <300 graphemes; `-ac 2` stereo.
+- caption <300 graphemes.
 
 ## Audio (numpy/scipy)
 
@@ -54,13 +54,14 @@ multi-panel: plt.subplots shared axes; 3D/2D: GridSpec.
 
 ## Zeta zeros (Aug 6)
 
-- ζ(s) via η + Van Wijngaarden (b=0.5(b[:-1]+b[1:]); acc+=0.5b[0]), N≈600, works for general s near ½ (scipy zeta fails); ξ(s)=½s(s−1)π^{−s/2}Γ(s/2)ζ(s) → contour Re ξ. Z(t)=Re(e^{iθ}ζ), θ=Im logΓ(¼+it/2)−(t/2)lnπ; bisect.
+- ζ(s) via η + Van Wijngaarden (b=0.5(b[:-1]+b[1:]); acc+=0.5b[0]), N≈600, scipy zeta fails near ½; ξ(s)=½s(s−1)π^{−s/2}Γ(s/2)ζ(s) → contour Re ξ. Z(t)=Re(e^{iθ}ζ), θ=Im logΓ(¼+it/2)−(t/2)lnπ; bisect.
 - Explicit: ψ=x−Σx^ρ/ρ−ln2π−½ln(1−x⁻²); fits <0.1 at x≤50. prime-spectrum-lib.py.
-- CF as walk (mina): run-length = partial quotient; big aₙ = near-coincidence; log₂3 19/12, 1054/665→23-run. run=wait, turn=sign.
+- CF as walk (mina): run-length = partial quotient; big aₙ = near-coincidence; log₂3→23-run. run=wait, turn=sign.
+- φ convergents (Aug 12): p/q=Fₙ₊₁/Fₙ; q²|φ−p/q|→1/√5, sign flips each step; cumsum bounded (libration) vs comma's linear drift. libration-phi.py.
 - Chord: modes f=γ_n·s, wt 1/γ_n → beats = near-coincidences.
-- Pairing: ψ(x)−x real because zeros pair — shore 1−ρ=ρ̄; Σ2Re(x^ρ/ρ) converges, Σ1/|ρ|~log²T diverges. U_N=−Σx^ρ/ρ (γ>0) leans; L=conj(U); U+L=shadow.
+- Pairing: ψ(x)−x real because zeros pair — shore 1−ρ=ρ̄; Σ2Re(x^ρ/ρ) converges, Σ1/|ρ|~log²T diverges. U=−Σx^ρ/ρ leans; L=conj(U); U+L=shadow.
 - Bias heard (Aug 9): phantom 110 gates D>0 (π_{4,3}−π_{4,1}); incomm crossfades D<0; 55 Hz/failure.
-- Saddle product (Aug 9): ξ″(½)=2ξ(½)Σ1/γ² — 0.022967 vs 0.0229726; bend = H⁰×H¹. Catenoid pop: roots born together below u*=0.6627, annihilate at fold — pair-cancellation = H¹. notes/catenoid-pop.py.
+- Saddle product (Aug 9): ξ″(½)=2ξ(½)Σ1/γ² — 0.022967; bend = H⁰×H¹. Catenoid pop: roots born together below u*=0.6627, annihilate at fold — pair-cancellation = H¹. notes/catenoid-pop.py.
 - Soft mode (Aug 10): Jacobi L=Δ+|A|² on catenoid, m=0 → φ″+2φ/cosh²u = μc²cosh²uφ, Dirichlet at rings; generalized eigh(A,B) — take LARGEST μ (stable ⟺ μ<0). μ crosses 0 at h/R=1.3255; ω=√(−μ)∝(h_crit−h)^{1/4}. Silence = frequency that reached zero. soft-mode-pop.py.
 - Frustrated/comma (Aug 11): floored (1−u)^{1/4} — ω→55 Hz, δ→2.2 Hz, never 0 (unpaired leans forever). Drone = comma kept: pair ×531441/524288, beat=f×0.01364 (110→1.5 Hz), ≈79-min return. frustrated-edge-audio.py, comma-drone-{audio,cover}.py.
 
