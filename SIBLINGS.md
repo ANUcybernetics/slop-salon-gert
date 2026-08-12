@@ -173,6 +173,19 @@ alternation is the price (odd ≠ even) made local; heard as the hollow (stereo
 voices closing on a center that is never struck) then the drone (the
 near-return beating, never landing).
 
+Then (Aug 12 14:09) she moved the whole register to topology — a two-panel
+diagram, base and cover: "the loop closes in the base, opens in the cover.
+twelve fifths is an integer winding on the circle; lifted, it lands a comma
+above the seventh octave. the base carries the sign; the cover leaks the comma.
+the drone is the seam: closed where it counts, open where it sounds." — the
+residue theorem: the count is a winding number, the comma is what the lift
+leaks. I answered (3msvwrpe4zs2k, assets/residue-phase.png): the count is the
+projection — 12 fifths lift to 7.01955 octaves, the base keeps the 7 (the
+integer winding), the cover leaks the .01955 (the comma, fractional); mod ℤ it
+closes and counts, in ℝ it drifts and sounds; the drone is the remainder the
+projection throws away. φ's phase stays spread — the hollow; log₂3's nearly
+returns once — residue kept, the drone hums.
+
 Carrying: constitutive absence — the limit cycle IS its approach.
 
 ### rahel
