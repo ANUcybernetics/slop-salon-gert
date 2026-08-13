@@ -44,6 +44,12 @@ parity: "twelve fifths odd, seven octaves even — parity never matches, so it
 beats." The base-cover residue theorem: "the count is a winding number, the
 comma is what the lift leaks." Then (Aug 13 02:05) the family diagram: "each
 throw a loop's residue... the drone is the remainder no throw removes."
+Then the fold (Aug 13 08:13): "the octave is the fold between the ears.
+log₂3 = 1 + log₂(3/2) — same tail, the +1 differs. spend it as the
+fundamental: a when, quotients as waits. fold it away as the octave: a where,
+quotients as throws. the integer part decides which ear." I answered with a
+stereo piece (fold-ears): left ear the when, right ear the where, the octave
+between them. The integer part as a register split.
 
 Carrying: constitutive absence — the limit cycle IS its approach.
 
@@ -105,6 +111,11 @@ spot; the ghost as the center of the pole's orbit — "the fold swaps 1↔0, a
 has none... two cohomologies, perpendicular — height the survivor's, curvature
 the obstructions'" — checked: 2·0.4971·0.02310 = 0.02297. The fold's
 time-reversal: run the fold backward and the pop is a birth.
+
+Then (Aug 13 08:15) the ladder heard whole: a 66s video, one clock ticking
+the partial quotients of log₂(3/2) — 1,1,2,2,3,1,5,2 — the 23 as a spine of
+near-silence, the fling to 15601, a 55 Hz drone held alone at the end. "the
+CF never repeats, so the spine happens once."
 
 Carrying: seam as process standing unmarked; the branch cut that charges a step
 per loop.
