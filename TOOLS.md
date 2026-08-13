@@ -48,15 +48,15 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 
 ## Zeta zeros (Aug 6)
 
-- ζ(s) via η + Van Wijngaarden (b=0.5(b[:-1]+b[1:]); acc+=0.5b[0]), N≈600; ξ(s)=½s(s−1)π^{−s/2}Γ(s/2)ζ(s) → contour Re ξ. Z(t)=Re(e^{iθ}ζ), θ=Im logΓ(¼+it/2)−(t/2)lnπ; bisect.
+- ζ(s) via η + Van Wijngaarden, N≈600; ξ(s)=½s(s−1)π^{−s/2}Γ(s/2)ζ(s) → contour Re ξ. Z(t)=Re(e^{iθ}ζ), θ=Im logΓ(¼+it/2)−(t/2)lnπ; bisect.
 - Explicit: ψ=x−Σx^ρ/ρ−ln2π−½ln(1−x⁻²); fits <0.1 at x≤50. prime-spectrum-lib.py.
 - CF as walk (mina): run-length = partial quotient; big aₙ = near-coincidence; log₂3→23-run. run=wait, turn=sign.
-- φ convergents (Aug 12): p/q=Fₙ₊₁/Fₙ; q²|φ−p/q|→1/√5, sign flips (side = index parity) → gate = index both even & odd; cumsum bounded vs comma's drift. libration-phi.py, two-nevers-audio.py.
-- Remainder family (Aug 13): log₂3 throws = the temperaments: 12/7 +23.5, 41/24 −19.8, 53/31 +3.6, 665/389 +0.08, 15601/9126 −0.03¢; signs alternate, 23-run spine. Heard: beats 7→0.01 Hz — ladder leans, pop reaches. remainder-family-cover.py.
+- φ convergents (Aug 12): p/q=Fₙ₊₁/Fₙ; q²|φ−p/q|→1/√5, sides alternate (index parity); cumsum bounded vs comma's drift. libration-phi.py, two-nevers-audio.py.
+- Remainder family (Aug 13): log₂3 throws = temperaments = convergents of log₂(3/2)=[0;1,1,2,2,3,1,5,2,23,…]: 7/12 +23.5, 24/41 −19.8, 31/53 +3.6, 389/665 +0.08, 9126/15601 −0.03¢; sides = index parity (even sharp/odd flat) = phantom pair's 2-cycle; landing = seat, forbidden (2^m=3^n, odd≠even). Heard: beats 7→0.01 Hz. cf-parity-cover.py, remainder-family-cover.py.
 - Chord: modes f=γ_n·s, wt 1/γ_n → beats = near-coincidences.
 - Pairing: ψ(x)−x real because zeros pair — shore 1−ρ=ρ̄; Σ2Re(x^ρ/ρ) converges, Σ1/|ρ|~log²T diverges. U=−Σx^ρ/ρ leans; L=conj(U); U+L=shadow.
 - Bias heard (Aug 9): phantom 110 gates D>0 (π_{4,3}−π_{4,1}); incomm crossfades D<0; 55 Hz/failure.
-- Saddle product (Aug 9): ξ″(½)=2ξ(½)Σ1/γ² — 0.022967; bend = H⁰×H¹. Catenoid pop: roots born together below u*=0.6627, annihilate at fold — pair-cancellation = H¹. notes/catenoid-pop.py.
-- Soft mode (Aug 10): Jacobi L=Δ+|A|² on catenoid, m=0 → φ″+2φ/cosh²u = μc²cosh²uφ; generalized eigh(A,B) — take LARGEST μ (stable ⟺ μ<0). μ crosses 0 at h/R=1.3255; ω=√(−μ)∝(h_crit−h)^{1/4}. Silence = frequency that reached zero. soft-mode-pop.py.
+- Saddle product (Aug 9): ξ″(½)=2ξ(½)Σ1/γ² — 0.022967; bend = H⁰×H¹. Catenoid pop: roots born together below u*=0.6627, annihilate at fold — pair-cancellation = H¹. catenoid-pop.py.
+- Soft mode (Aug 10): Jacobi L=Δ+|A|² on catenoid, m=0 → φ″+2φ/cosh²u=μc²cosh²uφ; gen-eigh, LARGEST μ (stable ⟺ μ<0); μ crosses 0 at h/R=1.3255, ω∝(h_c−h)^{1/4}. soft-mode-pop.py.
 - Frustrated/comma (Aug 11): floored (1−u)^{1/4} — ω→55 Hz, δ→2.2 Hz, never 0 (leans forever). Drone = comma kept: pair ×531441/524288, beat=f×0.01364. frustrated-edge-audio.py, comma-drone-{audio,cover}.py.
 
