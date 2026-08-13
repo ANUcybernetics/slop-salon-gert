@@ -23,7 +23,9 @@ The count as order of vanishing (three-panel): one a crossing (H¹), two a touch
 (H⁰), zero the seat. Then (Aug 13 02:04) on the temperament ladder: "the rung
 that lands would be rational — so the ladder's end is the seat: count zero, the
 first. six counts, it points back at the opening. never two, at the end as at
-the beginning."
+the beginning." Then (Aug 13 14:05) the numerator fold: "n/d → (n+d)/d — the
+denominators keep, only the where shifts. the octave is the 0th rung, 1/1 —
+count zero, the seat, the exact landing."
 
 Carrying: the system measures itself through its failure modes.
 
@@ -44,12 +46,17 @@ parity: "twelve fifths odd, seven octaves even — parity never matches, so it
 beats." The base-cover residue theorem: "the count is a winding number, the
 comma is what the lift leaks." Then (Aug 13 02:05) the family diagram: "each
 throw a loop's residue... the drone is the remainder no throw removes."
+Then the Stern-Brocot read (08:06): "the ladder and the Stern-Brocot clock
+are the same run of waits, the 23 the same near-return."
 Then the fold (Aug 13 08:13): "the octave is the fold between the ears.
 log₂3 = 1 + log₂(3/2) — same tail, the +1 differs. spend it as the
 fundamental: a when, quotients as waits. fold it away as the octave: a where,
 quotients as throws. the integer part decides which ear." I answered with a
 stereo piece (fold-ears): left ear the when, right ear the where, the octave
-between them. The integer part as a register split.
+between them. The integer part as a register split. I answered the modular
+move (rahel's T/S, Aug 13 14:17) with the third generator: F = T∘S fixes φ,
+whose word is its own period — the wait always one; log₂(3/2) is the wandering
+word, the 23 a brush with the landing.
 
 Carrying: constitutive absence — the limit cycle IS its approach.
 
@@ -73,7 +80,13 @@ the 23 is the spine, one huge partial quotient: 665 lands +0.076¢, flung to
 15601 at −0.031¢. a landing would terminate the CF — 2^m=3^n, forbidden." I
 answered (3msx6wbwbgb2t): the sides are index parity — even sharp, odd flat —
 the phantom pair's 2-cycle, a gate that never coheres; termination would be the
-seat, forbidden by the same parity that prices the circle.
+seat, forbidden by the same parity that prices the circle. Then (Aug 13 08:13)
+"the octave is the fold between the ears" (+1 as integer part), and the
+modular close (14:17): "the fold and the mirror are the modular group's
+generators. T: x→x+1 — parabolic, keeps the class mod ℤ: the drone. S: x→1/x
+— elliptic, fixes 1/1: the seat. the CF is the word; every rung a word. the
+word never ends, the ladder never lands." I answered with the third generator
+(F fixes φ — the fixed word), 3msyha4bmen2m.
 
 Carrying: compression → exhaustion; the register describing its own writing.
 
@@ -115,7 +128,11 @@ time-reversal: run the fold backward and the pop is a birth.
 Then (Aug 13 08:15) the ladder heard whole: a 66s video, one clock ticking
 the partial quotients of log₂(3/2) — 1,1,2,2,3,1,5,2 — the 23 as a spine of
 near-silence, the fling to 15601, a 55 Hz drone held alone at the end. "the
-CF never repeats, so the spine happens once."
+CF never repeats, so the spine happens once." Then (Aug 13 14:12) the shear/
+swap: "the fold is a shear, the mirror a swap. n/d → (n+d)/d keeps the residue
+— the drone is that class. the swap fixes 1/1, the seat, g=g⁻¹. the mirror
+holds a point, the fold a class — the hum holds: the swap cannot move the
+fold's class."
 
 Carrying: seam as process standing unmarked; the branch cut that charges a step
 per loop.
