@@ -37,12 +37,10 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 ## Agate (Aug 4)
 
 - Banding: u=r/(Rmax·R_wob·warp); s=log(u/u0)/log(g), g≈1.05. Bands = level sets of s. Integer-as-jump, spatial.
-- Organic: noise(σ≈30) on s meanders.
-- Fault: s += disp·(2σ(d/w)−1) across crack; bands step, not erase.
+- Fault: s += disp·(2σ(d/w)−1); bands step, not erase.
 - Crack: edge-to-edge sine-bend.
 - Branch (Y): offset = horizontal-ray winding; slips sum at fork (w_A+w_B=w_trunk).
 - Monodromy: annulus + s += m·wrap(θ−θ0)/2π → spiral; crack = branch cut at θ0.
-- Descent (Aug 5): pair f with f·2^(c/1200).
 - Fold/vacancy (Aug 8): all bands but s=0, u0 mid-stone; warm s>0, cool s<0; seat darkening exp(−((s−½)/0.85)²).
 - Frustrated agate (Aug 11): m=1/φ spiral + floored (1−u)^{1/4} → hollow heart, bands never land. agate-frustrated.py.
 
@@ -52,12 +50,12 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 - Explicit: ψ=x−Σx^ρ/ρ−ln2π−½ln(1−x⁻²); fits <0.1 at x≤50. prime-spectrum-lib.py.
 - φ convergents (Aug 12): p/q=Fₙ₊₁/Fₙ; q²|φ−p/q|→1/√5; cumsum bounded vs comma's drift. libration-phi.py, two-nevers-audio.py.
 - Remainder family (Aug 13): log₂3 throws = temperaments = convergents of log₂(3/2)=[0;1,1,2,2,3,1,5,2,23,…]: 7/12 +23.5, 24/41 −19.8, 31/53 +3.6, 389/665 +0.08, 9126/15601 −0.03¢; sides = index parity (even sharp/odd flat) = phantom pair's 2-cycle; landing = seat, forbidden (2^m=3^n, odd≠even). Heard: beats 7→0.01 Hz. cf-parity-cover.py, remainder-family-cover.py.
-- Chord: modes f=γ_n·s, wt 1/γ_n → beats = near-coincidences.
 - Pairing: ψ(x)−x real because zeros pair — shore 1−ρ=ρ̄; Σ2Re(x^ρ/ρ) converges, Σ1/|ρ|~log²T diverges. U=−Σx^ρ/ρ leans; L=conj(U); U+L=shadow.
 - Bias heard (Aug 9): phantom 110 gates D>0; incomm crossfades D<0; 55 Hz/failure.
 - Saddle product (Aug 9): ξ″(½)=2ξ(½)Σ1/γ² — 0.022967; bend = H⁰×H¹. Catenoid pop: pair-cancellation. catenoid-pop.py.
 - Soft mode (Aug 10): Jacobi L=Δ+|A|² on catenoid, m=0 → φ″+2φ/cosh²u=μc²cosh²uφ; gen-eigh, LARGEST μ (stable ⟺ μ<0); μ crosses 0 at h/R=1.3255, ω∝(h_c−h)^{1/4}. soft-mode-pop.py.
 - Frustrated/comma (Aug 11): floored (1−u)^{1/4} — ω→55 Hz, δ→2.2 Hz, never 0 (leans forever). Drone = comma kept: pair ×531441/524288, beat=f×0.01364. frustrated-edge-audio.py, comma-drone-{audio,cover}.py.
 - Fold/ears (Aug 13): stereo=two ears — L=when (metronome/unit, quiet in spine), R=where (220 Hz beating f·2^(c/1200), sharp R/flat L, beat 3→0.004 Hz); 55 Hz sub. fold-ears-{audio,cover}.py.
-- Golden gen (Aug 13): F=1+1/x fixes φ; φ=[1;1,…] fixed word. golden-generator-cover.py. CF digits: machine-verify.
+- Golden gen (Aug 13): F=1+1/x fixes φ; φ=[1;1,…] fixed word. golden-generator-cover.py.
+- Audible monoid (Aug 14): ear=ℝ⁺, nonnegative matrices reach it — fold T + mirror M generate; order-three −1 flips line, sign unhearable; F=T∘M shortest word. audible-monoid-audio.py.
 

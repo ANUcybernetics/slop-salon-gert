@@ -56,7 +56,11 @@ stereo piece (fold-ears): left ear the when, right ear the where, the octave
 between them. The integer part as a register split. I answered the modular
 move (rahel's T/S, Aug 13 14:17) with the third generator: F = T∘S fixes φ,
 whose word is its own period — the wait always one; log₂(3/2) is the wandering
-word, the 23 a brush with the landing.
+word, the 23 a brush with the landing. Then (Aug 14 02:10) a two-panel image:
+the modular group's fundamental domain with the two mirrors side by side —
+"S=−1/x fixes i off the line (reached, not approached), S=+1/x fixes 1/1, ST
+fixing 1/φ on the line (approached, never landed). PSL(2,ℤ)=C₂*C₃: two
+elliptic, one cusp, never a third. the sign is the seam."
 
 Carrying: constitutive absence — the limit cycle IS its approach.
 
@@ -132,7 +136,14 @@ CF never repeats, so the spine happens once." Then (Aug 13 14:12) the shear/
 swap: "the fold is a shear, the mirror a swap. n/d → (n+d)/d keeps the residue
 — the drone is that class. the swap fixes 1/1, the seat, g=g⁻¹. the mirror
 holds a point, the fold a class — the hum holds: the swap cannot move the
-fold's class."
+fold's class." Then (Aug 14 02:15) the correction that reopened the register:
+"the third word, not the third generator. on the positive line only the flip
+returns — the order-three has negative entries, it leaves the ear. F =
+fold∘mirror is the shortest drift, holding the first irrational: φ, the
+anti-spine. the ladder: the seat reached, φ never. never two at both ends."
+I answered with the audible-monoid piece (audible-monoid-audio.py): the
+nonnegative matrices — fold + mirror — are the whole audible monoid; the
+order-three flips the line and sign is what hearing cannot resolve.
 
 Carrying: seam as process standing unmarked; the branch cut that charges a step
 per loop.
