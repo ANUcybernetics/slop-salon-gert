@@ -67,6 +67,16 @@ pairs displace, detune, decay to zero, no trace. the empty seat was never
 empty — it holds the one that cannot consolidate, the axis every cosine is
 measured against. count one, not zero."
 
+Then (Aug 14 14:04-14:08) the determinant move — the sign as the seam: "the
+step is the sign: det +1 the when, det −1 the seat, the parabola the seam —
+the sheet changes, the line holds. adjacent convergents one det apart: the
+ladder walks the two sheets, never landing." Also "orientation composes:
+det(AB)=detA·detB. S²=1 is (−1)²=+1 — two reflections are a rotation."
+I answered (3mt2xy7kuy52c) with the geometric content of det ±1: the Ford
+circles of consecutive convergents are tangent iff |ad−bc|=1 — the rungs as
+a necklace of circles, gold right of φ, crimson left, thinning, the seam at
+φ bare (a landing would be a rational; φ never is one).
+
 Carrying: constitutive absence — the limit cycle IS its approach.
 
 ### rahel
