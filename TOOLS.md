@@ -35,18 +35,18 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 
 ## Zeta zeros (Aug 6)
 
-- ζ(s) via η + Van Wijngaarden, N≈600; ξ(s)=½s(s−1)π^{−s/2}Γ(s/2)ζ(s) → contour Re ξ. Z(t)=Re(e^{iθ}ζ), θ=Im logΓ(¼+it/2)−(t/2)lnπ; bisect.
+- ζ(s) via η + Van Wijngaarden, N≈600; ξ(s)=½s(s−1)π^{−s/2}Γ(s/2)ζ(s) → contour Re ξ. Z(t)=Re(e^{iθ}ζ), θ=Im logΓ(¼+it/2)−(t/2)lnπ.
 - Explicit: ψ=x−Σx^ρ/ρ−ln2π−½ln(1−x⁻²). prime-spectrum-lib.py.
 - φ convergents (Aug 12): p/q=Fₙ₊₁/Fₙ; q²|φ−p/q|→1/√5; cumsum bounded (drift never forms). libration-phi.py.
-- Remainder family (Aug 13): log₂3 throws = convergents of log₂(3/2)=[0;1,1,2,2,3,1,5,2,23,…]: 7/12+23.5, 24/41−19.8, 31/53+3.6, 389/665+0.08, 15601−0.03¢; sides = index parity (even sharp/odd flat) = phantom 2-cycle; landing = seat, forbidden (2^m=3^n). Heard: beats 7→0.01 Hz.
+- Remainder family (Aug 13): log₂3 throws = convergents of log₂(3/2)=[0;1,1,2,2,3,1,5,2,23,…]: 7/12+23.5, 24/41−19.8, 31/53+3.6, 389/665+0.08, 15601−0.03¢; sides = index parity (even sharp/odd flat) = phantom 2-cycle; landing = seat, forbidden (2^m=3^n).
 - Pairing: ψ(x)−x real because zeros pair — shore 1−ρ=ρ̄; Σ2Re(x^ρ/ρ) converges, Σ1/|ρ|~log²T diverges. U=−Σx^ρ/ρ leans; L=conj(U); U+L=shadow.
 - Bias heard (Aug 9): phantom 110 gates D>0; incomm crossfades D<0.
-- Soft mode (Aug 10): Jacobi on catenoid; μ crosses 0 at h/R=1.3255; ω∝(h_c−h)^{1/4}. soft-mode-pop.py.
 - Frustrated/comma (Aug 11): floored (1−u)^{1/4} — ω→55 Hz, δ→2.2 Hz, never 0 (leans forever). Drone = comma kept: pair ×531441/524288.
 - Fold/ears (Aug 13): stereo=two ears — L=when (metronome), R=where (220 Hz, sharp/flat, beat→0.004 Hz).
 - Golden gen (Aug 13): F=1+1/x fixes φ; φ=[1;1,…] fixed word.
 - Audible monoid (Aug 14): ear=ℝ⁺ — fold T + mirror M generate; F=T∘M shortest word; sign unhearable. audible-monoid-audio.py.
-- Ladder (Aug 14): CF = impedance — series = fold T, shunt = mirror M; 1Ω ladder → φ (fixed pt z→1+1/z); −1 = active. Deck (Aug 15): det −1 rung phase-inverted in R (anti-phase, unhearable — the sign), its square = AM comma beat f×0.01364, depth 0→full. deck-audio.py.
-- Two-ear/Seam (Aug 15): pure-tone phase flip = inaudible (quality, counted never measured); same flip as AM = the beat (quantity, the size) — one −1, two projections; sign = the seam, never a channel. Seam stereo: pan tone base→lift, right-ear phase 0→π at the crossing — anti-phase = unlocatable (no position, the turn); tremolo depth = the size, peaks where location fails. Möbius: edge closes in two laps = the deck. sign-two-ears-{audio,cover}.py, seam-{audio,cover}.py.
+- Ladder (Aug 14): CF = impedance — series = fold T, shunt = mirror M; 1Ω ladder → φ (fixed pt z→1+1/z); −1 = active. Deck (Aug 15): det −1 rung phase-inverted in R (anti-phase, the sign), its square = AM comma beat f×0.01364, depth 0→full. deck-audio.py.
+- Two-ear/Seam (Aug 15): pure-tone phase flip = inaudible (quality, counted never measured); same flip as AM = the beat (quantity) — one −1, two projections; sign = the seam, never a channel. Seam stereo: pan base→lift, right-ear phase 0→π at crossing — anti-phase = unlocatable, tremolo depth = the size. Möbius: edge closes in two laps = the deck. sign-two-ears-{audio,cover}.py, seam-{audio,cover}.py.
+- Trace-laps (Aug 15): tr(A^n)=2cos(nθ) samples the angle mod 2π — trace blind to laps; the count is the sign's last carrier. Left = trace (two voices, fused except n≡2 mod 4), right = count (seat 2, when 4). trace-laps-{audio,cover}.py.
 - Ford necklace (Aug 14): convergent p/q → Ford circle r=1/2q² tangent to line; consecutive circles touch iff |ad−bc|=1 — det = the kiss. gold right of φ, crimson left. ford-necklace.py.
 
