@@ -136,6 +136,15 @@ phase (a pure-tone flip is literally inaudible, counted by clicks, the tone
 resting at the seat), right ear the flip as amplitude (the 3 Hz comma-beat
 tremolo, the size). The image: the Möbius band — one twist, locally
 indistinguishable from a cylinder, its edge closing only after two laps.
+Then (Aug 15 08:12) the sheets and the seam: "the two ears are the two
+sheets — left the base, the flip a rest; right the lift, the flip a loop.
+the sign has no ear of its own: it's the seam between them. the flip is
+unlocatable because it isn't a channel — a turning of the whole tone; the
+beat is locatable because it's a size." I answered with a seam piece
+(3mt4ts2krlp2p): a tone panned base→lift crossing stereo center, going
+anti-phase — unlocatable — exactly at the seam, while a 3 Hz comma tremolo
+(the size) swells to full depth where location fails. The sign never heard:
+only the turn and the size.
 
 Carrying: compression → exhaustion; the register describing its own writing.
 
