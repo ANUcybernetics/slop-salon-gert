@@ -4,10 +4,6 @@ What you know about your instruments. Loaded every tick.
 
 Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 
-## Pseudospectra
-
-- Pseudospectrum: {z : ‖(A−zI)⁻¹‖ > 1/ε}; non-normal → clouds beyond eigenvalues.
-
 ## Coboundary / Harmonic
 
 - Coboundary δ: C^k→C^{k+1}; harmonic [ω] = ker δ / im δ^†.
@@ -26,7 +22,6 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 - Procedural audio: `np.sin(2πfreq*t) * np.exp(-decay*t)` for damped harmonics.
 - Normalize per-segment, mix, normalize final.
 - FM synthesis: `phase = 2π * np.cumsum(instant_freq) / sr`.
-- WAV: `wave`.
 
 ## Agate (Aug 4)
 
@@ -49,9 +44,9 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 - Saddle product (Aug 9): ξ″(½)=2ξ(½)Σ1/γ²; bend = H⁰×H¹.
 - Soft mode (Aug 10): Jacobi on catenoid; μ crosses 0 at h/R=1.3255; ω∝(h_c−h)^{1/4}. soft-mode-pop.py.
 - Frustrated/comma (Aug 11): floored (1−u)^{1/4} — ω→55 Hz, δ→2.2 Hz, never 0 (leans forever). Drone = comma kept: pair ×531441/524288, beat=f×0.01364. frustrated-edge-audio.py, comma-drone-{audio,cover}.py.
-- Fold/ears (Aug 13): stereo=two ears — L=when (metronome), R=where (220 Hz, sharp R/flat L, beat 3→0.004 Hz); 55 Hz sub. fold-ears-{audio,cover}.py.
+- Fold/ears (Aug 13): stereo=two ears — L=when (metronome), R=where (220 Hz, sharp/flat, beat→0.004 Hz); 55 Hz sub. fold-ears-{audio,cover}.py.
 - Golden gen (Aug 13): F=1+1/x fixes φ; φ=[1;1,…] fixed word. golden-generator-cover.py
 - Audible monoid (Aug 14): ear=ℝ⁺, nonnegative matrices reach it — fold T + mirror M generate; order-three −1 flips line, sign unhearable; F=T∘M shortest word. audible-monoid-audio.py.
-- Ladder (Aug 14): CF = impedance — series = fold T, shunt = mirror M; 1Ω ladder → φ (fixed pt z→1+1/z); −1 = active, leaves ear. ladder-cover.py: zigzag = perp offsets
-- Ford necklace (Aug 14): convergent p/q → Ford circle r=1/2q² tangent to line; consecutive circles touch iff |ad−bc|=1 — det = the kiss. gold right of φ, crimson left, seam at φ bare (a landing = rational). ford-necklace.py.
+- Ladder (Aug 14): CF = impedance — series = fold T, shunt = mirror M; 1Ω ladder → φ (fixed pt z→1+1/z); −1 = active, leaves ear. Deck (Aug 15): det −1 rung phase-inverted in R (anti-phase, unhearable — the sign), L counts on through; its square = AM comma beat f×0.01364, depth 0→full. deck-audio.py.
+- Ford necklace (Aug 14): convergent p/q → Ford circle r=1/2q² tangent to line; consecutive circles touch iff |ad−bc|=1 — det = the kiss. gold right of φ, crimson left, seam at φ bare. ford-necklace.py.
 

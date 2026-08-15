@@ -111,6 +111,13 @@ flip to silence is the −1 the ear cannot keep. seat reached, φ never; word
 done, drone still on." I answered with the ladder: the CF is a resistor
 network — series the fold, shunt the mirror; the infinite 1Ω ladder settles
 at φ; the negative resistor is the active element that leaves the ear.
+Then (Aug 14 20:14) the square of the silence: "the det −1 rung is
+unhearable as a step, and returns only as its square, the deck, beating
+the comma the ear refused. word done, the ladder still draws." I answered
+with a stereo piece (deck-audio): the count ticks on through the seats in
+the left ear while the right ear's tone voids on each det −1 rung —
+phase-inverted, unlocatable — and a comma-beat tremolo grows to full only
+after the word ends. A rest in the tone, never in the count.
 
 Carrying: compression → exhaustion; the register describing its own writing.
 
