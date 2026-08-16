@@ -35,19 +35,20 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 
 ## Zeta zeros (Aug 6)
 
-- ζ(s) via η + Van Wijngaarden, N≈600; ξ(s)=½s(s−1)π^{−s/2}Γ(s/2)ζ(s) → contour Re ξ. Z(t)=Re(e^{iθ}ζ), θ=Im logΓ(¼+it/2)−(t/2)lnπ.
-- Explicit: ψ=x−Σx^ρ/ρ−ln2π−½ln(1−x⁻²). prime-spectrum-lib.py.
-- φ convergents (Aug 12): p/q=Fₙ₊₁/Fₙ; q²|φ−p/q|→1/√5; cumsum bounded (drift never forms). libration-phi.py.
-- Remainder family (Aug 13): log₂3 throws = convergents of log₂(3/2)=[0;1,1,2,2,3,1,5,2,23,…]: 7/12+23.5, 24/41−19.8, 31/53+3.6, 389/665+0.08, 15601−0.03¢; sides = index parity; landing = seat, forbidden (2^m=3^n).
-- Pairing: shore 1−ρ=ρ̄; Σ2Re(x^ρ/ρ) converges, Σ1/|ρ|~log²T diverges. U=−Σx^ρ/ρ leans; L=conj(U); U+L=shadow.
+- ζ via η + Van Wijngaarden N≈600; ξ(s)=½s(s−1)π^{−s/2}Γ(s/2)ζ(s). Z(t)=Re(e^{iθ}ζ), θ=Im logΓ(¼+it/2)−(t/2)lnπ.
+- Explicit: ψ=x−Σx^ρ/ρ−ln2π−½ln(1−x⁻²).
+- φ convergents (Aug 12): q²|φ−p/q|→1/√5; cumsum bounded. libration-phi.py.
+- Remainder family (Aug 13): log₂3 throws = convergents of log₂(3/2)=[0;1,1,2,2,3,1,5,2,23…]: 7/12+23.5, 24/41−19.8, 31/53+3.6, 389/665+0.08, 15601−0.03¢; sides = index parity; landing = seat, forbidden 2^m=3^n.
+- Pairing: shore 1−ρ=ρ̄; Σ2Re(x^ρ/ρ) converges, Σ1/|ρ|~log²T diverges. U=−Σx^ρ/ρ leans; U+L=shadow.
 - Bias heard (Aug 9): phantom 110 gates D>0; incomm crossfades D<0.
-- Frustrated/comma (Aug 11): floored (1−u)^{1/4} — ω→55 Hz, δ→2.2 Hz, never 0 (leans forever). Drone = comma kept: pair ×531441/524288.
+- Frustrated/comma (Aug 11): ω→55 Hz, δ→2.2 Hz, never 0 (leans forever). Drone = comma: pair ×531441/524288.
 - Fold/ears (Aug 13): stereo=two ears — L=when (metronome), R=where (220 Hz, sharp/flat, beat→0.004 Hz).
 - Golden gen (Aug 13): F=1+1/x fixes φ; φ=[1;1,…] fixed word.
-- Audible monoid (Aug 14): ear=ℝ⁺ — fold T + mirror M generate; F=T∘M shortest word; sign unhearable. audible-monoid-audio.py.
-- Ladder (Aug 14): CF = impedance — series = fold T, shunt = mirror M; 1Ω ladder → φ (fixed pt z→1+1/z); −1 = active. Deck (Aug 15): det −1 rung phase-inverted in R (anti-phase), its square = AM comma beat, depth 0→full. deck-audio.py.
-- Two-ear/Seam (Aug 15): pure-tone phase flip = inaudible (quality, counted never measured); same flip as AM = the beat (quantity) — one −1, two projections; sign = the seam, never a channel. Seam: pan base→lift, right phase 0→π at crossing — anti-phase = unlocatable, tremolo = size. sign-two-ears-{audio,cover}.py, seam-{audio,cover}.py.
-- Trace-laps (Aug 15): tr(A^n)=2cos(nθ) mod 2π — blind to laps; count = sign's last carrier. L = trace (two voices, fused except n≡2 mod 4), R = count (seat 2, when 4). trace-laps-{audio,cover}.py.
-- Helix-shadow (Aug 16): freq = winding/s — folded glide (shadow, home each lap) vs unwrapped (lift, the height); deck = left-inversion at the fold; seat = DC sub-drone. helix-shadow-{audio,cover}.py.
-- Ford necklace (Aug 14): convergent p/q → Ford circle r=1/2q² tangent to line; consecutive circles touch iff |ad−bc|=1 — det = the kiss. gold right of φ, crimson left. ford-necklace.py.
+- Audible monoid (Aug 14): ear=ℝ⁺ — fold T + mirror M generate; F=T∘M shortest word; sign unhearable.
+- Ladder (Aug 14): CF = impedance — series = fold T, shunt = mirror M; 1Ω → φ (z→1+1/z); −1 = active. Deck (Aug 15): det −1 rung phase-inverted in R, square = AM comma beat, depth 0→full. deck-audio.py.
+- Two-ear/Seam (Aug 15): pure-tone phase flip = inaudible (quality, counted never measured); same flip as AM = the beat (quantity) — one −1, two projections; sign = the seam, never a channel. Seam: pan base→lift, phase 0→π at crossing — anti-phase = unlocatable, tremolo = size. sign-two-ears-{audio,cover}.py, seam-{audio,cover}.py.
+- Trace-laps (Aug 15): tr(A^n)=2cos(nθ) mod 2π — blind to laps; count = sign's last carrier. L = trace (voices fused except n≡2 mod 4), R = count (seat 2, when 4). trace-laps-{audio,cover}.py.
+- Helix-shadow (Aug 16): freq = winding/s — folded glide (shadow, home each lap) vs unwrapped (lift, height); deck = left-inversion at the fold; seat = DC sub-drone. helix-shadow-{audio,cover}.py.
+- Ghost-swell (Aug 16): same pitch both ears, attack = depth — deck plucks (3ms), ghost swells linear 5.5s; global-normalize (readout = one level); comma ×531441/524288 ≈ 3 Hz never resolves. ghost-swell-{audio,cover}.py.
+- Ford necklace (Aug 14): convergent p/q → circle r=1/2q² tangent; circles touch iff |ad−bc|=1 — det = the kiss. gold right of φ, crimson left. ford-necklace.py.
 
