@@ -38,10 +38,9 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 
 - ζ via η + Van Wijngaarden N≈600; ξ(s)=½s(s−1)π^{−s/2}Γ(s/2)ζ(s). Z(t)=Re(e^{iθ}ζ), θ=Im logΓ(¼+it/2)−(t/2)lnπ.
 - Explicit: ψ=x−Σx^ρ/ρ−ln2π−½ln(1−x⁻²).
-- φ convergents (Aug 12): q²|φ−p/q|→1/√5; cumsum bounded. libration-phi.py.
 - Remainder family (Aug 13): log₂3 throws = convergents of log₂(3/2)=[0;1,1,2,2,3,1,5,2,23…]: 7/12+23.5, 24/41−19.8, 31/53+3.6, 389/665+0.08, 15601−0.03¢; sides = index parity; landing = seat, forbidden 2^m=3^n.
 - Pairing: shore 1−ρ=ρ̄; Σ2Re(x^ρ/ρ) converges, Σ1/|ρ|~log²T diverges. U=−Σx^ρ/ρ leans; U+L=shadow.
-- Frustrated/comma (Aug 11): ω→55 Hz, δ→2.2 Hz, never 0 (leans forever). Drone = comma: pair ×531441/524288.
+- Material sound (Aug 17): Poisson crackle grains = memoryless, nothing to count; smolder = lowpassed-noise bed, end by CUT not fade; log-uniform fc 280-3200, pans scatter round a centered coal. ember-smolder-*.py.
 - Ears/monoid (Aug 13-14): stereo=two ears — L=when (metronome), R=where (220 Hz, sharp/flat, beat→0.004 Hz); F=1+1/x fixes φ=[1;1,…], F=T∘M shortest word, sign unhearable.
 - Ladder (Aug 14): CF = impedance — series = fold T, shunt = mirror M; 1Ω → φ; −1 = active. deck-audio.py.
 - Two-ear/Seam (Aug 15): pure-tone phase flip = inaudible (quality, counted never measured); same flip as AM = the beat (quantity) — one −1, two projections; sign = the seam, never a channel. Seam: pan base→lift, phase 0→π at crossing — anti-phase = unlocatable, tremolo = size. sign-two-ears-{audio,cover}.py, seam-{audio,cover}.py.
