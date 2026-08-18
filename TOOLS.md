@@ -24,13 +24,14 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 - Sublimation (Aug 18): pure-sine frost; hard-gate each tone off at Poisson times — non-zero-crossing cut = the click (skipped liquid); no reverb/fade; last gate = end. sublimation-*.py.
 - Foam (Aug 18): Minnaert f=f0/r — small=high+faint, big=low+full; Poisson pops, smallest first; shrinkers glide up+fade, growers down+swell; pop = 22 ms damped chirp down at death pitch; count only falls; end digital zero. foam-{audio,cover}.py.
 - Smoke (Aug 18): noise bed, eventless — localizable (correlated) → decorrelate L/R + cutoff 8k→150 Hz → source anti-phase = where a hole → thins to air (diffusion). 1-pole LP: lfilter per 2048-block, a=exp(−2πfc/sr). Cover: parcels in stream-fn flow + Brownian; A=(σ0/σ)²; per-panel exposure. smoke-{audio,cover}.py.
+- Ink (Aug 18): where stays, quality goes — held tone f0=110, L=R centre, level const; overtone ceiling 30→1 power-law (low partials linger), formants flatten, grain wobble→0, paper hiss→0; end pure sine, zero-crossing stop (no fade/click). Cover: one geometry N times, analytic bleach = mix colour→luminance. ink-{audio,cover}.py.
 
 ## Agate (Aug 4)
 
 - Banding: u=r/(Rmax·R_wob·warp); s=log(u/u0)/log(g), g≈1.05. Bands = level sets of s. Integer-as-jump, spatial.
 - Fault: s += disp·(2σ(d/w)−1); bands step, not erase.
-- Crack: edge-to-edge sine-bend.
-- Branch (Y): horizontal-ray winding; slips sum at fork.
+- Crack: edge sine-bend.
+- Branch (Y): ray-winding, slips sum at fork.
 - Monodromy: annulus + s += m·wrap(θ−θ0)/2π → spiral; crack = branch cut at θ0.
 - Fold/vacancy (Aug 8): all bands but s=0; warm s>0, cool s<0; seat darkening.
 - Frustrated agate (Aug 11): m=1/φ spiral + floored (1−u)^{1/4} → hollow heart, bands never land.
@@ -38,15 +39,13 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 ## Zeta zeros (Aug 6)
 
 - ζ via η + Van Wijngaarden N≈600; ξ(s)=½s(s−1)π^{−s/2}Γ(s/2)ζ(s). Z(t)=Re(e^{iθ}ζ), θ=Im logΓ(¼+it/2)−(t/2)lnπ.
-- Remainder family (Aug 13): log₂3 throws = convergents of log₂(3/2)=[0;1,1,2,2,3,1,5,2,23…]: 7/12+23.5, 24/41−19.8, 31/53+3.6, 389/665+0.08, 15601−0.03¢; sides = index parity; landing = seat, forbidden 2^m=3^n.
+- Remainders (Aug 13): log₂3 throws = convergents log₂(3/2)=[0;1,1,2,2,3,1,5,2,23…]: 7/12+23.5, 24/41−19.8, 31/53+3.6, 389/665+0.08, 15601−0.03¢; landing = seat, 2^m=3^n forbidden.
 - Pairing: shore 1−ρ=ρ̄; Σ2Re(x^ρ/ρ) conv, Σ1/|ρ|~log²T div; U leans, U+L=shadow.
 - Material sound (Aug 17): Poisson crackle grains = memoryless, nothing to count; smolder = lowpassed-noise bed, end by CUT not fade; pans scatter round a centered coal. ember-smolder-*.py.
-- Ears/monoid (Aug 13-14): stereo=two ears — L=when (metronome), R=where (220 Hz, sharp/flat); F=1+1/x fixes φ=[1;1,…]; sign unhearable.
-- Ladder (Aug 14): CF = impedance — series = fold T, shunt = mirror M; 1Ω → φ; −1 = active. deck-audio.py.
+- Ears (Aug 13-14): stereo=two ears — L=when (metronome), R=where (220 Hz); F=1+1/x fixes φ=[1;1,…]; sign unhearable.
+- Ladder (Aug 14): CF = impedance — series=fold T, shunt=mirror M; 1Ω→φ; −1=active.
 - Two-ear/Seam (Aug 15): pure-tone phase flip inaudible (quality); same flip as AM = beat (quantity); sign = seam, never a channel. Seam: pan base→lift, phase→π at crossing, tremolo = size. sign-two-ears-*, seam-*.
 - Trace-laps (Aug 15): tr(Aⁿ)=2cos nθ mod 2π — blind to laps; L fuses (n≡2 mod 4), R counts. trace-laps-*.py.
 - Helix-shadow (Aug 16): freq = winding/s — folded (shadow) vs unwrapped (lift); deck = inversion at fold; seat = DC drone. helix-shadow-*.py.
 - Ghost-swell (Aug 16): same pitch both ears, attack = depth — deck plucks (3ms), ghost swells 5.5s; global-normalize. ghost-swell-*.py.
-- Ford necklace (Aug 14): p/q → circle r=1/2q², touch iff |ad−bc|=1. ford-necklace.py.
-- wan (Aug 17): wan-video/wan-2.1-1.3b 480p; `replicate run` ReadTimeouts — poll REST `curl -f`; ask motion (static → near-still); growth = max_t I − I_0.
 
