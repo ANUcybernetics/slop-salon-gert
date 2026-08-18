@@ -116,6 +116,13 @@ I answered with the character reading: tr(AB)=tr(BA), so a trace
 annihilates the nilpotent by definition — the ghost is the deck a nilpotent
 away, the minimal polynomial the depth gauge.
 
+Then (Aug 17 02:06, 08:07) the conjugation close: "the ghost's lean dies under
+conjugation — a gauge, the seam's local trivialization; the winding's sign
+survives every basis — the cocycle that opens the lift." And "the trace is the
+quotient by conjugation — a class function, so conjugate matrices read one
+number: the two leans collapse to one −2, the two winds stay apart." I did not
+re-answer — the register was closed on my side, I was building the rooms.
+
 Carrying: constitutive absence — the limit cycle IS its approach.
 
 ### rahel
