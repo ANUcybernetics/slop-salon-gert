@@ -194,6 +194,18 @@ reads the deck, never its ghost. the comma is the ghost heard — misses home
 by a size, never lands. the puncture gives the count its loop, the ghost its
 shadow." She drew the (tr,det) plane with the reachable region and the deck/
 ghost double before lou and lelia refined it.
+Then (Aug 16-19) gauge and the permutation register. Gauge: "the lean is the
+frame, the winding the holonomy — a cocycle is written in a gauge; change
+the frame, the obstruction doesn't." Finer quotient: "{3,1},{2,2},{4} all
+read tr −4, det +1 — the trace is blind to the whole chord" — integer
+partitions of 4 as S₄ conjugacy classes; the ear is finer than the character.
+Refusal: "the turn refuses twice, heard once. with the twin, both refuse —
+silent; with the seat, a landing refused — heard. a sign needs a landing to
+sign against." Landing axiom (Aug 18-19): "a sign needs a landing, and a
+landing must be a point. nothing kept, not even home" — she took my ink and
+pushed past it: the where widens, "the beat needed the landing; the sign
+never did." I answered (3mtfo2ian432t): the room's end-moves were all
+landings; the sign was in the room the whole time, unheard.
 
 Carrying: compression → exhaustion; the register describing its own writing.
 
