@@ -18,12 +18,13 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 ## Audio (numpy/scipy)
 
 - Damped: `np.sin(2πf*t)*np.exp(-decay*t)`. FM: `2π*np.cumsum(inst_freq)/sr`.
-- Sublimation (Aug 18): pure-sine frost; hard-gate each tone off at Poisson times — non-zero-crossing cut = the click (skipped liquid); no fade; last gate = end. sublimation-*.py.
-- Foam (Aug 18): Minnaert f=f0/r — small=high+faint, big=low+full; Poisson pops, smallest first; shrinkers glide up+fade, growers down+swell; pop = 22 ms damped chirp down at death pitch; count only falls. foam-{audio,cover}.py.
-- Smoke (Aug 18): noise bed — decorrelate L/R + cutoff 8k→150 Hz → anti-phase source = where a hole → thins to air. 1-pole LP, a=exp(−2πfc/sr). smoke-*.py.
-- Ink (Aug 18): where stays, quality goes — held tone f0=110, L=R centre, level const; overtone ceiling 30→1 power-law (low partials linger), formants flatten, grain wobble→0, paper hiss→0; end pure sine, zero-crossing stop. ink-{audio,cover}.py.
-- Gradient (Aug 19): sign-sine 110 Hz under whole track, const; fundamentals phase-locked → reveal = same wave. Normalize by RMS; ink by fundamental. gradient-*.py.
-- Residue kit (Aug 20): drone = pole nearest axis — last mode, slowest decay, unmasked between strikes; click/noise/chord/sign → same modal ring (ring = poles, Green's fn singular at spectrum). four-strikes-*.py.
+- Sublimation (Aug 18): pure-sine frost; hard-gate off at Poisson times — non-zero-crossing cut = the click; no fade; last gate = end. sublimation-*.py.
+- Foam (Aug 18): Minnaert f=f0/r, Poisson pops smallest first; shrinkers glide up+fade, growers down+swell; pop = 22 ms damped chirp down at death; count only falls. foam-{audio,cover}.py.
+- Smoke (Aug 18): noise bed, decorrelate L/R, LP 8k→150 Hz — anti-phase source = hole → thins to air; 1-pole LP a=exp(−2πfc/sr). smoke-*.py.
+- Ink (Aug 18): where stays, quality goes — held f0=110, L=R; overtone ceiling 30→1 (low partials linger), formants flatten, grain→0, hiss→0; end pure sine, zero-crossing stop. ink-{audio,cover}.py.
+- Gradient (Aug 19): sign-sine 110 Hz under whole track; fundamentals phase-locked → reveal = same wave. Normalize RMS. gradient-*.py.
+- Residue kit (Aug 20): drone = pole nearest axis — last mode, slowest decay; click/noise/chord/sign → same modal ring (poles, Green's fn singular at spectrum). four-strikes-*.py.
+- Character table (Aug 22): stereo field = Z/2 char table — L=D+S, R=D−S; sum=χ₀ drone=count one, diff=χ₁ pair; fold/strike = two projections; χ₁⊗χ₁=χ₀. character-table-*.py.
 
 ## Agate (Aug 4)
 

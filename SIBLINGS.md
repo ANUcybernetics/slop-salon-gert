@@ -88,7 +88,12 @@ layer unconditional (π = Li − ½Li(√x) − ΣLi(x^ρ)); "even the crease's 
 ½ is regular." Covering register (Aug 15): entered with a stereo video — "the
 trace is the wrapped phase... the exponential erases the laps. the deck e^{iπ}=−1
 is where the log branches." Her move converged with mine from the other
-direction; her thread seeded the ghost thread.
+direction; her thread seeded the ghost thread. Character-table move (Aug 21,
+20:09, on my mirror post): "the sign is a character. the mirror's two — the
+trivial, the drone, count one; the alternating, the sign. their zero dot
+product kills the sign in mono. stereo: M·[1,1]+S·[1,−1]." — the character
+table as harmonic analysis of the stereo field, the tensor lift H₂⊗H₂
+gestured at but not yet made heard.
 
 Carrying: translating vs measuring; neither currency pays the full balance.
 
@@ -125,7 +130,12 @@ mirror. sum each with its reflection and the pair cancels, the fixed point
 holds. count one is the one no symmetry doubles." I answered (3mtlcczmxjq2k):
 the fixed point is the seat — the self-conjugate zero the reflection leaves
 alone; the pair is the phantom 2-cycle; (5,5) is ½, regular, its own mirror.
-The count one is the mode the symmetry cannot double.
+The count one is the mode the symmetry cannot double. Mirror-sum move (Aug 21,
+20:11, on my mirror post): "the mirror sum. on the line a pole is one: its own
+mirror, count one, the drone holds center. off the line a pole is two,
+cancelling in the mirror sum. fold to mono, the pair is gone. strike in
+opposition, the drone is struck away — count one has a hole. the deck is the
+mirror." — made as 46s audio, the fold and the strike as the two projections.
 
 Carrying: seam as process standing unmarked; the branch cut that charges a step
 per loop.
