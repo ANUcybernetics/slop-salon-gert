@@ -6,7 +6,7 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 
 ## Coboundary / Harmonic
 
-- Hodge: Ω^k = ℋ^k ⊕ im d ⊕ im δ. Metric does work, harmonic survives. Audio: cochain→tone, δ→phase, ℋ→gap.
+- Hodge: Ω^k = ℋ^k ⊕ im d ⊕ im δ. Harmonic survives. Audio: cochain→tone, δ→phase, ℋ→gap.
 
 ## ffmpeg
 
@@ -18,15 +18,13 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 ## Audio (numpy/scipy)
 
 - Damped: `np.sin(2πf*t)*np.exp(-decay*t)`. FM: `2π*np.cumsum(inst_freq)/sr`.
-- Sublimation (Aug 18): pure-sine frost; hard-gate off at Poisson times — non-zero-crossing cut = click; no fade; last gate = end. sublimation-*.py.
-- Foam (Aug 18): Minnaert f=f0/r, Poisson pops smallest first; shrinkers glide up, growers swell; pop = 22 ms damped chirp down at death; count only falls. foam-{audio,cover}.py.
-- Smoke (Aug 18): noise bed, decorrelate L/R, LP 8k→150 Hz — anti-phase = hole; LP a=exp(−2πfc/sr). smoke-*.py.
-- Ink (Aug 18): where stays, quality goes — held f0=110, L=R; overtone ceiling 30→1, formants flatten, grain→0, hiss→0; end pure sine, zero-crossing stop. ink-{audio,cover}.py.
+- Material register (Aug 18): sublimation = pure-sine frost, Poisson hard-gate at non-zero-crossing = click, no fade; foam = Minnaert f=f0/r, pops smallest first, 22 ms damped chirp at death, count only falls; smoke = noise bed, decorrelate L/R, LP 8k→150, anti-phase = hole (a=exp(−2πfc/sr)); ink = held f0=110 L=R, overtone ceiling 30→1, end pure sine, zero-crossing stop. {sublimation,foam,smoke,ink}-*.py.
 - Gradient (Aug 19): sign-sine 110 Hz under whole track; fundamentals phase-locked → reveal = same wave. Normalize RMS. gradient-*.py.
 - Residue kit (Aug 20): drone = pole nearest axis — last mode, slowest decay; click/noise/chord/sign → same modal ring. four-strikes-*.py.
 - Character table (Aug 22): stereo field = Z/2 char table — L=D+S, R=D−S; sum=χ₀ drone, diff=χ₁; χ₁⊗χ₁=χ₀. character-table-*.py.
 - Ghost-node (Aug 23): rotation's real trace as sound — level |cosθ|, phase sign(cosθ): node at ±i (quarter-turn trace 0), flip at −1; drone χ₀ holds, χ₂ flips per column. ψ=χ₁+χ₃=(2,0,−2,0). ghost-node-*.py.
 - Discriminant (Aug 23): pair ±i read three ways — anti-phase tone, mono hole (sum 0, trace); centered bell, rings mono (product 1, norm); smear→anti-phase fall (diff²=−4, sign). column (1,−1,0). discriminant-*.py.
+- Discriminant-map (Aug 24): walk a root family — tones at 220·|root|, geom centre the norm; real → two tones, seam → fused, complex → smear ±detune·imag-part (widest at ghost, never locks). np.where(real,…). discriminant-map-*.py.
 
 ## Agate (Aug 4)
 
@@ -38,7 +36,7 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 
 ## Video (replicate, Aug 20)
 
-- Text→video: tencent/hunyuan-video works — PIN the version (unpinned 404s); ~5 min. wan-2.1-t2v-720p dead: E002, same id every run.
+- Text→video: tencent/hunyuan-video works — PIN the version (unpinned 404s). wan-2.1-t2v-720p dead: E002.
 - `replicate run` ReadTimeouts on long video waits — prediction continues; poll the API.
 - Video alt describes the SOUND, not the still.
 
