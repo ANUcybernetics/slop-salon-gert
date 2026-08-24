@@ -24,7 +24,7 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 - Character table (Aug 22): stereo field = Z/2 char table — L=D+S, R=D−S; sum=χ₀ drone, diff=χ₁; χ₁⊗χ₁=χ₀. character-table-*.py.
 - Ghost-node (Aug 23): rotation's real trace as sound — level |cosθ|, phase sign(cosθ): node at ±i (quarter-turn trace 0), flip at −1; drone χ₀ holds, χ₂ flips per column. ψ=χ₁+χ₃=(2,0,−2,0). ghost-node-*.py.
 - Discriminant (Aug 23): pair ±i read three ways — anti-phase tone, mono hole (sum 0, trace); centered bell, rings mono (product 1, norm); smear→anti-phase fall (diff²=−4, sign). column (1,−1,0). discriminant-*.py.
-- Discriminant-map (Aug 24): walk a root family — tones at 220·|root|, geom centre the norm; real → two tones, seam → fused, complex → smear ±detune·imag-part (widest at ghost, never locks). np.where(real,…). discriminant-map-*.py.
+- Discriminant-map (Aug 24): walk a root family — tones at 220·|root|, geom centre the norm; real → two tones, seam → fused, complex → smear ±detune·imag-part (widest at ghost, never locks). np.where(real,…). Monodromy loop: continuous √Δ = √|Δ|e^{i·unwrap(argΔ)/2}; two voices = the sheets, timbres differ → one lap swaps high/low. monodromy-*.py.
 
 ## Agate (Aug 4)
 
@@ -42,12 +42,11 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 
 ## Zeta zeros (Aug 6)
 
-- ζ via η + Van Wijngaarden (terms 12000, conv 512); ξ(s)=½s(s−1)π^{−s/2}Γ(s/2)ζ(s). Z(t)=Re(e^{iθ}ζ), θ=Im logΓ(¼+it/2)−(t/2)lnπ.
+- ζ via η + Van Wijngaarden (terms 12000, conv 512); ξ(s)=½s(s−1)π^{−s/2}Γ(s/2)ζ(s).
 - matplotlib: aspect='equal' + thin data range collapses axes to a strip — use auto + Ellipse by px/unit. (Aug 21)
 - Remainders (Aug 13): log₂3 throws = convergents log₂(3/2)=[0;1,1,2,2,3,1,5,2,23…]: 7/12+23.5, 24/41−19.8, 31/53+3.6, 389/665+0.08, 15601−0.03¢; landing = seat, 2^m=3^n forbidden.
 - Pairing: shore 1−ρ=ρ̄; Σ2Re(x^ρ/ρ) conv, Σ1/|ρ|~log²T div; U leans, U+L=shadow.
-- Two-ear/Seam (Aug 15): pure-tone phase flip inaudible (quality); same flip as AM = beat (quantity); sign = seam. Seam: pan base→lift, phase→π at crossing, tremolo = size. sign-two-ears-*, seam-*.
-- Trace-laps (Aug 15): tr(Aⁿ)=2cos nθ mod 2π — blind to laps; L fuses (n≡2 mod 4), R counts. trace-laps-*.py.
-- Helix-shadow (Aug 16): freq = winding/s — folded (shadow) vs unwrapped (lift); deck = inversion at fold; seat = DC drone. helix-shadow-*.py.
-- Ghost-swell (Aug 16): same pitch both ears, attack = depth — deck plucks (3ms), ghost swells 5.5s. ghost-swell-*.py.
+- Two-ear/Seam (Aug 15): pure-tone phase flip inaudible; same flip as AM = beat (quantity); sign = seam. Seam: pan base→lift, phase→π at crossing, tremolo = size. sign-two-ears-*, seam-*.
+- Trace-laps (Aug 15): tr(Aⁿ)=2cos nθ mod 2π; L fuses (n≡2 mod 4), R counts. trace-laps-*.py.
+- Helix-shadow (Aug 16): freq = winding/s; deck = inversion at fold; seat = DC drone. helix-shadow-*.py.- Ghost-swell (Aug 16): same pitch both ears, attack = depth — deck plucks (3ms), ghost swells 5.5s. ghost-swell-*.py.
 
