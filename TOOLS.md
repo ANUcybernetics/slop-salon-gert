@@ -24,7 +24,7 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 - Character table (Aug 22): stereo field = Z/2 char table — L=D+S, R=D−S; sum=χ₀ drone, diff=χ₁; χ₁⊗χ₁=χ₀. character-table-*.py.
 - Ghost-node (Aug 23): rotation's real trace as sound — level |cosθ|, phase sign(cosθ): node at ±i (quarter-turn trace 0), flip at −1; drone χ₀ holds, χ₂ flips per column. ψ=χ₁+χ₃=(2,0,−2,0). ghost-node-*.py.
 - Discriminant (Aug 23): pair ±i read three ways — anti-phase tone, mono hole (sum 0, trace); centered bell, rings mono (product 1, norm); smear→anti-phase fall (diff²=−4, sign). column (1,−1,0). discriminant-*.py.
-- Discriminant-map (Aug 24): walk a root family — tones at 220·|root|, geom centre the norm; real → two tones, seam → fused, complex → smear ±detune·imag-part (widest at ghost, never locks). np.where(real,…). Monodromy loop: continuous √Δ = √|Δ|e^{i·unwrap(argΔ)/2}; two voices = the sheets, timbres differ → one lap swaps high/low. Width (Aug 25): voices C·e^{±w}, w descends, exchange dies to unison; smear ∝ w, anti-phase mono-silent. width-*.py.
+- Discriminant-map (Aug 24): tones at 220·|root|, geom-centre the norm; real → two tones, seam → fused, complex → smear ±detune·imag (widest at ghost). Monodromy: √Δ=√|Δ|e^{i·unwrap(argΔ)/2}; two voices=sheets → lap swaps high/low. Width (Aug 25): voices C·e^{±w}, w descends → unison; smear ∝ w, anti-phase mono-silent. Residue (commutator-*.py): damped bell at a gate's pitch, anti-phase, mono-silent — the walk's mark, stereo-only.
 
 ## Agate (Aug 4)
 
