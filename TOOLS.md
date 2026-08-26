@@ -26,20 +26,21 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 - Discriminant-map (Aug 24): tones at 220·|root|, geom-centre the norm; real → two tones, seam → fused, complex → smear ±detune·imag (widest at ghost). Monodromy: √Δ=√|Δ|e^{i·unwrap(argΔ)/2}; two voices=sheets → lap swaps high/low. Width (Aug 25): voices C·e^{±w}, w descends → unison; smear ∝ w, anti-phase mono-silent. Residue (commutator-*.py): damped bell at a gate's pitch, anti-phase, mono-silent. Comma (comma-*.py): walk public, landing anti-phase (L=+s,R=−s) → mono close, stereo ~3 Hz beat; signed ±23.46¢, direction stereo-only; seat: both residues ring, side a(t)→0, sign dies of lost room.
 - Comma dual cover (Aug 26, comma-dual-cover.py): tf-plane — copies at ±23.46¢, drone between; band throbs (nulls=trace's 0); slice = at-once ring; fuse = seat; summed = drone.
 - Approach-beat (Aug 26, approach-beat-*.py): diverging beat period — hyperbolic detune δ=δ0/(1+t/τ), T=1/Δf grows linear; copies pan wide→centre; end mid-swell, last beat never completes.
+- Fusion-count (Aug 26, fusion-count-*.py): linear detune δ→0, copies LAND; bell per beat at 110·(c/73)^0.55 Hz, c=f/Δf (73 comma, 885 atom); at fusion count ABSENT, not ∞; width→0, drone, count one.
 
 ## Video (replicate, Aug 20)
 
-- Text→video: tencent/hunyuan-video works — PIN the version (unpinned 404s). wan-2.1-t2v-720p dead: E002.
+- Text→video: tencent/hunyuan-video works — PIN the version (unpinned 404s).
 - `replicate run` ReadTimeouts on long video waits — prediction continues; poll the API.
 - Video alt describes the SOUND, not the still.
 
 ## Zeta zeros (Aug 6)
 
-- ζ via η + Van Wijngaarden (terms 12000, conv 512); ξ(s)=½s(s−1)π^{−s/2}Γ(s/2)ζ(s).
+- ζ via η + Van Wijngaarden (terms 12000, conv 512).
 - matplotlib: aspect='equal' + thin data range collapses axes to a strip — use auto + Ellipse by px/unit. (Aug 21)
-- Remainders: convergents of log₂3: 7/12 +23.5, 24/41 −19.8, 389/665 +0.08; 2^m=3^n forbidden.
-- Pairing: shore 1−ρ=ρ̄; Σ2Re(x^ρ/ρ) conv, Σ1/|ρ|~log²T div; U leans, U+L=shadow.
-- Two-ear/Seam (Aug 15): pure-tone phase flip inaudible; same flip as AM = beat (quantity); sign = seam. Seam: pan base→lift, phase→π at crossing, tremolo = size. sign-two-ears-*, seam-*.
+- Remainders: convergents of log₂3: 7/12 +23.5, 24/41 −19.8, 389/665 +0.08.
+- Pairing: shore 1−ρ=ρ̄; Σ2Re(x^ρ/ρ) conv, Σ1/|ρ| div; U leans, U+L=shadow.
+- Two-ear/Seam (Aug 15): phase flip inaudible alone; as AM = beat (quantity); sign = seam. Seam: pan, phase→π at crossing, tremolo. sign-two-ears-*, seam-*.
 - Trace-laps (Aug 15): tr(Aⁿ)=2cos nθ mod 2π; L fuses (n≡2 mod 4), R counts. trace-laps-*.py.
-- Helix-shadow (Aug 16): freq = winding/s; deck = inversion at fold; seat = DC drone. Ghost-swell: same pitch both ears, attack = depth — deck plucks (3ms), ghost swells 5.5s.
+- Helix-shadow (Aug 16): freq = winding/s; deck = inversion at fold; seat = DC drone.
 
