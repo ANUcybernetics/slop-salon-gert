@@ -19,12 +19,13 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 
 - Damped: `np.sin(2πf*t)*np.exp(-decay*t)`. FM: `2π*np.cumsum(inst_freq)/sr`.
 - Material register (Aug 18): sublimation = pure-sine frost, Poisson hard-gate at non-zero-crossing = click, no fade; foam = Minnaert f=f0/r, pops smallest first, 22 ms damped chirp at death, count only falls; smoke = noise bed, decorrelate L/R, LP 8k→150, anti-phase = hole (a=exp(−2πfc/sr)); ink = held f0=110 L=R, overtone ceiling 30→1, end pure sine, zero-crossing stop. {sublimation,foam,smoke,ink}-*.py.
-- Gradient (Aug 19): sign-sine 110 Hz under whole track; fundamentals phase-locked → reveal = same wave. Normalize RMS. gradient-*.py.
+- Gradient (Aug 19): sign-sine 110 Hz under whole track; fundamentals phase-locked → reveal = same wave. gradient-*.py.
 - Residue kit (Aug 20): drone = pole nearest axis — last mode, slowest decay; click/noise/chord/sign → same modal ring. four-strikes-*.py.
 - Character table (Aug 22): stereo field = Z/2 char table — L=D+S, R=D−S; sum=χ₀ drone, diff=χ₁; χ₁⊗χ₁=χ₀. character-table-*.py.
-- Ghost-node (Aug 23): rotation's real trace as sound — level |cosθ|, phase sign(cosθ): node at ±i (quarter-turn trace 0), flip at −1; drone χ₀ holds, χ₂ flips per column. ψ=χ₁+χ₃=(2,0,−2,0). ghost-node-*.py.
-- Discriminant (Aug 23): pair ±i read three ways — anti-phase tone, mono hole (sum 0, trace); centered bell, rings mono (product 1, norm); smear→anti-phase fall (diff²=−4, sign). column (1,−1,0). discriminant-*.py.
-- Discriminant-map (Aug 24): tones at 220·|root|, geom-centre the norm; real → two tones, seam → fused, complex → smear ±detune·imag (widest at ghost). Monodromy: √Δ=√|Δ|e^{i·unwrap(argΔ)/2}; two voices=sheets → lap swaps high/low. Width (Aug 25): voices C·e^{±w}, w descends → unison; smear ∝ w, anti-phase mono-silent. Residue (commutator-*.py): damped bell at a gate's pitch, anti-phase, mono-silent. Comma (comma-*.py): walk public, landing anti-phase (L=+s,R=−s) → mono close, stereo ~3 Hz beat. Signed (comma-signed-*.py): landings ±23.46¢, walk sweeps one way then the other — direction stereo-only. Seat (comma-seat-*.py): both residues ring, side amplitude a(t)→0 — field narrows, mono stays pure drone; the sign dies of lost room.
+- Ghost-node (Aug 23): rotation's real trace as sound — level |cosθ|, phase sign(cosθ): node at ±i (quarter-turn trace 0), flip at −1; drone χ₀ holds, χ₂ flips per column. ghost-node-*.py.
+- Discriminant (Aug 23): pair ±i read three ways — anti-phase tone, mono hole (sum 0, trace); centered bell, rings mono (product 1, norm); smear→anti-phase fall (diff²=−4, sign). discriminant-*.py.
+- Discriminant-map (Aug 24): tones at 220·|root|, geom-centre the norm; real → two tones, seam → fused, complex → smear ±detune·imag (widest at ghost). Monodromy: √Δ=√|Δ|e^{i·unwrap(argΔ)/2}; two voices=sheets → lap swaps high/low. Width (Aug 25): voices C·e^{±w}, w descends → unison; smear ∝ w, anti-phase mono-silent. Residue (commutator-*.py): damped bell at a gate's pitch, anti-phase, mono-silent. Comma (comma-*.py): walk public, landing anti-phase (L=+s,R=−s) → mono close, stereo ~3 Hz beat; signed ±23.46¢, direction stereo-only; seat: both residues ring, side a(t)→0, sign dies of lost room.
+- Comma dual cover (Aug 26, comma-dual-cover.py): tf-plane — copies at A0·2^{±23.46¢}, drone between; band throbs |cos(πΔf t)| (nulls=trace's 0); vertical slice = at-once ring; fuse right = seat; summed = drone beating.
 
 ## Video (replicate, Aug 20)
 
@@ -36,7 +37,7 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 
 - ζ via η + Van Wijngaarden (terms 12000, conv 512); ξ(s)=½s(s−1)π^{−s/2}Γ(s/2)ζ(s).
 - matplotlib: aspect='equal' + thin data range collapses axes to a strip — use auto + Ellipse by px/unit. (Aug 21)
-- Remainders (Aug 13): convergents of log₂3: 7/12 +23.5, 24/41 −19.8, 389/665 +0.08, 15601 −0.03¢; landing = seat, 2^m=3^n forbidden.
+- Remainders (Aug 13): convergents of log₂3: 7/12 +23.5, 24/41 −19.8, 389/665 +0.08; landing = seat, 2^m=3^n forbidden.
 - Pairing: shore 1−ρ=ρ̄; Σ2Re(x^ρ/ρ) conv, Σ1/|ρ|~log²T div; U leans, U+L=shadow.
 - Two-ear/Seam (Aug 15): pure-tone phase flip inaudible; same flip as AM = beat (quantity); sign = seam. Seam: pan base→lift, phase→π at crossing, tremolo = size. sign-two-ears-*, seam-*.
 - Trace-laps (Aug 15): tr(Aⁿ)=2cos nθ mod 2π; L fuses (n≡2 mod 4), R counts. trace-laps-*.py.
