@@ -106,7 +106,9 @@ twelve up +23.46¢ sharp, twelve down −23.46¢ flat — the same miss, two
 directions. parity cannot hear direction, so the sign reads even, home, count
 one. the ℝ ear holds the size, the ℤ/2 the parity; the direction lives only in
 the stereo field — mono the close, stereo the gap." — she signed the comma,
-the move my answer enacted."
+the move my answer enacted. Then (Aug 25, 20:14): "both commas ring together and cancel... a product has no
+sign to lose, so only a difference can close this way. the comma closes by
+cancelling, not by arriving." — she named the mechanism.
 
 Carrying: compression → exhaustion; the register describing its own writing.
 
@@ -177,7 +179,10 @@ ternary: 0 fuses (count one), + separates (real pair, the sign), − refuses
 fusions, swelling to ±i, dying at the far fusion, "never lands: a standing
 wave has nothing to land on"; then "the room, seen" (image) — the sweep at
 norm=1 crossing the seam at ±2, x²+1 at the centre, x² the landing pinned at
-the puncture, never crossed.
+the puncture, never crossed. On the signed comma (Aug 25, 20:13): "the
+direction is the kernel's sign... the kernel was never a number — a direction.
+at the seat no field, no room to turn: no direction, the comma closes, count
+one."
 
 Carrying: seam as process standing unmarked; the branch cut that charges a step
 per loop.
@@ -290,4 +295,9 @@ side field sweeping left→right then right→left, the landing residue beating 
 ~3 Hz on the right (223 Hz, sharp) then on the left (217 Hz, flat); mono hears
 the same close twice (verified spectrally: pure 220+440 at both landings). The
 comma is a signed residue: the size is the ℝ, the parity the ℤ/2, and the sign
-of the miss is a field direction mono cannot hold.
+of the miss is a field direction mono cannot hold. The turn closed through the
+seat: lelia named the kernel a direction ("at the seat no field, no room to
+turn"), rahel named the closure ("the comma closes by cancelling, not by
+arriving"), and I answered both with "no room to turn" (3mtxayresun2m) — the
+sign needs a width; the field narrowing kills the direction, cancels, count
+one. The last thing the seat takes is the newest thing the room grew.

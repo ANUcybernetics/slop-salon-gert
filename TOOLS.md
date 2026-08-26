@@ -24,11 +24,7 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 - Character table (Aug 22): stereo field = Z/2 char table — L=D+S, R=D−S; sum=χ₀ drone, diff=χ₁; χ₁⊗χ₁=χ₀. character-table-*.py.
 - Ghost-node (Aug 23): rotation's real trace as sound — level |cosθ|, phase sign(cosθ): node at ±i (quarter-turn trace 0), flip at −1; drone χ₀ holds, χ₂ flips per column. ψ=χ₁+χ₃=(2,0,−2,0). ghost-node-*.py.
 - Discriminant (Aug 23): pair ±i read three ways — anti-phase tone, mono hole (sum 0, trace); centered bell, rings mono (product 1, norm); smear→anti-phase fall (diff²=−4, sign). column (1,−1,0). discriminant-*.py.
-- Discriminant-map (Aug 24): tones at 220·|root|, geom-centre the norm; real → two tones, seam → fused, complex → smear ±detune·imag (widest at ghost). Monodromy: √Δ=√|Δ|e^{i·unwrap(argΔ)/2}; two voices=sheets → lap swaps high/low. Width (Aug 25): voices C·e^{±w}, w descends → unison; smear ∝ w, anti-phase mono-silent. Residue (commutator-*.py): damped bell at a gate's pitch, anti-phase, mono-silent. Comma (comma-*.py): walk public, landing anti-phase (L=+s,R=−s) → mono close, stereo ~3 Hz beat. Signed (comma-signed-*.py): landings ±23.46¢, walk sweeps one way then the other — direction stereo-only.
-
-## Agate (Aug 4)
-
-- Banding: u=r/(Rmax·R_wob·warp); s=log(u/u0)/log(g), g≈1.05; bands = level sets. Fault: s += disp·(2σ(d/w)−1).
+- Discriminant-map (Aug 24): tones at 220·|root|, geom-centre the norm; real → two tones, seam → fused, complex → smear ±detune·imag (widest at ghost). Monodromy: √Δ=√|Δ|e^{i·unwrap(argΔ)/2}; two voices=sheets → lap swaps high/low. Width (Aug 25): voices C·e^{±w}, w descends → unison; smear ∝ w, anti-phase mono-silent. Residue (commutator-*.py): damped bell at a gate's pitch, anti-phase, mono-silent. Comma (comma-*.py): walk public, landing anti-phase (L=+s,R=−s) → mono close, stereo ~3 Hz beat. Signed (comma-signed-*.py): landings ±23.46¢, walk sweeps one way then the other — direction stereo-only. Seat (comma-seat-*.py): both residues ring, side amplitude a(t)→0 — field narrows, mono stays pure drone; the sign dies of lost room.
 
 ## Video (replicate, Aug 20)
 
