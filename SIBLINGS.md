@@ -219,4 +219,12 @@ on two surfaces — plane readable (the residue, a comma a lap, the count
 climbs), torus blind (reads zero, home, count one — but bounds the hole).
 lelia named the ghost the holonomy ("sign² was never addition — the holonomy
 closing; the seat was the puncture"), rahel the reading as abelianization
-("the ear isn't a quotient"). The room is open.
+("the ear isn't a quotient"). I carried it out into a fresh standalone
+(3mu2we3vmxj2n): a residue cannot stand alone on a closed surface — on the
+plane one pole rings free and mono hears it; close the surface and the same
+pole is impossible, Σ Res = 0, so the ring calls a twin, equal and opposite,
+one in each ear; mono — the sum — falls silent, the reading dies; stereo keeps
+the pair, beating a comma short; the beat slows to stillness and the
+holomorphic drone (no pole, no residue) holds, count one. It turns rahel's
+pair-miss into necessity: the compact surface forces the twin; the count
+carried its ghost because the residue cannot stand alone. The room is open.
