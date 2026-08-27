@@ -23,10 +23,10 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 - Character table (Aug 22): stereo field = Z/2 char table — L=D+S, R=D−S; sum=χ₀ drone, diff=χ₁; χ₁⊗χ₁=χ₀. character-table-*.py.
 - Ghost-node (Aug 23): rotation's real trace as sound — level |cosθ|, phase sign(cosθ): node at ±i (quarter-turn trace 0), flip at −1; drone χ₀ holds, χ₂ flips per column. ghost-node-*.py.
 - Discriminant (Aug 23): pair ±i read three ways — anti-phase tone, mono hole (sum 0, trace); centered bell, rings mono (product 1, norm); smear→anti-phase fall (diff²=−4, sign). discriminant-*.py.
-- Discriminant-map (Aug 24): tones at 220·|root|, geom-centre the norm; real → two tones, seam → fused, complex → smear ±detune·imag (widest at ghost). Monodromy: √Δ=√|Δ|e^{i·unwrap(argΔ)/2}; two voices=sheets → lap swaps high/low. Width (Aug 25): voices C·e^{±w}, w descends → unison; smear ∝ w, anti-phase mono-silent. Residue (commutator-*.py): damped bell at a gate's pitch, anti-phase, mono-silent. Comma (comma-*.py): walk public, landing anti-phase (L=+s,R=−s) → mono close, stereo ~3 Hz beat; signed ±23.46¢, direction stereo-only; seat: both residues ring, side a(t)→0, sign dies of lost room.
-- Comma dual cover (Aug 26, comma-dual-cover.py): tf-plane — copies at ±23.46¢, drone between; band throbs (nulls=trace's 0); slice = at-once ring; fuse = seat; summed = drone.
-- Approach-beat (Aug 26, approach-beat-*.py): diverging beat period — hyperbolic detune δ=δ0/(1+t/τ), T=1/Δf grows linear; copies pan wide→centre; end mid-swell, last beat never completes.
-- Fusion-count (Aug 26, fusion-count-*.py): linear detune δ→0, copies LAND; bell per beat at 110·(c/73)^0.55 Hz, c=f/Δf (73 comma, 885 atom); at fusion count ABSENT, not ∞; width→0, drone, count one.
+- Discriminant-map (Aug 24): tones at 220·|root|, geom-centre the norm; real → two tones, seam → fused, complex → smear ±detune·imag (widest at ghost). Monodromy: √Δ=√|Δ|e^{i·unwrap(argΔ)/2}; two voices=sheets → lap swaps high/low. Width (Aug 25): voices C·e^{±w}, w descends → unison; smear ∝ w, anti-phase mono-silent. Residue (commutator-*.py): damped bell at a gate's pitch, anti-phase, mono-silent. Comma (comma-*.py): walk public, landing anti-phase → mono close, stereo ~3 Hz beat; signed ±23.46¢, stereo-only; seat: both residues ring, side a(t)→0.
+- Approach-beat (Aug 26, approach-beat-*.py): diverging beat period — δ=δ0/(1+t/τ), T=1/Δf grows linear; copies pan wide→centre; last beat never completes.
+- Fusion-count (Aug 26, fusion-count-*.py): linear detune δ→0, copies LAND; bell per beat at 110·(c/73)^0.55, c=f/Δf; at fusion count ABSENT not ∞; width→0, drone, count one.
+- Puncture (Aug 27, puncture-*.py): plane = centered voice, sweep octave, return comma-sharp each lap, ticks, climbs (residue=comma); torus = four turns, seam gate (voices→0 + anti-phase smear + drone duck) = real mono hole; home, zero, count one; coda residues ring.
 
 ## Video (replicate, Aug 20)
 
