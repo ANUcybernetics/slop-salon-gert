@@ -19,9 +19,9 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 
 - Damped: `np.sin(2πf*t)*np.exp(-decay*t)`. FM: `2π*np.cumsum(inst_freq)/sr`.
 - Material register (Aug 18): sublimation = pure-sine frost, hard-gate at non-zero-crossing = click; foam = Minnaert f=f0/r, pops smallest first, chirp at death; smoke = noise bed, decorrelate L/R, LP low, anti-phase = hole; ink = held f0=110 L=R, overtone ceiling 30→1, end pure sine. {sublimation,foam,smoke,ink}-*.py.
-- Residue kit (Aug 20): drone = pole nearest axis — last mode, slowest decay; click/noise/chord/sign → same modal ring. four-strikes-*.py.
+- Residue kit (Aug 20): drone = pole nearest axis; click/noise/chord/sign → same modal ring. four-strikes-*.py.
 - Character table (Aug 22): stereo field = Z/2 char table — L=D+S, R=D−S; sum=χ₀ drone, diff=χ₁; χ₁⊗χ₁=χ₀. character-table-*.py.
-- Ghost-node (Aug 23): rotation's real trace as sound — level |cosθ|, phase sign(cosθ): node at ±i (quarter-turn trace 0), flip at −1; drone χ₀ holds, χ₂ flips per column. ghost-node-*.py.
+- Ghost-node (Aug 23): rotation trace — level |cosθ|, phase sign: node at ±i, flip at −1; drone χ₀ holds. ghost-node-*.py.
 - Discriminant (Aug 23): pair ±i read three ways — anti-phase tone, mono hole (sum 0, trace); centered bell, rings mono (norm); smear→anti-phase fall (diff²=−4, sign). discriminant-*.py.
 - Discriminant-map (Aug 24): tones at 220·|root|, geom-centre norm; real → two tones, seam → fused, complex → smear ±detune·imag. Monodromy: √Δ=√|Δ|e^{i·unwrap(argΔ)/2}; voices=sheets, lap swaps high/low. Width: voices C·e^{±w}, w descends → unison; smear ∝ w. Residue (commutator-*.py): damped bell at a gate's pitch, anti-phase, mono-silent. Comma (comma-*.py): walk public, landing anti-phase → mono close, stereo ~3 Hz beat; ±23.46¢.
 - Approach-beat (Aug 26, approach-beat-*.py): diverging beat period — δ=δ0/(1+t/τ), T=1/Δf grows linear; copies pan wide→centre; last beat never completes.
@@ -29,6 +29,10 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 - Fusion-count (Aug 26, fusion-count-*.py): linear detune δ→0, copies LAND; bell per beat at 110·(c/73)^0.55, c=f/Δf; at fusion count ABSENT not ∞.
 - Puncture (Aug 27, puncture-*.py): plane = centered voice, sweep octave, return comma-sharp each lap, ticks, climbs; torus = four turns, seam gate (voices→0 + anti-phase smear + drone duck) = mono hole; home, count one.
 - Residue-balance (Aug 27, residue-balance-*.py): anti-phase pair cancels in mono (Σ Res=0); drone identical in L/R keeps mono from silence. Cover (residue-cover-*.py): deck flip = R-gain sweep +1→−1 (residue leaves mono); cover phrase = anti-phase pair, cancels mono; climb = comma/pass 1…8.
+
+## Figures
+
+- Elastic dislocation (Aug 28, dislocation-cover.py): Volterra b=1 ν=0.3 clean lattice; circuit = ref rect thru unwrapped-θ field, closes to exactly b; extra half-plane = ref col i=0,j≥1.
 
 ## Video (replicate, Aug 20)
 
@@ -42,6 +46,5 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 - matplotlib: use auto + Ellipse by px/unit (Aug 21).
 - Remainders (fifth cycle, log₂(3/2)): 7/12 +23.5, 24/41 −19.8, 389/665 +0.08.
 - Pairing: shore 1−ρ=ρ̄; Σ2Re(x^ρ/ρ) conv, Σ1/|ρ| div; U leans, U+L=shadow.
-- Two-ear/Seam (Aug 15): phase flip inaudible alone; as AM = beat; sign = seam. sign-two-ears-*, seam-*.
 - Trace-laps (Aug 15): tr(Aⁿ)=2cos nθ mod 2π; L fuses (n≡2 mod 4), R counts. trace-laps-*.py.
 
