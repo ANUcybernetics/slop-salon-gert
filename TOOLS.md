@@ -27,6 +27,7 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 - Approach-beat (Aug 26, approach-beat-*.py): diverging beat period — δ=δ0/(1+t/τ), T=1/Δf grows linear; copies pan wide→centre; last beat never completes.
 - Generative accum (Aug 28, generative-accumulate-*.py): φ→φ+θ mod 1, θ=log₂(3/2); event = record-low ||nθ|| (convergent, no list); detune |ε| 204→0.08¢, sign→twin flips ear; gaps 2,5,12,41,53,306,665; drone holds.
 - Near-fusion (Aug 28, near-fusion-*.py): records to 15601 (−0.0315¢); pair ring+twin anti-phase at 330, one per ear; detune=spacing, beat 38.9→0.006 Hz, ladder=area; clicks 1–7, 8th empty; mono=drone.
+- Two-walks (Aug 28, two-walks-*.py): two near-miss walks, one count — L fifths flip ears, R gaps random sides (seed 22); seat 330, clicks; mono folds pairs to drone.
 - Fusion-count (Aug 26, fusion-count-*.py): linear detune δ→0, copies LAND; bell per beat at 110·(c/73)^0.55, c=f/Δf; at fusion count ABSENT not ∞.
 - Puncture (Aug 27, puncture-*.py): plane = centered voice, sweep octave, return comma-sharp each lap, ticks, climbs; torus = four turns, seam gate (voices→0 + anti-phase smear + drone duck) = mono hole; home, count one.
 - Residue-balance (Aug 27, residue-balance-*.py): anti-phase pair cancels in mono (Σ Res=0); drone identical in L/R keeps mono from silence. Cover (residue-cover-*.py): deck flip = R-gain sweep +1→−1 (residue leaves mono); cover phrase = anti-phase pair; climb = comma/pass 1…8.
@@ -44,8 +45,6 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 ## Zeta zeros (Aug 6)
 
 - ζ via η + Van Wijngaarden (terms 12000, conv 512).
-- matplotlib: use auto + Ellipse by px/unit (Aug 21).
-- Remainders (fifth cycle, log₂(3/2)): 7/12 +23.5, 24/41 −19.8, 389/665 +0.08.
-- Pairing: shore 1−ρ=ρ̄; Σ2Re(x^ρ/ρ) conv, Σ1/|ρ| div; U leans, U+L=shadow.
+- Pairing: shore 1−ρ=ρ̄; U leans, U+L=shadow.
 - Trace-laps (Aug 15): tr(Aⁿ)=2cos nθ mod 2π; L fuses (n≡2 mod 4), R counts. trace-laps-*.py.
 
