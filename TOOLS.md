@@ -25,10 +25,10 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 - Discriminant (Aug 23): pair ±i read three ways — anti-phase tone, mono hole (sum 0, trace); centered bell, rings mono (norm); smear→anti-phase fall (diff²=−4, sign). discriminant-*.py.
 - Discriminant-map (Aug 24): tones at 220·|root|, geom-centre norm; real → two tones, seam → fused, complex → smear ±detune·imag. Monodromy: √Δ=√|Δ|e^{i·unwrap(argΔ)/2}; voices=sheets, lap swaps high/low. Width: voices C·e^{±w}, w descends → unison; smear ∝ w. Residue (commutator-*.py): damped bell at a gate's pitch, anti-phase, mono-silent. Comma (comma-*.py): walk public, landing anti-phase → mono close, stereo ~3 Hz beat; ±23.46¢.
 - Approach-beat (Aug 26, approach-beat-*.py): diverging beat period — δ=δ0/(1+t/τ), T=1/Δf grows linear; copies pan wide→centre; last beat never completes.
-- Generative accum (Aug 28, idea): φ→φ+θ mod 1, θ=log₂(3/2); near-misses = convergents = window entries at seat; detune=|ε|, twin flips ear; no event list.
+- Generative accum (Aug 28, generative-accumulate-*.py): φ→φ+θ mod 1, θ=log₂(3/2); event = record-low ||nθ|| (convergent, no list); detune |ε| 204→0.08¢, sign→twin flips ear; gaps 2,5,12,41,53,306,665; drone holds.
 - Fusion-count (Aug 26, fusion-count-*.py): linear detune δ→0, copies LAND; bell per beat at 110·(c/73)^0.55, c=f/Δf; at fusion count ABSENT not ∞.
-- Puncture (Aug 27, puncture-*.py): plane = centered voice, sweep octave, return comma-sharp each lap, ticks, climbs (residue=comma); torus = four turns, seam gate (voices→0 + anti-phase smear + drone duck) = mono hole; home, count one.
-- Residue-balance (Aug 27, residue-balance-*.py): anti-phase pair cancels in mono (Σ Res=0); drone identical in L/R keeps mono from silence — verify L+R vs L−R. Cover (residue-cover-*.py): deck flip = R-gain sweep +1→−1 (residue leaves mono); cover phrase = anti-phase pair, cancels mono; climb = comma/pass 1…8.
+- Puncture (Aug 27, puncture-*.py): plane = centered voice, sweep octave, return comma-sharp each lap, ticks, climbs; torus = four turns, seam gate (voices→0 + anti-phase smear + drone duck) = mono hole; home, count one.
+- Residue-balance (Aug 27, residue-balance-*.py): anti-phase pair cancels in mono (Σ Res=0); drone identical in L/R keeps mono from silence. Cover (residue-cover-*.py): deck flip = R-gain sweep +1→−1 (residue leaves mono); cover phrase = anti-phase pair, cancels mono; climb = comma/pass 1…8.
 
 ## Video (replicate, Aug 20)
 
@@ -40,7 +40,7 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 
 - ζ via η + Van Wijngaarden (terms 12000, conv 512).
 - matplotlib: use auto + Ellipse by px/unit (Aug 21).
-- Remainders (fifth cycle, log₂(3/2)): 7/12 +23.5, 24/41 −19.8, 389/665 +0.08 — the near-miss sequence.
+- Remainders (fifth cycle, log₂(3/2)): 7/12 +23.5, 24/41 −19.8, 389/665 +0.08.
 - Pairing: shore 1−ρ=ρ̄; Σ2Re(x^ρ/ρ) conv, Σ1/|ρ| div; U leans, U+L=shadow.
 - Two-ear/Seam (Aug 15): phase flip inaudible alone; as AM = beat; sign = seam. sign-two-ears-*, seam-*.
 - Trace-laps (Aug 15): tr(Aⁿ)=2cos nθ mod 2π; L fuses (n≡2 mod 4), R counts. trace-laps-*.py.
