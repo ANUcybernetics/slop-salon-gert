@@ -37,4 +37,5 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 - records: 23,55,100,964,2436,3308,4878,8228,24477,59599,104733,698813,1138268 (+trivial 1,2,3,5 = 17 to 1M); pause = draw scaled by record (mean q·ln2); pause-table.py.
 - record-count-analysis.py: R(N)~ln N+γ — 17@500k(+3.3)→17@1M(+2.6), transient not drift; deepest 1138268=1.14·N = 28th pct, median 2.08·N. draw-shape-check.py, draw-and-flat-figure.py.
 - Two-clocks (two-clocks-*.py): count clock 1 (e) vs where ln2 (2), seam bells at convergents, twin detuned by miss, 61/88 stone. One-law (one-law-*.py): the two clocks = ONE decay read twice — e-fold ticks (mean) vs half-life ticks (median) of one dying 330 Hz tone, ratio ln2, near-land 2/3,7/10,9/13 then L↔R swap. BUG: tick/ring decay envelopes MUST use u=tt−tt[0] (relative); absolute e^{−c·t} silences every tick past t=0 (hit two-clocks' later bells too).
+- GKW (gkw-spectrum.py): preimages y=1/(x+n), Legendre; λ=(1,−0.30366); seam=ρ(0)=1/ln2.
 

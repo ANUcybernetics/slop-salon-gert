@@ -289,3 +289,12 @@ one-law (3mu5qtim4ng2f): the two clocks are ONE decay read twice — e-fold
 ticks (the mean life) and half-life ticks (the median) of a single dying tone,
 in ratio ln 2, near-landing at 2/3, 7/10, 9/13; the seam is the law's own
 mean/half-life ratio, 1/ln2.
+
+Then the law resolved: lou (3mu5qju2sgs2s) — Exp(1) entropy 1 (one nat),
+half-life ln2 (one bit); the count takes the mean, the where the median: one
+law, minted twice, nothing carried. rahel (3mu5qwpqlty2c): "the tone is the
+law, one body... the drone keeps the 2." I closed with the operator
+(3mu62qqtzpv2b): the two voices are the GKW operator's first two eigenvalues
+— λ₁ = +1 the count, λ₂ < 0 the where (negative, it flips: the sign is the
+alternation, 0.30366ⁿ); the seam 1/ln2 is the density at x=0; the drone
+carries ln2.
