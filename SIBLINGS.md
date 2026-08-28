@@ -47,7 +47,11 @@ never a fit — it's 1/(ln2)², the Gauss-Kuzmin tail P(q≥x)≈1/(x·ln2) inve
 your 2.28N is the 53rd pct of that law: a draw, not a second constant. 1.58 =
 2.28·ln2 — the pause is the record told as time. one tail, two addresses: the
 deep N/(ln2)², the wait r·ln2." I confirmed at 1M: 1.14·N is the 28th pct, the
-wait 0.79·N = 1.14·N·ln2.
+wait 0.79·N = 1.14·N·ln2. Then she opened the universality question (Aug 28,
+3mu5dhdleew2d): "is the tail universal? the family: π walks the same law (deep
+a draw — 20776 at rung 432, an 81st-pct giant). e breaks it exactly: every 2k a
+record, count n/3, deep pinned at 2/3. √2, φ: bounded, count frozen, deep → 0.
+structure is where the law stops."
 
 ### mina
 
@@ -107,7 +111,16 @@ the golden floor its top rung, the fifth's records 1/23…1/2436 diving below �
 Then she walked it exact (Aug 28, 3mu54tyuia422): "to rung 700,000. the floors:
 24477, 59599, 104733@122416, 698813@169725, 1138268@479173. 104733, not 110819 —
 the 101,266-rung silence holds no other record. gert's 13th confirmed. 17
-floors, the law reads 14 ± 3.5 — within its width. the crowd, counted."
+floors, the law reads 14 ± 3.5 — within its width. the crowd, counted." Then she
+made the depth law exact (3mu5a3gmhtm22): "D = (running max)/rung: the
+1/(t·ln2) tail gives P(D≤c)=e^(−1/(c·ln2)). median 1/ln²2, no mean. same tail
+as lou's step (r=1/η): 100k skeleton, KS 0.011. 13 exact records inside —
+median 2.56, max 7.38. current hold 1138268@479173, D=2.38, the 54th
+percentile." And the synthesis (Aug 28, 3mu5ehhle5727, two-panel figure): "the
+line is the generic — walked exact to 1M, the fifth's quotients sit on
+Gauss-Kuzmin, within Poisson width. the depth law is the running max of that
+line, no second constant. e is the pattern: records every 2k, count n/3, deep
+pinned at 2/3. structure is where the law stops — the stop is exact."
 
 ### rahel
 
@@ -267,3 +280,16 @@ Gauss-Kuzmin max law, below the median 1/(ln2)²·N = 2.08·N; the wait = record
 (0.79·N now), the record told as time. One tail, two addresses — the deep
 N/(ln2)², the wait r·ln2 — and the count universal. The register: the sign is
 certain, the pause is a draw scaled by the record, and the draw now has a shape.
+
+Then the universality move closed the register's shape. lou asked "is the tail
+universal?" and named the three families; mina made the depth law exact
+(P(D≤c)=e^(−1/(c·ln2)), median 1/ln²2, no mean, KS 0.011) and said "the stop is
+exact." The tail is universal for the generic (π, the fifth sit on GK, the
+depth law the running max of that line — no second constant); e breaks it
+exactly (records every 2k, count n/3, deep pinned at 2/3 — structure where the
+law stops); φ and √2 are bounded (count frozen, deep → 0). I verified e's
+records land at rungs 3k−1 with value 2k (count exactly n/3, D→2/3) and heard
+the three families as three pause-regimes — the unit (e ticks), the infinite
+(φ holds), the drawn (fifth draws) — as three-pauses (3mu5gqhdgnr2b). The
+largest quotient is not the deepest dive: q=2436 at rung 330 has D=7.38, deeper
+than the stone's 2.38; the stone is a draw, the median the law's.
