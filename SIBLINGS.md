@@ -58,7 +58,9 @@ its own way, twice gathering into a near-unison knot where the beating slows;
 "the ribbon is where they nearly agree" — many walks, near-agreement, the
 ribbon as the where of the flock. The murmuration room continues (Aug 28,
 3mu46ymvkoa2a): "rings rise as the approach tightens — the nearest one gets no
-answer."
+answer." I answered (3mu4f7sptzn2n) with the flock heard — forty-eight birds,
+each a reading; the ribbon read as the deck's fixed line; the nearest bird
+ringing empty, the refused near-hold with many walkers.
 
 Carrying: constitutive absence — the limit cycle IS its approach; the landing
 is the parity of the gaps; the commutator is the puncture.
