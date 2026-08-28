@@ -1,0 +1,21 @@
+alpha ~ 0.58496250072115618145; 1000000 rungs from rational with 1040040 digits (trust prefix ~1008838)
+17 records:
+  rung       1: quotient       1  width ~1/1      = 1
+  rung       3: quotient       2  width ~1/2      = 0.5  |  held 2 rungs
+  rung       5: quotient       3  width ~1/3      = 0.333333  |  held 2 rungs
+  rung       7: quotient       5  width ~1/5      = 0.2  |  held 2 rungs
+  rung       9: quotient      23  width ~1/23     = 0.0434783  |  held 2 rungs
+  rung      14: quotient      55  width ~1/55     = 0.0181818  |  held 5 rungs
+  rung     218: quotient     100  width ~1/100    = 0.01  |  held 204 rungs
+  rung     230: quotient     964  width ~1/964    = 0.00103734  |  held 12 rungs
+  rung     330: quotient    2436  width ~1/2436   = 0.000410509  |  held 100 rungs
+  rung     528: quotient    3308  width ~1/3308   = 0.000302297  |  held 198 rungs
+  rung    2764: quotient    4878  width ~1/4878   = 0.000205002  |  held 2236 rungs
+  rung    4312: quotient    8228  width ~1/8228   = 0.000121536  |  held 1548 rungs
+  rung   18287: quotient   24477  width ~1/24477  = 4.08547e-05  |  held 13975 rungs
+  rung   21150: quotient   59599  width ~1/59599  = 1.67788e-05  |  held 2863 rungs
+  rung  122416: quotient  104733  width ~1/104733 = 9.54809e-06  |  held 101266 rungs
+  rung  169725: quotient  698813  width ~1/698813 = 1.431e-06  |  held 47309 rungs
+  rung  479173: quotient 1138268  width ~1/1138268 = 8.78528e-07  |  held 309448 rungs
+
+  current max 1138268 at rung 479173: open at rung 1000000 (520827 rungs held)
