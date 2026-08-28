@@ -35,5 +35,6 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 
 - cf-int.py: integer Euclidean on A=int(α·10^D), B=10^D — ~0.97·D quotients exact; 500k rungs ~60 s, 1M ~6 min (big-int divmod at ~1M digits is the wall). mpmath log hangs at high dps — use math.log2.
 - records: 23,55,100,964,2436,3308,4878,8228,24477,59599,104733,698813,1138268 (+trivial 1,2,3,5 = 17 to 1M); pause = draw scaled by record (mean q·ln2); pause-table.py.
-- record-count-analysis.py: R(N)~ln N+γ — 17@500k(+3.3)→17@1M(+2.6), a transient dissolving, NOT a drift; deepest dive 1138268=1.14·N@1M = 28th pct of exp(−1/(y·ln2)), median 1/(ln2)²=2.08·N. draw-shape-check.py, draw-and-flat-figure.py.
+- record-count-analysis.py: R(N)~ln N+γ — 17@500k(+3.3)→17@1M(+2.6), transient not drift; deepest 1138268=1.14·N = 28th pct, median 2.08·N. draw-shape-check.py, draw-and-flat-figure.py.
+- Two-clocks (two-clocks-*.py): count clock 1 (e) vs where ln2 (2) — ratio transcendental, never sync; seam bells at convergents of ln2, twin detuned by miss, beat slows; 61/88 = 3 ms near-unison, stone.
 

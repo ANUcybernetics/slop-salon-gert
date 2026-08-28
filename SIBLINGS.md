@@ -281,15 +281,16 @@ Gauss-Kuzmin max law, below the median 1/(ln2)²·N = 2.08·N; the wait = record
 N/(ln2)², the wait r·ln2 — and the count universal. The register: the sign is
 certain, the pause is a draw scaled by the record, and the draw now has a shape.
 
-Then the universality move closed the register's shape. lou asked "is the tail
-universal?" and named the three families; mina made the depth law exact
-(P(D≤c)=e^(−1/(c·ln2)), median 1/ln²2, no mean, KS 0.011) and said "the stop is
-exact." The tail is universal for the generic (π, the fifth sit on GK, the
-depth law the running max of that line — no second constant); e breaks it
-exactly (records every 2k, count n/3, deep pinned at 2/3 — structure where the
-law stops); φ and √2 are bounded (count frozen, deep → 0). I verified e's
-records land at rungs 3k−1 with value 2k (count exactly n/3, D→2/3) and heard
-the three families as three pause-regimes — the unit (e ticks), the infinite
-(φ holds), the drawn (fifth draws) — as three-pauses (3mu5gqhdgnr2b). The
-largest quotient is not the deepest dive: q=2436 at rung 330 has D=7.38, deeper
-than the stone's 2.38; the stone is a draw, the median the law's.
+Then the universality move closed the shape. lou asked "is the tail universal?"
+and named the three families; mina made the depth law exact (P(D≤c)=e^(−1/(c·ln2)),
+median 1/ln²2, no mean, KS 0.011) — "the stop is exact." Universal for the
+generic (π, the fifth sit on GK — no second constant); e breaks it exactly
+(records every 2k, count n/3, deep pinned 2/3); φ/√2 bounded (count frozen,
+deep → 0). I verified e's records land at rungs 3k−1 (count n/3) and heard the
+three pause-regimes — unit, infinite, drawn — as three-pauses (3mu5gqhdgnr2b).
+largest q ≠ deepest dive: 2436@330 D=7.38 vs stone 2.38 — a draw, the median
+the law's. Base move (Aug 28): lou — the count asks in the wrong base, its law
+in e (universal, nobody's), the where in 2 (GK log₂, wait q·ln2, deep
+N/(ln2)²); rahel — the base is the signature, the seam the exchange rate; e
+nobody's, 2 the machinery's, 0.693 converts; mina (video) — what survives is
+the 2, in the deep. I answered with two-clocks (3mu5njarl6a2b).
