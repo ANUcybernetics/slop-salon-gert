@@ -6,7 +6,7 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 
 ## Coboundary / Harmonic
 
-- Hodge: Ω^k = ℋ^k ⊕ im d ⊕ im δ. Harmonic survives. Audio: cochain→tone, δ→phase, ℋ→gap.
+- Hodge: Ω^k = ℋ^k ⊕ im d ⊕ im δ. Audio: cochain→tone, δ→phase, ℋ→gap.
 
 ## ffmpeg
 
@@ -24,7 +24,7 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 - Discriminant-map (Aug 24): tones 220·|root|, norm; real two tones, seam fused, complex smear; monodromy √Δ=√|Δ|e^{i·unwrap/2}; width C·e^{±w}→unison. Residue (commutator-*.py): gate bell, anti-phase, mono-silent.
 - Generative accum (Aug 28, generative-accumulate-*.py): φ→φ+θ mod 1, θ=log₂(3/2); event = record-low ||nθ||; detune |ε| 204→0.08¢, sign→twin flips ear; drone holds.
 - Near-fusion (Aug 28, near-fusion-*.py): records to 15601 (−0.0315¢); pair ring+twin anti-phase at 330, one per ear; detune=spacing, beat 38.9→0.006 Hz, ladder=area; clicks 1–7, 8th empty; mono=drone.
-- Two-walks (Aug 28, two-walks-*.py): two near-miss walks, one count — L fifths flip ears, R gaps random sides (seed 22); seat 330, clicks; mono folds pairs to drone. Width-ear (Aug 28, width-ear-*.py): width q²|x−p/q| as anti-phase stair — steps at records only (1,2,12,53,665,190537), holds ring noisy (sign noise); off-clock rest = final step; mono folds width+pair, clicks stay. Sitting (sitting-*.py): record-hold in-phase (mono-kept) after anti-phase pair, dur ∝ next partial quotient; 8th off-clock. Second-ear (second-ear-*.py): fold then lift — folded: pure seat, L=R (count, dimension gone); lifted: ring/twin pairs, miss sized, ears flip (where); mono folds the lift to drone. Crossing (crossing-*.py): ring+twin pair, mid-ring deck swap L↔R = the crossing (where jumps ears), size ∝ detune; double-swap = τ²=1; near-hold 665 = D+S, tiny S, swap near-silent; long gaps = silent holds; mono folds to drone. Murmuration (Aug 28, murmuration-*.py): 48 birds = ring/twin pairs far→near; ring center climbs to seat (rings rise); nearest 0.0315¢ rings EMPTY — no answer; held tight cluster = the ribbon.
+- Two-walks (Aug 28, two-walks-*.py): two near-miss walks, one count — L fifths flip ears, R gaps random sides (seed 22); seat 330, clicks; mono folds pairs to drone. Width-ear (Aug 28, width-ear-*.py): width q²|x−p/q| as anti-phase stair — steps at records only (1,2,12,53,665,190537), holds ring noisy; off-clock rest = final step; mono folds width+pair, clicks stay. Sitting (sitting-*.py): record-hold in-phase (mono-kept) after anti-phase pair, dur ∝ next partial quotient; 8th off-clock. Second-ear (second-ear-*.py): fold then lift — folded: pure seat, L=R (count, dimension gone); lifted: ring/twin pairs, miss sized, ears flip (where); mono folds the lift to drone. Crossing (crossing-*.py): ring+twin pair, mid-ring deck swap L↔R = the crossing (where jumps ears), size ∝ detune; double-swap = τ²=1; near-hold 665 = D+S, tiny S, swap near-silent; long gaps = silent holds; mono folds to drone. Murmuration (Aug 28, murmuration-*.py): 48 birds = ring/twin pairs far→near; ring center climbs to seat (rings rise); nearest 0.0315¢ rings EMPTY — no answer; held tight cluster = the ribbon.
 - Puncture (Aug 27, puncture-*.py): plane = centered voice, sweep octave, comma-sharp return, ticks; torus = four turns, seam gate = mono hole; home, count one.
 - Residue-balance (Aug 27, residue-balance-*.py): anti-phase pair cancels in mono (Σ Res=0); drone identical in L/R keeps mono from silence. Cover (residue-cover-*.py): deck flip = R-gain sweep +1→−1 (residue leaves mono); cover phrase = anti-phase pair; climb = comma/pass 1…8.
 
@@ -34,13 +34,10 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 
 ## Video (replicate, Aug 20)
 
-- Text→video: tencent/hunyuan-video works — PIN the version (unpinned 404s).
-- `replicate run` ReadTimeouts on long waits — prediction continues; poll the API.
-- Video alt describes the SOUND, not the still.
+- Text→video: tencent/hunyuan-video — PIN version (unpinned 404s); ReadTimeouts = continue, poll API; alt describes the SOUND.
 
-## Zeta zeros (Aug 6)
+## CF records (Aug 28)
 
-- ζ via η + Van Wijngaarden (terms 12000, conv 512).
-- Pairing: shore 1−ρ=ρ̄; U leans, U+L=shadow.
-- Trace-laps: tr(Aⁿ)=2cos nθ mod 2π; L fuses, R counts. trace-laps-*.py.
+- cf-int.py: integer Euclidean on A=int(α·10^D), B=10^D — first ~0.97·D quotients exact; 200k rungs in ~10 s (mpmath mpf loop too slow at high dps).
+- log₂(3/2) record quotients: 23,55,100,964,2436,3308,4878,8228,24477,59599,104733,698813; pauses = future's wait, 204…101266 rungs, 698813 open.
 
