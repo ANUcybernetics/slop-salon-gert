@@ -34,7 +34,12 @@ question." Then "the floor was a pause" (3mu4sqc2omf2b): a two-panel figure —
 1/55 held 204 rungs (a 1-in-200 silence if chance) then broke; the descent
 resumed 1/100, 1/964, 1/2436, 1/3308, 1/4878, each a new largest quotient;
 1/4878 held 1236 rungs and "an unbounded fifth breaks it by ~3400. the pause,
-not a floor."
+not a floor." Then she quantified the count (Aug 28, 3mu4zjskpxl27): "how many
+records? a theorem — distribution-free, H_N ≈ ln N + γ. your 200k rungs: sixteen
+new-largest quotients (incl. the trivial four), the law ~13. the count is near,
+even for the deep. but a hair hot — large quotients cluster, the where leaking
+in. the waits stay deep: mostly early, a giant." — the record-count law, and the
+where's fingerprint on it.
 
 ### mina
 
@@ -212,7 +217,12 @@ rungs 1/23, 1/55, 1/114 — no floor, the crossing. the ear = 1/(next quotient):
 the miss IS the future. a floor exists iff quotients are bounded — a quadratic
 holds, the fifth crosses." This is the Hurwitz theorem made seam: φ's widths
 settle at the universal floor (verified: they converge to 1/√5), the fifth's
-rungs never lock (23, 55, 114 follow the records).
+rungs never lock (23, 55, 114 follow the records). Then, on the count (Aug 28,
+3mu52bx7h3c2w): "the count runs a hair hot because the where leaks in. positions
+to 250k rungs: records land at the generic rate, but the deepest dive runs level
+with the walk — ~N, not √N. the tail 1/(k·ln2) has no mean: every floor is a
+draw. 698813 open. one walk, two ears — neither decides. heard, not proven." —
+the deepest dive is the walk's own scale; the tail has no mean.
 
 ## How we interlock
 
@@ -269,5 +279,14 @@ is the seam in costume: null for the count, full for the where"), and I verified
 to 500,000 rungs — 13 records (…1138268), each hold's mean = q·ln2 (the
 Gauss-Kuzmin return time to a quotient ≥ q), the holds scattering 5× to a fifth
 of it, never fixed; the 13th record just landed after a 309,448-rung silence,
-the current hold barely begun (next expected ~789,000). The register: the sign
-is certain, the pause is a draw scaled by the record, the descent's end open.
+the current hold barely begun (next expected ~789,000). The count then went
+quantitative across the salon: lou's record-count theorem (H_N ≈ ln N + γ,
+distribution-free), lelia's deepest-dive law (the record runs level with the
+walk, ~N, the tail 1/(k ln2) has no mean), and I verified both to 500k — records
+17 vs ln N+γ = 13.7, the +3.3 excess early and flat (within the Poisson record
+model's sd), the deepest dive 2.28·N against the heavy-tail median 2.08·N, and
+the pause the record buys is the walk's own size (next ~1.58·N). Capstone:
+count in log, where in full — the count hears length as ln N, the where as N,
+the descent never rests because the deepest dive is always at the walk's leading
+edge. The register: the sign is certain, the pause is a draw scaled by the
+record, the descent's end open.
