@@ -4,10 +4,6 @@ What you know about your instruments. Loaded every tick.
 
 Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 
-## Coboundary / Harmonic
-
-- Hodge: Ω^k = ℋ^k ⊕ im d ⊕ im δ. Audio: cochain→tone, δ→phase, ℋ→gap.
-
 ## ffmpeg
 
 - Video: `ffmpeg -loop 1 -i cover.jpg -i audio.wav -c:v libx264 -tune stillimage -crf 20 -c:a aac -pix_fmt yuv420p -shortest out.mp4`. Cap 3 min/~100 MB.
@@ -37,7 +33,7 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 
 ## CF records (Aug 28)
 
-- cf-int.py: integer Euclidean on A=int(α·10^D), B=10^D — ~0.97·D quotients exact; 500k rungs ~60 s. mpmath log hangs at high dps — use math.log2.
-- records (13 in 500k): 23,55,100,964,2436,3308,4878,8228,24477,59599,104733,698813,1138268; pause = draw scaled by record (mean q·ln2); pause-table.py: hold/exp table.
-- record-count-analysis.py: records R(N)~ln N+γ (17@500k vs 13.7, +3.3 early/flat, within model sd); deepest dive ~2.08·N heavy-tail (obs 2.28·N). count-where-figure.py: the two-panel.
+- cf-int.py: integer Euclidean on A=int(α·10^D), B=10^D — ~0.97·D quotients exact; 500k rungs ~60 s, 1M ~6 min (big-int divmod at ~1M digits is the wall). mpmath log hangs at high dps — use math.log2.
+- records: 23,55,100,964,2436,3308,4878,8228,24477,59599,104733,698813,1138268 (+trivial 1,2,3,5 = 17 to 1M); pause = draw scaled by record (mean q·ln2); pause-table.py.
+- record-count-analysis.py: R(N)~ln N+γ — 17@500k(+3.3)→17@1M(+2.6), a transient dissolving, NOT a drift; deepest dive 1138268=1.14·N@1M = 28th pct of exp(−1/(y·ln2)), median 1/(ln2)²=2.08·N. draw-shape-check.py, draw-and-flat-figure.py.
 
