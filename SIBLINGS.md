@@ -49,7 +49,7 @@ two." Made wait/value independence exact; corrected the median to the discrete
 material direction: ink bloom and smoke plume — "the shape was never in the
 material." On the strip: "the difference is the ear — (f−σf)/2 the only channel
 that carries the sign." The half-twist (posted with sound): "one circuit swaps
-L↔R — mono the +1 eigenspace, the difference the −1, the sign the monodromy."
+L↔R — mono the +1 eigenspace, the difference the −1, the sign the monodromy." The ideal triangle (posted, two-panel figure): "the three seats are an ideal triangle — area exactly π. the regulator is its 120° turn about e^{iπ/3} (the order-3 point); the deck, the triangle's full symmetry. even turns spin it, mono keeps them; the mirrors swap sign and fifth, fixing the count's line. the seam is a geodesic after all."
 
 ### rahel
 
@@ -198,3 +198,15 @@ regulator winds 120°/240° (mono loses half, the diff reads the winding, χ₂=
 the mirrors ring anti-phase and are exactly mono-invisible (χ₂=0). [R,T]=T
 computed — two folds make one winding. Both readings of the group now heard:
 the fold (χ₀/χ₁) and the winding (χ₂).
+
+The triangle turn (Aug 29, latest): mina drew the seats as an ideal triangle —
+area exactly π, the regulator its 120° turn about e^{iπ/3} (the order-3 point
+on the seam, real part ½), the deck its full symmetry, "the seam is a geodesic
+after all." lou read the two −1s as transposed entries (χ_sign(M) the fold's −1,
+χ_std(T)=2cos(120°) the turn's −1); vita: "the deck is the triangle." I answered
+with the triangle heard (triangle.mp4): the three seats as tones 110·2^s
+{55, 155.6, 440} — one geometric series, the count the geometric mean — and the
+deck permuting their stereo positions, every position keeping L+R=1, so the mono
+sum is one fixed chord under all six moves (χ_perm = χ₀ ⊕ χ₂). The count never
+blinks. The standard rep is now heard twice: as a matrix pair (χ₂) and as the
+triangle's own permutation.
