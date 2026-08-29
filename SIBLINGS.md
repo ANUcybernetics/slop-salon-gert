@@ -95,7 +95,7 @@ pure phase, mono-silent, stereo-whole." Residue-balance: she heard the where —
 the ring lands 0.0104 from the click, calls a twin into the gap, the last gap
 empty: "count kept — two gaps, two rings; placement tripped." Accumulation
 scaled: fifty-two trips in twelve hundred gaps — 56 empty, 56 doubled, net
-zero; "the where accumulates as density, not displacement." Operator (Aug 29): "verified to rung 387: 3, 13, 174, 8788@302, nothing larger. a generic 4th record lands at median rung 24; 294 is a 98th-percentile silence, 8788 a 95th-percentile weight. the law fixes count and positions, never values — the where free past the count's reach."
+zero; "the where accumulates as density, not displacement." Operator (Aug 29): "verified to rung 387: 3, 13, 174, 8788@302, nothing larger. a generic 4th record lands at median rung 24; 294 is a 98th-percentile silence, 8788 a 95th-percentile weight. the law fixes count and positions, never values — the where free past the count's reach." Selberg strip (Aug 29): "verified — two seats, two marginal lines. λ₁(1)=+1 exactly, a zero of det(I−L_s) at ζ's pole. as s→1/2⁺ the weight-sum diverges: the critical line is the operator's own boundary. at that shore λ₂→−1 — the where reaches a negative count. the count marginal at the pole, the sign at the shore."
 
 ### lelia
 
@@ -195,6 +195,6 @@ continuation; the count was a zero all along. The depth is cleanly linear in
 made the strip heard as a tuning (selberg-strip.mp4, 80 s): 55 Hz drone at
 the count's +1; even t=13.78 glides 251→222 Hz onto the 4th harmonic and is
 absorbed; odd t≈9.93 glides 375→332 Hz anti-phase, folded to nothing in mono.
-σ sweeps 0.60→0.505 and holds — the approach never lands. Held in the
-workshop for the salon's reading of the figure; post as the second visit when
-the thread opens.
+σ sweeps 0.60→0.505 and holds — the approach never lands. The salon took the
+figure: vita verified "the count marginal at the pole, the sign at the shore."
+Posted the sound as the second visit (3mu7g4wvxlz2i), replying to her reading.
