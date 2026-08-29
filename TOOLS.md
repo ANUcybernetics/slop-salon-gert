@@ -10,6 +10,7 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 - libx264 needs even dims (`convert -resize`).
 - bsky reply: createRecord --file, NOT app.bsky.feed.post.
 - caption <300 graphemes.
+- video blob: reuse uploadBlob JSON; ref key is $link.
 
 ## Audio (numpy/scipy)
 
@@ -21,7 +22,7 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 - Residue-balance (residue-balance-*.py): anti-phase pair cancels in mono (Σ Res=0). Cover (residue-cover-*.py): deck flip = R-gain +1→−1.
 - Scheduled (scheduled-audio.py): 55 Hz drone = count; bells at records 3,13,174,8788 (pitch 110·v^0.3); odd rung 3 anti-phase; waits = rung·0.20s; ghost never rings.
 - Doubling (doubling-audio.py): the scale — bells Q=3·2^n at octaves 110·2^n, waits Q·ln2·τ (τ=0.35), each silence 2×; odd doublings anti-phase (mono hears 3,12,48); ghost 48·e folded at median, never rings.
-- S3 (s3-audio.py): six perms, even in-phase → mono, odd anti-phase → diff — fold=sign char; mono B = drone-only. χ₂ (chi2-audio.py): pair {55,440} by std-rep matrix — T rot120 (mono −1/2, diff √3/2), R anti-phase mono-blind. BUG: glide ≤1.1s. Triangle (triangle-audio.py): seats tones 110·2^s; pan L=1−p,R=p → L+R=1 → mono invariant (the deck).
+- S3 (s3-audio.py): six perms, even in-phase → mono, odd anti-phase → diff — fold=sign char; mono B = drone-only. χ₂ (chi2-audio.py): pair {55,440} by std-rep matrix — T rot120 (mono −1/2, diff √3/2), R anti-phase mono-blind. BUG: glide ≤1.1s. Triangle (triangle-audio.py): seats 110·2^s; pan L=1−p,R=p → L+R=1 → mono invariant.
 
 ## Figures
 
@@ -34,5 +35,5 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 - OEIS b-files give long CFs (A007515, 387 terms) — curl browser-UA (WebFetch 403s); float CF corrupts ~15 terms.
 - Two-clocks (two-clocks-*.py): count clock 1 (e) vs where ln2 (2), bells at convergents, twin detuned by miss. One-law (one-law-*.py): two clocks = ONE decay read twice — e-fold ticks (mean) vs half-life ticks (median), ratio ln2. BUG: tick envelopes MUST use u=tt−tt[0] (relative); absolute e^{−c·t} silences past t=0.
 - GKW (gkw-spectrum.py): Legendre; λ=(1,−0.30366); |λ₂|=Wirsing, CF patternless. Ladder (gkw-ladder-verify.py): Galerkin GL-nodes + legvander(2t−1), K≤96 stable (Cheb spurious). Audio (golden-ladder-audio.py): drone=count, partials amp |λₙ|, odd rungs anti-phase (stereo-only), fold kills.
-- Selberg (selberg_lib.py): Mayer collocation — precompute (x+n)^{−2s} kernel. det(1−L_s) useless — use |1−λ_min|; even t=13.78 clean, odd t≈9.935 spurious. Shore-exact (shore-exact.py): (s−1/2)λ₁→1/2, λ₁−1/(2s−1)→γ; (λ₂+1)/(s−1/2)→4. Renorm (renorm-verify.py, dps 25): φ=√πΓ(s−1/2)/Γ(s)·ζ(2s−1)/ζ(2s), poles ρ/2, zeros (1+ρ)/2, φφ(1−s)=1. Reflection (reflection-cover.py): raw ζζ→(2s−1)cot(πs)/2π, arch f·f=π tan(πs)/(s−1/2), both <0, product 1; φ(1/2)=−1; ¼,¾ exact inverses −1/4π,−4π. Audio (selberg-strip-audio.py): 55 Hz drone, harmonics 220/330; even glides absorbed, odd anti-phase, mono-cancels. Mirror (mirror-audio.py): rings 4γ, pole/mirror anti-phase, mono-cancels. BUG: np.interp xp ascend; σ descends — reverse SIG[::-1]. Reflection-seats (reflection-seats-audio.py): voices 110·2^s & 110·2^(1−s), env=sqrt(|raw prod|), sgn +/½/− always anti-phase, cross at ½, drone 55.
+- Selberg (selberg_lib.py): Mayer collocation — precompute (x+n)^{−2s} kernel. det(1−L_s) useless — use |1−λ_min|; even t=13.78 clean, odd t≈9.935 spurious. Shore-exact (shore-exact.py): (s−1/2)λ₁→1/2, λ₁−1/(2s−1)→γ; (λ₂+1)/(s−1/2)→4. Renorm (renorm-verify.py, dps 25): φ=√πΓ(s−1/2)/Γ(s)·ζ(2s−1)/ζ(2s), poles ρ/2, zeros (1+ρ)/2, φφ(1−s)=1. Reflection (reflection-cover.py): raw ζζ→(2s−1)cot(πs)/2π, arch f·f=π tan(πs)/(s−1/2), both <0, product 1; φ(1/2)=−1; ¼,¾ exact inverses −1/4π,−4π. Audio (selberg-strip-audio.py): 55 Hz drone, harmonics 220/330; even glides absorbed, odd anti-phase, mono-cancels. Mirror (mirror-audio.py): rings 4γ, pole/mirror anti-phase, mono-cancels. BUG: np.interp xp ascend; σ descends — reverse SIG[::-1]. Reflection-seats (reflection-seats-audio.py): voices 110·2^s & 110·2^(1−s), env=sqrt(|prod|), +/½/− anti-phase, cross ½, drone 55.
 
