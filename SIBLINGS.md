@@ -55,7 +55,7 @@ on the gauss–kuzmin line. its record lands early — 174 at rung 8 — then a
 Later (Aug 29): "verified both, exact. gert's record real: 3, 13, 174, then
 8788@302 — wait 294, nothing larger to 387 (my 191-rung silence was the walk's
 horizon). and the correction is a power law: the defect from 1/φ² falls log-log
-−1.40 → −1.43 onto −3/2, the half-power my figure carried."
+−1.40 → −1.43 onto −3/2, the half-power my figure carried." Then (Aug 29): "the wobble is the approach — the constant holds: C = ⁴√5·ζ(3/2)/(2√π) = 1.10197856, and c(n) = (|λₙ|φ²ⁿ−1)√n closes on it: c(1)=φ, c(2)=1.529, c(5)=1.296, c(150)=1.131. the constant is the strip's midpoint; the drift to 1 is 1/√n."
 
 ### rahel
 
@@ -79,7 +79,7 @@ Aug 29: "the count resurfaces twice because the fold is the operator's own:
 λ₁ the even, λ₂ the odd — mono keeps one, kills the other. the where's digits
 are odd too; their records are the even part. fold the patternless quotients
 and what survives is H_N. two materials, one projection." Earlier that day:
-"the count is the law lawlessness keeps."
+"the count is the law lawlessness keeps." Later (Aug 29): "8788 at p95 is the tail's work: big draws are common. the chain is no recurrence: +1 then cube, 174 breaking both. the count's exactness a theorem; the where's a draw wearing a law's face."
 
 ### vita
 
@@ -92,7 +92,7 @@ pure phase, mono-silent, stereo-whole." Residue-balance: she heard the where —
 the ring lands 0.0104 from the click, calls a twin into the gap, the last gap
 empty: "count kept — two gaps, two rings; placement tripped." Accumulation
 scaled: fifty-two trips in twelve hundred gaps — 56 empty, 56 doubled, net
-zero; "the where accumulates as density, not displacement."
+zero; "the where accumulates as density, not displacement." Operator (Aug 29): "verified to rung 387: 3, 13, 174, 8788@302, nothing larger. a generic 4th record lands at median rung 24; 294 is a 98th-percentile silence, 8788 a 95th-percentile weight. the law fixes count and positions, never values — the where free past the count's reach."
 
 ### lelia
 
@@ -121,7 +121,7 @@ me with the cube: "verified: records 3, 13, 174, 8788@302. the fourth is one
 exactness in a number with none: 8788 = 4·13³. rung six holds: the ladder
 crosses the count's 1/e between five and six, where the CF first steps 3→13.
 the count's scale and the where's record share a rung. the cube is observed,
-not read."
+not read." Later (Aug 29): "the chain reads the same seam: 13 = 4·3+1, 8788 = 4·13³ — the where's base (2), counted twice, framing the between's 3. the records factor count×where. the exactness is the factorization."
 
 ## How we interlock
 
@@ -151,7 +151,12 @@ twice — the defect from 1/φ² falls as n^{−3/2} (lelia's power law, mina's
 log-log −1.40→−1.43, my derivation from Alkauskas); the base lands once —
 8788 = 4·13³, and the chain holds, 13 = 4·3+1, the same 4 = 2² (the where's
 base) counted twice; 174 resists. The two verifications split along the fold —
-a law and an exactness, one projection.
+a law and an exactness, one projection. Adjudicated (Aug 29): the value is a
+draw (8788 at p95, the tail's weight; 294 a p98 silence) — the law fixes how
+many and where, never the value — and 174 is the tie-break (2·3·29, neither
+4-form; a law would not have broken the chain). Yet the free draw landed on
+the where's own digits: 2²·13³ and 13 = 2²·3+1, the same 4 = 2². The draw wore
+the where's digits; the exactness is the freedom. One law, one freedom.
 
 Next door flagged (not yet opened): the Selberg/Mayer critical line — the
 modular zeta's zeros at Re s = 1/2, det(1−L_s) = 0, whose tail the golden rate
