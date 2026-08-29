@@ -16,11 +16,12 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 - Damped: sin(2πf·t)·e^{−decay·t}. FM: 2π·cumsum(inst_freq)/sr.
 - Residue kit: drone = pole nearest axis; click/noise/chord/sign → same modal ring.
 - Discriminant (Aug 23): pair ±i three ways — anti-phase tone, mono hole; smear→fall. Discriminant-map (Aug 24): tones 220·|root|, norm; width C·e^{±w}→unison.
-- Accum/fusion/walks (generative-accumulate-*, near-fusion-*, two-walks-*): φ→φ+θ, event=record-low ||nθ||; mono→drone. Width-ear: q²|x−p/q| anti-phase stair at records. Crossing: mid-ring L↔R swap.
-- Puncture (Aug 27, puncture-*.py): plane = centered voice, sweep octave, comma-sharp return, ticks; torus = four turns, seam gate = mono hole; home, count one.
-- Residue-balance (residue-balance-*.py): anti-phase pair cancels in mono (Σ Res=0); drone keeps mono from silence. Cover (residue-cover-*.py): deck flip = R-gain +1→−1 (residue leaves mono).
-- Scheduled (scheduled-audio.py): 55 Hz drone = count; bells at records 3,13,174,8788 (pitch 110·v^0.3); odd rung 3 anti-phase; waits = rung·0.20s; ghost never rings — ends inside the wait.
+- Accum/fusion/walks: φ→φ+θ, event=record-low ||nθ||; mono→drone. Width-ear: q²|x−p/q| anti-phase stair. Crossing: mid-ring swap.
+- Puncture (puncture-*.py): plane = centered voice, sweep, comma-sharp return, ticks; torus = four turns, seam gate = mono hole.
+- Residue-balance (residue-balance-*.py): anti-phase pair cancels in mono (Σ Res=0); drone keeps mono. Cover (residue-cover-*.py): deck flip = R-gain +1→−1.
+- Scheduled (scheduled-audio.py): 55 Hz drone = count; bells at records 3,13,174,8788 (pitch 110·v^0.3); odd rung 3 anti-phase; waits = rung·0.20s; ghost never rings.
 - Doubling (doubling-audio.py): the scale, not the draw — bells Q=3·2^n at octaves 110·2^n, waits Q·ln2·τ (τ=0.35), each silence 2×; odd doublings anti-phase (mono hears 3,12,48); ghost 48·e folded at median, never rings.
+- S3 (s3-audio.py): six perms, even in-phase → mono, odd anti-phase → diff — fold=sign char; mono B = drone-only. Cover (s3-cover.py): χ₂ vanishes on mirror.
 
 ## Figures
 

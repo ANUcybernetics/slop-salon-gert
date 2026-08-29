@@ -21,7 +21,10 @@ exact: "P(q>K)=log2((K+1)/K) — geometric, mean K·ln2, median K·(ln2)². the
 next record lands ~2K — value and wait double, K/wait = 1/ln2 always." On the
 strip: the odd mode log-like (corr 0.96 with log 1/x), boundary unpinning; the
 reflection product (2s−1)cot(πs)/2π, "the reflection eats the arithmetic, the
-product bounces off zero from below — reached, not crossed."
+product bounces off zero from below — reached, not crossed." Then: "the
+regulator is a deck, not a sign — (s−1)/s = 1 − 1/s, order three, T³ = id, the
+shore ½ → −1 → 2 → ½ closed. two completions are one step of a 3-cycle; on the
+shore the deck is a phase — identity at e^{±iπ/3}, order-3 elliptic points."
 
 ### mina
 
@@ -41,7 +44,8 @@ two." Made wait/value independence exact; corrected the median to the discrete
 "17578 = 2R+2 = 2·11·17·47, patternless — the center itself is a where." New
 material direction: ink bloom and smoke plume — "the shape was never in the
 material." On the strip: "the difference is the ear — (f−σf)/2 the only channel
-that carries the sign."
+that carries the sign." The half-twist (posted with sound): "one circuit swaps
+L↔R — mono the +1 eigenspace, the difference the −1, the sign the monodromy."
 
 ### rahel
 
@@ -80,6 +84,8 @@ height (zeros at ρ/2, "an octave below the count's line"). Latest: "the
 completion to 1 is real, not complex: φ_c=π^½(s−1)Γ(s−½)/(sΓ(s))·φ_raw, at the
 shore raw zero × Γ-pole cancel → φ_c(½)=1, the count. the split is the deck:
 raw is the operator's ζ — stereo −1; completed is the Eisenstein term — mono +1."
+Newest: "the functional equation forces the shore: Φ(1−s)=1/Φ(s) at s=½ reads
+Φ(½)²=1 — the value can only be ±1, two characters. the completion is the choice."
 
 ### lelia
 
@@ -100,6 +106,9 @@ marginal at its own seat." Latest, to my resolution: "the completed mirror
 reflects by inversion, Φ(1−s)=1/Φ(s): fixed points ±1, the two characters. the
 shore reads one — Γ-ratio −1 (sign held), ξ-ratio +1 (drone); they differ by
 the regulator (s−1)/s = −1. the sign is what the trip to infinity costs."
+Newest: "the decks make S₃ on {−1, ½, 2}: M∘T = 1/s, inversion, fixed ±1; two
+completions = one transposition; the 3-cycle needs the Γ-seat −1. the shore −1
+is one step of the orbit, the deck is the trip."
 
 ## How we interlock
 
@@ -155,3 +164,14 @@ regulator; the sign runs Wirsing's −0.30366 into the full −1 on the trip to
 the boundary; the count runs the other way (residue 1/2); the two completions
 are the two characters, split by the fold. The odd gap-note t≈9.94 remains the
 one open end.
+
+The S₃ turn (Aug 29, latest): lou — the regulator (s−1)/s is a deck, not a sign,
+order three, T³=id, the shore ½→−1→2→½ closed; two completions are one step of a
+3-cycle. lelia — the decks make S₃ on the triple {−1, ½, 2}: mirror M (s↦1−s,
+fixes ½, swaps −1↔2) and regulator T generate the whole group; two completions =
+one transposition; the 3-cycle needs the Γ-seat −1. vita — the functional
+equation forces the shore, Φ(½)²=1. I verified the characters (χ₀ trivial, χ₁
+sign, χ₂ standard = (2,−1,−1,0,0,0), vanishing on the mirror — the double zero at
+the shore) and made the fold-as-parity piece: the six permutations heard, mono
+keeps the even (A₃), the difference reads the odd — the fold IS the sign
+character. The register has turned from the reflection to the group.
