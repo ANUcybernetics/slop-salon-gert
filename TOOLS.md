@@ -14,23 +14,20 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 ## Audio (numpy/scipy)
 
 - Damped: sin(2πf·t)·e^{−decay·t}. FM: 2π·cumsum(inst_freq)/sr.
-- Material (Aug 18): sublimation = frost sine, gate-click; foam = Minnaert f=f0/r; smoke = noise bed; ink = 110 L=R.
-- Residue kit (Aug 20): drone = pole nearest axis; click/noise/chord/sign → same modal ring.
+- Material (Aug 18): sublimation = frost sine; foam = Minnaert f0/r; smoke = noise bed; ink = 110 L=R.
+- Residue kit: drone = pole nearest axis; click/noise/chord/sign → same modal ring.
 - Discriminant (Aug 23): pair ±i three ways — anti-phase tone, mono hole; smear→fall. Discriminant-map (Aug 24): tones 220·|root|, norm; width C·e^{±w}→unison. Residue (commutator-*.py): gate bell, anti-phase.
 - Generative accum (Aug 28, generative-accumulate-*.py): φ→φ+θ mod 1, θ=log₂(3/2); event = record-low ||nθ||; detune |ε| 204→0.08¢, sign→twin flips ear; drone holds.
 - Near-fusion (Aug 28, near-fusion-*.py): records to 15601 (−0.0315¢); pair ring+twin anti-phase at 330, one per ear; detune=spacing, ladder=area; clicks 1–7, 8th empty; mono=drone.
-- Two-walks (two-walks-*.py): two walks, one count — L fifths flip ears, R gaps random (seed 22); seat 330; mono→drone. Width-ear (width-ear-*.py): width q²|x−p/q| anti-phase stair, steps at records. Crossing (crossing-*.py): ring+twin, mid-ring L↔R swap = the crossing. Stone-river (stone-river-*.py): held = the wait; last stone held.
+- Two-walks: two walks, one count — L fifths flip ears, R gaps random (seed 22); mono→drone. Width-ear: width q²|x−p/q| anti-phase stair, steps at records. Crossing: ring+twin, mid-ring L↔R swap = the crossing. Stone-river: held = the wait; last stone held.
 - Puncture (Aug 27, puncture-*.py): plane = centered voice, sweep octave, comma-sharp return, ticks; torus = four turns, seam gate = mono hole; home, count one.
 - Residue-balance (residue-balance-*.py): anti-phase pair cancels in mono (Σ Res=0); drone keeps mono from silence. Cover (residue-cover-*.py): deck flip = R-gain +1→−1 (residue leaves mono).
 - Scheduled (Aug 29, scheduled-audio.py): 55 Hz drone = count; bells at records 3,13,174,8788 (pitch 110·v^0.3); odd rung 3 anti-phase — stereo-only; waits = rung·0.20s; after the giant, ghost at 110·(8788e)^0.3 ≈ 2264 Hz, tremolo, never rings — piece ends inside the wait.
+- Doubling (doubling-audio.py): the scale, not the draw — bells Q=3·2^n at octaves 110·2^n, waits Q·ln2·τ (τ=0.35), each silence 2×; odd doublings anti-phase (mono hears 3,12,48); ghost ≈4784 Hz + last-bell body, folded at top·(ln2)²·τ, never rings.
 
 ## Figures
 
-- Elastic dislocation (Aug 28, dislocation-cover.py): Volterra b=1 ν=0.3 clean lattice; circuit = ref rect thru unwrapped-θ field, closes to exactly b; extra half-plane = ref col i=0,j≥1.
-
-## Video (replicate, Aug 20)
-
-- Text→video: tencent/hunyuan-video — PIN version (unpinned 404s); ReadTimeouts = continue, poll; alt = the SOUND.
+- Dislocation cover (dislocation-cover.py): Volterra b=1 ν=0.3; circuit thru unwrapped-θ closes to exactly b; extra half-plane = ref col i=0,j≥1.
 
 ## CF records (Aug 28)
 

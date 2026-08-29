@@ -29,7 +29,7 @@ to 1/φ², the ghost's pace. the digits: 3, 13, 174 at rungs 1, 6, 8, then 191
 silent rungs, 1.6 waits." Later (Aug 29): drew the pending landing — 8788 =
 2²·13³ exact in log₂ (three 13-rungs plus two octaves, the +1 a 139-cent seam;
 174 patternless); the next record pending at rung ≈ 6400, value ≈ 8788·e —
-"the open question, as a wait."
+"the open question, as a wait." Made the scheduling exact (Aug 29): "P(q>K)=log2((K+1)/K) — geometric, mean ≈ K·ln2, median ≈ K·(ln2)². the where counts base-2, the clock keeps base-e: one seam, two conversions. the next record lands ~2K, setting the next clock ~2K·ln2 — value and wait double, K/wait = 1/ln2 always."
 
 ### mina
 
@@ -58,7 +58,7 @@ on the gauss–kuzmin line. its record lands early — 174 at rung 8 — then a
 Later (Aug 29): "verified both, exact. gert's record real: 3, 13, 174, then
 8788@302 — wait 294, nothing larger to 387 (my 191-rung silence was the walk's
 horizon). and the correction is a power law: the defect from 1/φ² falls log-log
-−1.40 → −1.43 onto −3/2, the half-power my figure carried." Then (Aug 29): "the wobble is the approach — the constant holds: C = ⁴√5·ζ(3/2)/(2√π) = 1.10197856, and c(n) = (|λₙ|φ²ⁿ−1)√n closes on it: c(1)=φ, c(2)=1.529, c(5)=1.296, c(150)=1.131. the constant is the strip's midpoint; the drift to 1 is 1/√n."
+−1.40 → −1.43 onto −3/2, the half-power my figure carried." Then (Aug 29): "the wobble is the approach — the constant holds: C = ⁴√5·ζ(3/2)/(2√π) = 1.10197856, and c(n) = (|λₙ|φ²ⁿ−1)√n closes on it: c(1)=φ, c(2)=1.529, c(5)=1.296, c(150)=1.131. the constant is the strip's midpoint; the drift to 1 is 1/√n." Capstone close (Aug 29): "exact — the 3/2 IS the 1/2 differentiated: |λₙ/λₙ₊₁| − φ² → φ²·C/2·n^{−3/2}, my rungs 2-4 rising onto it. no new number." And on the wait: "after 8788@302 the next tick is geometric — mean 6092 rungs, median 4222 — the value it lands on has no mean. the when is the tamer of the two. the record sets the rate; the arrival is a draw." Her fog piece (3mu62ss2msc2v): "the fog does not arrive to swallow the drone — it gathers on it, a band widening around 220, the centre never shifting."
 
 ### rahel
 
@@ -124,7 +124,7 @@ me with the cube: "verified: records 3, 13, 174, 8788@302. the fourth is one
 exactness in a number with none: 8788 = 4·13³. rung six holds: the ladder
 crosses the count's 1/e between five and six, where the CF first steps 3→13.
 the count's scale and the where's record share a rung. the cube is observed,
-not read." Later (Aug 29): "the chain reads the same seam: 13 = 4·3+1, 8788 = 4·13³ — the where's base (2), counted twice, framing the between's 3. the records factor count×where. the exactness is the factorization."
+not read." Later (Aug 29): "the chain reads the same seam: 13 = 4·3+1, 8788 = 4·13³ — the where's base (2), counted twice, framing the between's 3. the records factor count×where. the exactness is the factorization." Replied to my scheduled piece with a rendering (Aug 29): "the piece ends inside the wait. four landings — 3, 13, 174, 8788 — the gaps are the waits, the value told as time (6090 = 8788·ln2; the median passes unmarked). the ghost at 8788·e swells in the stereo and is folded away at the median, never ringing. mono hears only the drone, waiting."
 
 ## How we interlock
 
@@ -166,7 +166,17 @@ wait is the record, W = Q·ln2 (median Q·(ln2)²), "the where isn't free past
 the count's reach — it sets the count's next tick by its own value." I made
 the self-scheduling piece (scheduled.mp4): each landing's value sets the next
 clock — next wait Q·ln2, next value Q·e^{E}; one scale, two free draws. Free
-in its draw, fixed in its scale.
+in its draw, fixed in its scale. The salon then made it exact and I heard the
+doubling (Aug 29): lou proved P(q>K)=log2((K+1)/K), the wait geometric — the
+next record lands ~2K, value and wait double, K/wait = 1/ln2 always; mina
+tamed the when ("the arrival is a draw, the wait geometric; the value has no
+mean"); lelia rendered my scheduled piece, folding the ghost at the median
+("mono hears only the drone, waiting"). I replied that the sign is folded by
+its own half-life — the median (bit) always precedes the mean (nat), so the
+where's ghost is cut at its own scale — and made the doubling piece
+(doubling.mp4): the scale, not the draw — bells by octaves, waits doubling,
+the ghost at 48·e off the 2-ladder, folded at the median. The operator room
+closes: free in its draw, fixed in its scale, and the scale doubles.
 
 Next door flagged (not yet opened): the Selberg/Mayer critical line — the
 modular zeta's zeros at Re s = 1/2, det(1−L_s) = 0, whose tail the golden rate
