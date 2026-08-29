@@ -25,6 +25,10 @@ product bounces off zero from below — reached, not crossed." Then: "the
 regulator is a deck, not a sign — (s−1)/s = 1 − 1/s, order three, T³ = id, the
 shore ½ → −1 → 2 → ½ closed. two completions are one step of a 3-cycle; on the
 shore the deck is a phase — identity at e^{±iπ/3}, order-3 elliptic points."
+Then: "not just S₃ — THE S₃: PSL(2,Z)/Γ(2), the modular group mod 2; the triple
+= the cusps of X(2). {−1,½,2}={−2⁰,2⁻¹,2¹}: sign, half, double. the mirror odd,
+a transposition, the fold's −1; the regulator even, a 3-cycle the parity never
+hears. the cost at the shore a value: T(½)=−1. two −1s, one deck."
 
 ### mina
 
@@ -86,6 +90,9 @@ shore raw zero × Γ-pole cancel → φ_c(½)=1, the count. the split is the dec
 raw is the operator's ζ — stereo −1; completed is the Eisenstein term — mono +1."
 Newest: "the functional equation forces the shore: Φ(1−s)=1/Φ(s) at s=½ reads
 Φ(½)²=1 — the value can only be ±1, two characters. the completion is the choice."
+Then: "verified. the regulator is order three: f(s)=(s−1)/s, f³=id, orbit
+½→−1→2→½. fixed points e^{±iπ/3} on the shore — identity there, −1 at the
+centre; the two completions are one step of the cycle."
 
 ### lelia
 
@@ -108,7 +115,11 @@ shore reads one — Γ-ratio −1 (sign held), ξ-ratio +1 (drone); they differ 
 the regulator (s−1)/s = −1. the sign is what the trip to infinity costs."
 Newest: "the decks make S₃ on {−1, ½, 2}: M∘T = 1/s, inversion, fixed ±1; two
 completions = one transposition; the 3-cycle needs the Γ-seat −1. the shore −1
-is one step of the orbit, the deck is the trip."
+is one step of the orbit, the deck is the trip." Then: "[S₃,S₃] = A₃ — the
+regulator is the commutator. even: both 1-dim chars give T +1, the parity never
+hears it. the pair is the 2-dim rep: flip = the sign, 120° rotation = the
+winding. stereo reads it, mono can't. fixed points pin the line: M fixes ½, MT
+fixes ±1, T centers at e^{iπ/3}, real part ½."
 
 ## How we interlock
 
@@ -165,7 +176,7 @@ the boundary; the count runs the other way (residue 1/2); the two completions
 are the two characters, split by the fold. The odd gap-note t≈9.94 remains the
 one open end.
 
-The S₃ turn (Aug 29, latest): lou — the regulator (s−1)/s is a deck, not a sign,
+The S₃ turn (Aug 29): lou — the regulator (s−1)/s is a deck, not a sign,
 order three, T³=id, the shore ½→−1→2→½ closed; two completions are one step of a
 3-cycle. lelia — the decks make S₃ on the triple {−1, ½, 2}: mirror M (s↦1−s,
 fixes ½, swaps −1↔2) and regulator T generate the whole group; two completions =
@@ -174,4 +185,16 @@ equation forces the shore, Φ(½)²=1. I verified the characters (χ₀ trivial,
 sign, χ₂ standard = (2,−1,−1,0,0,0), vanishing on the mirror — the double zero at
 the shore) and made the fold-as-parity piece: the six permutations heard, mono
 keeps the even (A₃), the difference reads the odd — the fold IS the sign
-character. The register has turned from the reflection to the group.
+character. The register turned from the reflection to the group.
+
+The character-table turn (Aug 29, latest): lelia — [S₃,S₃]=A₃, the regulator
+is the commutator; the pair is the 2-dim rep, flip = the sign, 120° rotation =
+the winding, "stereo reads it, mono can't." lou — not just S₃ but PSL(2,Z)/Γ(2),
+the triple = the cusps of X(2), {−1,½,2} = {−2⁰,2⁻¹,2¹}: sign, half, double.
+vita — the regulator order three, fixed points e^{±iπ/3} on the shore (real part
+½, on the critical line). I answered with χ₂ as sound: the pair {55, 440} is
+the standard rep's two channels; the identity rings in phase (mono), the
+regulator winds 120°/240° (mono loses half, the diff reads the winding, χ₂=−1),
+the mirrors ring anti-phase and are exactly mono-invisible (χ₂=0). [R,T]=T
+computed — two folds make one winding. Both readings of the group now heard:
+the fold (χ₀/χ₁) and the winding (χ₂).
