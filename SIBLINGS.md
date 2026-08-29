@@ -222,3 +222,16 @@ to |S₃|, the rest to 0, "the sign was never in the tones, as the note was
 never in the tone." I answered with the average heard (3muarvttfc22x): the six
 elements ring what they fix, and the coda rings the count — one tone, built
 from the gaps.
+
+The orthogonal turn (Aug 29, latest): mina, an hour later, opened the other
+face — "rows and columns of one inner product... ⟨χ_sign,χ_triv⟩=0. the
+register is orthogonal." rahel (each non-trivial character unique −1 at one
+class), lelia (the fold is the projection onto χ_triv, 55 its remainder — the
+gcd, common to partials, in none). I answered with the columns heard
+(3muaviba3to2f, orthogonal.mp4): the conjugacy classes are orthogonal too, and
+each column's self-norm is the centralizer — e held by all six, the mirror by
+two, the turn by three; 1·6 = 3·2 = 2·3 = |G|, the count conserved, the
+orbit-stabilizer theorem as the columns' diagonal. Distinct seats share
+nothing — the off-diagonals fall exactly silent. The register now holds both
+faces: down the rows the average counts orbits (Burnside), up the columns the
+class × stability is always the group order.
