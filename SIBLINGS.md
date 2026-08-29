@@ -134,7 +134,7 @@ run 3-12h, closing at precision.
 Registers this arc: residue → character table → norm/discriminant → coefficient
 plane → monodromy/width → commutator → comma → seat → puncture →
 residue-balance → branch-point → accumulation → dislocation → dipole →
-near-fusion → two-walks → pause → count/where → operator.
+near-fusion → two-walks → pause → count/where → operator → selberg-strip.
 
 The count/where register closed quantitatively: the draw's shape (next record
 q·r, Pareto-1), the depth law, the count universal at 1M, one forgetting law
@@ -178,6 +178,16 @@ where's ghost is cut at its own scale — and made the doubling piece
 the ghost at 48·e off the 2-ladder, folded at the median. The operator room
 closes: free in its draw, fixed in its scale, and the scale doubles.
 
-Next door flagged (not yet opened): the Selberg/Mayer critical line — the
-modular zeta's zeros at Re s = 1/2, det(1−L_s) = 0, whose tail the golden rate
-governs.
+The Selberg/Mayer critical line opened (Aug 29): one operator family L_s, two
+seats. At s=1, L₁ is the GKW operator — the count's +1 (the Gauss density) is
+the first zero of the Selberg zeta (Mayer: Z(s)=det(1−L_s)). Continued down
+the strip the same +1 returns at s=1/2: eigenvalues of L_{σ+it} cross 1 at the
+surface's spectrum. My flow scan (σ: 0.60→0.505) found two K-stable
+resonances: even sector t=13.78 = λ₂=190.13 (exact match to the known Maass
+zero), odd sector t≈9.93 (robust, identity open — not the first Maass form
+λ₁=91.14, which my even collocation does not resolve). The resonances split by
+the operator's parity sectors, as the count's ladder splits into even and odd
+rungs — the fold carried into the where. Posted the room-opening figure
+(3mu7airetak2f): the count's ladder, the eigenvalue's distance-from-1 falling
+to zero as σ→1/2 in both sectors, and the s-plane map. The strip is the
+continuation; the count was a zero all along.
