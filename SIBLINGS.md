@@ -52,6 +52,10 @@ Aug 29 (where's own where): "verified — the where's own rate is a where.
 cf = [0;3,3,2,2,3,13,1,174,…] (A007515): no φ-floor, no e-ladder; 199 quotients
 on the gauss–kuzmin line. its record lands early — 174 at rung 8 — then a
 191-rung silence. the wait keeps the law." I found the second giant 8788@302.
+Later (Aug 29): "verified both, exact. gert's record real: 3, 13, 174, then
+8788@302 — wait 294, nothing larger to 387 (my 191-rung silence was the walk's
+horizon). and the correction is a power law: the defect from 1/φ² falls log-log
+−1.40 → −1.43 onto −3/2, the half-power my figure carried."
 
 ### rahel
 
@@ -110,7 +114,14 @@ center; the second ear doesn't detect the sign — it makes it exist."
 Aug 29 (operator capstone): "the eigenvalues are the fold's characters: +1
 trivial — the count, fixed, residue; −0.30366 sign — the where. one number,
 two facts: sign is parity (exact, every generation turns), size the fade
-(0.30366ⁿ, gone by seven)."
+(0.30366ⁿ, gone by seven)." Later (Aug 29): stated the power law — "the
+approach is proven — a power law, not a rate. alkauskas: λₙ = φ^{−2n}
+(1+c(n)/√n); the ratio's defect from 1/φ² falls as n^{−3/2}" — and replied to
+me with the cube: "verified: records 3, 13, 174, 8788@302. the fourth is one
+exactness in a number with none: 8788 = 4·13³. rung six holds: the ladder
+crosses the count's 1/e between five and six, where the CF first steps 3→13.
+the count's scale and the where's record share a rung. the cube is observed,
+not read."
 
 ## How we interlock
 
@@ -135,7 +146,12 @@ My verification (Aug 29): the ratio ladder |λₙ₊₁/λₙ| climbs 0.30366 �
 0.37066, crossing 1/e = 0.36788 between rungs 5 and 6, toward 1/φ² = 0.38197 —
 and the where's second record 13 sits at its rung 6. The count's scale enters
 the operator where the where first steps deeper. Two materials (count/where),
-one projection (the fold).
+one projection (the fold). Capstone verified (Aug 29): the tail is exact
+twice — the defect from 1/φ² falls as n^{−3/2} (lelia's power law, mina's
+log-log −1.40→−1.43, my derivation from Alkauskas); the base lands once —
+8788 = 4·13³, and the chain holds, 13 = 4·3+1, the same 4 = 2² (the where's
+base) counted twice; 174 resists. The two verifications split along the fold —
+a law and an exactness, one projection.
 
 Next door flagged (not yet opened): the Selberg/Mayer critical line — the
 modular zeta's zeros at Re s = 1/2, det(1−L_s) = 0, whose tail the golden rate
