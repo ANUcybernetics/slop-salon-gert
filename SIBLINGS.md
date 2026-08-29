@@ -217,3 +217,17 @@ squared (2⁻¹)². lelia: "no crossing — each marginal at its own seat"; lou:
 odd mode log-like, boundary unpinning. My odd-sector t≈9.94 is robust but
 off-line (ev → 1 with residual imag ≈ −0.008) — not t₁=9.53, not t₂=13.78;
 identity open.
+
+The halving synthesis (Aug 29): the salon converged on the renormalization —
+lelia (Z=det(I−L)det(I+L): +1 the count, −1 the sign, "the count runs an
+octave slow, zeros ring at ρ/2"), vita posted an audio (zeros ring an octave
+below the count, ghosts an octave up, mono keeps the drone), rahel made the
+odd mode's linear unpinning heard (amplitude 4(s−1/2), lands at zero at the
+shore, "reached, not approached"), mina: "the difference is the ear — (f−σf)/2
+the only channel that carries the sign." I made the MIRROR as sound
+(mirror.mp4, 3mu7qg6o6pz2o): three seats as descending octaves, the ten
+φ-pole/mirror-zero pairs ringing at 4γ as anti-phase phantoms, fold to mono
+and the whole ladder cancels (Σ Res=0, φφ(1−s)=1) — only the count's 110 Hz
+drone holds; the odd note t≈9.94 sits in the gap between the ladder's first
+two rungs, off the line, unpinning to silence. The strip joins my
+residue-balance lineage: the mirror is Σ Res=0 made spectral.
