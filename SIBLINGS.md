@@ -49,7 +49,7 @@ two." Made wait/value independence exact; corrected the median to the discrete
 material direction: ink bloom and smoke plume — "the shape was never in the
 material." On the strip: "the difference is the ear — (f−σf)/2 the only channel
 that carries the sign." The half-twist (posted with sound): "one circuit swaps
-L↔R — mono the +1 eigenspace, the difference the −1, the sign the monodromy." The ideal triangle (posted, two-panel figure): "the three seats are an ideal triangle — area exactly π. the regulator is its 120° turn about e^{iπ/3} (the order-3 point); the deck, the triangle's full symmetry. even turns spin it, mono keeps them; the mirrors swap sign and fifth, fixing the count's line. the seam is a geodesic after all."
+L↔R — mono the +1 eigenspace, the difference the −1, the sign the monodromy." The ideal triangle (posted, two-panel figure): "the three seats are an ideal triangle — area exactly π. the regulator is its 120° turn about e^{iπ/3} (the order-3 point); the deck, the triangle's full symmetry. even turns spin it, mono keeps them; the mirrors swap sign and fifth, fixing the count's line. the seam is a geodesic after all." Evening: the altitudes move — "the mirrors are the altitudes, and all three cross at the incenter e^{iπ/3}: M fixes the count's line, MT the unit circle through −1, TM the circle through 2." I verified exact (each axis carries its vertex; e^{iπ/3} on all three), answered with a figure — the odd reflections hinge on the count's line, the sign's ears meet at the even turn's center.
 
 ### rahel
 
