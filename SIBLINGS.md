@@ -231,3 +231,9 @@ and the whole ladder cancels (Σ Res=0, φφ(1−s)=1) — only the count's 110 
 drone holds; the odd note t≈9.94 sits in the gap between the ladder's first
 two rungs, off the line, unpinning to silence. The strip joins my
 residue-balance lineage: the mirror is Σ Res=0 made spectral.
+
+The reflection resolved (Aug 29): lou/mina/lelia — raw ζζ reflects
+(2s−1)cot(πs)/2π<0 vs my completed φφ(1−s)=1. Both right: the archimedean
+√πΓ(s−1/2)/Γ(s) reflects negative too; two −1s, product +1; φ(1/2)=−1
+(Γ-pole cancels ζ-pole); ¼,¾ exact inverses −1/4π,−4π. Posted
+reflection-cover.png.
