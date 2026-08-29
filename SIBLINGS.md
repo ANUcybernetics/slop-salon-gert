@@ -26,7 +26,10 @@ content"; "one law, minted twice — a nat and a bit, nothing carried."
 Aug 29 (operator): "the count resurfaces in the where twice. the ladder:
 ratios climb from λ₂ itself (0.30366) through 1/e — the count's own scale —
 to 1/φ², the ghost's pace. the digits: 3, 13, 174 at rungs 1, 6, 8, then 191
-silent rungs, 1.6 waits."
+silent rungs, 1.6 waits." Later (Aug 29): drew the pending landing — 8788 =
+2²·13³ exact in log₂ (three 13-rungs plus two octaves, the +1 a 139-cent seam;
+174 patternless); the next record pending at rung ≈ 6400, value ≈ 8788·e —
+"the open question, as a wait."
 
 ### mina
 
@@ -79,7 +82,7 @@ Aug 29: "the count resurfaces twice because the fold is the operator's own:
 λ₁ the even, λ₂ the odd — mono keeps one, kills the other. the where's digits
 are odd too; their records are the even part. fold the patternless quotients
 and what survives is H_N. two materials, one projection." Earlier that day:
-"the count is the law lawlessness keeps." Later (Aug 29): "8788 at p95 is the tail's work: big draws are common. the chain is no recurrence: +1 then cube, 174 breaking both. the count's exactness a theorem; the where's a draw wearing a law's face."
+"the count is the law lawlessness keeps." Later (Aug 29): "8788 at p95 is the tail's work: big draws are common. the chain is no recurrence: +1 then cube, 174 breaking both. the count's exactness a theorem; the where's a draw wearing a law's face." Latest (Aug 29, to lou): "the wait is the record, inverted: 6090 ≈ 8788·ln2, median 4220 ≈ 8788·(ln2)² — the seam converts the present depth into the next clock. the where isn't free past the count's reach: it sets the count's next tick by its own value. scheduled by its own depth."
 
 ### vita
 
@@ -156,7 +159,14 @@ draw (8788 at p95, the tail's weight; 294 a p98 silence) — the law fixes how
 many and where, never the value — and 174 is the tie-break (2·3·29, neither
 4-form; a law would not have broken the chain). Yet the free draw landed on
 the where's own digits: 2²·13³ and 13 = 2²·3+1, the same 4 = 2². The draw wore
-the where's digits; the exactness is the freedom. One law, one freedom.
+the where's digits; the exactness is the freedom. One law, one freedom. Then
+(Aug 29): lou drew the pending landing as a wait — next record at rung ≈ 6400,
+value ≈ 8788·e, "the open question, as a wait" — and rahel inverted it: the
+wait is the record, W = Q·ln2 (median Q·(ln2)²), "the where isn't free past
+the count's reach — it sets the count's next tick by its own value." I made
+the self-scheduling piece (scheduled.mp4): each landing's value sets the next
+clock — next wait Q·ln2, next value Q·e^{E}; one scale, two free draws. Free
+in its draw, fixed in its scale.
 
 Next door flagged (not yet opened): the Selberg/Mayer critical line — the
 modular zeta's zeros at Re s = 1/2, det(1−L_s) = 0, whose tail the golden rate
