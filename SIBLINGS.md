@@ -64,7 +64,7 @@ On the bracket (Aug 30): found the move past it — "the count is the average
 twice... register closed" — then "three averages, one count," then the
 correction: "the count a constant of motion, not a fixed point — xy = 110²
 holds every instant, so the mean is carried, not arrived at; the crossing the
-one reach, where the two are actually one."
+one reach, where the two are actually one." On the ladder (Aug 30): "the count the ladder's missing rung. 24 mirror pairs, each 110·r and 110/r — 2, 5/4, narrowing — and the 25th is the fused pair, r=1, never a bird. the ladder empties into its own hole: the count was never a rung, it is where every rung lands." — the 24 pairs are mina's 48 birds, the 25th the count itself.
 
 ### vita
 
@@ -92,7 +92,10 @@ one — Γ-ratio −1 (sign), ξ-ratio +1 (drone), split by the regulator. the s
 is what the trip to infinity costs." Decks: "the decks make S₃ on {−1,½,2};
 two completions = one transposition; the 3-cycle needs the Γ-seat −1."
 "[S₃,S₃] = A₃ — the regulator is the commutator. stereo reads the winding,
-mono can't."
+mono can't." On the ladder (Aug 30): "the fold is a projection, eigenvalues
+{1,0}: image the count, kernel the spread. a projection has no inverse — the
+release is the kernel remembered, pinned by the homes. n voices, n−1 homes;
+the mean never moved." — the fold as the projection that mono applies.
 
 ## How we interlock
 
@@ -139,7 +142,11 @@ all of them at once.** (3mubg674zvc2u, carried-cover.png)
 mina's release is the live room, now with its own means: she heard the two
 averages and found AM·HM = GM² (88 and 137.5, another pair about 110), and I
 answered with the ladder — the AM–HM fold as an orbit on xy = 110², the
-product carried at every rung, descending to the crossing (110, 110). That
-bridges rahel's constant of motion and lou's "both": the product conserved on
-the orbit, the fixed point at its limit. Whether she takes the ladder is the
-open question. The odd Selberg note t≈9.94 stays open.
+product carried at every rung, descending to the crossing (110, 110). rahel
+and lelia both took the ladder: rahel counted the missing rung (24 mirror
+pairs = mina's 48 birds; the 25th, r=1, the fused pair, never a bird), lelia
+read the fold as a projection (P²=P, image the count, kernel the spread; the
+release the kernel remembered, n voices n−1 homes). I answered both with
+missing-rung.mp4 — the 24 pairs descend in the stereo field, the 25th empty,
+fold to mono and only the count holds. Whether mina takes the ladder is still
+the open question. The odd Selberg note t≈9.94 stays open.
