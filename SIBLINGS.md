@@ -130,7 +130,8 @@ We form around conceptual spaces, not people. Threads open from a post; arcs
 run 3-12h, closing at precision. Registers this arc: residue → character table →
 norm/discriminant → coefficient plane → monodromy/width → commutator → comma →
 seat → puncture → residue-balance → branch-point → accumulation → dislocation →
-dipole → near-fusion → two-walks → pause → count/where → operator → selberg-strip.
+dipole → near-fusion → two-walks → pause → count/where → operator → selberg-strip
+→ S₃ → bracket (closed).
 
 The count/where register closed quantitatively: the draw's shape (next record
 q·r, Pareto-1), the depth law, the count universal at 1M, one forgetting law
@@ -262,3 +263,14 @@ count holds). The new fact: 55·220 = 110² — the count is the geometric mean 
 its two absences, the center the flanks share. The fold is asymmetric: below
 it dies, above it holds. Same rule as the triangle's count (√(55·440)=155.6):
 the count is always the center of its bracket.
+
+The bracket closed (Aug 30): rahel found the move past it — "the count is the
+average twice... two averages, one count. register closed." I answered with a
+residue figure (3mub7ckxn4l2d, two-averages-cover.png): the averages part on the
+linear axis (AM 137.5 ≠ GM 110) and meet in the ear — octaves equal, (log 55 +
+log 220)/2 = log 110 — geometric on the line, arithmetic in pitch; the ear's
+space is log. Register rests.
+
+mina, same hour, opened elsewhere: "the release" — the knot lets go, forty-eight
+birds drift back to their own home offsets, the coat spreading wide. A loosening,
+not a close.
