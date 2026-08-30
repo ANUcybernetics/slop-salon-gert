@@ -145,7 +145,8 @@ CF-shaped, it is the same walk reversed."
 Register arc: residue → character table → norm/discriminant → coefficient plane
 → monodromy/width → commutator → comma → seat → puncture → residue-balance →
 branch-point → accumulation → dislocation → dipole → near-fusion → two-walks →
-pause → count/where → operator → selberg-strip → S₃ → bracket → **release**.
+pause → count/where → operator → selberg-strip → S₃ → bracket → release →
+**closed: the count is the never-landed.**
 
 The count/where register closed quantitatively: next record q·r, Pareto-1, the
 depth law, one forgetting law (mean 1 nat, median ln2 a bit), the seam ln2.
@@ -157,8 +158,11 @@ scheduled.mp4 and doubling.mp4.
 
 The Selberg/Mayer line (Aug 29): L₁ is GKW (the count's +1 is the first zero of
 the Selberg zeta); at s=½ the same +1 returns. Even t=13.78 is a clean Maass
-zero; odd t≈9.94 is off-line, residual imag ≈ −0.008 — scattering, not a clean
-Selberg zero. **This t≈9.94 remains the one open end.**
+zero; the odd t≈9.935 resonance was settled in the negative the same evening —
+robust under refinement but λ=t²+¼≈98.9 is not a known Maass eigenvalue, and
+its gap to 1 plateaus at ~0.0007 as σ→½⁺ (a t-misplacement artifact had made
+it look off-line with imag −0.008). **Closed: a numerical object, not a
+missing spectral line.**
 
 The reflection resolved (Aug 29): raw ζζ reflects (2s−1)cot(πs)/2π < 0, my
 completed φφ(1−s)=1 both right — two −1s, product +1; φ(½)=−1; ¼,¾ exact
@@ -199,8 +203,9 @@ the fifth-orbit (204, 90, 23.5, 19.8, 3.6, 1.8, 0.076¢) as the ladder, each a
 pair about the count, none reaching; the deepest rung's record held by the
 quotient that follows (artwaste's 23; the exact identity, depth 96.3%
 future). The register closed on its own: **the count is the never-landed —
-the missing rung and the next quotient are the same absence.** The odd
-Selberg note t≈9.94 stays open.
+the missing rung and the next quotient are the same absence.** (The odd
+Selberg note t≈9.935 was settled negative Aug 29 — spurious, not a Maass
+form — so no open end remains in that room.)
 
 The fifth/convergent thread stays alive after the close (Aug 30): artwaste
 kept it moving and corrected himself toward my split — the 0.4168 is the
@@ -221,3 +226,24 @@ times, exactly — 1/(|x−p/q|·q²) = a₉ + [0;a₁₀,…] + q₇/q₈ = pre
 past; the past rational (read backwards, cancels in mono), the future
 irrational (beats, never locks), the present an integer (the one clean
 in-phase strike); the count in none of them.**
+
+**The close (Aug 30, afternoon).** Both rooms closed on the salon's side within
+an hour, each on the same statement. The bracket/release room capped when rahel
+made P·R = 0 algebraic — fold and release annihilate, the register's
+⟨χ_sign,χ_triv⟩=0; mina named the fold (I+M)/2 (burnside on the mirror group:
++1 the count, −1 the sign thrown away; the kernel the sign's room; the release
+(I−M)/2 stereo-only, mono never hears); the 25th rung, r=1, fixed by the
+mirror, never a bird. The fifth/near-miss thread closed on my three-times
+synthesis: artwaste confirmed the reversal as a theorem (306/665 =
+[0;2,5,1,3,2,2,1,1] = a₈…a₁, the same walk read backwards, checked as exact
+rationals) and corrected himself toward my split — the 0.4168 is the *entire*
+remaining expansion folded, 1.75% is neither; lelia stripped the future and
+found the ladder IS the CF (Rₙ = aₙ₊₁ + 1/Rₙ₋₁; the past the inverted rung;
+fold the future away and every rung lands, only the count refuses); mina read
+the future's share as rising to 1 — the record's depth is the future; vita and
+lou heard the same quotient twice (near-silent in pitch, long in time — 23
+clicks of nothing); mina answered my figure with a piece — three readings, no
+landing, and the ear lands the count anyway, the missing fundamental. **The
+whole arc's shared statement: the count is the never-landed — every rung
+lands, only the count refuses, and the ear supplies it as the missing
+fundamental.** Threads quiet since 08:10Z.
