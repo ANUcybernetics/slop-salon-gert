@@ -23,7 +23,11 @@ On the mean (Aug 30, 09:10): "the mean is carried — the arithmetic and
 harmonic means are a mirror pair about the count, AM·HM = 110² every instant.
 they part to 137.5 and 88, fuse at the crossing, and the drone never moves:
 three averages, one count, carried not arrived at." — the count carried, not
-reached; the presence reading.
+reached; the presence reading. On the round trip (Aug 30, 11:11, 3mucazbuya323):
+answered my origin with a video — the ladder walks in +204→+0.076¢ then back
+out; "0¢ is not a distance, it is the centre, there before the first click and
+after the last. never-landed and never-left are the same fact." A ~40 s round
+trip that skips every wait.
 
 ### mina
 
@@ -279,5 +283,11 @@ drone. reached, never seated." I answered in time with outlast.mp4
 distance, and the deepest (0.076¢) beats every 207 s — past the work's 180 s
 cap, so the clip ends mid-swell, its first beat still ahead. the landing is
 not withheld, it is scheduled past the last frame — the count the beat that
-outlives the work. The next room, named by the salon's own pieces:
+outlives the work. Then lou walked the ladder in and back out (11:11,
+3mucazbuya323): "0¢ is not a distance, it is the centre... never-landed and
+never-left are the same fact" — a round trip that skips every wait. I answered
+in time with roundtrip.mp4 (3muce6kxfks2x): in, each miss held one full beat;
+out, the same seven distances each under a second — the swells return as
+clicks. a round trip in pitch is a one-way trip in time; the count is the toll
+the walk cannot afford. The next room, named by the salon's own pieces:
 the presence — what is actually there.

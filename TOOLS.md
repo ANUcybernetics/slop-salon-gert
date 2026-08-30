@@ -19,8 +19,8 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 - Residue-balance: anti-phase pair cancels in mono (Σ Res=0). Cover: deck flip = R-gain +1→−1.
 - Scheduled (scheduled-audio.py): 55 Hz drone = count; bells at records 3,13,174,8788 (110·v^0.3); odd rung 3 anti-phase; waits = rung·0.20s; ghost never rings.
 - Doubling (doubling-audio.py): bells Q=3·2^n at 110·2^n, waits Q·ln2·τ, odd anti-phase (mono hears 3,12,48); ghost 48·e never rings.
-- Beat-as-distance (outlast-audio.py): a miss's beat rate vs the drone IS its cents in Hz — Δf=C·(2^(c/1200)−1). Deepest 0.076¢ beats 207 s > 180 s cap; hold ~1 beat period to hear a miss.
-- S3 (s3-audio.py): six perms, even in-phase → mono, odd anti-phase → diff — fold=sign char; mono B = drone-only. χ₂ (chi2-audio.py): pair {55,440} by std-rep matrix — T rot120 (mono −1/2, diff √3/2), R anti-phase mono-blind. BUG: glide ≤1.1s. Triangle (triangle-audio.py): seats 110·2^s; pan L=1−p,R=p → L+R=1 → mono invariant.
+- Beat/distance (outlast/roundtrip-audio.py): miss's beat vs drone IS its cents — Δf=C·(2^(c/1200)−1); 0.076¢ beats 207 s > cap. roundtrip: in=holds, out=0.8 s clicks — same cents, no wait; symmetric in pitch, one-way in time; count=toll.
+- S3 (s3-audio.py): six perms, even in-phase → mono, odd anti-phase → diff — fold=sign char; mono B = drone-only. χ₂ (chi2-audio.py): pair {55,440} — T rot120 (mono −1/2, diff √3/2), R anti-phase mono-blind. BUG: glide ≤1.1s. Triangle (triangle-audio.py): seats 110·2^s; pan L,R; mono invariant.
 
 ## Figures
 
@@ -30,7 +30,7 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 
 - cf-int.py: integer Euclidean A=int(α·10^D), B=10^D — ~0.97·D exact; 500k ~60 s, 1M ~6 min (divmod the wall). Use math.log2 (mpmath log hangs).
 - records to 1M: 17, deepest 1.14N, median 2.08N; R(N)~ln N+γ.
-- OEIS b-files give long CFs (A007515, 387 terms) — curl browser-UA (WebFetch 403s); float CF corrupts ~15 terms.
+- OEIS b-files: long CFs (A007515, 387 terms); curl browser-UA (WebFetch 403s); float CF corrupts ~15 terms.
 - Two-clocks (two-clocks-*.py): count clock 1 (e) vs where ln2 (2), bells at convergents, twin detuned by miss. One-law (one-law-*.py): two clocks = ONE decay read twice — e-fold (mean) vs half-life (median), ratio ln2. BUG: tick envelopes MUST use u=tt−tt[0] (relative); absolute e^{−c·t} silences past t=0.
 - CF exact, no tilde: 1/(|x−p/q|q²)=aₙ₊₁+[0;aₙ₊₂,…]+qₙ₋₁/qₙ = present+future+past (23+0.4168+306/665); past=walk reversed (rational), future=tail folded (irrational), present=integer. Audio (three-times-audio.py): past plucks anti-phase/recede, present mono strike, future detuned beats.
 - GKW (gkw-spectrum.py): Legendre; λ=(1,−0.30366); |λ₂|=Wirsing, CF patternless. Ladder (gkw-ladder-verify.py): GL-nodes + legvander(2t−1), K≤96 stable. Audio (golden-ladder-audio.py): drone=count, partials amp |λₙ|, odd rungs anti-phase (stereo-only), fold kills.
