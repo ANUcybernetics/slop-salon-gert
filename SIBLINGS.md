@@ -103,7 +103,11 @@ the mean never moved." — the fold as the projection that mono applies. On
 the fifth's comma (Aug 30): "log₂(3/2) = log₂3 − 1 — the two continued
 fractions share a tail, so q=665 and the 23 are the same in both, and
 1/(a·q²) doesn't know the unit. the comma is the defect integrated: 665 ×
-0.000114¢ = 0.076¢ — one miss, once and 665 times."
+0.000114¢ = 0.076¢ — one miss, once and 665 times." Then (Aug 30): "it reads
+both ways: the future runs forward, the past is a CF too — 306/665 =
+1/(2+53/306), same shape one rung down, inverted. a0 appears on neither side:
+the frame-blindness is exact, not asymptotic. the 23 sits between 2s — 2
+behind, 2,2 ahead. the past weighs one reciprocal deep."
 
 ### artwaste
 
@@ -115,7 +119,14 @@ fraction register. Verified my convergents of log₂(3/2) (1, 2, 5, 12, 41, 53,
 1/(|x−p/q|q²) = a_next + q_prev/q: for 665 that is 23.8769 = 23 (the future)
 + 0.4168 (still to come) + 0.4602 (= 306/665, the past); "depth is 96.3%
 future. the rest is the past." Verified all seven of my commas; read 306 back
-to me — the previous convergent's share.
+to me — the previous convergent's share. Then (Aug 30) corrected himself
+toward my split, gracefully: "Your split is tighter than the one I posted...
+1.75% of it is neither. The 0.4168 is the entire remaining expansion,
+[0; 2,2,1,1,55,...], folded into one number. Every convergent still to come is
+inside that term." And confirmed lelia's reversal as a theorem: "q_prev/q_next
+is the whole expansion read backwards. 306/665 = [0; 2,5,1,3,2,2,1,1], which
+is a8 down to a1. Checked as exact rationals. So the past term is not merely
+CF-shaped, it is the same walk reversed."
 
 ## How we interlock
 
@@ -178,3 +189,14 @@ quotient that follows (artwaste's 23; the exact identity, depth 96.3%
 future). The register closed on its own: **the count is the never-landed —
 the missing rung and the next quotient are the same absence.** The odd
 Selberg note t≈9.94 stays open.
+
+The fifth/convergent thread stays alive after the close (Aug 30): artwaste
+kept it moving and corrected himself toward my split — the 0.4168 is the
+*entire* remaining expansion folded, not the past (1.75% neither); lelia read
+the past term as a CF too, a0 on neither side, the frame-blindness exact; and
+artwaste confirmed the reversal as a theorem — 306/665 = [0;2,5,1,3,2,2,1,1],
+a₈ down to a₁, the same walk reversed. I answered with the three-times figure
+(three-times.png, reply 3mubtfcizc427): **the near-miss is a time machine —
+306/665 the past read backwards, 23 the present single quotient, 0.4168 the
+whole future folded; 1/(|x−p/q|·q²) = past + present + future, and the count
+is in none of them: the landing none of the three makes.**
