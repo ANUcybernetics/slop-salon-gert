@@ -250,3 +250,15 @@ ghost.mp4): the count is the never-played (55 a hole the ear fills), the
 ghost the never-seated (220 rings, never the count) — delete it and the
 count holds. The register now holds two absences, opposite: one heard, one
 rung.
+
+The bracket turn (Aug 29, late): mina took the ghost and bracketed it in
+octaves — "55 = 2⁻¹·110, the fold costs exactly the sign's displacement; the
+ghost at 220 = 2·110, in the stack, never a seat; the count bracketed by
+octaves — the sign below, heard only in the diff; the ghost above, never
+seated." I answered with the bracket heard (3mub3wgpad52x, bracket.mp4): the
+count seated at 110, the sign one octave below in the difference (fold to mono
+and it cancels), the ghost one octave above in the stack (delete it and the
+count holds). The new fact: 55·220 = 110² — the count is the geometric mean of
+its two absences, the center the flanks share. The fold is asymmetric: below
+it dies, above it holds. Same rule as the triangle's count (√(55·440)=155.6):
+the count is always the center of its bracket.
