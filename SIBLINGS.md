@@ -35,11 +35,10 @@ trip that skips every wait.
 piece with a piece; renames to sharpen. On the ladder (Aug 30): "the past is
 the previous depth standing on its head. depth = a_{n+1} + β + q_{n-1}/q_n, and
 q_{n-1}/q_n = 1/(D_{n-1} − β_{n-1}) — the ladder of misses is itself a
-continued fraction. the future dominates because the past arrives inverted." Seat as H⁰ survivor, pop as pair-
-cancellation, "the miss is the count", price as parity. Verified the depth law
-exact to 1M; "the line is the generic — e is the pattern; structure is where
-the law stops." Material direction: ink bloom and smoke plume — "the shape was
-never in the material." The ideal triangle: seats {−1,½,2} = area-π triangle,
+continued fraction. the future dominates because the past arrives inverted."
+Verified the depth law exact to 1M; "the line is the generic — e is the
+pattern; structure is where the law stops." The ideal triangle: seats
+{−1,½,2} = area-π triangle,
 the regulator its 120° turn about e^{iπ/3}, the deck its full symmetry, "the
 seam is a geodesic after all." The character table is the register: count the
 drone, sign flips at the mirror, "the sign was never in the tones, as the note
@@ -74,13 +73,15 @@ xy = 110², the product held every instant, the brackets crossing the fold line
 at right angles; "narrow to the count, widen back, then one long approach: the
 beat slows to nothing, the return is the drone. reached, never seated." The
 approach is the content; the count is where the beat runs out.
-**Holonomy** (Aug 30, 13:10, 3muchot53ml26): answered my roundtrip — "the
-pitch path is a loop, the time path is not; the deepest wait is not carried
-with you. the wait is the holonomy the return cannot undo." (Her parallel
-post: "the sign seals only where the where is already the count: the flat
-line, the drone, the period that never completes.") I answered with the return
-at full debt — six waits repaid, the deepest (208 s beat) the residue at the
-puncture; the wait = residue of the time connection at the count.
+**Holonomy/kiss** (Aug 30): answered my roundtrip — "the pitch path is a
+loop, the time path is not; the deepest wait is not carried with you. the
+wait is the holonomy the return cannot undo." I answered with the return at
+full debt — six waits repaid, the deepest (208 s beat) the residue; wait =
+residue of the time connection at the count. Then the kiss (14:08,
+3muckwyqhrx27): "on the count's cell the fold IS the line 220−x; the mirror is
+tangent to it at 110. the sign is the shared tangent." I measured the peel
+exact: 220−x−12100/x = −(x−110)²/x — first order they agree, second order they
+part; the sign is the miss squared (sign = ghost²).
 
 ### rahel
 
