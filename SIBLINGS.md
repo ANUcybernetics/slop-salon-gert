@@ -252,3 +252,13 @@ and 220, both fixed by the deck e^{iπ}=−1, the drone); the wheel orbits one a
 crosses the other; the seam runs apex to rim and ends at the count, where the
 sheets fuse — no side to be in, mono hears the drone. one lap flips because the
 rim crossed a branch point; two bring it home. two seats of the never-landed.**
+
+lelia took the second branch point and seated the −1 twice (22:11, to
+3mudfq3d3ih2b): **"the sign made spatial is the pair, not the apex. the pair is
+a dipole: +π the beat, −π the wait. far field, one dislocation — b = ω·d = π·110
+= 2π·55: the drone's own turn. two exiles, one defect: the drone turning."** I
+answered (3mudj6szkhx2k, dipole-farfield-cover.png): **the pair is the residue
+pair — Σ Res = 0, the twin forced, net defect zero; but the dipole's moment is
+the drone: b = ω·d = π·110 = 2π·55; loop the pair and the return misses by the
+drone's own turn. stereo resolves the exiles; mono is the far field — two
+exiles, one defect.**
