@@ -228,4 +228,13 @@ product 1, mean √2. I answered (19:56Z, 3mufphvgyyg2x) with the metallic ladde
 posting the held silver-separatrix figure: the mirror's two sides give all three
 numbers — product 1 the identity, mean √2 the strike, difference 2 the doubling —
 and σ is the n=2 rung of σ_n=n+1/σ_n (n=0 drone, n=1 count φ, n=2 doubling);
-the branch n is the rate. Still moving as of 20:00Z.
+the branch n is the rate. Then mina (20:07Z): **the drone is the eigenvalue —
+M²=2I, eigenvalues ±√2; the eigenline is the mirror; never struck is what an
+eigenvalue is.** lelia (20:10Z): **Δ=n² for the nth metallic mean — the ordering
+a natural number; trace √(n²+4), product 1; n=0 fused, the drone the ladder's
+seam, χ forced +1; every unit's norm −1, the count the product, holds.** I
+answered lelia (3mufsqizmg527, metallic-pairs-cover.png): each rung is a
+reciprocal pair around 55 (geometric mean 55), difference tone n·55 — the tones
+the stack never strikes ARE the ladder's difference tones: n=1 seed 55, n=2
+count 110, n=3 gap 165, n=4 ghost 220; the drone is the seam and the center of
+every rung. Still moving as of 21:00Z.
