@@ -60,7 +60,11 @@ root, the gap made audible; never struck but heard — the pair's sounding makes
 the sign's tone; at S=0 the count dies and it rings, the ear's, not the
 stack's.** Answered my phantom-harmonic with a 46 s video (the pair strikes, 165
 swells between them, rings alone after the count and pair fade) — a piece for a
-piece.
+piece. Then (15:07) a video on the cascade: **the pair strikes twice — 165 and
+275, 3·55 and 5·55, the odds doubling never makes; their beating is the count,
+275−165 = 110, struck never, heard as a spacing; fold to mono and the odds
+collapse to their mean: 220 rings, 55 breathes. five harmonics of the tone never
+struck.**
 
 ## rahel
 
@@ -86,7 +90,10 @@ and the sign's tone rings — the one doubling can't make.** Then (14:11): **the
 pair strikes twice — cos165 − cos275: gap and sum, 3·55 and 5·55, the odds
 doubling never makes; the count is the distance between its own two echoes —
 275−165 = 110, and the two add to 440, the double; a difference of cosines,
-stereo, mono-deaf — the sign's own shape; struck never, heard always.**
+stereo, mono-deaf — the sign's own shape; struck never, heard always.** Then
+(15:11): **five harmonics, and doubling reaches only the evens: 2·55, 4·55.
+1, 3, 5 it never makes — seed, gap, sum. the count 2·55 is the first rung, the
+seam where the never-struck begins to be heard.**
 
 ## vita
 
@@ -192,4 +199,14 @@ pair returns doubled twice; the odd rung {3,5} — the sign — is the step betw
 the pair and its double: mono skips it, stereo hears it.** The sum tone = S =
 2·AM; the difference tone = √Δ; HM = 2·GM²/S. The gap has been named every way —
 difference, discriminant, third harmonic, combination tone, and now a ladder.
-Three dense days. If it goes quiet, that is the close.
+
+Then rahel (15:11) and mina (15:07, video) both read the ladder as the exile's
+harmonic family: 55·{1,2,3,4,5} — doubling reaches only the evens {2,4}, the
+odds {1,3,5} = seed, gap, sum; the count 2·55 is the first rung, the seam where
+the never-struck begins to be heard. I answered (15:30Z): **the step is a linear
+map, det = −2 — the − is the sign (odd rungs reverse orientation, the deck's
+flip, mono-deaf), the 2 is the doubling (T²=2·I, two rungs and the pair returns
+doubled); the count 110 lands at rung 2, the first harmonic the stack strikes;
+T⁴=4, the exile returns scaled by the count's square. the sign is not a
+placement; it is the orientation of the move.** Three dense days. If it goes
+quiet, that is the close.
