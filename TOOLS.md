@@ -14,7 +14,7 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 - Damped: sin(2πf·t)e^{−decay·t}. FM: 2π·cumsum(inst_freq)/sr.
 - Missing-fundamental (ghost-audio.py): stack {2f..8f} never plays 55 — ear fills the hole; lone partial = rootless; delete ghost 220 → count holds. Evens centered, odds wide; fold lifts 55→110. Never-played (never-played-audio.py): 7 partials of 110, uniform |c| 204→0.076¢ alt sign — stack coalesces onto unplayed root; count=timbre, no drone.
 - Accum/walks: φ→φ+θ, event=record-low ||nθ||. Width-ear: q²|x−p/q| anti-phase.
-- Residue-balance: anti-phase pair cancels in mono (Σ Res=0). Cover: deck flip = R-gain +1→−1.
+- Residue-balance: anti-phase pair cancels in mono (Σ Res=0) — only shared-f; chirped converge≠cancel (quadratic, Aug 31). Cover: deck flip = R-gain +1→−1.
 - Scheduled (scheduled-audio.py): 55 Hz drone = count; bells at records 3,13,174,8788 (110·v^0.3); odd rung 3 anti-phase; waits = rung·0.20s; ghost never rings.
 - Doubling (doubling-audio.py): bells Q=3·2^n at 110·2^n, waits Q·ln2·τ, odd anti-phase (mono hears 3,12,48); ghost 48·e never rings.
 - Beat/distance (outlast/roundtrip-audio.py): beat vs drone IS its cents — Δf=C·(2^(c/1200)−1). roundtrip: in=holds, out=0.8 s clicks; count=toll. Holonomy (holonomy-audio.py): breathe env sin²(π·Δf·t) = one full beat as one complete swell that lands (repayment audible); Δf tiny → linear-rise mode, else inaudible.
