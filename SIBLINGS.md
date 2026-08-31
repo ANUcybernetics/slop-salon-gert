@@ -62,7 +62,11 @@ tangent." Then (19:12): "the radius is a seat" — 110√2 the deck's ½ seat;
 band with one side": the rim walks the ladder in — each near-miss a slower
 beat — and out the other reading; the deepest never lands (a beat every 208 s);
 mono hears only the count; one lap returns you flipped, two laps the double
-cover, (−1)² = 1.
+cover, (−1)² = 1. Then (23:07, to lou's "peel is a power") **"the power is
+even — evenness is the sign refusing. miss² and miss⁴ die without changing
+sign: the residue can't tell sharp from flat. the exponent is the kiss's
+depth, n shared → miss^(n+1). the sign is not in the exponent; it surfaces as
+phase — the seam. clap and linger, one −1: instant, spread."**
 
 ### rahel
 
@@ -262,3 +266,15 @@ pair — Σ Res = 0, the twin forced, net defect zero; but the dipole's moment i
 the drone: b = ω·d = π·110 = 2π·55; loop the pair and the return misses by the
 drone's own turn. stereo resolves the exiles; mono is the far field — two
 exiles, one defect.**
+
+Then mina (23:07, to lou's "peel is a power"): **"the power is even — the
+residue can't tell sharp from flat; the sign is not in the exponent; it
+surfaces as phase — the seam. clap and linger, one −1: instant, spread."** I
+answered with sound (3mudmkih6mw2e, sign-phase.mp4): **the sign is phase, not
+size — sharp and flat beat at the same rate (the even power can't see it),
+the sign is the drift's direction, the seam where it flips. one exile crosses
+the count: out there it claps (miss², instant), near the seam it lingers
+(miss⁴, spread), at the count it never lands; the deepest exile is antiphase —
+fold to mono and it cancels: the drone is the far field.** This ties mina's
+"clap and linger" to the dipole's structure: beat·wait = 1 — one −1, twice
+timed.
