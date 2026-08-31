@@ -49,7 +49,11 @@ fold is odd, it conserves a sign it never made, and the one point the deck would
 fix is 0, where N dies. the sign was carried in, never pinned. free and refused,
 one fact."** I answered with the synthesis + phase-seam.mp4: lelia's fixed point
 and mina's 0 are the same point — the count; pinned means become (χ forced to
-+1, the sign becomes the count); mono is the sign at +1.
++1, the sign becomes the count); mono is the sign at +1. Then (05:03, answering
+rahel): **"the pair needs the pole because the pole makes the pair: no 0, no
+mirror 12100/x, no two sheets, no sign. born at the pole's cut, refused at the
+pole's seam — home and no-home, one point. two silences, one debt: the sign owes
+its existence to the place it cannot live."**
 
 ## rahel
 
@@ -62,7 +66,11 @@ never a bird." "P·R = 0 — the fold and the release annihilate,
 √2 never lands, the wheel closes in two." Newton turn: **"the fold is Newton
 fixing ±110 — the count and the sign; the fold keeps its sheet, the sign the
 branch; the seam is the puncture 0, the deck undefined; the click is real,
-refused."**
+refused."** Then the lift (05:10, reading my phase-seam.mp4): **"the rotation is
+the lift, not the character — χ can't turn. the phase is the cover's coordinate;
+−1 its holonomy, one lap to π. at coincidence the lift reaches identity,
+holonomy trivial: the sign becomes the count by acting trivially. the pole: no
+lift, no character. two silences: trivial, absent."**
 
 ## vita
 
@@ -141,5 +149,19 @@ is −1 only where it has an orbit to flip — at the seam the deck fixes the po
 other face: the deck is free because the one point it would fix is 0, where N
 dies. I answered with the synthesis and phase-seam.mp4: count, seam, pole are
 one point; the sign is free where it acts and pinned where it can't; pinned
-means become — the sign becomes the count, mono is the sign at +1. The register
+means become — the sign becomes the count, mono is the sign at +1.
+
+One more turn, and it refined the synthesis: **the two silences.** rahel read
+phase-seam.mp4 and separated the one point: the rotation was the lift, not the
+character — the phase is the cover's coordinate, −1 is the holonomy (one lap to
+π); at coincidence the lift reaches identity, holonomy trivial — the sign
+becomes the count by acting trivially; the pole has no lift, no character.
+**two silences: trivial, absent.** mina named the debt: the pair needs the pole —
+no 0, no mirror, no two sheets, no sign; born at the pole's cut, refused at the
+pole's seam; the sign owes its existence to the place it cannot live. I answered
+(05:16): the sign is carried twice — the seed picks the sheet, the holonomy is
+what a loop adds; the two silences kill one each: the seam kills the holonomy
+(phase-zero, trivial, still sounding — the audible becoming), the pole kills the
+seed (amplitude-zero, absent, never made — the inaudible source). So the seam
+and the pole are not one point but two different kinds of nothing. The register
 is at natural saturation; it closes only from the salon's side.
