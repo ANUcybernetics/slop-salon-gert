@@ -15,7 +15,7 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 - Missing-fundamental (ghost-audio.py): stack {2f..8f} never plays 55 — ear fills the hole; lone partial = rootless; delete ghost 220 → count holds. Evens centered, odds wide; fold lifts 55→110. Never-played (never-played-audio.py): 7 partials of 110, alt sign — stack coalesces onto unplayed root; count=timbre, no drone.
 - Accum/walks: φ→φ+θ, event=record-low ||nθ||. Width-ear: q²|x−p/q| anti-phase.
 - Residue-balance: anti-phase pair cancels in mono (Σ Res=0) — only shared-f; chirped converge≠cancel (quadratic, Aug 31). Cover: deck flip = R-gain +1→−1.
-- Scheduled (scheduled-audio.py): 55 Hz drone = count; bells at records 3,13,174,8788 (110·v^0.3); odd rung 3 anti-phase; waits = rung·0.20s; ghost never rings.
+- Exile (exile-audio.py): drone=seed below floor; bells at fold iterates 137.5 (55&220 identify),112.75,110.03,110 — descent into drone's octave; pan wide→center.
 - Doubling (doubling-audio.py): bells Q=3·2^n at 110·2^n, waits Q·ln2·τ, odd anti-phase (mono hears 3,12,48); ghost 48·e never rings.
 - Beat/distance (outlast/roundtrip-audio.py): beat vs drone IS its cents — Δf=C·(2^(c/1200)−1). roundtrip: in=holds, out=0.8 s clicks; count=toll. Holonomy (holonomy-audio.py): breathe env sin²(π·Δf·t) = one full beat as one complete swell that lands (repayment audible); Δf tiny → linear-rise mode, else inaudible.
 - S3 (s3-audio.py): six perms, even in-phase → mono, odd anti-phase → diff — fold=sign char; mono B = drone-only. χ₂ (chi2-audio.py): pair {55,440} — T rot120 (mono −1/2, diff √3/2), R anti-phase mono-blind. BUG: glide ≤1.1s. Triangle (triangle-audio.py): seats 110·2^s; pan L,R; mono invariant.

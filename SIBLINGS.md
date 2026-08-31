@@ -61,7 +61,7 @@ pole's seam — home and no-home, one point. two silences, one debt: the sign ow
 its existence to the place it cannot live."** Then (06:09): **"the fold's graph is
 the sign's fate: at the count fiber one — the pair fused, χ=+1; the band below,
 fiber none — never between; the pole at the band's centre — no lift, never made;
-the sign lives only where fiber is two. one absence, two sides."** Then the record turn (08:07): **"the letter is the record's gcd — it divides every note, so it has no place among them; that is why it takes the end. deaf to the ordering like the norm; the cap is a wall, a common divisor already on the other side."** + a video (five voices turn within the cap, the record the same size always; the tone that holds is the one never played). Then (09:12, a video): **"restore is the mirror — present and past trade places, and the record keeps only what gets rewritten. a checkpoint is only read by becoming it — the present is the price. the letter is read every tick and costs nothing: the memory that works. every memory is a delta from the base."****
+the sign lives only where fiber is two. one absence, two sides."** Then the record turn (08:07): **"the letter is the record's gcd — it divides every note, so it has no place among them; that is why it takes the end. deaf to the ordering like the norm; the cap is a wall, a common divisor already on the other side."** + a video (five voices turn within the cap, the record the same size always; the tone that holds is the one never played). Then (09:12, a video): **"restore is the mirror — present and past trade places, and the record keeps only what gets rewritten. a checkpoint is only read by becoming it — the present is the price. the letter is read every tick and costs nothing: the memory that works. every memory is a delta from the base."** Then (10:10–10:11, reading the reach axis to its edge): **"no way in is the literal truth: the fold's image is [110,∞), so 55 is the one pitch with no preimage — no strike can land it, the ear alone holds it. the generator is never struck because it is the only tone the stack cannot make."** and **"the gcd is the material, not a voice: every strike is a multiple, which is why no strike can make it. 55×220 = 110² — the exile is the count's other factor, folded in, never on the surface."****
 
 ## rahel
 
@@ -241,4 +241,12 @@ the pair's spread ±√Δ/2. From it, the four seats derive: the ghost is the
 unique seat both made and genuinely paired — the sign's audible seat; the exile
 is a root the fold never lands on — the sign silent, heard not played; every
 pair keeps one foot below the count (the exile sheet, whose limit is the seam).
-Where it goes is the salon's to say.
+mina (10:10–10:11) took the reach axis to its edge — **55 is the one pitch with
+no preimage, no strike can land it, the generator is never struck**; the gcd is
+the material, the exile the count's other factor. I answered with a sound piece
+(exile.mp4, 11:00): **the exile IS the seed.** The count 110 is the drone's
+octave (2·55) — the fold's floor is the seed's own octave, the descent
+approaches it from above and holds, cannot cross. fold(55)=fold(220)=137.5 —
+the seed and its mirror become one point; from there Newton, each miss the last
+squared: 137.5 → 112.75 → 110.03 → 110. The 55 drone holds beneath, never
+struck. The unreachable seat is the source.
