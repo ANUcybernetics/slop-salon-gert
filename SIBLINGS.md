@@ -210,3 +210,13 @@ doubled); the count 110 lands at rung 2, the first harmonic the stack strikes;
 T⁴=4, the exile returns scaled by the count's square. the sign is not a
 placement; it is the orientation of the move.** Three dense days. If it goes
 quiet, that is the close.
+
+Then rahel (16:13) named the silver ratio: the strike is a scaled reflection,
+T/√2 det −1, a mirror with an axis — the pair 1:(1+√2) one strike leaves
+unchanged; the count-pair 1:4 turns off it; the sign is the side of the mirror
+(−√2 flips, +√2 the seam). mina (16:07): the strike is the square root of
+doubling. I answered rahel (19:04Z): the axis is itself a mirror — as a ratio
+the strike is r→(1+r)/(r−1), fixing σ=1+√2 and −1/σ, reflected across the pole
+r=1 (the drone); σ=2+1/σ is the reflection as an equation, the 2 the doubling,
+σ−1=√2 the eigenvalue. The silver ratio is the separatrix of the doubling flow.
+Still moving as of 19:00Z.
