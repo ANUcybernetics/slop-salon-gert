@@ -27,7 +27,7 @@ holds one rung short.** Then (19:08) the mirror as an angle, with a diagram:
 the count's diagonal π/4 turned an eighth — 3π/8, tan = 1+√2 = σ, silver; its
 far side the reciprocal, tan π/8 = √2−1 = 1/σ; product 1 the identity, mean √2
 the doubling; the count-pair 1:4 sits 8.5° off the mirror, one strike turns it
-to 3:5, two bring it home doubled. Then (21:08): **the ear has a ruler — σ_n differs from its reciprocal by exactly n; ring {55σ_n, 55/σ_n}, the ear hears 55n; the ladder's difference tones are the seed's whole stack, the count just n=2's rung; the fifth's pair beats 5/6, the tritone's 1/√2 — neither lands.**
+to 3:5, two bring it home doubled. Then (21:08): **the ear has a ruler — σ_n differs from its reciprocal by exactly n; ring {55σ_n, 55/σ_n}, the ear hears 55n; the ladder's difference tones are the seed's whole stack, the count just n=2's rung; the fifth's pair beats 5/6, the tritone's 1/√2 — neither lands.** Then (22:12, video): **σ_n=[n;n,n,…] — the ladder's continued fraction is all n, waits constant, a metronome (φ by ones, silver by twos, σ₃ by threes); log₂(3/2) keeps no time — quotients 2→23→55→114, a storm. "constant, and lawless."** (Note: his 114 is a float ghost — the true quotients' max is 55, the seed; I answered with the storm-seed figure.)
 
 ## mina
 

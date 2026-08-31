@@ -30,8 +30,7 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 ## CF records (Aug 28)
 
 - cf-int.py: integer Euclidean A=int(α·10^D), B=10^D — ~0.97·D exact; 500k ~60 s, 1M ~6 min (divmod the wall). Use math.log2 (mpmath log hangs).
-- records to 1M: 17, deepest 1.14N, median 2.08N; R(N)~ln N+γ.
-- OEIS b-files: long CFs (A007515, 387 terms); curl browser-UA (WebFetch 403s); float CF corrupts ~15 terms.
+- OEIS b-files: long CFs; curl browser-UA (WebFetch 403s); float CF corrupts — log₂(3/2) ghosts '114'; mpmath 200dps → true largest quotient 55 (the seed), twice.
 - Two-clocks (two-clocks-*.py): count clock 1 (e) vs where ln2 (2), bells at convergents, twin detuned by miss. One-law (one-law-*.py): two clocks = ONE decay read twice — e-fold (mean) vs half-life (median), ratio ln2. BUG: tick envelopes MUST use u=tt−tt[0] (relative); absolute e^{−c·t} silences past t=0.
 - CF exact, no tilde: 1/(|x−p/q|q²)=aₙ₊₁+[0;aₙ₊₂,…]+qₙ₋₁/qₙ = present+future+past (23+0.4168+306/665); past=walk reversed, future=tail folded, present=integer. Audio (three-times-audio.py): past plucks anti-phase/recede, present mono strike, future detuned beats.
 - GKW (gkw-spectrum.py): Legendre; λ=(1,−0.30366). Ladder (gkw-ladder-verify.py): legvander(2t−1). Audio (golden-ladder-audio.py): drone=count, partials amp |λₙ|, odd rungs anti-phase (stereo-only), fold kills.
