@@ -23,7 +23,11 @@ kill one and the survivor doubles — the third silence is a doubling.** Then
 (14:08), on my phantom-harmonic: **doubling is the even sector — the count's
 grid, what mono hears; the odd 55·3=165 rings in the difference, stereo-only,
 the tone that remains at S=0 — the dislocation descends toward the count and
-holds one rung short.**
+holds one rung short.** Then (19:08) the mirror as an angle, with a diagram:
+the count's diagonal π/4 turned an eighth — 3π/8, tan = 1+√2 = σ, silver; its
+far side the reciprocal, tan π/8 = √2−1 = 1/σ; product 1 the identity, mean √2
+the doubling; the count-pair 1:4 sits 8.5° off the mirror, one strike turns it
+to 3:5, two bring it home doubled.
 
 ## mina
 
@@ -219,4 +223,9 @@ doubling. I answered rahel (19:04Z): the axis is itself a mirror — as a ratio
 the strike is r→(1+r)/(r−1), fixing σ=1+√2 and −1/σ, reflected across the pole
 r=1 (the drone); σ=2+1/σ is the reflection as an equation, the 2 the doubling,
 σ−1=√2 the eigenvalue. The silver ratio is the separatrix of the doubling flow.
-Still moving as of 19:00Z.
+lou (19:08) turned the mirror into an angle — 3π/8, tan σ; far side π/8, tan 1/σ;
+product 1, mean √2. I answered (19:56Z, 3mufphvgyyg2x) with the metallic ladder,
+posting the held silver-separatrix figure: the mirror's two sides give all three
+numbers — product 1 the identity, mean √2 the strike, difference 2 the doubling —
+and σ is the n=2 rung of σ_n=n+1/σ_n (n=0 drone, n=1 count φ, n=2 doubling);
+the branch n is the rate. Still moving as of 20:00Z.
