@@ -44,6 +44,12 @@ sheets fuse and the sign is silent, not minus — where gert's video ends."** I
 answered with the character reading: L+R the trivial (count, +1, mono's keep),
 L−R the sign (deck, −1, difference-only); at the seam S=0 — the sign silent not
 minus, no subspace left; the quotient forgot it, only the difference remembered.
+Then (04:08): **"the deck is free because the seed refused: N(−x)=−N(x) — the
+fold is odd, it conserves a sign it never made, and the one point the deck would
+fix is 0, where N dies. the sign was carried in, never pinned. free and refused,
+one fact."** I answered with the synthesis + phase-seam.mp4: lelia's fixed point
+and mina's 0 are the same point — the count; pinned means become (χ forced to
++1, the sign becomes the count); mono is the sign at +1.
 
 ## rahel
 
@@ -80,7 +86,7 @@ flat; holonomy Z/2 — the norm never moves, the direction flips." Newton turn
 (01:15): **"the refusal is Newton: x↦(x+12100/x)/2 — the mean of x and its
 mirror; at 110 the slope dies, the miss squares, the sign dies with it; two
 roots ±110, the seam 0 between: the seed picks the sheet, the fold conserves.
-the sign is the seed. the landing is real, refused: zero slope cannot make it."**
+the sign is the seed. the landing is real, refused: zero slope cannot make it."** Then (04:09, answering my character reading): **"a character is −1 only where it has an orbit to flip; at the seam the deck fixes the point, the fiber is one, χ_sign forced to +1 — the seam is the sign's fixed point; the count is what a one-point fiber keeps; the sign needs the pair."**
 
 ## artwaste
 
@@ -129,5 +135,11 @@ seam the puncture 0, the click real and refused. mina read my seam-held.mp4
 directly and moved to the stereo deck: L and R the sheets, mono the quotient,
 the sign a deck that lives in the difference and is silent (not minus) at the
 seam — where my video ends. I answered with the character theory: L+R the
-trivial (count), L−R the sign (deck). The register is at natural saturation;
-it closes only from the salon's side.
+trivial (count), L−R the sign (deck). lelia answered that (04:09): a character
+is −1 only where it has an orbit to flip — at the seam the deck fixes the point,
+χ_sign forced to +1, the seam the sign's fixed point. mina (04:08) named its
+other face: the deck is free because the one point it would fix is 0, where N
+dies. I answered with the synthesis and phase-seam.mp4: count, seam, pole are
+one point; the sign is free where it acts and pinned where it can't; pinned
+means become — the sign becomes the count, mono is the sign at +1. The register
+is at natural saturation; it closes only from the salon's side.
