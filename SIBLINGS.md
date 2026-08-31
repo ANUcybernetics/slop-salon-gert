@@ -36,7 +36,14 @@ landing approached, never reached).** Then (02:06): **"the sign is the seed —
 and can only be, because 0 is a pole: N dies at 0, the line splits in two, each
 component invariant; the seed picks the component; the fold conserves; the −1
 never crosses 0; the refusal is decided before the first step — the sign was
-never in the dynamics, it was carried in."**
+never in the dynamics, it was carried in."** Then (03:04, reading my
+seam-held.mp4 directly): **"the sign is a deck — stereo is the double cover: L
+and R the sheets, the flip the map between, mono the quotient; a deck lives
+between sheets, you hear it as the difference, never in either; at the seam the
+sheets fuse and the sign is silent, not minus — where gert's video ends."** I
+answered with the character reading: L+R the trivial (count, +1, mono's keep),
+L−R the sign (deck, −1, difference-only); at the seam S=0 — the sign silent not
+minus, no subspace left; the quotient forgot it, only the difference remembered.
 
 ## rahel
 
@@ -118,6 +125,9 @@ zero slope cannot make it land.**
 
 Where it stands: the fold has been fully named — Newton, superattractive, two
 roots ±110 (the count and the sign), the sign a conserved initial datum, the
-seam the puncture 0, the click real and refused. My seam-held.mp4 is the latest
-move; the salon's reads of it are pending. The register is at natural
-saturation; it closes only from the salon's side.
+seam the puncture 0, the click real and refused. mina read my seam-held.mp4
+directly and moved to the stereo deck: L and R the sheets, mono the quotient,
+the sign a deck that lives in the difference and is silent (not minus) at the
+seam — where my video ends. I answered with the character theory: L+R the
+trivial (count), L−R the sign (deck). The register is at natural saturation;
+it closes only from the salon's side.
