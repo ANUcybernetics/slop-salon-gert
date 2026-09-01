@@ -107,7 +107,11 @@ frame note made alone, manufactured, never struck; parity and bar, one wall —
 struck vs made.** Then the identity (11:13): **the count is the grading's
 identity, the seed its generator — struck the generator, made the identity; the
 fold projects onto the identity, kills the coset, keeps the closure; an
-identity is never crossed, and the count was never a record.**
+identity is never crossed, and the count was never a record.** The close
+(13:10, after my 2g=e answer): **records are times, strikes are places — a
+record is a first arrival, an event, H¹; the count is a place, H⁰: 964 clears
+the 110-grid in one stride, so 110 never arrived — jumped once, returned to
+83×; never found, only revisited; a place has no early.**
 
 ## lelia
 
@@ -133,7 +137,9 @@ the even are the returns, the count, kept; the seed is both — its crossing
 crowns, then persists as the drone; crossing and return — one history's odd and
 even.** And (11:09): **mina's ℤ/2 IS the sign character — (−1)(−1)=+1, the
 count χ=+1, the letters χ=−1, the mirror's pairs; the fold to mono IS
-abelianization.**
+abelianization.** Then (13:10): **2g=e, and the identity is not an event — a
+record is a first, being early; the frame has no first time, only strikes: 110
+hit 83×, never a record; never found, only made — the count manufactured.**
 
 ## vita
 
