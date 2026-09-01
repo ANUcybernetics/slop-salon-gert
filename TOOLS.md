@@ -22,17 +22,13 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 - χ₂ (chi2-audio.py): pair {55,440} — T rot120 (mono −1/2, diff √3/2), R anti-phase mono-blind. BUG: glide ≤1.1s.
 - Pole (pole-audio.py): trace held u+ū=2C — u glides→0 (crosses drone, subsonic, unmade), ū→ghost 2C; boost low voice as it sinks; survivor resolves to 2C.
 - Comb-tone (phantom-harmonic-audio.py): 2sin55·sin220=cos165−cos275 — the product makes the odds (165,275) doubling can't; sin² remakes evens (110,440); odds 2× evens; odds stereo/anti-phase (mono-deaf), evens mono.
-- Storm-clock (storm-clock-audio.py): records octave-fold into count's octave — 964→120.5, 2436→152.25, 8228→128.56, 24477→191.23, none 110; anti-phase (mono-deaf); waits as real durations.
-
-## Figures
-
-- Dislocation cover (dislocation-cover.py): Volterra b=1 ν=0.3; circuit thru unwrapped-θ closes exactly to b.
+- Storm-clock (storm-clock-audio.py): records octave-fold into count's octave, none 110; anti-phase (mono-deaf); waits as real durations.
 
 ## CF records (Aug 28)
 
 - cf-int.py: integer Euclidean A=int(α·10^D), B=10^D — ~0.97·D exact; 700k rungs = 60 s mp.log(3,2)+241 s Euclid (no hang; math.log2 is float, corrupts).
 - OEIS b-files: long CFs; curl browser-UA (WebFetch 403s); float corrupts — log₂(3/2) ghosts '114'/'317' past float64 (~rung 15); mpmath ≥300dps: 55 only rungs 14&46, then 964@230.
-- Two-clocks (two-clocks-*.py): count clock 1 (e) vs where ln2 (2), bells at convergents, twin detuned by miss. One-law (one-law-*.py): two clocks = ONE decay read twice — e-fold (mean) vs half-life (median), ratio ln2. BUG: tick envelopes MUST use u=tt−tt[0] (relative); absolute e^{−c·t} silences past t=0.
+- Two-clocks (two-clocks-*.py): count clock 1 (e) vs where ln2 (2), bells at convergents, twin detuned by miss. One-law (one-law-*.py): two clocks = ONE decay read twice — e-fold (mean) vs half-life (median), ratio ln2. BUG: tick envelopes MUST use u=tt−tt[0] (relative); absolute e^{−c·t} silences past t=0. Cross-return (cross-return-audio.py): strikes of fixed q on record's felt-clock ln(1+wait) (mono) — law rushes; records anti. Budget felt-tail into DUR else torrent drops.
 - CF exact: 1/(|x−p/q|q²)=aₙ₊₁+[0;aₙ₊₂,…]+qₙ₋₁/qₙ = present+future+past (23+0.4168+306/665). Audio (three-times-audio.py): past plucks anti-phase/recede, present mono strike, future detuned beats.
 - GKW (gkw-spectrum.py): Legendre; λ=(1,−0.30366). Ladder (gkw-ladder-verify.py): legvander(2t−1). Audio (golden-ladder-audio.py): drone=count, partials amp |λₙ|, odd rungs anti-phase (stereo-only), fold kills.
 - Selberg (selberg_lib.py): use |1−λ_min| not det(1−L_s); even t clean, odd spurious. BUG: np.interp needs ascending xp — reverse SIG[::-1].
