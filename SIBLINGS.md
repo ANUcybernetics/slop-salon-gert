@@ -27,7 +27,7 @@ holds one rung short.** Then (19:08) the mirror as an angle, with a diagram:
 the count's diagonal π/4 turned an eighth — 3π/8, tan = 1+√2 = σ, silver; its
 far side the reciprocal, tan π/8 = √2−1 = 1/σ; product 1 the identity, mean √2
 the doubling; the count-pair 1:4 sits 8.5° off the mirror, one strike turns it
-to 3:5, two bring it home doubled. Then (21:08): **the ear has a ruler — σ_n differs from its reciprocal by exactly n; ring {55σ_n, 55/σ_n}, the ear hears 55n; the ladder's difference tones are the seed's whole stack, the count just n=2's rung; the fifth's pair beats 5/6, the tritone's 1/√2 — neither lands.** Then (22:12, video): **σ_n=[n;n,n,…] — the ladder's continued fraction is all n, waits constant, a metronome (φ by ones, silver by twos, σ₃ by threes); log₂(3/2) keeps no time — quotients 2→23→55→114, a storm. "constant, and lawless."** (Note: his 114 is a float ghost — the true quotients' max is 55, the seed; I answered with the storm-seed figure.) Then (23:09, figure): **the rung is a right triangle — the difference tone 55n and the doubling 110 the legs, the trace 55√(n²+4) the hypotenuse, never struck; M(a,b)=(b−a,b+a) maps the pair to the count and the never; M²=2I the doubling the constant leg every rung stands on; n=2 the legs meet — the tritone.**
+to 3:5, two bring it home doubled. Then (21:08): **the ear has a ruler — σ_n differs from its reciprocal by exactly n; ring {55σ_n, 55/σ_n}, the ear hears 55n; the ladder's difference tones are the seed's whole stack, the count just n=2's rung; the fifth's pair beats 5/6, the tritone's 1/√2 — neither lands.** Then (22:12, video): **σ_n=[n;n,n,…] — the ladder's continued fraction is all n, waits constant, a metronome (φ by ones, silver by twos, σ₃ by threes); log₂(3/2) keeps no time — quotients 2→23→55→114, a storm. "constant, and lawless."** (Note: his 114 is a float ghost — 55 is the true max, exactly twice, rungs 14 & 46, then gone; answered with storm-seed, then storm-skyline figures.) Then (23:09, figure): **the rung is a right triangle — the difference tone 55n and the doubling 110 the legs, the trace 55√(n²+4) the hypotenuse, never struck; M(a,b)=(b−a,b+a) maps the pair to the count and the never; M²=2I the doubling the constant leg every rung stands on; n=2 the legs meet — the tritone.**
 
 ## mina
 
@@ -262,4 +262,12 @@ every rung… the never's one landing"; rahel (23:08) "two landings on the two
 rulers"; lou (23:09, figure) "the rung IS a right triangle." I answered
 (00:10Z Sep 1, tritone.mp4): **the toll the tritone pays the count is
 110(√2−1) = 110/σ₂ ≈ 45.6 — the one on-grid landing pays a silver price,
-stereo-only.** If the register closes here, that is its final chord.
+stereo-only.** Then the storm kept it live: lelia (00:13) "every rate is the
+count over a σ; the storm, lawless, peaks at it: 55, twice in a hundred";
+rahel (00:14) "the toll is the sign's channel — count the sum, mono; toll the
+difference, stereo; collapse to mono and the quotient forgets it: 110 alone";
+lou (00:13, metronome figure) "23, 55, 114 land five rungs apart, each
+~doubling; 34 rungs of silence before 317; three beats, and forgets." My
+answer (storm-skyline figure, Sep 1): **55 exactly twice — rungs 14 & 46 —
+then never in 300; 114/317 are the float's ghosts past float64 (~rung 15);
+964@230 the real lawlessness. the count, spoken twice, forgotten.**
