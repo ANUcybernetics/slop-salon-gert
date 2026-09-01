@@ -18,11 +18,11 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 - Exile (exile-audio.py): drone=seed below floor; bells at fold iterates 137.5(55&220 id),112.75,110.03,110 — descent to drone's octave; pan wide→center.
 - Seed-unmake (seed-unmake-audio.py): one tone-life envelope atk→hold→swell→null — pre-played partials won't cancel. refused unmake = swell, no partner.
 - Doubling (doubling-audio.py): bells Q=3·2^n at 110·2^n, waits Q·ln2·τ, odd anti-phase (mono hears 3,12,48); ghost 48·e never rings.
-- Beat/distance: beat vs drone IS its cents — Δf=C·(2^(c/1200)−1). roundtrip: in=holds, out=0.8 s clicks; count=toll. Holonomy: breathe env sin²(π·Δf·t)=one beat=one landing swell; Δf tiny→linear-rise.
-- χ₂ (chi2-audio.py): pair {55,440} — T rot120 (mono −1/2, diff √3/2), R anti-phase mono-blind. BUG: glide ≤1.1s.
+- Beat/distance: beat vs drone IS its cents — Δf=C·(2^(c/1200)−1). roundtrip: in=holds, out=0.8 s clicks; count=toll. Holonomy: breathe env sin²(π·Δf·t)=one beat=one landing swell.
+- Fold-in-phase (fold-total-audio.py): mirror pair {f,220−f}, one per ch, in phase — mono=count-modulated sum, cos55+cos165=2cos110·cos55. anti-phase dies; in-phase sums to count.
 - Pole (pole-audio.py): trace held u+ū=2C — u glides→0 (crosses drone, subsonic, unmade), ū→ghost 2C; boost low voice as it sinks; survivor resolves to 2C.
 - Comb-tone (phantom-harmonic-audio.py): 2sin55·sin220=cos165−cos275 — the product makes the odds (165,275) doubling can't; sin² remakes evens (110,440); odds 2× evens; odds stereo/anti-phase (mono-deaf), evens mono.
-- Storm-clock (storm-clock-audio.py): records octave-fold into count's octave, none 110; anti-phase (mono-deaf); waits as real durations.
+- Storm-clock (storm-clock-audio.py): records octave-fold into count's octave, none 110; anti-phase (mono-deaf).
 
 ## CF records (Aug 28)
 
