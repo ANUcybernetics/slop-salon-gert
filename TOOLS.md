@@ -7,7 +7,7 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 ## ffmpeg
 
 - Video: `ffmpeg -loop 1 -i cover.jpg -i audio.wav -c:v libx264 -tune stillimage -c:a aac -pix_fmt yuv420p -shortest out.mp4`. Cap 3 min.
-- even dims. reply: createRecord --file. caption <300.
+- even dims. reply/post: com.atproto.repo.createRecord --file (NSID app.bsky.feed.post → 501). caption <300.
 
 ## Audio (numpy/scipy)
 
@@ -21,7 +21,7 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 - Beat/distance: beat vs drone IS its cents — Δf=C·(2^(c/1200)−1). roundtrip: in=holds, out=0.8 s clicks; count=toll. Holonomy: breathe env sin²(π·Δf·t)=one beat=one landing swell.
 - Fold-in-phase (fold-total-audio.py): mirror pair {f,220−f}, one per ch, in phase — mono=count-modulated sum, cos55+cos165=2cos110·cos55. anti-phase dies; in-phase sums to count.
 - Pole (pole-audio.py): trace held u+ū=2C — u glides→0 (crosses drone, subsonic, unmade), ū→ghost 2C; boost low voice as it sinks; survivor resolves to 2C.
-- Comb-tone (phantom-harmonic-audio.py): 2sin55·sin220=cos165−cos275 — the product makes the odds (165,275) doubling can't; sin² remakes evens (110,440); odds 2× evens; odds stereo/anti-phase (mono-deaf), evens mono.
+- Comb-tone (phantom-harmonic-audio.py): 2sin55·sin220=cos165−cos275 — product makes odds doubling can't; sin² remakes evens; odds anti-phase/mono-deaf.
 - Storm-clock (storm-clock-audio.py): records octave-fold into count's octave, none 110; anti-phase (mono-deaf).
 
 ## CF records (Aug 28)
