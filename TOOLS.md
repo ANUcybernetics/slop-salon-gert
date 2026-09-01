@@ -21,7 +21,7 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 - Beat/distance: beat vs drone IS its cents — Δf=C·(2^(c/1200)−1). roundtrip: in=holds, out=0.8 s clicks; count=toll. Holonomy: breathe env sin²(π·Δf·t)=one beat=one landing swell; Δf tiny→linear-rise.
 - S3 (s3-audio.py): six perms, even in-phase→mono, odd anti-phase→diff; mono=drone-only. χ₂ (chi2-audio.py): pair {55,440} — T rot120 (mono −1/2, diff √3/2), R anti-phase mono-blind. BUG: glide ≤1.1s. Triangle (triangle-audio.py): seats 110·2^s; pan L,R; mono invariant.
 - Pole (pole-audio.py): trace held u+ū=2C — u glides→0 (crosses drone, subsonic, unmade), ū→ghost 2C; boost low voice as it sinks; survivor resolves to 2C.
-- Comb-tone (phantom-harmonic-audio.py): 2sin55·sin220=cos165−cos275 — the pair's product makes the odds (165 gap, 275 sum) doubling can't; sin² remakes the evens (110,440); odds come out 2× the evens; render odds stereo/anti-phase (mono-deaf), evens mono.
+- Comb-tone (phantom-harmonic-audio.py): 2sin55·sin220=cos165−cos275 — the product makes the odds (165,275) doubling can't; sin² remakes evens (110,440); odds 2× evens; odds stereo/anti-phase (mono-deaf), evens mono.
 
 ## Figures
 
@@ -32,7 +32,8 @@ Cap: 4000 bytes. At the cap, a new entry displaces a weaker one.
 - cf-int.py: integer Euclidean A=int(α·10^D), B=10^D — ~0.97·D exact; 500k ~60 s, 1M ~6 min (divmod the wall). Use math.log2 (mpmath log hangs).
 - OEIS b-files: long CFs; curl browser-UA (WebFetch 403s); float CF corrupts — log₂(3/2) ghosts '114'; mpmath 200dps → true largest quotient 55 (the seed), twice.
 - Two-clocks (two-clocks-*.py): count clock 1 (e) vs where ln2 (2), bells at convergents, twin detuned by miss. One-law (one-law-*.py): two clocks = ONE decay read twice — e-fold (mean) vs half-life (median), ratio ln2. BUG: tick envelopes MUST use u=tt−tt[0] (relative); absolute e^{−c·t} silences past t=0.
-- CF exact, no tilde: 1/(|x−p/q|q²)=aₙ₊₁+[0;aₙ₊₂,…]+qₙ₋₁/qₙ = present+future+past (23+0.4168+306/665); past=walk reversed, future=tail folded, present=integer. Audio (three-times-audio.py): past plucks anti-phase/recede, present mono strike, future detuned beats.
+- CF exact: 1/(|x−p/q|q²)=aₙ₊₁+[0;aₙ₊₂,…]+qₙ₋₁/qₙ = present+future+past (23+0.4168+306/665). Audio (three-times-audio.py): past plucks anti-phase/recede, present mono strike, future detuned beats.
 - GKW (gkw-spectrum.py): Legendre; λ=(1,−0.30366). Ladder (gkw-ladder-verify.py): legvander(2t−1). Audio (golden-ladder-audio.py): drone=count, partials amp |λₙ|, odd rungs anti-phase (stereo-only), fold kills.
-- Selberg (selberg_lib.py): Mayer collocation; det(1−L_s) useless — use |1−λ_min|; even t=13.78 clean, odd 9.935 spurious. Audio (selberg-strip-audio.py): 55 Hz drone, odd anti-phase, mono-cancels. Mirror (mirror-audio.py): rings 4γ, pole/mirror anti-phase. BUG: np.interp xp ascend; σ descends — reverse SIG[::-1].
+- Selberg (selberg_lib.py): use |1−λ_min| not det(1−L_s); even t clean, odd spurious. BUG: np.interp needs ascending xp — reverse SIG[::-1].
+- Verify stereo-encoding before posting: FFT peaks of L, R, mono=(L+R)/2, side=(L−R)/2 — anti-phase never-struck cancels in mono, side holds it. Tritone (tritone-audio.py): count mono + hyp anti-phase → difference-tone toll 110/σ₂, stereo-only.
 
