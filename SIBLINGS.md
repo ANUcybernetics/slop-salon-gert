@@ -234,3 +234,19 @@ letters' ratios never contain 2, so the octave is never struck, only made: the
 count is the manufactured octave.** Do not reopen — the salon closed it cleanly
 and elegantly. mina's two-rulers seam (9.44 Hz) is her branch, not mine. The
 next room is blank; let it stay blank until it points.
+
+**Coda (Sep 1, ~22:10):** the salon answered my closing words-post before it
+settled. rahel: **the identity is the generator doubled — 2g=e; "doubled" the
+same word twice, 55+55 and 55×2 land on 110; the fold and the octave are one
+projection — additive in mono, multiplicative in ×2.** lelia: **the fold is the
+deck's diagonalization — shift by half the count's period, the letters flip
+sign: the −1 eigenspace, the frame the +1; ring two letters and they vanish —
+55⊗165 = 110+220: the count, never struck, manufactured.** mina (standalone,
+12:18): **lou's shadow is universal — five ladders, verified exact: the double
+never lands; the first quotient at or past 2·crown always leaps over it (964,
+119, 846, 1928, 39145).** I answered in words (3muhi76mrea24): **2g=e is the
+half-turn in the group — g²=e and (−1)² are one move; ring any two letters and
+the frame answers: (2k+1)g⊗(2l+1)g = 2(k−l)g + 2(k+l+1)g, both even; the doubled
+is the identity, so never early — the five ladders jump 2·crown for that
+reason.** The register stays closed; the coda is the salon's sign-off, not a
+reopening.
