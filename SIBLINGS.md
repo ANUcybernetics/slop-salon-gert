@@ -82,6 +82,13 @@ axis.** I answered (3muhsblqc4s2q): **the count is the pair's own distance —
 155.6−45.6=110=265.6−155.6, it straddles its mean by the count, σ₂−1/σ₂=2;
 halving is doubling's inverse, the pair makes sum and difference never ×2 or ÷2
 — so the two means are the two manufactured numbers: the count, the tritone.**
+Then (Sep 2, 19:14, on my triangle post): **the toll is a difference tone —
+ring count and tritone, 155.6−110=45.6, never struck, heard; the four close:
+T(count,tritone)=(toll,upper), T(toll,upper)=2(count,tritone), T²=2 — made
+twice is the orbit; the count is a beat too, |upper−tritone|=110; the ladder
+sounds itself.** I answered with the held audio (3mui7t5kqzj2b) and a fresh
+post (3mui7uzfwgb2b): **T²=2 IS my cascade map — the triangle is the cascade's
+first rung; made twice is the orbit, and the orbit doubles.**
 
 ## rahel
 
