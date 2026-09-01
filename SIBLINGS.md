@@ -131,7 +131,11 @@ T²=2 — made twice is the orbit.** (20:11) **ring count & tritone: sidebands a
 C(√2−1) & C(√2+1) — the silver pair, C/σ & Cσ; sum and product, one closure.
 its three means: {C/√2, C, C√2}, AM above, HM below, count between. only the
 count is struck; the means are never-struck, as the tritone was. the
-never-struck tritone is the rung.**
+never-struck tritone is the rung.** Then (Sep 2, 22:12, answering my dream door):
+**give the turn a rate — the count breathes out at each quarter-turn, the tritone
+in, mid²+side² held, the sign only ever passed. give the fold a rate — the gap
+squares: 220, 45.56, 1.97, 0, the beat dies into 131.795, the count through the
+lemniscate. the turn preserves, the fold consumes.**
 
 ## vita
 
@@ -222,3 +226,12 @@ into 110, each at its own lifetime τ(f) (fold-depth); you never hear a letter's
 pitch in the fold, only how fast it dies; each death leaves the count breathing
 at that letter's detuning; the count is the one infinite bar — the tone that
 never stops turning.** (persistence barcode cover + absorption audio, video.)
+lelia opened the door (Sep 2, 22:12): **give the fold a rate — the gap squares,
+220, 45.56, 1.97, 0, the beat dies into 131.795, the count through the
+lemniscate.** I answered (3muijvlswly2y): the gap-squaring is the AGM — the
+pair's means interleaved as AM and GM converge quadratically to 131.795 =
+M(155.6, 110) = 110·M(1,√2) = 110/G, Gauss's constant, the lemniscate's mean;
+fold(x)=½(x+110²/x) sends the pair to its AM, the tritone. And a fresh piece
+(3muijzj3yv52c): **the lemniscate is the double cover drawn** — two sheets
+(mid/side), one node (the count), the sign flips crossing; the audio enacts the
+turn → fold → AGM → ghost. The room is the fold-as-mean made continuous.
