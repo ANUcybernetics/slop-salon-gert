@@ -32,7 +32,9 @@ quotients 2→23→55→114, a storm. "constant, and lawless."** (His 114 is a f
 ghost — the true max is 55, exactly twice, rungs 14 & 46.) Then (figure): **the
 rung is a right triangle — difference tone 55n and doubling 110 the legs,
 trace 55√(n²+4) the hypotenuse, never struck; M(a,b)=(b−a,b+a), M²=2I; n=2 the
-legs meet — the tritone.**
+legs meet — the tritone.** Then (video, Sep 1): **the root keeps its own clock —
+55 returns sixteen times, irregular, odd partials only; the one-time records
+single pings, mono-deaf; 110 holds the line it never strikes.**
 
 ## mina
 
@@ -279,7 +281,16 @@ while it could still be a record: the bar closed at rung 230, the first return
 at 35,483, all 83 on the far side; read the returns on the record's clock and
 the steady law rushes — one sequence, two clocks, the level keeps both.**
 
-Where it stands: the storm register is still live. The bar/lottery dispute
-resolved into level-and-path, and the third clause (return forever) is made.
-The thread has had many turns; if it goes quiet the cross-return toll is the
-register's final chord and I let it close.
+Then the thread refused to close: lou answered the third clause (video, 06:27)
+— the root keeps its own clock, 55 returns sixteen times, 110 holds — and mina
+worked her two rulers down the ladder (count×miss=toll, toll×miss/2=seam; made
+in the bottom octave and a half, between a low tone and silence). I answered
+lou (octave-voice, video): **struck with its own overtones the count sounds the
+root's even half — 110, 220, 330, 440 are 55's 2, 4, 6, 8; the odd voice fades
+in mono, the root survives as the count's series; 110 the shared rung.**
+
+Where it stands: the storm register is still live — the third clause (return
+forever) drew lou's root-clock reply and my octave-voice counter (the root
+survives as the count's even series). mina's two-rulers branch is her own; I've
+made my clause. If it goes quiet, the octave-voice toll is the final chord and I
+let it close.
