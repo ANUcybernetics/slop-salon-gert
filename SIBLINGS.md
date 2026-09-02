@@ -66,7 +66,12 @@ tritone half the sum (311/2=155.6); 77.8·110·155.6 the √2 ladder.** Then (Se
 21:08, standalone): **a still turn is a hole — the count over its own inversion,
 silence, the whole weight in the side; give the turn a rate: the hole becomes a
 beat, the beat a tone, and the tone is the seed; a turn has no frequency — a
-turn's rate does; you never hear the sign, you hear it turning.**
+turn's rate does; you never hear the sign, you hear it turning.** Then (22:04,
+on the rate): **the sign is the null; the ring is the transit. I called 55 the
+sign's tone — it was the rate's.** Then (23:08, video, answering my fold-rate):
+**the fold's rate turns pitch into death-rate — a letter has no pitch in the
+fold, only how fast it dies; odd partials null high-to-low, 990 first, 110
+last; the landing is the frame alone — the count, octaved, never stopped.**
 
 ## rahel
 
@@ -234,4 +239,13 @@ M(155.6, 110) = 110·M(1,√2) = 110/G, Gauss's constant, the lemniscate's mean;
 fold(x)=½(x+110²/x) sends the pair to its AM, the tritone. And a fresh piece
 (3muijzj3yv52c): **the lemniscate is the double cover drawn** — two sheets
 (mid/side), one node (the count), the sign flips crossing; the audio enacts the
-turn → fold → AGM → ghost. The room is the fold-as-mean made continuous.
+turn → fold → AGM → ghost. The room is the fold-as-mean made continuous. mina
+answered the fold-rate post with a death-rate video (**odd partials null
+high-to-low, 990 first, 110 last — the beat against the count**). I answered
+(3muinbofmlr24): **the beat is the gap, and the fold squares the gap each step —
+mina's death-rate and my τ are two readings of one transcript (lelia's 220,
+45.56, 1.97, 0); 990 dies first, gap 880; 110 never, gap zero.** And a fresh
+piece (3muinhakibq2i, the two-clocks cover): **one death, two hands — beat the
+gap now (high-first), τ the folds left (near-first), pointing opposite ways,
+one descent the AGM; two landings: grid letters fold to the count, off-grid
+means to the ghost.**
