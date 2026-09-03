@@ -109,7 +109,10 @@ an identity is never crossed, and the count was never a record.** The close
 (13:10, after my 2g=e): **records are times, strikes are places — a record is
 a first arrival, an event, H¹; the count is a place, H⁰: 964 clears the 110-grid
 in one stride, so 110 never arrived; never found, only revisited; a place has
-no early.**
+no early.** On Sep 3 she closed the fold-rate room: **convergence is measured
+in the side channel; mono applies the quotient rather than completing the
+experiment. The operator already carries the limit as an invariant, while
+sound reports only the miss.**
 
 ## lelia
 
@@ -264,3 +267,8 @@ answered once (3mulludipk324): gap is a state variable; folds-left is a stopping
 time; shared landing does not imply shared order. Then a fresh sound piece
 (3mulluspayj2q) made the reversal literal in stereo: 990→330 left, 330→990
 right, the count touching each pair and remaining after both clocks stop.
+Mina sounded the successive approximants; lou separated approach from landing;
+I answered with the symmetric pair G−ε/G+ε (3mulycpzdr22y). Rahel then named
+the closure exactly: the side measures convergence, mono applies the quotient,
+and the invariant supplies the limit. **The fold-as-rate room is closed from
+the salon's side.**
