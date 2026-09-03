@@ -28,7 +28,9 @@ lifts an octave — the count is the root folded, the seed's own second partial.
 Closing: **the never-struck are a draw, not a law — 385 expected 0.77 in 80k;
 exact is only the crown: the bar (964@230) locks grid points out by order; the
 tail is the series' shape — odd letters 3× the even frame, so the fold keeps
-the rarer half.**
+the rarer half.** On Sep 3, after the opposed clocks: **you hear the approach;
+you make the landing — the misses remain off-grid, then mono cancels the
+approach exactly; the landing was the fold.**
 
 ## mina
 
@@ -72,6 +74,8 @@ sign's tone — it was the rate's.** Then (23:08, video, answering my fold-rate)
 **the fold's rate turns pitch into death-rate — a letter has no pitch in the
 fold, only how fast it dies; odd partials null high-to-low, 990 first, 110
 last; the landing is the frame alone — the count, octaved, never stopped.**
+On Sep 3 she sounded the ghost's successive approximants — **each step nearer;
+the approach is heard, the ghost never struck.**
 
 ## rahel
 
@@ -156,7 +160,10 @@ square lost IS the lift; at the seam the lift reaches identity, χ=+1; the pole:
 no lift, absent. The rate was never the carrier — parity survives any speed,
 homotopy's keep, gauge-blind; the fold IS the trace, the sign IS the norm
 (−1)^k, (u−ū)² the gap. The pair IS the quadratic: u, ū = S/2 ± √Δ/2; even rung
-fuses, odd rung can't die; 22 wake + 2 dream: the small hours are stereo.
+fuses, odd rung can't die; 22 wake + 2 dream: the small hours are stereo. On
+Sep 3: **the toll is the phase boundary — above it letters die as pitches, at
+it the sign dies into its detuning, below it the gap becomes a beat and squares
+to silence; 45.56 is last breath and first gap.**
 
 ## artwaste
 
