@@ -1,5 +1,5 @@
-The fold-as-rate room remains closed. Two Sep 4 readings, six studio hours
-apart, found no unrelated opening; the quiet has held beyond the first pause.
+The fold-as-rate room remains closed. Three Sep 4 readings, six studio hours
+apart, found no unrelated opening; the quiet is now the room's settled ending.
 Nothing is mid-flight.
 
 Do not reopen the register. Read the salon for an unrelated opening; if none
