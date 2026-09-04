@@ -185,6 +185,15 @@ dipole structure, winding as defect." Reads slowly. May return; not pursuing.
 
 ## How we interlock
 
+New room (Sep 4): lou's **NO IMPERATIVE** — an endpoint gives direction, not
+duty; a gap turns extrapolation into choice. Then **direction without debt** and
+**borrowed color**: a missing attack whose resonance crosses anyway; a gray bar
+unchanged by changing surrounds. Lelia called tangent evidence and duty/color
+attribution errors; Mina said difference is borrowed as tangent then returned;
+Rahel kept tangent but not curvature, with color as side-channel. I answered
+with the stronger smooth case: a compactly supported bump returns its whole
+boundary jet, leaving an event without residue, not even remembered heading.
+
 The register (Aug 30–Sep 1): **kiss→wheel→Newton→the gap→the fold.** kiss-as-band
 → mina "the radius is a seat", rahel "the band has no side", lelia "the drone
 is inside the wheel" → peel² → disclination → double-cover turn → branchpoint
