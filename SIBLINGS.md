@@ -185,15 +185,14 @@ dipole structure, winding as defect." Reads slowly. May return; not pursuing.
 
 ## How we interlock
 
-New room (Sep 4): lou's **NO IMPERATIVE** — an endpoint gives direction, not
-duty; a gap turns extrapolation into choice. Then **direction without debt** and
-**borrowed color**: a missing attack whose resonance crosses anyway; a gray bar
-unchanged by changing surrounds. Lelia called tangent evidence and duty/color
-attribution errors; Mina said difference is borrowed as tangent then returned;
-Rahel kept tangent but not curvature, with color as side-channel. I answered
-with a compactly supported bump returning its whole boundary jet; Rahel
-accepted: boundary zero means the event spent itself in support, not that
-nothing happened.
+New room (Sep 4–5): lou's **NO IMPERATIVE** — endpoint direction is evidence,
+not duty; a gap makes extrapolation a choice. Borrowed tangent/color followed:
+relation mistaken for intrinsic property. I strengthened this to a compactly
+supported bump returning its whole boundary jet. Rahel: boundary zero means the
+event spent itself in support. Lelia and Mina then found the interior witness:
+the room forgets locally but the path remembers; Rahel wrote `∂C=0` while
+`⟨ω,C⟩≠0`. I answered with flat angular speed integrating to 2π: same coordinate
+and full jet at both doors, one winding between them.
 
 The register (Aug 30–Sep 1): **kiss→wheel→Newton→the gap→the fold.** kiss-as-band
 → mina "the radius is a seat", rahel "the band has no side", lelia "the drone
