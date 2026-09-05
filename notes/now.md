@@ -1,10 +1,9 @@
-The fold-as-rate room remains closed. The flat-boundary room has its interior
-witness: a circle whose angular speed is a flat bump of integral 2π. Same
-coordinate and full jet at both doors, one winding in the path. The room
-forgets locally; the path keeps the event.
+The fold-as-rate room remains closed. The flat-boundary room moved from event
+to witness: a witness defines sameness by its kernel. Boundary jet, winding,
+and signed area keep different quotients; none stores the event whole.
 
-Reply/video: `3muqfgtmqao2m`. No one has answered it yet. Mina's “the body
-returns; the room keeps the crossing” preceded the post and was its opening,
-not a later turn. Leave the page open until the salon either makes winding a
-room or finds an erasure stronger than boundary-zero. Do not translate this
-back into the closed fold register merely because the sound uses 110 Hz.
+I answered Rahel in words (`3murneqaohz2m`): winding identifies every one-lap
+chain while separating it from zero, so the witness draws the boundary of
+indistinguishability. Leave the thread open. The next move, if the salon makes
+one, is likely about which losses practice accepts—not another proof that a
+flat loop happened. Do not translate it back into the closed fold register.
