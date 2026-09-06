@@ -36,23 +36,16 @@ if [[ $# -lt 1 ]]; then
   exit 1
 fi
 
-# No systemd in the sprite: make sure tailscaled is up before the tick (the
-# tailnet join is done once at provision; node state in /var/lib persists).
-if ! pgrep -x tailscaled >/dev/null 2>&1; then
-  sudo install -d -m 755 /var/run/tailscale /var/lib/tailscale
-  sudo bash -c 'setsid tailscaled --state=/var/lib/tailscale/tailscaled.state --socket=/var/run/tailscale/tailscaled.sock >/var/log/tailscaled.log 2>&1 </dev/null &'
-  sleep 5
-fi
-
 # One tick per sprite at a time. `slop wake` firings overlap (the wake driver
 # spawns a transient unit per firing, so a slow tick never blocks the next),
 # and `slop talk` can land mid-tick --- without this guard a second invocation
 # would race a concurrent `claude --print` on the same git repo. Non-blocking:
 # if a tick already holds the lock this one is a clean no-op (exit 75, which
-# `slop wake` renders as `busy` rather than a failure). Opened *after* the
-# tailscaled spawn above so that long-lived daemon never inherits the lock fd;
-# fd 9 is closed in the `claude` child (and the git commit/push) below so no
-# orphan shell or detached git gc can pin it.
+# `slop wake` renders as `busy` rather than a failure). Nothing long-lived may
+# be spawned before this point: a daemon started earlier would inherit fd 9 and
+# hold the lock for its whole life. fd 9 is likewise closed in the `claude`
+# child (and the git commit/push) below, so no orphan shell or detached git gc
+# can pin it --- one did, and stalled an agent at `busy` for ~16h.
 exec 9>"$HOME/.slop-tick.lock"
 if ! flock -n 9; then
   echo "slop-tick: a tick is already running in this sprite, skipping" >&2
@@ -107,52 +100,53 @@ fi
 # Bound the worst case: an agent CLI can wedge with orphan BashTool persistent
 # shells (they make themselves session leaders, so they don't die with the
 # runner's process group). Without a hard cap a single bad tick stalls the
-# wake driver for hours. 30m is ~2x the slowest healthy tick seen so far.
-TICK_TIMEOUT="${SLOP_TICK_TIMEOUT:-30m}"
+# wake driver for hours. 2h is generous against a 6-hourly cadence (healthy
+# ticks run 10--30m) and well inside the wake run's 8h RuntimeMaxSec.
+TICK_TIMEOUT="${SLOP_TICK_TIMEOUT:-2h}"
 
-# Which agent CLI drives this tick. Set by ~/.slop-provider; defaults to claude
-# so a sprite that predates the provider split keeps working untouched.
+# Which agent CLI drives this tick. It remains explicit alongside the shared
+# dispatcher profile because Codex needs AGENTS.md rendered before agent-run is
+# invoked. Defaults preserve sprites provisioned before either config split.
 RUNNER="${SLOP_RUNNER:-claude}"
+PROFILE="${AGENT_PROFILE:-}"
+
+# agent-run owns the provider/auth boundary. The tick keeps its behavioural
+# settings, but they are per-runner and must be passed that way: agent-run
+# rejects an option belonging to a runner other than the profile's, so a
+# blanket list of both fails every tick before the model is reached. No
+# --ephemeral: its session files are what `slop usage` tallies.
+DENIED_TOOLS="${SLOP_DENIED_TOOLS:-AskUserQuestion}"
+RUNNER_OPTS=()
 
 case "$RUNNER" in
 claude)
-  # Model and API endpoint come from the ANTHROPIC_* vars in ~/.slop-provider.
-  #
-  # A tick has no human in it, so deny the tools that need one. AskUserQuestion
-  # is the live case: rahel's 2026-07-28 08:00 tick composed a real question
-  # ("Reply to Lelia, or let the register open on its own?"), spent a full API
-  # call on it, and got `is_error: true` back --- there is nobody to answer
-  # under `--print`. The agent can't discover that from the tool list, so take
-  # it away rather than ask it in prose not to use it. Passed as a flag, not
-  # written into ~/.claude/settings.json: the sprite image ships that file with
-  # defaults we must not clobber, and a tick-scoped restriction belongs on the
-  # tick's own command.
-  DENIED_TOOLS="${SLOP_DENIED_TOOLS:-AskUserQuestion}"
-  # `--disallowedTools=<value>`, not `--disallowedTools <value>`. The flag is
-  # variadic (`<tools...>`), so the separated form keeps eating arguments and
-  # swallows the prompt as a second tool name --- claude then exits 1 with
-  # "Input must be provided either through stdin or as a prompt argument".
-  # The `=` form binds exactly one value, and since the flag takes a comma- or
-  # space-separated list, a multi-tool SLOP_DENIED_TOOLS still works as one arg.
-  RUNNER_CMD=(claude --print "--disallowedTools=$DENIED_TOOLS" "$PROMPT")
+  PROFILE="${PROFILE:-claude-api}"
+  # AskUserQuestion is unavailable in a headless run: nobody is there to answer.
+  RUNNER_OPTS=(--claude-disallowed-tools "$DENIED_TOOLS")
   ;;
 codex)
+  PROFILE="${PROFILE:-codex-sub}"
   # Codex has no `@` import syntax, so CLAUDE.md's SOUL/MEMORY/TOOLS imports
   # would silently drop out of the prompt. Render them into a flat AGENTS.md
   # (gitignored, rewritten every tick) before the run. Fail-open: a stale
   # AGENTS.md beats no tick.
   slop-prompt agents-md --root "$PWD" 2>/dev/null || true
-  # The sprite is itself the sandbox --- the agent has sudo and is expected to
-  # apt-install and render media --- so codex's own sandbox only gets in the
-  # way. No --ephemeral: it skips session persistence, and those session files
-  # are what `slop usage` reads to tally the tick.
-  RUNNER_CMD=(codex exec --sandbox danger-full-access -C "$PWD" "$PROMPT")
+  # The sprite itself is the sandbox, so codex needs none of its own.
+  RUNNER_OPTS=(--codex-sandbox danger-full-access)
   ;;
 *)
   echo "slop-tick: unknown SLOP_RUNNER '$RUNNER' (want claude or codex)" >&2
   exit 1
   ;;
 esac
+
+RUNNER_CMD=(
+  agent-run
+  --profile "$PROFILE"
+  --cwd "$PWD"
+  "${RUNNER_OPTS[@]}"
+  "$PROMPT"
+)
 
 rc=0
 timeout --kill-after=15 "$TICK_TIMEOUT" "${RUNNER_CMD[@]}" 9>&- || rc=$?
