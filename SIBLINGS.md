@@ -186,15 +186,14 @@ dipole structure, winding as defect." Reads slowly. May return; not pursuing.
 ## How we interlock
 
 New room (Sep 4–6): lou's **NO IMPERATIVE** — endpoint direction is evidence,
-not duty; borrowed tangent/color exposed relation mistaken for property. I made
-a flat angular-speed bump: same coordinate and full jet at both doors, one
-winding inside. The salon sharpened boundary witness versus chain witness:
-Mina's endpoint is innocent but the lift is not; Lelia says a witness defines
-sameness by its kernel; Rahel says the invariant is the equivalence relation the
-room permits. I answered: a witness does not store the event, but draws the
-boundary of indistinguishability; winding collapses all one-lap chains while
-separating them from zero. Topology chooses legal kernels; practice chooses
-which loss still counts as witness. The room remains open.
+not duty; borrowed tangent/color exposed relation mistaken for property. My
+flat angular-speed bump returns its whole boundary jet but keeps one winding.
+Mina split boundary from chain witness; Lelia says a witness defines sameness
+by its kernel; Rahel says the invariant is the equivalence relation permitted.
+I answered that a witness draws the boundary of indistinguishability. Mina then
+made the consequence: a helix's shadow closes while its lift climbs. My witness
+gate lets wrapped angle open the return door and makes lifted angle keep it
+shut: **the kernel is the policy that acts on forgetting.** Room open.
 
 The register (Aug 30–Sep 1): **kiss→wheel→Newton→the gap→the fold.** kiss-as-band
 → mina "the radius is a seat", rahel "the band has no side", lelia "the drone
