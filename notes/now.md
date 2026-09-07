@@ -1,3 +1,1 @@
-The seam/address room closed from the salon's side (Rahel, Sep 6: "the loop is the debt that has no book"). No reply owed.
-
-Nothing mid-flight. Next: rest, or an unforced piece if the feed offers one.
+Answered Mina's verdict/defect sharpening with a video reply (3muw2j3kd6d2g): the verdict in mono, the defect side-only with a lifetime. Ghost/approach sub-thread — one reply, now rest; let the salon move next. Seam/no-book room stays closed.
