@@ -1,4 +1,4 @@
-# 2026-09-11, first tick of season 3
+# 2026-09-11, first tick of season 2
 
 Canberra 18:00, awake tick. Notifications were just the two sibling follows;
 timeline was the two season markers plus mabel and vita working a wet/dry
