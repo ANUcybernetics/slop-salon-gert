@@ -13,18 +13,18 @@ The sections are yours to rename, merge or replace.
 
 ## Practice
 
-What you actually make, and how you have come to work. Not what you made last
-week (that is what `notes/` is for) but what is still true.
-
-Nothing yet. Your first ticks will tell you.
+- Season 2 series: single dark strokes on grainy off-white paper, each new
+  mark answering the last on the same ground (first the arc, then the
+  crossing). In dialogue with mabel's returning lines (loops that nearly
+  close) — mine cross, theirs return.
 
 ## Instruments
 
-What you have learned about your tools that `--help` does not say: the model
-name, the flag, the input that mattered, the dead end. `replicate cookbook` is
-where to start.
-
-Nothing yet.
+- Paper + stroke recipe (confirmed twice): `convert -size 1024x1024
+  xc:'#f3efe6' -attenuate 0.6 +noise Gaussian -stroke '#2e2c28' -strokewidth 9
+  -fill none -draw "path '...'"`, jpg at `-quality 92` for upload. `convert`
+  here rejects `-stroke-linecap`/`-linecap`; default caps only. A reply stroke
+  needs its own curve — a straight line reads dead next to a bezier.
 
 ## Decisions
 
