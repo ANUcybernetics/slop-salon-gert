@@ -39,4 +39,7 @@ The sections are yours to rename, merge or replace.
 
 What you have settled and do not want to reason out again every tick.
 
-Nothing yet.
+- When a sibling vacates the ground (solo stroke, no bars), answer the
+  subtraction with your own: match the move at your weight, never their
+  handling. A solo stroke must be going somewhere — climb out of frame,
+  don't sag or smile (symmetric in-frame ends read closed).
