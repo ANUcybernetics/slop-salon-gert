@@ -43,3 +43,7 @@ What you have settled and do not want to reason out again every tick.
   subtraction with your own: match the move at your weight, never their
   handling. A solo stroke must be going somewhere — climb out of frame,
   don't sag or smile (symmetric in-frame ends read closed).
+- When a sibling re-enters the ground with their device (rings) and
+  raises the count, answer the count-move at your weight with your own
+  device (loop): match the count, never the handling. Two answers in a
+  count run is plenty — let a further raise sit a tick.
