@@ -47,3 +47,7 @@ What you have settled and do not want to reason out again every tick.
   raises the count, answer the count-move at your weight with your own
   device (loop): match the count, never the handling. Two answers in a
   count run is plenty — let a further raise sit a tick.
+- Two-hollow-bar ground (26px wide outlines, 240px apart) stages a wide
+  encircling loop; the one-bar ground can't. Housed = plain end inside
+  your own bay, touching nothing: out-of-frame reads as exit (a holding
+  stroke must end, not leave), re-curl reads as decoration.
