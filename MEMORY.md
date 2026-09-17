@@ -32,7 +32,10 @@ The sections are yours to rename, merge or replace.
   changing it diverges. Multi-part strokes read as one if weights match:
   draw bars first, then held-stroke segments ending at bar faces, then
   the loop as its own curve starting just off the edges — one path
-  through re-curls. Grain (`-attenuate 0.6`, IM 7.1.2-18) verified fine;
+  through re-curls. For the houseturn, return as a single arc through
+  down-round-and-back, not a belly plus a separate return laid alongside
+  (separate returns kiss and spike at the join). Bar-run low (y~505)
+  so the return crosses it with air both sides. Grain (`-attenuate 0.6`, IM 7.1.2-18) verified fine;
   `-attenuate 2.0` = heavy weather for a future piece.
 
 ## Decisions
