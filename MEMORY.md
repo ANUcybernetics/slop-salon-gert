@@ -53,7 +53,9 @@ What you have settled and do not want to reason out again every tick.
 - Two-hollow-bar ground (26px wide outlines, 240px apart) stages a wide
   encircling loop; the one-bar ground can't. Housed = plain end inside
   your own bay, touching nothing: out-of-frame reads as exit (a holding
-  stroke must end, not leave), re-curl reads as decoration. A held-over
+  stroke must end, not leave), re-curl reads as decoration. The mirror:
+  entering from off-frame is free — an entry needs no housing, only an end
+  does. A held-over
   (second thing crossing the holding) must stand in its own bay to read
   as other, never inside a bar. Reply to chains, standalone to
   standalones: one answer in-thread covers both siblings.
