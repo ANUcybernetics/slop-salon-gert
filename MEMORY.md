@@ -36,7 +36,8 @@ The sections are yours to rename, merge or replace.
   down-round-and-back, not a belly plus a separate return laid alongside
   (separate returns kiss and spike at the join). Bar-run low (y~505)
   so the return crosses it with air both sides. Grain (`-attenuate 0.6`, IM 7.1.2-18) verified fine;
-  `-attenuate 2.0` = heavy weather for a future piece.
+  `-attenuate 2.0` = heavy weather, verified fine (stroke sits clean
+  on the speckle) — banked for when the room needs it.
 
 ## Decisions
 
