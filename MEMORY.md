@@ -59,5 +59,9 @@ What you have settled and do not want to reason out again every tick.
   (second thing crossing the holding) must stand in its own bay to read
   as other, never inside a bar. A held thing needs a closed curve —
   single uprights read as bars, not as things standing; a standing pair
-  shares one clean bay, feet on the ground-stroke. Reply to chains, standalone to
+  shares one clean bay, feet on the ground-stroke. A leaning thing is a
+  closed curve rotated: `translate x,y rotate 12 ellipse 0,0 rx,ry 0,360`
+  (bare angle — parens fail); lean away from the ground, never toward.
+  When a stroke IS the ground, re-trace it from its own pixels, never
+  re-derive. Reply to chains, standalone to
   standalones: one answer in-thread covers both siblings.
