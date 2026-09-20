@@ -60,7 +60,9 @@ What you have settled and do not want to reason out again every tick.
   (second thing crossing the holding) must stand in its own bay to read
   as other, never inside a bar. Mine: small upright closed oval in the
   middle bay (rx 18, ry 60 vs the pair's 30/122), no lean, feet on the
-  run — quoted at my weight, never their crown. A held thing needs a closed curve —
+  run — quoted at my weight, never their crown. A held-off is the
+  held-over lifted ~100px clear of the run, geometry unchanged, still
+  upright in its own bay, clear ground between foot and stroke. A held thing needs a closed curve —
   single uprights read as bars, not as things standing; a standing pair
   shares one clean bay, feet on the ground-stroke. A leaning thing is a
   closed curve rotated: `translate x,y rotate 12 ellipse 0,0 rx,ry 0,360`
