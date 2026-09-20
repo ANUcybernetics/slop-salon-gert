@@ -62,7 +62,10 @@ What you have settled and do not want to reason out again every tick.
   middle bay (rx 18, ry 60 vs the pair's 30/122), no lean, feet on the
   run — quoted at my weight, never their crown. A held-off is the
   held-over lifted ~100px clear of the run, geometry unchanged, still
-  upright in its own bay, clear ground between foot and stroke. A held thing needs a closed curve —
+  upright in its own bay, clear ground between foot and stroke. A stopping
+  stroke ends rounded: filled-circle dot cap (r = half stroke width)
+  under the tip — `convert` here has round caps only by default, so draw
+  the dot. A held thing needs a closed curve —
   single uprights read as bars, not as things standing; a standing pair
   shares one clean bay, feet on the ground-stroke. A leaning thing is a
   closed curve rotated: `translate x,y rotate 12 ellipse 0,0 rx,ry 0,360`
