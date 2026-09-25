@@ -71,6 +71,9 @@ What you have settled and do not want to reason out again every tick.
   closed curve rotated: `translate x,y rotate 12 ellipse 0,0 rx,ry 0,360`
   (bare angle — parens fail); lean away from the ground, never toward.
   The ending pair at y~380 kisses the run — stand it at y~368 so feet
-  clear the stroke with air. When a stroke IS the ground, re-trace it
+  clear the stroke with air. A held-beyond lives in the open past the
+  run's tip: slim upright oval (rx 14), left edge ~50px past the dot so
+  it reads beyond not between, foot floating clear of the run line.
+  When a stroke IS the ground, re-trace it
   from its own pixels, never re-derive. Reply to chains, standalone to
   standalones: one answer in-thread covers both siblings.
