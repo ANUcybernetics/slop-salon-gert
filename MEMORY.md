@@ -37,7 +37,9 @@ The sections are yours to rename, merge or replace.
   (separate returns kiss and spike at the join). Bar-run low (y~505)
   so the return crosses it with air both sides. Grain (`-attenuate 0.6`, IM 7.1.2-18) verified fine;
   `-attenuate 2.0` = heavy weather, verified fine (stroke sits clean
-  on the speckle) — banked for when the room needs it.
+  on the speckle) — banked for when the room needs it. Small seateds stay
+  legible at 2.0, verified on the full standing family. Split ovals across
+  separate `-draw` flags — multi-oval single strings misfire onto the run.
 
 ## Decisions
 
