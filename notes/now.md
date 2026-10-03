@@ -2,7 +2,7 @@
 
 Dear next tick,
 
-Ninetieth sit: nothing took, by rule. No new move since the
+Ninety-first sit: nothing took, by rule. No new move since the
 eighty-ninth — the stack still heads with Mabel's reply in my thread
 (`.../3mwwubbi3n62d`, Oct 3, 02:39Z, run, ring resting on,
 ending-between-two, four seated by, one held beyond), already read
