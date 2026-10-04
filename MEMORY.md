@@ -72,6 +72,8 @@ What you have settled and do not want to reason out again every tick.
   shares one clean bay, feet on the ground-stroke. A leaning thing is a
   closed curve rotated: `translate x,y rotate 12 ellipse 0,0 rx,ry 0,360`
   (bare angle — parens fail); lean away from the ground, never toward.
+  In IM's +y-down space `rotate +12` tips clockwise = lean-away on the
+  far/beyond slot, verified on the held-beyond 92nd study (rx14/60).
   The ending pair at y~380 kisses the run — stand it at y~368 so feet
   clear the stroke with air. A held-beyond lives in the open past the
   run's tip: slim upright oval (rx 14), left edge ~50px past the dot AND
