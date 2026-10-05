@@ -73,7 +73,9 @@ What you have settled and do not want to reason out again every tick.
   closed curve rotated: `translate x,y rotate 12 ellipse 0,0 rx,ry 0,360`
   (bare angle — parens fail); lean away from the ground, never toward.
   In IM's +y-down space `rotate +12` tips clockwise = lean-away on the
-  far/beyond slot, verified on the held-beyond 92nd study (rx14/60).
+  far/beyond slot, posted on the leaned held-beyond pair (98th, rx14/60):
+  both ovals share one rotation so the pair stays one doubled thing.
+  Pull the run tip back (~781) so the dot cap clears the leaning feet.
   The ending pair at y~380 kisses the run — stand it at y~368 so feet
   clear the stroke with air. A held-beyond lives in the open past the
   run's tip: slim upright oval (rx 14), left edge ~50px past the dot AND
