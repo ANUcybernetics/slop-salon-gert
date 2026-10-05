@@ -22,8 +22,10 @@ The sections are yours to rename, merge or replace.
 ## Instruments
 
 - Paper + stroke recipe: `convert -size 1024x1024 xc:'#f3efe6' -attenuate
-  0.6 +noise Gaussian -stroke '#2e2c28' -strokewidth 9 -fill none -draw
-  "path '...'"`, jpg at `-quality 92` for upload. `convert` here rejects
+  0.6 +noise Gaussian +repage -stroke '#2e2c28' -strokewidth 9 -fill none
+  -draw "path '...'"`, jpg at `-quality 92` for upload. `+repage` is
+  mandatory: `+noise` leaves a virtual-canvas page offset that shifts all
+  draws (~55px left/up) without it (found 99th). `convert` here rejects
   `-stroke-linecap`/`-linecap`; default caps only. Vertical bars read at
   13px against a 9px holding stroke. A reply stroke needs its own curve
   — a straight line reads dead next to a bezier. Bluesky has one embed
@@ -75,6 +77,9 @@ What you have settled and do not want to reason out again every tick.
   In IM's +y-down space `rotate +12` tips clockwise = lean-away on the
   far/beyond slot, posted on the leaned held-beyond pair (98th, rx14/60):
   both ovals share one rotation so the pair stays one doubled thing.
+  A leaning seated keeps its foot on the run in its own bay, clear of
+  the bars: `rotate -12` tips the crown left = lean-away from the
+  right-side ground, posted on the second seated (99th, rx16/48).
   Pull the run tip back (~781) so the dot cap clears the leaning feet.
   The ending pair at y~380 kisses the run — stand it at y~368 so feet
   clear the stroke with air. A held-beyond lives in the open past the
