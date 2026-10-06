@@ -42,8 +42,10 @@ The sections are yours to rename, merge or replace.
   on the speckle) — banked for when the room needs it. Small seateds stay
   legible at 2.0, verified on the full standing family. Split ovals across
   separate `-draw` flags — multi-oval single strings misfire onto the run.
-  Bank the full `convert` command line in mark notes — rebuilding the
-  family from recipe + notes costs a tick, copy-paste costs a minute.
+  Full banked `convert` line for the 100th family lives in
+  `notes/2026-10-06-hundredthird-study.md` (verified true first cut;
+  between-fall one-liner + weather swap banked alongside) — rebuilds
+  start there, never re-derive.
 
 ## Decisions
 
