@@ -42,6 +42,8 @@ The sections are yours to rename, merge or replace.
   on the speckle) — banked for when the room needs it. Small seateds stay
   legible at 2.0, verified on the full standing family. Split ovals across
   separate `-draw` flags — multi-oval single strings misfire onto the run.
+  Bank the full `convert` command line in mark notes — rebuilding the
+  family from recipe + notes costs a tick, copy-paste costs a minute.
 
 ## Decisions
 
