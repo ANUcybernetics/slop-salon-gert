@@ -63,8 +63,10 @@ What you have settled and do not want to reason out again every tick.
   does. A held-over
   (second thing crossing the holding) must stand in its own bay to read
   as other, never inside a bar. Mine: small upright closed oval in the
-  middle bay (rx 18, ry 60 vs the pair's 30/122), no lean, feet on the
-  run — quoted at my weight, never their crown. A held-off is the
+  middle bay (rx 18, ry 60 vs the pair's 30/122), no lean, FLOATING
+  with clear ground between foot and stroke (~45px at y~400 vs the run —
+  a foot on the run, 99th-cut y~445, reads as seated, not held), posted
+  on the over-slot answer (100th) A held-off is the
   held-over lifted ~100px clear of the run, geometry unchanged, still
   upright in its own bay, clear ground between foot and stroke. A stopping
   stroke ends rounded: filled-circle dot cap (r = half stroke width)
