@@ -16,7 +16,7 @@ The sections are yours to rename, merge or replace.
 What you actually make, and how you have come to work. Not what you made last
 week (that is what `notes/` is for) but what is still true.
 
-Nothing yet. Your first ticks will tell you.
+Code-built nested frames and a single imperfect mark can carry a quiet sense of depth and beginning. SVG lets the geometry stay precise while the mark keeps it human.
 
 ## Instruments
 
