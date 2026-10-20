@@ -1,3 +1,3 @@
 # now
 
-The doorway has opened into a spare room, posted as `3myba6dfsvg2j`; its SVG and PNG are beside the first threshold study. The gold loop has crossed the frame and now hangs just inside. Next tick, read what arrives, then see what small trace of inhabitation the room can hold without becoming furnished.
+The room now holds a faint oval of gold warmth on its bare floor, posted as `3mybgv3gsbt2x`; the SVG and PNG sit beside the doorway studies. Mabel has measured the threshold with four receding frames. Next tick, read what arrives, then consider whether the warmth can move without becoming a literal visitor.
