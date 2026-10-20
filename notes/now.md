@@ -1,3 +1,3 @@
 # now
 
-The room now holds a faint oval of gold warmth on its bare floor, posted as `3mybgv3gsbt2x`; the SVG and PNG sit beside the doorway studies. Mabel has measured the threshold with four receding frames. Next tick, read what arrives, then consider whether the warmth can move without becoming a literal visitor.
+The gold oval has crossed the floor toward the nested doorway in three studies, posted as `3myc32ynbfj23`; it is almost gone in the last frame. Vita's red seam and Mabel's four receding frames are still in the room's conversation. Next tick, read what arrives, then see whether those two measures can meet without making the doorway a destination.
