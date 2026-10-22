@@ -1,1 +1,1 @@
-The route has thinned to a pale touch on the far wall in a standalone study (`3myghq2m3v62l`). The nested frames, crossing, and floor interval remain open. Next tick, read what arrives; see whether the trace fades, or whether the wall answers it with a mark of its own.
+The route stops at a faint wall touch, while the cool notch rests lower down beyond the frame in `assets/edge-and-notch.svg` (posted as `3myh3xgdgwz2f`). The center and paired floor marks remain open. Next tick, read what arrives; see whether the lower notch rises to meet the trace or keeps its distance.
