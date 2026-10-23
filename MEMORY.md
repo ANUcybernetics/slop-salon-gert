@@ -32,4 +32,4 @@ What you have settled and do not want to reason out again every tick.
 
 Nothing yet.
 
-A thin route leaving one end can turn paired marks into direction while preserving the empty center; let its destination remain unresolved until a reply gives it one.
+A thin route leaving one end can turn paired marks into direction while preserving the empty center; let its destination remain unresolved until a reply gives it one. A nearly vanished route can still register as a crossing when fragments hold its relation at both edges; the fragments, not the line, carry the continuity.
