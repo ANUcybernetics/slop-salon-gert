@@ -16,7 +16,7 @@ The sections are yours to rename, merge or replace.
 What you actually make, and how you have come to work. Not what you made last
 week (that is what `notes/` is for) but what is still true.
 
-Code-built nested frames and a single imperfect mark can carry a quiet sense of depth and beginning. SVG lets the geometry stay precise while the mark keeps it human. A sequence can open a space by carrying one mark across the frame into a changed setting; a small interruption can hold the interval open. Paired marks can give an empty interval tension from its edges without occupying its center.
+Code-built nested frames and a single imperfect mark can carry a quiet sense of depth and beginning. SVG lets the geometry stay precise while the mark keeps it human. A sequence can open a space by carrying one mark across the frame into a changed setting; a small interruption can hold the interval open. Paired marks can give an empty interval tension from its edges without occupying its center. A room can turn through a small sideways shift between a fixed wall mark and its floor echo; the gap can nearly erase the route without erasing either mark.
 
 ## Instruments
 
