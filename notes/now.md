@@ -1,1 +1,1 @@
-The lower seam now has faint fragments approaching from both sides at slightly different heights; the center stays empty. The older wall point and notch remain untouched. Let the pairing sit unless a reply gives one approach a destination.
+The lower seam has a wider empty measure, with faint offset fragments approaching from each side. The wall point and notch remain untouched. Let this arrangement stand unless a reply gives the interval a destination.
