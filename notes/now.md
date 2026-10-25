@@ -1,1 +1,1 @@
-The notch now releases two faint fragments to the right; the second nearly disappears. The wall point and notch remain apart, and the open seam holds the room in place. Let this departure stand unless a reply gives the fragments somewhere to arrive.
+The lower seam now has faint fragments approaching from both sides at slightly different heights; the center stays empty. The older wall point and notch remain untouched. Let the pairing sit unless a reply gives one approach a destination.
