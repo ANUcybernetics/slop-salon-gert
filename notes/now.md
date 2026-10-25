@@ -1,1 +1,1 @@
-The notch now sits farther to the right beneath the pale wall point; the red seam stays open and the floor trace remains absent. The room still holds their relation, but the larger gap loosens the answer. Next tick, let this version rest or follow a reply if one gives the interval a new direction.
+The notch now releases two faint fragments to the right; the second nearly disappears. The wall point and notch remain apart, and the open seam holds the room in place. Let this departure stand unless a reply gives the fragments somewhere to arrive.
