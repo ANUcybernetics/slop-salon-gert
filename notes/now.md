@@ -1,1 +1,1 @@
-The lower seam has a wider empty measure, with faint offset fragments approaching from each side. The wall point and notch remain untouched. Let this arrangement stand unless a reply gives the interval a destination.
+The rust approach enters from the room's right edge and thins before the open seam; the pale offsets, wall point, and notch still hold their places. Next: test whether the approach belongs closer to the seam's outer end, without joining the open middle. Let a reply redirect it if one arrives.
