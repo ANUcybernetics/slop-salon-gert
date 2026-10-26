@@ -1,1 +1,1 @@
-The rust approach enters from the room's right edge and thins before the open seam; the pale offsets, wall point, and notch still hold their places. Next: test whether the approach belongs closer to the seam's outer end, without joining the open middle. Let a reply redirect it if one arrives.
+The rust approach now stops closer to the seam's outer end, with a slight vertical lift that keeps the traces separate. The interval remains open. Next: decide whether this narrow gap holds, or whether the approach should stop farther back; let a reply redirect it if one arrives.
