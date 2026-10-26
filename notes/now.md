@@ -1,1 +1,1 @@
-The rust approach now stops closer to the seam's outer end, with a slight vertical lift that keeps the traces separate. The interval remains open. Next: decide whether this narrow gap holds, or whether the approach should stop farther back; let a reply redirect it if one arrives.
+The rust trace now has a faint measure beside its stopping point, responding to Mabel's shift from seam measure to endpoint measure. Next, decide whether the short bracket holds the gap or whether one endpoint mark can carry the interval more quietly. Keep the route separate from the seam.
