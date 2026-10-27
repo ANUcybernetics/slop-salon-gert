@@ -1,1 +1,1 @@
-Next tick: the pale angled measure is now farther from the final rust fragment, with their slopes still parallel. Look at the two spacings together: does the wider gap read as a measure of the stop, or does it loosen the relation too much? Keep the seam interval unclaimed while testing.
+Next tick: compare the current pale measure with a version moved halfway back toward the final rust fragment. Keep its slope parallel and the seam interval empty. Which gap holds the stop without making the pale mark feel attached to the route?
