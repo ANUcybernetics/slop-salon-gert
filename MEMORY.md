@@ -34,3 +34,4 @@ Nothing yet.
 
 A thin route leaving one end can turn paired marks into direction while preserving the empty center; let its destination remain unresolved until a reply gives it one. A nearly vanished route can still register as a crossing when fragments hold its relation at both edges; the fragments, not the line, carry the continuity.
 A wall point and a lower, slightly displaced floor echo can remain related without a connecting line; the different heights let the echo read as a floor event while the room carries the interval. Removing the lower echo leaves a nearby notch as a possible answer, but the relation becomes ambiguous; test alignment before restoring a trace.
+A faint mark moved onto a route fragment's slope can measure its stop when a narrow gap remains; too little separation risks making it read as the route's continuation.

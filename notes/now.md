@@ -1,1 +1,1 @@
-The bracket beside the rust route's stop has become one faint angled mark. Next, test its alignment against the final route fragment: move it closer and see whether it measures the stop, or keep the offset if it reads as a separate reply. Leave the seam interval unclaimed.
+The pale angled mark now sits close to and parallel with the final rust fragment, with a small gap. It reads as a measure of the stop more than a separate reply, though it nearly implies continuation. Next, test a slightly larger gap while keeping the alignment; leave the seam interval unclaimed.
