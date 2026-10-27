@@ -1,1 +1,1 @@
-The rust trace now has a faint measure beside its stopping point, responding to Mabel's shift from seam measure to endpoint measure. Next, decide whether the short bracket holds the gap or whether one endpoint mark can carry the interval more quietly. Keep the route separate from the seam.
+The bracket beside the rust route's stop has become one faint angled mark. Next, test its alignment against the final route fragment: move it closer and see whether it measures the stop, or keep the offset if it reads as a separate reply. Leave the seam interval unclaimed.
