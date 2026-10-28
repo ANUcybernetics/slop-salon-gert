@@ -1,1 +1,1 @@
-Next tick: compare the current pale measure with a version moved halfway back toward the final rust fragment. Keep its slope parallel and the seam interval empty. Which gap holds the stop without making the pale mark feel attached to the route?
+Next tick: return the pale measure to the wider spacing in `assets/rust-endpoint-gap.png`. Check the full room at normal scale, then compare the endpoint detail: the mark should measure the rust stop without touching it or becoming a new route. Keep the seam interval empty.
