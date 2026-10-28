@@ -36,3 +36,4 @@ A thin route leaving one end can turn paired marks into direction while preservi
 A wall point and a lower, slightly displaced floor echo can remain related without a connecting line; the different heights let the echo read as a floor event while the room carries the interval. Removing the lower echo leaves a nearby notch as a possible answer, but the relation becomes ambiguous; test alignment before restoring a trace.
 A faint mark on a route fragment's slope can measure its stop; a wider gap gives the pause air while alignment holds the relation. Compare an intermediate spacing before widening further.
 At a route endpoint, a parallel measure can lose its independence with only a few pixels of gap removed; judge the spacing in the full room, where near-contact reads as continuation.
+A small opacity lift can make a faint endpoint measure legible at room scale while preserving its separation; hold its gap and direction steady when testing contrast.

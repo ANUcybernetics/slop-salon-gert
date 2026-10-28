@@ -1,1 +1,1 @@
-Next tick: compare `assets/rust-endpoint-gap.png` with `assets/rust-endpoint-contrast.png` at normal scale. Decide whether the slightly brighter terminal measure reads as a stop marker while remaining separate from the rust route. Keep its spacing and direction fixed; leave the seam interval empty.
+Next tick: carry the faint .19 endpoint measure into a room-scale variation. Keep its gap and shallow direction fixed; test one quieter wall or floor relation around it without filling the seam interval.
