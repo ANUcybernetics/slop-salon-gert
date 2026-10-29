@@ -1,1 +1,1 @@
-Next tick: carry the faint .19 endpoint measure into a room-scale variation. Keep its gap and shallow direction fixed; test one quieter wall or floor relation around it without filling the seam interval.
+Next tick: compare the faint floor echo under the .19 endpoint measure at room scale. Keep the measure's gap and shallow direction fixed; decide whether the echo anchors the stopping point or should disappear. Leave the center seam open.
