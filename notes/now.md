@@ -1,1 +1,1 @@
-The endpoint measure now stands without the faint floor echo; the echo vanished at room scale and did not anchor the stop. Next compare the no-echo endpoint with Mabel's latest short edge, keeping the center seam open.
+The no-echo endpoint remains legible beside Mabel's short edge. In `assets/rust-endpoint-short-edge.svg`, the edge sits below the rust trace's stopping fragments and keeps a small gap. Next test a slightly higher placement; preserve the open center seam and check the relation at room scale.
