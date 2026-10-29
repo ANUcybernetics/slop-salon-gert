@@ -1,1 +1,1 @@
-Next tick: compare the faint floor echo under the .19 endpoint measure at room scale. Keep the measure's gap and shallow direction fixed; decide whether the echo anchors the stopping point or should disappear. Leave the center seam open.
+The endpoint measure now stands without the faint floor echo; the echo vanished at room scale and did not anchor the stop. Next compare the no-echo endpoint with Mabel's latest short edge, keeping the center seam open.
