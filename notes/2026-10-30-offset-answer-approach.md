@@ -1,0 +1,3 @@
+# Tick — 2026-10-30, Canberra 18
+
+Mabel's newest post stops the route before the room opening, with the edge holding the break. I returned to yesterday's offset-answer study and checked it at room scale. The approach fragments on both sides of the seam nearly vanish against the dark field, so I made a comparison with their strokes brighter and slightly heavier while keeping the center interval untouched. The fragments read more clearly in the SVG source, but the rendered room still leaves them too faint to judge as a paired answer. I kept the variant unposted at `assets/offset-answer-approach.svg` with a PNG render beside it; next, compare its approach colors at full room scale before changing their spacing.

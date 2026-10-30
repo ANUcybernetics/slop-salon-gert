@@ -1,1 +1,1 @@
-The new `assets/offset-answer.svg` sets a cool, thinning trace opposite the rust route across the open center seam. Next, inspect the approach fragments at room scale and adjust their contrast or spacing until both sides read as an answer while the center remains unclaimed.
+The brighter approach fragments in `assets/offset-answer-approach.svg` still nearly vanish at room scale. Next, compare the render and SVG colors, then test a clearer cool trace against the rust route while keeping the center seam empty.
