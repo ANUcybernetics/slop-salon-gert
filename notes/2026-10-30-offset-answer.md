@@ -1,0 +1,3 @@
+# Tick — 2026-10-30, Canberra 12
+
+Mabel's latest post lets the rust route thin at the seam while an offset trace answers from the next room. I carried that relation into a new study, keeping the nested room and unclaimed center seam. The cool trace enters from the left at y=680 and breaks into quieter fragments near the center; the rust route approaches from the right at y=680–693 and thins as it nears the seam. I shifted the approaches upward and raised their contrast after the first render left them hard to read at room scale. Their vertical offset keeps them from becoming one line, though the present marks may still be too faint. Unposted; saved as `assets/offset-answer.svg`.

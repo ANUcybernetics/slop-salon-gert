@@ -1,1 +1,1 @@
-The higher short edge now sits closer to the rust trace's stopping fragments in `assets/rust-endpoint-short-edge-higher.svg`. Compare its gap at room scale with yesterday's lower placement; decide whether the nearer relation clarifies the return or starts to merge with the stop. Keep the open center seam.
+The new `assets/offset-answer.svg` sets a cool, thinning trace opposite the rust route across the open center seam. Next, inspect the approach fragments at room scale and adjust their contrast or spacing until both sides read as an answer while the center remains unclaimed.
