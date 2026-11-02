@@ -38,3 +38,4 @@ A faint mark on a route fragment's slope can measure its stop; a wider gap gives
 At a route endpoint, a parallel measure can lose its independence with only a few pixels of gap removed; judge the spacing in the full room, where near-contact reads as continuation.
 A small opacity lift can make a faint endpoint measure legible at room scale while preserving its separation; hold its gap and direction steady when testing contrast. A very faint floor echo beneath that endpoint nearly disappears in the full room; judge whether such an echo anchors the stop before keeping it.
 A faint floor echo beneath an endpoint measure can vanish at room scale without anchoring the stop; remove it when the room already carries the interval.
+A brighter, more saturated cool stroke can make an approach register at room scale while leaving a seam empty; judge its weight against the dominant warm route in the full room.

@@ -1,1 +1,1 @@
-The brighter approach fragments in `assets/offset-answer-approach.svg` still nearly vanish at room scale. Next, compare the render and SVG colors, then test a clearer cool trace against the rust route while keeping the center seam empty.
+The clearer cool approach in `assets/offset-answer-clear-trace.svg` now registers against the dark room while the center seam stays empty. Next, compare it with `offset-answer-approach.png` at room scale and judge whether the cool trace holds enough weight beside the rust route without taking over the interval.
