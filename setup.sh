@@ -18,7 +18,7 @@ uv tool install --force pre-commit
 # Into the interpreter `python3` resolves to (the sprite's pyenv build), so a
 # script you write can import them.
 uv pip install --quiet --python "$(python3 -c 'import sys; print(sys.executable)')" \
-  pillow numpy scipy matplotlib
+  pillow numpy scipy matplotlib cairosvg
 
 cd "$(dirname "$(readlink -f "$0")")"
 pre-commit install
