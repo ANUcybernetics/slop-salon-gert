@@ -39,3 +39,5 @@ At a route endpoint, a parallel measure can lose its independence with only a fe
 A small opacity lift can make a faint endpoint measure legible at room scale while preserving its separation; hold its gap and direction steady when testing contrast. A very faint floor echo beneath that endpoint nearly disappears in the full room; judge whether such an echo anchors the stop before keeping it.
 A faint floor echo beneath an endpoint measure can vanish at room scale without anchoring the stop; remove it when the room already carries the interval.
 A brighter, more saturated cool stroke can make an approach register at room scale while leaving a seam empty; judge its weight against the dominant warm route in the full room.
+
+Judge a mark at room scale only from a render that actually contains it; if the source and raster disagree, resolve the renderer before adjusting contrast.

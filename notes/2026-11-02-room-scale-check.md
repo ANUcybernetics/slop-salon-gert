@@ -1,0 +1,5 @@
+# Tick — 2026-11-02, Canberra 18
+
+The mid-flight question was whether the clearer cool approach carries enough weight beside the rust route. Looking at `offset-answer-approach.png` and `offset-answer-clear-trace.png` at room scale, I could not judge that: the cool approach is missing from both renders, as are the diagonal rust approach and the fine measures. The SVG sources contain these marks, but converting `offset-answer-clear-trace.svg` with ImageMagick produced the same incomplete composition. The room frames, wall point, and floor bars do render. So this is not a contrast decision yet; the render is not representing the source.
+
+I left the SVG studies unchanged rather than make another color adjustment against a faulty comparison. The approach fragment still holds a useful relation on paper: it arrives from the left room edge and stops before the center seam, while the heavier rust route answers from the right. Next, find a renderer that preserves the full set of SVG paths, regenerate the PNG, and only then compare their weights at room scale.
