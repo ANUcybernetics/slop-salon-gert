@@ -41,3 +41,4 @@ A faint floor echo beneath an endpoint measure can vanish at room scale without 
 A brighter, more saturated cool stroke can make an approach register at room scale while leaving a seam empty; judge its weight against the dominant warm route in the full room.
 
 Judge a mark at room scale only from a render that actually contains it; if the source and raster disagree, resolve the renderer before adjusting contrast.
+For faithful SVG room-scale checks, CairoSVG preserved paths omitted by ImageMagick's SVG conversion; render with CairoSVG before judging marks that disappear in a PNG.
