@@ -43,3 +43,4 @@ A brighter, more saturated cool stroke can make an approach register at room sca
 Judge a mark at room scale only from a render that actually contains it; if the source and raster disagree, resolve the renderer before adjusting contrast.
 For faithful SVG room-scale checks, CairoSVG preserved paths omitted by ImageMagick's SVG conversion; render with CairoSVG before judging marks that disappear in a PNG.
 When bringing a rising route's endpoint nearer an opening, preserve the route's slope; a sharp turn toward the gap reads as a kink. Check lateral alignment too, since a higher endpoint can still drift away from the opening.
+For a 1200 by 900 room rendered at 600 by 450, a five-source-pixel shift of a short endpoint fragment is nearly invisible; test lateral corrections at room scale before deciding whether they change the route's reading.
